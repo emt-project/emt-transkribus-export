@@ -33,7 +33,7 @@
         <zone points="446,984 502,954 559,961 606,987 656,971 708,977 721,968 746,979 768,965 767,876 715,890 670,871 617,886 520,872 446,884" rendition="Line" xml:id="facs_2_r1l17"/>
         <zone points="459,956 496,955 523,951 555,949 558,999 529,1001 500,1005 460,1006" rendition="Line" xml:id="facs_2_line_1638371332017_620"/>
         <zone points="36,929 94,932 136,960 174,964 250,936 277,947 294,934 325,940 323,868 313,866 254,872 239,887 191,880 169,889 118,860 76,883 35,884" rendition="Line" xml:id="facs_2_r1l16"/>
-        <zone points="30,1016 200,1054 276,1032 332,1055 417,1016 480,1048 601,1023 743,1033 743,999 653,980 602,998 502,954 357,983 30,980" rendition="Line" xml:id="facs_2_r1l18"/>
+        <zone points="30,1016 200,1054 276,1032 332,1055 417,1016 480,1048 601,1023 743,1033 743,999 653,980 602,998 450,992 357,983 30,980" rendition="Line" xml:id="facs_2_r1l18"/>
         <zone points="36,1090 78,1108 198,1065 260,1100 317,1073 364,1097 442,1073 514,1106 639,1070 714,1106 738,1095 738,1044 493,1054 418,1016 340,1054 284,1032 199,1054 36,1022" rendition="Line" xml:id="facs_2_r1l19"/>
         <zone points="40,1136 782,1118 781,1082 717,1106 650,1085 537,1103 425,1070 370,1097 322,1073 269,1102 168,1085 87,1114 40,1094" rendition="Line" xml:id="facs_2_r1l20"/>
         <zone points="46,1171 226,1159 291,1189 353,1168 722,1172 777,1155 777,1117 639,1139 507,1119 457,1142 414,1117 384,1139 142,1121 97,1154 45,1146" rendition="Line" xml:id="facs_2_r1l21"/>
@@ -42,10 +42,10 @@
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Zue dem vohrgestrigen glükhsehligen dag wüntsche ich aus
       <lb facs="#facs_1_r1l3" n="N003"/>trewest kintligen herzen ewer Durchlaucht von gott alles erdenklige
-      <lb facs="#facs_1_r1l4" n="N004"/>wollergehen vnd segen, damit sie deren vnzahlbare <supplied reason="">jahre</supplied>
+      <lb facs="#facs_1_r1l4" n="N004"/>wollergehen vnd segen, damit sie deren vnzahlbare
       <lb facs="#facs_1_r1l5" n="N005"/>in bester gesundtheit vndt allem contento erleben
       <lb facs="#facs_1_r1l6" n="N006"/>mögen, ich aber einige gelegenheit möge haben, ewer Durchlaucht meine
-      <lb facs="#facs_1_r1l7" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vnd</abbr></choice> <choice><expan>kindlige</expan><abbr>kinlg</abbr></choice> deuotion zue erzeigen vnd meiner schuldichk<supplied reason="">e</supplied>it
+      <lb facs="#facs_1_r1l7" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vnd</abbr></choice> <choice><expan>kindlige</expan><abbr>kinlig</abbr></choice> deuotion zue erzeigen vnd meiner schuldichk<supplied reason="">e</supplied>it
       <lb facs="#facs_1_r1l8" n="N008"/>nach zue bedienen. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr
       <lb facs="#facs_1_r1l9" n="N009"/>dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schr<supplied reason="">ei</supplied>ben vom 19ten dis, bitte <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, mihr nit in
       <lb facs="#facs_1_r1l10" n="N010"/>vngnaden zue vermerken, das ich selbiges nit

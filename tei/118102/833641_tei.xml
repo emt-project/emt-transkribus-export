@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_45_9_0282</title><author>Pfalz-Neuburg, Eleonore Magdalena Theresia von</author><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>emt</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="800" lry="1188" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="800px" height="1188px"/><zone points="18,-22 18,1165 790,1165 790,-22" rendition="TextRegion" xml:id="facs_1_r1">
-        <zone points="29,194 20,1140 55,1140 37,1093 65,1066 39,966 68,862 55,647 84,600 44,503 60,195" rendition="Line" xml:id="facs_1_line_1637070461478_4587"/>
-        <zone points="-1,183 -1,961 25,974 22,183" rendition="Line" xml:id="facs_1_line_1637070474955_4592"/>
         <zone points="96,193 142,163 243,182 330,151 417,171 663,140 701,159 761,146 760,90 658,82 430,116 238,95 180,125 94,100" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="61,216 156,202 335,229 361,201 433,218 767,190 765,155 663,140 417,172 321,154 255,183 163,163 60,193" rendition="Line" xml:id="facs_1_r1l3"/>
         <zone points="20,244 95,263 226,243 268,265 368,241 770,247 768,193 720,183 569,217 492,198 432,218 360,201 336,228 155,201 92,221 53,192 20,219" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -20,6 +18,8 @@
         <zone points="32,1025 171,1034 308,1008 379,1034 587,981 712,1007 754,999 752,945 584,940 485,969 437,946 404,970 227,954 149,978 107,958 30,980" rendition="Line" xml:id="facs_1_r1l18"/>
         <zone points="12,1075 375,1081 415,1055 548,1066 659,1035 742,1055 772,1050 769,988 525,999 476,1029 402,1012 379,1034 337,1012 206,1012 172,1039 73,1019 10,1044" rendition="Line" xml:id="facs_1_r1l19"/>
         <zone points="28,1150 235,1125 347,1150 483,1115 550,1139 618,1099 684,1127 762,1112 759,1057 697,1070 621,1045 539,1067 460,1054 396,1084 203,1088 137,1063 25,1085" rendition="Line" xml:id="facs_1_r1l20"/>
+        <zone points="29,194 20,1140 55,1140 37,1093 65,1066 39,966 68,862 55,647 84,600 44,503 60,195" rendition="Line" xml:id="facs_1_line_1637070461478_4587"/>
+        <zone points="-1,183 -1,961 25,974 22,183" rendition="Line" xml:id="facs_1_line_1637070474955_4592"/>
       </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1200" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="800px" height="1200px"/><zone points="28,74 28,1192 797,1192 797,74" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="76,128 239,102 781,115 779,45 750,41 698,69 587,56 468,85 395,64 75,82" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="64,186 136,158 272,189 469,161 596,184 685,147 787,163 786,112 743,107 679,128 576,106 433,132 362,113 220,141 149,114 63,132" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -65,32 +65,32 @@
         <zone points="27,1152 214,1132 360,1152 463,1124 535,1149 596,1116 755,1137 772,1077 499,1076 405,1107 326,1077 200,1098 147,1076 25,1104" rendition="Line" xml:id="facs_3_r1l20"/>
         <zone points="27,1204 107,1194 152,1213 203,1194 292,1208 332,1192 447,1217 557,1215 557,1149 501,1136 462,1152 396,1134 345,1160 167,1133 61,1164 27,1157" rendition="Line" xml:id="facs_3_line_1637070507394_4622"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_line_1637070461478_4587" n="N001"/>Wegen <choice><expan>bruder</expan><abbr>br</abbr></choice> Carl bezie mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> auf mein vohriges, ewer Durchlaucht glauben gewis, das ihr Mayestät
-      <lb facs="#facs_1_line_1637070474955_4592" n="N002"/>seiner auf alleweis in <choice><expan>gnaden</expan><abbr>g</abbr></choice> gedenken werden zue ewer Durchlaucht satisfaction.
-      <lb facs="#facs_1_r1l2" n="N003"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l3" n="N004"/>Beyde ewer Durchlaucht <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom 26ten <add>maij</add> durch den Kinski vnd vom
-      <lb facs="#facs_1_r1l4" n="N005"/>2ten dis mit der post hab mit schuldichstem respect erbrochen.
-      <lb facs="#facs_1_r1l5" n="N006"/>Gott sey ewich gedankt, das sich ewer Durchlaucht in guettem
-      <lb facs="#facs_1_r1l6" n="N007"/>wohlstandt befindten, der wolle sie verners <choice><expan>gnädig</expan><abbr>g</abbr></choice> darbey
-      <lb facs="#facs_1_r1l7" n="N008"/>erhalten. Ich bin woll nit werd, das ewer Durchlaucht vohr mich
-      <lb facs="#facs_1_r1l8" n="N009"/>so <choice><expan>gnädige</expan><abbr>g</abbr></choice> vohrsorch dragen vnd betten laßen, gott wirt ewer
-      <lb facs="#facs_1_r1l9" n="N010"/>Durchlaucht alles vergelten, was ich nit kan verdienen. Die gürtl
-      <lb facs="#facs_1_r1l10" n="N011"/>hatt mihr die Erzherzogin gleich widerumb geschikt,
-      <lb facs="#facs_1_r1l11" n="N012"/>sage nochmahlen <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das ewer Durchlaucht so <choice><expan>gnädig</expan><abbr>g</abbr></choice> drauf
-      <lb facs="#facs_1_r1l12" n="N013"/>gedacht, wie auch, das sie sich meines Leopoltl erinern
-      <lb facs="#facs_1_r1l13" n="N014"/>wollen vnd mihr zue seinem dag so vill <choice><expan>gnädige</expan><abbr>g</abbr></choice> wuntsch
-      <lb facs="#facs_1_r1l14" n="N015"/>duen wollen. Er wirt wie alle meine kinder alzeit
-      <lb facs="#facs_1_r1l15" n="N016"/>ein <choice><expan>gehorsames</expan><abbr>g</abbr></choice> enikel sein, warzue ich ihn anhalten vnd erzihen werd.
-      <lb facs="#facs_1_r1l16" n="N017"/>Was ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verlangen wegen <choice><expan>bruder</expan><abbr>br</abbr></choice> Franz auf Rohm
-      <lb facs="#facs_1_r1l17" n="N018"/>zue schreiben, soliches haben ihr Mayestät <choice><expan>gnädigst</expan><abbr>g</abbr></choice> bewilligt vnd es
-      <lb facs="#facs_1_r1l18" n="N019"/>dem Hoffkanzler befehlen laßen, das es mit morgiger
-      <lb facs="#facs_1_r1l19" n="N020"/>post ausgefertiget werde. Ich förchte aber dort einen
-      <lb facs="#facs_1_r1l20" n="N021"/>starken competenten, dan ewer Durchlaucht werden ohne zweifel schon</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
+      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+      <lb facs="#facs_1_r1l3" n="N002"/>Beyde ewer Durchlaucht <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom 26ten <add>maij</add> durch den Kinski vnd vom
+      <lb facs="#facs_1_r1l4" n="N003"/>2ten dis mit der post hab mit schuldichstem respect erbrochen.
+      <lb facs="#facs_1_r1l5" n="N004"/>Gott sey ewich gedankt, das sich ewer Durchlaucht in guettem
+      <lb facs="#facs_1_r1l6" n="N005"/>wohlstandt befindten, der wolle sie verners <choice><expan>gnädig</expan><abbr>g</abbr></choice> darbey
+      <lb facs="#facs_1_r1l7" n="N006"/>erhalten. Ich bin woll nit werd, das ewer Durchlaucht vohr mich
+      <lb facs="#facs_1_r1l8" n="N007"/>so <choice><expan>gnädige</expan><abbr>g</abbr></choice> vohrsorch dragen vnd betten laßen, gott wirt ewer
+      <lb facs="#facs_1_r1l9" n="N008"/>Durchlaucht alles vergelten, was ich nit kan verdienen. Die gürtl
+      <lb facs="#facs_1_r1l10" n="N009"/>hatt mihr die Erzherzogin gleich widerumb geschikt,
+      <lb facs="#facs_1_r1l11" n="N010"/>sage nochmahlen <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das ewer Durchlaucht so <choice><expan>gnädig</expan><abbr>g</abbr></choice> drauf
+      <lb facs="#facs_1_r1l12" n="N011"/>gedacht, wie auch, das sie sich meines Leopoltl erinern
+      <lb facs="#facs_1_r1l13" n="N012"/>wollen vnd mihr zue seinem dag so vill <choice><expan>gnädige</expan><abbr>g</abbr></choice> wuntsch
+      <lb facs="#facs_1_r1l14" n="N013"/>duen wollen. Er wirt wie alle meine kinder alzeit
+      <lb facs="#facs_1_r1l15" n="N014"/>ein <choice><expan>gehorsames</expan><abbr>g</abbr></choice> enikel sein, warzue ich ihn anhalten vnd erzihen werd.
+      <lb facs="#facs_1_r1l16" n="N015"/>Was ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verlangen wegen <choice><expan>bruder</expan><abbr>br</abbr></choice> Franz auf Rohm
+      <lb facs="#facs_1_r1l17" n="N016"/>zue schreiben, soliches haben ihr Mayestät <choice><expan>gnädigst</expan><abbr>g</abbr></choice> bewilligt vnd es
+      <lb facs="#facs_1_r1l18" n="N017"/>dem Hoffkanzler befehlen laßen, das es mit morgiger
+      <lb facs="#facs_1_r1l19" n="N018"/>post ausgefertiget werde. Ich förchte aber dort einen
+      <lb facs="#facs_1_r1l20" n="N019"/>starken competenten, dan ewer Durchlaucht werden ohne zweifel schon
+      <lb facs="#facs_1_line_1637070461478_4587" n="N020"/>Wegen <choice><expan>bruder</expan><abbr>br</abbr></choice> Carl bezie mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> auf mein vohriges, ewer Durchlaucht glauben gewis, das ihr Mayestät
+      <lb facs="#facs_1_line_1637070474955_4592" n="N021"/>seiner auf alleweis in <choice><expan>gnaden</expan><abbr>g</abbr></choice> gedenken werden zue ewer Durchlaucht satisfaction.</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
       <lb facs="#facs_2_r1l1" n="N001"/><choice><expan>gnädigst</expan><abbr>g</abbr></choice> vernommen haben, das die probent, so der Schmißing <choice><expan>seeliger</expan><abbr>seh</abbr></choice>
       <lb facs="#facs_2_r1l2" n="N002"/>gehabt, der Papst des Cuhrfürst in Bayren seinem brudren
       <lb facs="#facs_2_r1l3" n="N003"/>conferirt hatt, gott wolle schiken, was zum besten vnd zue
       <lb facs="#facs_2_r1l4" n="N004"/>seiner ehr sein mag. Was ewer Durchlaucht mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befehlen wegen
-      <lb facs="#facs_2_r1l5" n="N005"/>des Schliken, werde mich glükhlich schezen wan ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice>
+      <lb facs="#facs_2_r1l5" n="N005"/>des Schliken, werde mich glükhlich schezen, wan ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice>
       <lb facs="#facs_2_r1l6" n="N006"/>gehorsamen vnd was effectiuren kan. Ich merke auch, das ihr
       <lb facs="#facs_2_r1l7" n="N007"/>Mayestät nit übel darzu incliniren, so hoff ich woll, es werd
       <lb facs="#facs_2_r1l8" n="N008"/>geschehn. Ich mueß sagen, das der Obrist Canzler sich nit allein
@@ -101,7 +101,7 @@
       <lb facs="#facs_2_r1l13" n="N013"/>es geben. Es geht das gebet hier überall herumb, auch
       <lb facs="#facs_2_r1l14" n="N014"/>alle samstag bey hoff, haben woll vhrsach zue bitten, dan
       <lb facs="#facs_2_r1l15" n="N015"/>Frankreich mit den hendlen, so er in Niderland vnd
-      <lb facs="#facs_2_r1l16" n="N016"/>auch iezt mit Genua anfangt, verhindert vill gutts,
+      <lb facs="#facs_2_r1l16" n="N016"/>auch izt mit Genua anfangt, verhindert vill gutts,
       <lb facs="#facs_2_r1l17" n="N017"/>gott verzei es ihm. Das mit Genua ist gahr insole<supplied reason="">n</supplied>t,
       <lb facs="#facs_2_r1l18" n="N018"/>ewer Durchlaucht werden gesehn haben die puncta, so er vonn ihnen
       <lb facs="#facs_2_r1l19" n="N019"/>begert, es kan niks aroganters vnd vngereimbters
@@ -117,8 +117,8 @@
       <lb facs="#facs_3_line_1638978166240_1115" n="N009"/><choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice> tr<supplied reason="">e</supplied>wgehorsamste d<supplied reason="">o</supplied>ch<supplied reason="">t</supplied>er
       <lb facs="#facs_3_r1l10" n="N010"/>EMT
       <lb facs="#facs_3_line_1638978166240_1116" n="N011"/>Linz den 10ten junij 1684
-      <lb facs="#facs_3_r1l11" n="N012"/>PS Bericht ewer Durchlaucht auch <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das der Rueßenstein
-      <lb facs="#facs_3_r1l12" n="N013"/>alhier an petetschen gestorben, gott sein ihm genädig,
+      <lb facs="#facs_3_r1l11" n="N012"/><choice><expan>Post</expan><abbr>P</abbr></choice> <choice><expan>scriptum</expan><abbr>s</abbr></choice> Bericht ewer Durchlaucht auch <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das der Rueßenstein
+      <lb facs="#facs_3_r1l12" n="N013"/>alhier an petetschen gestorben, gott sey ihm genädig,
       <lb facs="#facs_3_r1l13" n="N014"/>also ist ein canonicat zue Preßlaw fellich. Ewer
       <lb facs="#facs_3_r1l14" n="N015"/>Durchlaucht werden sich <choice><expan>gnädigst</expan><abbr>g</abbr></choice> erinneren, das der Erzbischoff von
       <lb facs="#facs_3_r1l15" n="N016"/>Salsburg schon längst eins verlangt vohr sein vettern,

@@ -20,8 +20,8 @@
       </zone><zone points="6,5 0,1210 790,1210 796,5" rendition="TextRegion" xml:id="facs_2_r2">
         <zone points="19,0 -2,1137 39,1" rendition="Line" xml:id="facs_2_line_1637077652276_6970"/>
         <zone points="39,2 -2,1170 39,1163 56,3" rendition="Line" xml:id="facs_2_line_1637077630189_6965"/>
-        <zone points="-1,1 -1,150 3,172 22,172 19,1" rendition="Line" xml:id="facs_2_line_1637077657596_6975"/>
         <zone points="18,16 68,17 71,343 71,375 61,866 54,1131 4,1130 4,1045 7,779 17,50" rendition="Line" xml:id="facs_2_line_1639758528312_1290"/>
+        <zone points="-1,1 -1,150 3,172 22,172 19,1" rendition="Line" xml:id="facs_2_line_1637077657596_6975"/>
         <zone points="108,131 234,125 280,145 356,112 476,144 595,123 628,149 672,124 746,124 746,81 720,72 609,91 540,67 476,92 290,56 217,82 186,63 108,69" rendition="Line" xml:id="facs_2_r2l1"/>
         <zone points="84,197 181,182 266,206 372,178 493,201 759,172 758,136 673,126 627,149 590,124 468,146 366,115 314,144 198,122 75,166" rendition="Line" xml:id="facs_2_r2l3"/>
         <zone points="118,235 183,265 235,237 330,264 367,244 403,267 784,217 783,185 749,202 618,171 492,202 390,184 325,212 180,181 64,218" rendition="Line" xml:id="facs_2_r2l4"/>
@@ -82,8 +82,8 @@
       <lb facs="#facs_1_r1l26" n="N017"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice>, <supplied reason="">sie</supplied> wollen ihme nit vngädig sein, das er nit</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type=""/><ab facs="#facs_2_r2" type="">
       <lb facs="#facs_2_line_1637077652276_6970" n="N001"/>Hab ihm geraten hinauf zue reisen, weil die campagne doch nit vohr ent des maij wirt ihren
       <lb facs="#facs_2_line_1637077630189_6965" n="N002"/>anfang nehmen vnd auch, weil er dorten sein esquipage vnd auch was noch vohr sein compagnia
-      <lb facs="#facs_2_line_1637077657596_6975" n="N003"/>allen sachen ist.
-      <lb facs="#facs_2_line_1639758528312_1290" n="N004"/>vonöten, vill ehender vnd leichter wirt bekommen, dan hier alles hart zue bekommen vnd ein große deure <supplied reason="">auf</supplied>
+      <lb facs="#facs_2_line_1639758528312_1290" n="N003"/>vonöten, vill ehender vnd leichter wirt bekommen, dan hier alles hart zue bekommen vnd ein große deure <supplied reason="">auf</supplied>
+      <lb facs="#facs_2_line_1637077657596_6975" n="N004"/>allen sachen ist.
       <lb facs="#facs_2_r2l1" n="N005"/>das er nit ehender kommen, ist mein schuld. Der
       <lb facs="#facs_2_r2l3" n="N006"/>Caschin, höre ich, sey dort geweßen vnd <supplied reason="">habe</supplied> meinem
       <lb facs="#facs_2_r2l4" n="N007"/>bruedren wohl gefallen. Ich hab zwar von meinem

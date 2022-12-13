@@ -15,7 +15,7 @@
         <zone points="44,1000 207,1006 257,986 333,1014 436,1013 528,986 600,1006 782,982 782,957 511,947 425,975 375,945 194,946 44,973" rendition="Line" xml:id="facs_1_r1l14"/>
         <zone points="37,1090 309,1061 403,1089 493,1051 562,1077 618,1056 758,1069 784,1059 784,997 475,1029 413,1003 332,1027 106,993 37,1009" rendition="Line" xml:id="facs_1_r1l15"/>
         <zone points="56,1126 120,1111 170,1142 332,1106 478,1105 639,1137 678,1109 760,1102 759,1067 733,1062 686,1091 653,1076 556,1096 451,1056 403,1089 375,1072 280,1091 228,1070 151,1095 55,1078" rendition="Line" xml:id="facs_1_r1l16"/>
-        <zone points="49,1181 231,1163 520,1182 639,1154 762,1173 780,1117 626,1140 460,1115 350,1147 48,1120" rendition="Line" xml:id="facs_1_r1l17"/>
+        <zone points="49,1181 231,1163 520,1182 639,1154 775,1183 793,1127 626,1140 460,1115 350,1147 48,1120" rendition="Line" xml:id="facs_1_r1l17"/>
       </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1200" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="800px" height="1200px"/><zone points="25,0 25,425 747,425 747,0" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="64,118 189,123 267,96 399,116 475,93 704,108 737,102 736,62 557,48 341,77 239,54 199,74 134,57 62,70" rendition="Line" xml:id="facs_2_line_1637081804220_9391"/>
         <zone points="64,191 116,166 356,196 501,146 582,174 618,144 696,157 694,95 629,115 533,94 396,119 367,104 275,129 223,108 146,131 62,117" rendition="Line" xml:id="facs_2_line_1637081801428_9387"/>
@@ -40,10 +40,10 @@
       <lb facs="#facs_1_r1l14" n="N014"/>wie woll ich der hoffnung lebe, das sich ewer Durchlaucht
       <lb facs="#facs_1_r1l15" n="N015"/>schon ganz wolauf befinden werden, <blackening>ab</blackening>steh ich gleich
       <lb facs="#facs_1_r1l16" n="N016"/>woll in sorgen, das ich mit meinem alzuelangen
-      <lb facs="#facs_1_r1l17" n="N017"/>schreiben ewer Durchlaucht einige vngelegenheit veruhrsagen</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
+      <lb facs="#facs_1_r1l17" n="N017"/>schreiben ewer Durchlaucht einige vngelegenheit veruhrsachen</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
       <lb facs="#facs_2_line_1637081804220_9391" n="N001"/>möchte. Also due ich mich in ewer Durchlaucht beharlige
       <lb facs="#facs_2_line_1637081801428_9387" n="N002"/><choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd werde sterben
       <lb facs="#facs_2_r1l7" n="N003"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l9" n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> trew <choice><expan>gehorsamste</expan><abbr>ghor</abbr></choice> dochte<supplied reason="">r</supplied>
+      <lb facs="#facs_2_r1l9" n="N004"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> trew <choice><expan>gehorsamste</expan><abbr>ghor</abbr></choice> dochte<supplied reason="">r</supplied>
       <lb facs="#facs_2_r1l10" n="N005"/>EMT
       <lb facs="#facs_2_r1l8" n="N006"/>Wien den 24ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1682</ab></div></body></text></TEI>

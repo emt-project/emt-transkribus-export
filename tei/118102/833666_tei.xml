@@ -38,9 +38,6 @@
         <zone points="47,1090 191,1097 273,1060 440,1078 656,1045 751,1067 760,1009 698,1031 493,1004 360,1039 158,1023 45,1044" rendition="Line" xml:id="facs_2_r1l20"/>
         <zone points="55,1135 403,1112 496,1130 528,1106 674,1139 773,1114 771,1061 673,1058 483,1059 439,1082 274,1060 227,1094 54,1094" rendition="Line" xml:id="facs_2_line_1637078115100_7285"/>
       </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1183" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="800px" height="1183px"/><zone points="14,10 14,1182 784,1182 784,10" rendition="TextRegion" xml:id="facs_3_r1">
-        <zone points="35,6 33,1158 72,1128 48,438 96,176 82,7" rendition="Line" xml:id="facs_3_line_1637078391507_7377"/>
-        <zone points="24,9 18,1027 12,1180 43,1176 37,9" rendition="Line" xml:id="facs_3_line_1637078415076_7382"/>
-        <zone points="0,962 -1,1034 3,1039 3,1046 20,1046 20,962" rendition="Line" xml:id="facs_3_line_1637078420613_7387"/>
         <zone points="72,104 229,98 291,125 368,91 702,108 769,94 768,40 631,40 539,71 497,44 333,72 262,46 71,53" rendition="Line" xml:id="facs_3_r1l3"/>
         <zone points="50,158 341,180 368,155 602,163 632,138 782,136 781,79 604,121 539,101 499,121 338,102 275,123 193,98 115,125 50,116" rendition="Line" xml:id="facs_3_r1l4"/>
         <zone points="61,204 74,226 119,202 416,220 487,197 556,225 764,198 763,161 726,143 674,168 620,148 369,156 342,182 277,160 198,187 166,166 60,180" rendition="Line" xml:id="facs_3_r1l5"/>
@@ -61,6 +58,9 @@
         <zone points="49,1075 118,1044 198,1057 289,1025 394,1048 717,980 755,993 784,977 780,934 716,963 581,952 287,1007 42,1000" rendition="Line" xml:id="facs_3_r1l27"/>
         <zone points="15,1101 500,1102 781,1045 765,988 539,1039 351,1037 302,1065 130,1042 70,1074 13,1062" rendition="Line" xml:id="facs_3_r1l28"/>
         <zone points="54,1166 347,1144 427,1163 480,1129 594,1122 744,1150 792,1122 789,1073 709,1059 501,1100 122,1092 51,1115" rendition="Line" xml:id="facs_3_r1l29"/>
+        <zone points="24,9 18,1027 12,1180 43,1176 37,9" rendition="Line" xml:id="facs_3_line_1637078415076_7382"/>
+        <zone points="35,6 33,1158 72,1128 48,438 96,176 82,7" rendition="Line" xml:id="facs_3_line_1637078391507_7377"/>
+        <zone points="0,962 -1,1034 3,1039 3,1046 20,1046 20,962" rendition="Line" xml:id="facs_3_line_1637078420613_7387"/>
       </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1187" xml:id="facs_4"><graphic url="%2Ffiles.jpeg" width="800px" height="1187px"/><zone points="11,68 11,1186 787,1186 787,68" rendition="TextRegion" xml:id="facs_4_r1">
         <zone points="38,109 194,93 376,112 437,91 517,115 581,95 671,108 760,94 760,62 456,69 335,39 226,60 182,37 144,69 99,68 37,40" rendition="Line" xml:id="facs_4_r1l1"/>
         <zone points="35,158 753,160 780,154 780,109 490,122 446,98 203,98 35,122" rendition="Line" xml:id="facs_4_r1l2"/>
@@ -97,7 +97,7 @@
       <lb facs="#facs_1_r2l7" n="N007"/>herzen leid zue vernemmen aus der <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom
       <lb facs="#facs_1_r2l8" n="N008"/>18ten dis, das ewer Durchlaucht bede sich noch mit dem
       <lb facs="#facs_1_r2l9" n="N009"/>cattar incomodirt befinden, hoffe zue gott, <supplied reason="">er</supplied> werde
-      <lb facs="#facs_1_r2l10" n="N010"/>iezt ganz vergangen sein. Bitt aber nochmahlen mihr
+      <lb facs="#facs_1_r2l10" n="N010"/>izt ganz vergangen sein. Bitt aber nochmahlen mihr
       <lb facs="#facs_1_line_1637078064745_7244" n="N011"/>zur höchsten gnad, weil ewer Durchlaucht selbst erachten, das schr<supplied reason="">e</supplied>iben
       <lb facs="#facs_1_r2l13" n="N012"/>zue dennen cattaren höchst schädlich, ewer Durchlaucht wollen sich doch
       <lb facs="#facs_1_r2l14" n="N013"/>nit mitt solchem bemühen, sondern mihr dero 
@@ -108,8 +108,8 @@
       <lb facs="#facs_2_r1l1" n="N001"/>Meinen kindern geht es gottlob allen nach vnd nach beßer,
       <lb facs="#facs_2_r1l2" n="N002"/>dise sachen vergehn gahr langsamb, insonderheit wan
       <lb facs="#facs_2_r1l3" n="N003"/>das wetter so offt endren duet, balt warm balt
-      <lb facs="#facs_2_r1l4" n="N004"/>kalt. Hoff aber iezt, weil sichs von dag zue dag beßert,
-      <lb facs="#facs_2_r1l5" n="N005"/>werde balt ganz guett werden. Hierbey kombe daß
+      <lb facs="#facs_2_r1l4" n="N004"/>kalt. Hoff aber izt, weil sichs von dag zue dag beßert,
+      <lb facs="#facs_2_r1l5" n="N005"/>werde balt ganz guett werden. Hierbey kombt daß
       <lb facs="#facs_2_r1l6" n="N006"/>verlangte decret vohr den Reichenbach, ihr Mayestät aprobiren
       <lb facs="#facs_2_r1l7" n="N007"/>auch alles, was ewer Durchlaucht in diser sach herunter
       <lb facs="#facs_2_r1l8" n="N008"/>geschikt, der almechtig verleye sein <choice><expan>gnade</expan><abbr>g</abbr></choice>, das
@@ -124,39 +124,39 @@
       <lb facs="#facs_2_r1l18" n="N017"/>gehorsammen, wan es ihn vnd die Erzherzogin
       <lb facs="#facs_2_r1l19" n="N018"/>gleich noch so hart solte ankommen, dan
       <lb facs="#facs_2_r1l20" n="N019"/>er ein soliche veneration vohr ewer Durchlaucht allezeit
-      <lb facs="#facs_2_line_1637078115100_7285" n="N020"/>gehabt, das ich versichert bin, er dero befehl niehmall</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
-      <lb facs="#facs_3_line_1637078391507_7377" n="N001"/>Der Herzoch von Lottrin wirt bis samstag kommen, darnach wirt balt die campagne angehen,
-      <lb facs="#facs_3_line_1637078415076_7382" n="N002"/>ewer Durchlaucht wollen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl <choice><expan>gnädig</expan><abbr>g</abbr></choice> sein vnd verhelfen, das sein esquipage balt zuesammen komme, er wi<supplied reason="">r</supplied>ts <unclear>gesen ???</unclear>
-      <lb facs="#facs_3_line_1637078420613_7387" n="N003"/>im felt.
-      <lb facs="#facs_3_r1l3" n="N004"/>wirt vnterlaßen nachzue kommen. Solt er aber
-      <lb facs="#facs_3_r1l4" n="N005"/>schon auf der reis sein, so wirt er ohne zweifel
-      <lb facs="#facs_3_r1l5" n="N006"/>entweder von Neüburg oder von hieraus, wan
-      <lb facs="#facs_3_r1l6" n="N007"/>es ewer Durchlaucht also bef<supplied reason="">e</supplied>hlen wurden, auf der post
-      <lb facs="#facs_3_r1l8" n="N008"/>alsobalt widerumb hinunter gehn, damit ewer Durchlaucht
-      <lb facs="#facs_3_r1l9" n="N009"/>sich mit so schwerer vnd dero gesuntheit
-      <lb facs="#facs_3_r1l10" n="N010"/>schädligen reis nit incomodiren möchten. Wie wohl,
-      <lb facs="#facs_3_r1l11" n="N011"/>die wahrheit zue bekennen, ich in meiner einfalt
-      <lb facs="#facs_3_r1l13" n="N012"/>nit finde, das iezt bey diser <blackening>so</blackening> reis einige
-      <lb facs="#facs_3_r1l14" n="N013"/>gefahr solt sein wegen der lender, dan ihr Mayestät
-      <lb facs="#facs_3_r1l15" n="N014"/>protection ist er versicher<supplied reason="">t</supplied>, von den stenden hatt er
-      <lb facs="#facs_3_line_1637078301617_7329" n="N015"/>nichts zue befahren, weil alles mit ihnen ajustirt,
-      <lb facs="#facs_3_line_1637078304056_7333" n="N016"/>mit Cöllen, Brandenburg vnd Holland steht er
-      <lb facs="#facs_3_line_1637078306533_7337" n="N017"/>in guetter verstentus. So ist auch nit zue
-      <lb facs="#facs_3_r1l23" n="N018"/>glauben, das Frankreich bey gemachtem armistitio
-      <lb facs="#facs_3_r1l25" n="N019"/>ichtwas tentiren wurde, sie ich also nit, warin
-      <lb facs="#facs_3_r1l26" n="N020"/>auf dise wehnige zeit, so er abweßent
-      <lb facs="#facs_3_r1l27" n="N021"/>wehre (dan die reis nuhr blos auf die cur vnd
-      <lb facs="#facs_3_r1l28" n="N022"/>nit langer angesehn, wurden im herbst schon wider
-      <lb facs="#facs_3_r1l29" n="N023"/>zue haus sein) einige gefahr der landen bestehn soll.</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type="">
+      <lb facs="#facs_2_line_1637078115100_7285" n="N020"/>gehabt, das ich versichert bin, er dero befehl niehmahl</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
+      <lb facs="#facs_3_r1l3" n="N001"/>wirt vnterlaßen nachzue kommen. Solt er aber
+      <lb facs="#facs_3_r1l4" n="N002"/>schon auf der reis sein, so wirt er ohne zweifel
+      <lb facs="#facs_3_r1l5" n="N003"/>entweder von Neüburg oder von hieraus, wan
+      <lb facs="#facs_3_r1l6" n="N004"/>es ewer Durchlaucht also bef<supplied reason="">e</supplied>hlen wurden, auf der post
+      <lb facs="#facs_3_r1l8" n="N005"/>alsobalt widerumb hinunter gehn, damit ewer Durchlaucht
+      <lb facs="#facs_3_r1l9" n="N006"/>sich mit so schwerer vnd dero gesuntheit
+      <lb facs="#facs_3_r1l10" n="N007"/>schädligen reis nit incomodiren möchten. Wie wohl,
+      <lb facs="#facs_3_r1l11" n="N008"/>die wahrheit zue bekennen, ich in meiner einfalt
+      <lb facs="#facs_3_r1l13" n="N009"/>nit finde, das iezt bey diser <blackening>so</blackening> reis einige
+      <lb facs="#facs_3_r1l14" n="N010"/>gefahr solt sein wegen der lender, dan ihr Mayestät
+      <lb facs="#facs_3_r1l15" n="N011"/>protection ist er versicher<supplied reason="">t</supplied>, von den stenden hatt er
+      <lb facs="#facs_3_line_1637078301617_7329" n="N012"/>nichts zue befahren, weil alles mit ihnen ajustirt,
+      <lb facs="#facs_3_line_1637078304056_7333" n="N013"/>mit Cöllen, Brandenburg vnd Holland steht er
+      <lb facs="#facs_3_line_1637078306533_7337" n="N014"/>in guetter verstentus. So ist auch nit zue
+      <lb facs="#facs_3_r1l23" n="N015"/>glauben, das Frankreich bey gemachtem armistitio
+      <lb facs="#facs_3_r1l25" n="N016"/>etwas tentiren wurde, sie ich also nit, warin
+      <lb facs="#facs_3_r1l26" n="N017"/>auf dise wehnige zeit, so er abweßent
+      <lb facs="#facs_3_r1l27" n="N018"/>wehre (dan die reis nuhr blos auf die cur vnd
+      <lb facs="#facs_3_r1l28" n="N019"/>nit langer angesehn, wurden im herbst schon wider
+      <lb facs="#facs_3_r1l29" n="N020"/>zue haus sein) einige gefahr der landen bestehn soll.
+      <lb facs="#facs_3_line_1637078415076_7382" n="N021"/>ewer Durchlaucht wollen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl <choice><expan>gnädig</expan><abbr>g</abbr></choice> sein vnd verhelfen, das sein esquipage balt zuesammen komme, er wi<supplied reason="">r</supplied>ts <unclear>gesen ???</unclear>
+      <lb facs="#facs_3_line_1637078391507_7377" n="N022"/>Der Herzoch von Lottrin wirt bis samstag kommen, darnach wirt balt die campagne angehen,
+      <lb facs="#facs_3_line_1637078420613_7387" n="N023"/>im felt.</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type="">
       <lb facs="#facs_4_r1l1" n="N001"/>Ich w<supplied reason="">e</supplied>is woll, das es ein große vermeßenheit
       <lb facs="#facs_4_r1l2" n="N002"/>von mihr ist, das ich mich vntersteh, dise meine
       <lb facs="#facs_4_r1l3" n="N003"/>einfaltige meinung <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> zue überschreiben, aber ich
       <lb facs="#facs_4_r1l4" n="N004"/>weis, das ewer Durchlaucht güette so groß, das sie mihr
-      <lb facs="#facs_4_r1l5" n="N005"/>dises nit jn vngenaden werden auf aufnemen.
+      <lb facs="#facs_4_r1l5" n="N005"/>dises nit in vngenaden werden auf aufnemen.
       <lb facs="#facs_4_r1l6" n="N006"/>Ich mues wohl bekennen, das es mihr ein große
       <lb facs="#facs_4_r1l7" n="N007"/>freüdt wehre gewest, meinen brudren neben ewer Durchlaucht
-      <lb facs="#facs_4_line_1637078440090_7396" n="N008"/>alhir zue sehn, falt mihr aber noch dises bey ewer Durchlaucht
-      <lb facs="#facs_4_line_1637078443028_7400" n="N009"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue bitten <supplied reason="">ein</supplied>, ihme aufs wenigste zue erlauben,
+      <lb facs="#facs_4_line_1637078440090_7396" n="N008"/>alhir zue sehn, falt mihr aber noch dises bey, ewer Durchlaucht
+      <lb facs="#facs_4_line_1637078443028_7400" n="N009"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue bitten, ihme aufs wenigste zue erlauben,
       <lb facs="#facs_4_r1l12" n="N010"/>wan der Erzherzogin cur zue ent, das er auf der
       <lb facs="#facs_4_line_1637078456265_7406" n="N011"/>post möge her kommen sie abzueholen. Selbiger
       <lb facs="#facs_4_line_1637078473819_7418" n="N012"/>zeit wurden ewer Durchlaucht schon hier sein vnd ich die
@@ -164,7 +164,7 @@
       <lb facs="#facs_4_r1l19" n="N014"/>Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, es auch angenehm sein wurd.
       <lb facs="#facs_4_r1l20" n="N015"/>In disen kurzen zeit wurd er iah niks ve<supplied reason="">r</supplied>saumen
       <lb facs="#facs_4_r1l21" n="N016"/>vnd der arme auch die consolation haben, ewer Durchlaucht
-      <lb facs="#facs_4_r1l22" n="N017"/>zue sehn, welches ich weis das ihm über alles ist wegen
+      <lb facs="#facs_4_r1l22" n="N017"/>zue sehn, welches ich weis, das ihm über alles ist wegen
       <lb facs="#facs_4_r1l23" n="N018"/>der großen lieb, so er zue ewer Durchlaucht draget. Bitt
       <lb facs="#facs_4_r1l24" n="N019"/>nochmahlen, mihr meine künheit in <choice><expan>gnaden</expan><abbr>g</abbr></choice> zue vergeben
       <lb facs="#facs_4_r1l25" n="N020"/>vnd zue glauben, das ich kein größere consolation werd haben,
