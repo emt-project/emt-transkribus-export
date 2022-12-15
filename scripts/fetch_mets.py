@@ -12,7 +12,7 @@ transkribus_client = ACDHTranskribusUtils(
     transkribus_base_url="https://transkribus.eu/TrpServer/rest"
 )
 
-df = pd.read_csv("../col_ids.csv")
+df = pd.read_csv("./col_ids.csv")
 for i, row in tqdm(df.iterrows(), total=len(df)):
     col_id = row["coll_id"]
     mpr_docs = transkribus_client.collection_to_mets(col_id, file_path='./mets')
