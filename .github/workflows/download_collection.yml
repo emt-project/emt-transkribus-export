@@ -17,24 +17,23 @@ jobs:
       ANT_OPTS: -Xmx5g
       TR_USER: ${{ secrets.TR_USER }}
       TR_PW: ${{ secrets.TR_PW}}
-      COL_ID: ${{ github.event.inputs.colId }}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Install Saxon and Ant
       run: |
         mkdir -p mets
         mkdir -p tei
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        pip install acdh-transkribus-utils
+        pip install -r requirements.txt
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
         git clone --depth=1 --branch skurzinz-patch-1 --single-branch https://github.com/skurzinz/page2tei.git
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
-    - name: Transform to TEI
-      run: |
-        ant -DCOL_ID=${COL_ID} -f ./build_tei.xml
+    # - name: Transform to TEI
+    #   run: |
+    #     ant -DCOL_ID=${COL_ID} -f ./build_tei.xml
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Exported and Transformed ColId ${{ github.event.inputs.colId }}
