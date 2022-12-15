@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_44_11_0034</title><author>Pfalz-Neuburg, Eleonore Magdalena Theresia von</author><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Kasten_blau_44_11</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="800px" height="1202px"/><zone points="63,327 63,1138 764,1138 764,327" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="187,397 253,404 334,366 373,381 403,361 450,393 489,371 540,389 578,364 613,381 652,364 765,373 758,295 657,327 572,298 478,316 426,293 366,316 189,288" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="59,418 130,441 163,427 202,456 253,429 312,466 409,427 569,463 652,423 724,449 762,435 763,401 578,364 438,403 331,370 281,402 208,403 61,324" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="88,500 263,525 426,490 560,527 754,495 754,451 732,447 537,462 410,425 309,469 266,437 202,457 163,426 118,443 88,425" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="63,564 173,579 240,559 273,583 314,560 410,594 529,571 599,586 690,548 736,562 735,507 688,500 546,532 341,502 271,526 62,506" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="69,650 150,624 220,664 373,633 551,653 579,627 758,627 757,566 691,557 590,592 517,574 385,593 337,569 267,581 242,558 68,584" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="72,734 130,738 183,707 335,728 392,698 539,722 659,694 740,708 757,640 615,639 458,678 382,642 198,673 128,633 71,645" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="58,799 117,783 173,803 204,772 245,796 371,782 568,808 624,774 769,772 769,713 634,712 569,737 510,708 373,712 266,750 193,718 58,738" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="61,848 181,880 213,854 308,857 378,886 458,841 519,867 716,852 762,837 762,793 716,810 608,780 569,807 521,792 461,817 204,776 171,803 60,794" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="67,924 187,933 304,907 375,932 664,894 729,916 740,847 541,886 413,856 378,885 324,861 181,880 111,850 66,867" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="58,977 132,977 191,1012 252,984 318,1015 485,977 606,993 669,966 667,910 637,922 596,898 513,936 481,913 365,943 267,922 192,960 107,923 57,925" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="166,991 191,1012 214,1011 214,1069 138,1097 83,1096 79,1034 117,1032" rendition="Line" xml:id="facs_1_line_1663341038965_17"/>
+        <zone points="514,1090 524,1085 559,1105 583,1085 605,1103 623,1089 639,1097 663,1088 681,1094 698,1078 727,1069 724,1030 715,1033 701,1023 671,1032 631,1025 603,1042 555,1041 535,1028 510,1038" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="470,1162 530,1138 563,1140 607,1171 663,1162 661,1091 640,1097 623,1089 603,1103 584,1087 553,1105 491,1065 467,1073" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="214,1011 410,1005 450,979 512,995 515,1052 481,1050 446,1073 373,1084 320,1065 288,1087 238,1061 214,1069" rendition="Line" xml:id="facs_1_line_1663341038965_16"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtigster Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l2" n="N002"/>Bey herzu nahung dero geburzdag komme, mich
+      <lb facs="#facs_1_r1l3" n="N003"/>mit dero Liebden von herzen darüber zu gratuliren, vmb so
+      <lb facs="#facs_1_r1l4" n="N004"/>vill mehr, als na<supplied reason="">c</supplied>h <supplied reason="">in</supplied> disen iahr ausgestandenen
+      <lb facs="#facs_1_r1l5" n="N005"/>schwären kran<supplied reason="">k</supplied>heit der almächtige sie widerumb
+      <lb facs="#facs_1_r1l6" n="N006"/>völlig restituirt hatt, damit er dieselbe disen
+      <lb facs="#facs_1_r1l7" n="N007"/>erfreüligen dag mitt bestendiger gesuntheit vndt
+      <lb facs="#facs_1_r1l8" n="N008"/>allen selbst erwünsten wollergehn zue vnser
+      <lb facs="#facs_1_r1l9" n="N009"/>aller trost wolle erleben laßen, ich aber bis
+      <lb facs="#facs_1_r1l10" n="N010"/>in mein grab zeigen möge bestendig zu sein
+      <lb facs="#facs_1_line_1663341038965_17" n="N011"/>dero Liebden
+      <lb facs="#facs_1_r1l12" n="N012"/>g<supplied reason="">e</supplied>tr<supplied reason="">e</supplied>wste schw<supplied reason="">e</supplied>ster
+      <lb facs="#facs_1_r1l13" n="N013"/>Eleonora
+      <lb facs="#facs_1_line_1663341038965_16" n="N014"/>Wien den 13ten ap<supplied reason="">r</supplied>il 1712</ab></div></body></text></TEI>

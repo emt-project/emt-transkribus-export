@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_45_15_0076</title><author>Pfalz-Neuburg, Eleonore Magdalena Theresia von</author><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>emt</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="800px" height="1202px"/><zone points="70,177 70,1201 777,1201 777,177" rendition="TextRegion" xml:id="facs_1_r2">
+        <zone points="80,248 234,242 262,215 416,236 511,218 552,241 590,213 642,232 758,221 767,170 628,175 537,147 446,178 394,156 273,171 217,144 136,164 79,150" rendition="Line" xml:id="facs_1_r2l1"/>
+        <zone points="80,288 241,303 281,273 457,292 584,269 672,295 721,265 758,273 757,231 619,218 548,252 498,218 458,238 77,250" rendition="Line" xml:id="facs_1_r2l2"/>
+        <zone points="80,359 167,341 208,371 449,332 588,349 688,320 783,338 782,295 728,282 531,310 368,284 79,306" rendition="Line" xml:id="facs_1_r2l3"/>
+        <zone points="67,438 122,427 321,409 384,390 762,407 763,344 621,347 450,381 372,351 324,374 65,360" rendition="Line" xml:id="facs_1_r2l4"/>
+        <zone points="66,498 170,470 256,501 316,468 446,450 562,490 639,455 774,453 772,413 629,397 552,421 496,399 273,442 240,421 187,433 139,401 63,441" rendition="Line" xml:id="facs_1_r2l5"/>
+        <zone points="71,556 144,544 181,560 265,528 319,553 376,523 466,512 574,534 637,513 636,479 572,498 463,476 288,509 176,478 138,505 111,492 68,507" rendition="Line" xml:id="facs_1_r2l6"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r2" type="">
+      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vatter</expan><abbr>v</abbr></choice>
+      <lb facs="#facs_1_r2l2" n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das nit schreib
+      <lb facs="#facs_1_r2l3" n="N003"/>heünt, dan es ist heünt die hochzeit der Loßenstein.
+      <lb facs="#facs_1_r2l4" n="N004"/>So hab vill mit meiner braut zue puzen,
+      <lb facs="#facs_1_r2l5" n="N005"/>schik die dagezettel vnd brief von Deutschmeister
+      <lb facs="#facs_1_r2l6" n="N006"/>vnd bef<supplied reason="">e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in dero <choice><expan>gnade</expan><abbr>g</abbr></choice></ab></div></body></text></TEI>

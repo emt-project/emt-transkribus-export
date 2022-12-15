@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_44_11_0266</title><author>Pfalz-Neuburg, Eleonore Magdalena Theresia von</author><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Kasten_blau_44_11</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="800" lry="1289" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="800px" height="1289px"/><zone points="31,159 31,1191 719,1191 719,159" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="60,210 82,226 178,199 355,219 518,201 672,220 715,201 699,157 586,171 419,154 373,127 322,162 127,115 60,127" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="56,255 307,279 408,277 450,252 699,262 699,220 625,207 502,232 173,204 132,229 56,207" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="44,325 251,325 309,350 355,330 386,349 444,319 476,338 543,320 683,332 702,291 595,263 379,288 124,270 85,247 45,259" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="53,405 82,417 125,395 163,420 273,381 415,407 483,407 526,380 695,382 695,332 661,327 504,335 354,372 216,331 188,345 53,325" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="36,467 124,461 171,493 242,460 347,473 397,444 499,459 524,437 724,436 723,405 643,383 490,423 337,408 227,431 123,394 35,412" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="42,520 406,531 574,499 671,526 722,516 720,460 582,445 430,490 363,465 295,480 239,462 200,494 117,460 40,467" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="34,576 197,600 225,578 439,591 534,562 713,584 701,511 518,545 473,522 231,544 139,508 33,520" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="40,633 134,657 175,633 544,644 685,607 684,575 611,587 562,567 459,598 419,580 385,607 223,578 199,601 168,583 39,593" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="37,681 100,709 215,695 286,715 378,689 470,714 564,672 724,671 723,623 446,639 359,670 285,630 245,655 166,639 115,661 36,640" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="31,755 184,789 293,754 577,756 635,727 711,750 708,691 473,719 343,698 261,719 212,694 29,710" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="37,828 260,816 342,844 504,800 650,794 684,816 721,799 718,746 647,735 336,772 305,795 250,769 171,804 110,769 34,767" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="32,911 147,891 226,912 281,883 329,902 709,852 705,789 579,798 532,830 467,821 432,849 391,832 369,852 289,833 28,850" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="30,960 54,948 142,980 168,957 260,967 338,940 523,938 603,908 650,926 719,913 715,858 697,857 543,889 514,869 392,887 311,919 263,899 166,919 129,898 104,918 26,904" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="27,1009 103,996 152,1025 256,1028 350,996 520,1007 607,970 722,978 717,921 581,916 504,945 389,943 336,973 168,957 97,981 55,949 23,960" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="39,1081 111,1071 184,1106 239,1063 304,1075 465,1035 547,1051 713,1009 710,981 653,978 454,1022 372,1008 273,1046 112,998 33,1021" rendition="Line" xml:id="facs_1_r1l15"/>
+        <zone points="41,1138 120,1129 192,1162 619,1062 696,1087 725,1067 713,1005 628,1039 357,1059 243,1106 35,1085" rendition="Line" xml:id="facs_1_r1l16"/>
+        <zone points="40,1198 56,1195 68,1201 74,1198 88,1208 107,1194 135,1192 134,1135 108,1128 82,1133 77,1129 70,1133 56,1131 48,1139 39,1137" rendition="Line" xml:id="facs_1_r1l17"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1257" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="800px" height="1257px"/><zone points="64,1134 64,1256 128,1256 128,1134" rendition="TextRegion" xml:id="facs_2_r1">
+        <zone points="59,1240 65,1240 75,1246 82,1240 109,1241 112,1238 122,1240 125,1237 133,1239 133,1194 119,1194 104,1201 93,1194 78,1195 68,1201 59,1199" rendition="Line" xml:id="facs_2_r1l1"/>
+      </zone><zone points="113,90 113,1248 794,1248 794,90" rendition="TextRegion" xml:id="facs_2_r2">
+        <zone points="184,136 265,122 314,144 369,118 418,139 453,116 546,112 585,137 613,113 664,115 664,95 561,69 511,93 466,77 418,95 381,74 276,89 234,66 183,75" rendition="Line" xml:id="facs_2_r2l1"/>
+        <zone points="172,167 224,183 266,163 321,179 407,159 477,182 511,158 684,165 709,136 648,114 585,136 510,114 418,139 368,119 315,143 225,120 172,140" rendition="Line" xml:id="facs_2_r2l2"/>
+        <zone points="176,219 264,199 391,220 448,194 542,196 575,213 693,201 692,172 644,182 592,159 510,159 476,182 409,160 321,179 272,165 225,183 175,177" rendition="Line" xml:id="facs_2_r2l3"/>
+        <zone points="168,256 456,241 505,264 583,244 756,262 756,228 655,196 578,214 503,195 387,223 272,204 168,222" rendition="Line" xml:id="facs_2_r2l4"/>
+        <zone points="108,312 777,309 777,262 715,274 578,245 469,287 380,245 108,256" rendition="Line" xml:id="facs_2_r2l5"/>
+        <zone points="124,363 290,343 418,344 441,363 614,351 640,369 730,344 798,364 799,314 727,331 588,301 125,316" rendition="Line" xml:id="facs_2_r2l6"/>
+        <zone points="125,398 307,373 346,392 514,383 547,405 640,392 661,410 789,390 790,359 517,371 420,347 368,366 229,345 126,365" rendition="Line" xml:id="facs_2_r2l7"/>
+        <zone points="133,449 171,424 267,420 324,440 348,423 575,439 661,423 732,445 775,431 771,391 666,413 592,393 532,407 477,381 349,402 305,373 133,391" rendition="Line" xml:id="facs_2_r2l8"/>
+        <zone points="122,476 509,464 566,492 604,467 700,466 757,491 770,427 699,456 514,425 486,441 351,425 295,443 269,425 212,442 164,419 123,434" rendition="Line" xml:id="facs_2_r2l9"/>
+        <zone points="126,516 357,497 502,517 571,501 608,522 647,504 768,513 777,470 682,486 615,467 565,491 501,465 402,488 313,458 127,486" rendition="Line" xml:id="facs_2_r2l10"/>
+        <zone points="129,560 187,542 288,567 330,544 449,559 505,541 563,558 736,546 763,568 774,512 700,532 571,501 420,528 333,502 130,516" rendition="Line" xml:id="facs_2_r2l11"/>
+        <zone points="137,583 209,605 364,585 493,601 520,583 588,611 641,588 766,605 747,556 493,562 405,544 288,566 245,545 137,562" rendition="Line" xml:id="facs_2_r2l12"/>
+        <zone points="129,634 275,615 352,637 491,619 679,643 712,621 761,631 762,594 580,609 519,584 495,601 316,604 206,575 130,602" rendition="Line" xml:id="facs_2_r2l13"/>
+        <zone points="130,678 255,661 465,677 502,658 528,678 699,662 779,683 779,638 753,629 625,647 420,627 385,647 261,616 130,642" rendition="Line" xml:id="facs_2_r2l14"/>
+        <zone points="126,711 189,703 224,722 260,697 361,719 437,700 526,720 580,698 655,718 766,708 766,676 605,671 582,691 504,655 464,677 284,661 126,681" rendition="Line" xml:id="facs_2_r2l15"/>
+        <zone points="141,755 346,740 375,767 421,745 588,741 707,745 777,774 777,696 695,717 573,699 527,721 440,702 361,720 257,700 227,721 141,721" rendition="Line" xml:id="facs_2_r2l16"/>
+        <zone points="124,788 767,799 767,762 704,744 633,769 590,739 376,766 338,743 238,771 180,744 124,770" rendition="Line" xml:id="facs_2_r2l17"/>
+        <zone points="131,850 213,827 260,845 304,825 341,849 429,823 562,849 615,824 767,834 767,799 415,786 390,804 327,783 256,809 173,783 131,802" rendition="Line" xml:id="facs_2_r2l18"/>
+        <zone points="131,885 189,859 290,884 482,864 702,877 764,863 764,836 562,850 477,826 339,849 302,826 131,850" rendition="Line" xml:id="facs_2_r2l19"/>
+        <zone points="132,913 357,930 453,902 504,926 572,902 621,924 675,903 763,908 762,876 692,886 647,867 549,880 479,864 377,886 241,868 213,883 180,863 131,890" rendition="Line" xml:id="facs_2_r2l20"/>
+        <zone points="135,971 211,946 734,956 769,946 769,913 621,925 542,907 504,926 453,902 354,933 318,915 135,922" rendition="Line" xml:id="facs_2_r2l21"/>
+        <zone points="133,1003 352,982 525,1007 598,976 709,997 757,983 757,959 634,948 463,968 233,946 132,970" rendition="Line" xml:id="facs_2_r2l22"/>
+        <zone points="140,1044 277,1026 355,1049 478,1024 506,1040 595,1028 619,1048 715,1033 759,1001 587,988 519,1008 352,981 316,1000 245,986 195,1015 140,1009" rendition="Line" xml:id="facs_2_r2l23"/>
+        <zone points="136,1076 194,1070 221,1095 304,1074 340,1093 390,1068 437,1094 543,1064 582,1084 700,1060 760,1072 760,1048 513,1043 482,1026 375,1049 326,1032 263,1055 220,1034 135,1045" rendition="Line" xml:id="facs_2_r2l24"/>
+        <zone points="119,1138 240,1104 392,1127 489,1109 548,1136 624,1101 758,1129 772,1088 542,1065 434,1096 389,1068 344,1093 267,1073 218,1095 188,1072 118,1095" rendition="Line" xml:id="facs_2_r2l25"/>
+        <zone points="141,1163 233,1152 290,1177 419,1148 597,1179 751,1160 765,1127 698,1133 622,1102 550,1136 489,1109 311,1136 236,1112 141,1128" rendition="Line" xml:id="facs_2_r2l26"/>
+        <zone points="252,1246 259,1247 269,1255 273,1251 281,1253 292,1243 326,1244 326,1204 315,1204 301,1193 287,1199 277,1197 265,1188 252,1189" rendition="Line" xml:id="facs_2_r2l27"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1246" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="800px" height="1246px"/><zone points="44,232 44,383 65,383 65,232" rendition="TextRegion" xml:id="facs_3_r1">
+        <zone points="39,342 55,340 63,345 66,343 71,343 68,306 62,306 60,309 55,309 49,304 46,305 43,303 37,303" rendition="Line" xml:id="facs_3_r1l1"/>
+      </zone><zone points="45,824 45,975 81,975 81,824" rendition="TextRegion" xml:id="facs_3_r2">
+        <zone points="39,936 48,937 52,941 64,941 67,939 77,946 85,946 87,896 79,896 77,894 75,896 73,894 64,896 57,891 47,899 41,898" rendition="Line" xml:id="facs_3_r2l1"/>
+      </zone><zone points="62,269 62,421 72,421 72,269" rendition="TextRegion" xml:id="facs_3_r3">
+        <zone points="55,375 61,377 64,376 67,379 69,378 75,380 83,344 78,342 74,343 71,341 63,339" rendition="Line" xml:id="facs_3_r3l1"/>
+      </zone><zone points="92,82 92,331 743,331 743,82" rendition="TextRegion" xml:id="facs_3_r4">
+        <zone points="123,119 193,102 218,126 314,102 375,122 582,113 633,134 729,107 729,85 674,63 584,93 449,68 312,84 244,61 123,90" rendition="Line" xml:id="facs_3_r4l1"/>
+        <zone points="102,173 298,146 572,171 629,148 655,173 733,147 580,111 376,122 312,102 224,126 192,101 102,120" rendition="Line" xml:id="facs_3_r4l2"/>
+        <zone points="119,193 231,209 328,188 413,213 574,192 619,210 661,190 736,200 737,169 655,173 625,148 573,172 299,146 120,175" rendition="Line" xml:id="facs_3_r4l3"/>
+        <zone points="86,241 270,254 347,232 551,248 730,234 719,189 694,209 651,192 430,216 329,188 232,208 87,193" rendition="Line" xml:id="facs_3_r4l4"/>
+        <zone points="123,296 208,299 256,273 349,297 384,275 453,289 487,269 564,297 663,296 697,271 748,286 748,242 657,257 530,238 453,256 423,236 386,256 159,242 123,263" rendition="Line" xml:id="facs_3_r4l5"/>
+        <zone points="117,344 160,335 184,346 230,329 265,344 507,337 516,276 484,269 390,303 335,291 303,299 256,274 208,298 116,300" rendition="Line" xml:id="facs_3_r4l6"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="1672" lry="2481" xml:id="facs_4"><graphic url="%2Ffiles.jpg" width="1672px" height="2481px"/><zone points="290,166 1137,166 1137,333 290,333" rendition="TextRegion" xml:id="facs_4_region_1669885957800_555">
+        <zone points="401,202 760,211 1081,205 1082,255 760,261 400,252" rendition="Line" xml:id="facs_4_line_1669885963011_558"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
+      <lb facs="#facs_1_r1l1" n="N001"/>Auch, duchleu<supplied reason="">c</supplied>htigster Curfürst, hab dero Liebden nachmahlen
+      <lb facs="#facs_1_r1l2" n="N002"/>den mahler Burgers bestens zue recommendiren, das
+      <lb facs="#facs_1_r1l3" n="N003"/>dero Liebden möchten so güttich sein, ihn einmahl in die possession
+      <lb facs="#facs_1_r1l4" n="N004"/>zue sezen, dan der arme mensch nicht die mittel hatt,
+      <lb facs="#facs_1_r1l5" n="N005"/>so langen process, woh immer was newes vohrkombt,
+      <lb facs="#facs_1_r1l6" n="N006"/>zue dauren. Dero Liebden, die ohne diß so gerecht sein in allen, werden
+      <lb facs="#facs_1_r1l7" n="N007"/>dardurch ein gott wollgefälligs werkh duen, waruohr ich ihnen
+      <lb facs="#facs_1_r1l8" n="N008"/>auch herzlich obligirt sein werde. Imgleichen d<supplied reason="">i</supplied>e statt
+      <lb facs="#facs_1_r1l9" n="N009"/>Cöllen dero Liebden bestens zu reccomendiren, seindt arme leüdt,
+      <lb facs="#facs_1_r1l10" n="N010"/>vnd dero Liebden als schuzherr werden sie vill mehr protegiren wollen.
+      <lb facs="#facs_1_r1l11" n="N011"/>Dähte mich nit vnterstehen, dero Liebden alles dises zu sch<supplied reason="">rei</supplied>ben,
+      <lb facs="#facs_1_r1l12" n="N012"/>wan ich nicht wuste dero große güette, gerechtichkeit vndt
+      <lb facs="#facs_1_r1l13" n="N013"/>barmherzichkeit gegen alle, welches ihren der almechtige
+      <lb facs="#facs_1_r1l14" n="N014"/>da<supplied reason="">u</supplied>sentfalltig vergelten wirdt, vnd ich eben<supplied reason="">so</supplied>. Auch diser vhrsa<supplied reason="">c</supplied>h
+      <lb facs="#facs_1_r1l15" n="N015"/>halber hoffe, <supplied reason="">dass</supplied> sie mihr dise genommene freyheit nit
+      <lb facs="#facs_1_r1l16" n="N016"/>vbel nemmen werden, die ich lebe vnd st<supplied reason="">er</supplied>b, vt in literis
+      <lb facs="#facs_1_r1l17" n="N017"/>den 24ten <choice><expan>ocotbris</expan><abbr>8br</abbr></choice>.</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
+      <lb facs="#facs_2_r1l1" n="N001"/></ab><ab facs="#facs_2_r2" type="">
+      <lb facs="#facs_2_r2l1" n="N001"/>i asdigee soss
+      <lb facs="#facs_2_r2l2" n="N002"/>verh s des laheem le
+      <lb facs="#facs_2_r2l3" n="N003"/>ise de veese  m
+      <lb facs="#facs_2_r2l4" n="N004"/> o  
+      <lb facs="#facs_2_r2l5" n="N005"/>durchleüchtiger hürste min bes e da
+      <lb facs="#facs_2_r2l6" n="N006"/>imb a e ch ese l werde
+      <lb facs="#facs_2_r2l7" n="N007"/>perpldiued hein venmeine gage deeselben
+      <lb facs="#facs_2_r2l8" n="N008"/>bestndig vragenden affection ds mi allefg
+      <lb facs="#facs_2_r2l9" n="N009"/>sehrangelegen sein laße alleb das gauigen wel
+      <lb facs="#facs_2_r2l10" n="N010"/>ha ew vnd meine liebstem vehmb de
+      <lb facs="#facs_2_r2l11" n="N011"/>docster gumbesengeehen bauben vema
+      <lb facs="#facs_2_r2l12" n="N012"/>mi sich ein so gute gelegenheih zulbige
+      <lb facs="#facs_2_r2l13" n="N013"/>vrhargulug ebiguet andene ich gas fe
+      <lb facs="#facs_2_r2l14" n="N014"/>eßig vernehnen das des foheg vom le
+      <lb facs="#facs_2_r2l15" n="N015"/>dena b dl brit aus selbige ti affection
+      <lb facs="#facs_2_r2l16" n="N016"/>nintention resah so hale nicht vnlerlah
+      <lb facs="#facs_2_r2l17" n="N017"/>können  u slches im verbawen hnd e
+      <lb facs="#facs_2_r2l18" n="N018"/>sn nicht eweiflendt daß bey darab
+      <lb facs="#facs_2_r2l19" n="N019"/>grodel vergengen fallen werden sidee
+      <lb facs="#facs_2_r2l20" n="N020"/>die vursgg ge gut deeinne legend
+      <lb facs="#facs_2_r2l21" n="N021"/>ksein werden wirt auch dise heren ni 
+      <lb facs="#facs_2_r2l22" n="N022"/>die ddaliurishe mameerngogne nde
+      <lb facs="#facs_2_r2l23" n="N023"/>eine vendt sche deh mer gehabt weche sich
+      <lb facs="#facs_2_r2l24" n="N024"/>mit größe egfalh dise erhiehg  
+      <lb facs="#facs_2_r2l25" n="N025"/>gelegen sin laßn auh die dütsch krahga
+      <lb facs="#facs_2_r2l26" n="N026"/>git beden die oation lieben daß also gar
+      <lb facs="#facs_2_r2l27" n="N027"/></ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
+      <lb facs="#facs_3_r1l1" n="N001"/></ab><ab facs="#facs_3_r2" type="">
+      <lb facs="#facs_3_r2l1" n="N001"/></ab><ab facs="#facs_3_r3" type="">
+      <lb facs="#facs_3_r3l1" n="N001"/></ab><ab facs="#facs_3_r4" type="">
+      <lb facs="#facs_3_r4l1" n="N001"/>nicht bie prble   ld me se
+      <lb facs="#facs_3_r4l2" n="N002"/>rheb alleperefe  vergge
+      <lb facs="#facs_3_r4l3" n="N003"/>bdseat sebe  ber s
+      <lb facs="#facs_3_r4l4" n="N004"/>gewillfehe antes versaßen die sch
+      <lb facs="#facs_3_r4l5" n="N005"/>allehei in allein gelagenheisen hegn d
+      <lb facs="#facs_3_r4l6" n="N006"/>e e  m</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_region_1669885957800_555" type="">
+      <lb facs="#facs_4_line_1669885963011_558" n="N001"/></ab></div></body></text></TEI>
