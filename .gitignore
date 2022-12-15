@@ -138,3 +138,7 @@ saxon
 *.csv
 *.ipynb
 !col_ids.csv
+/all_mets
+/all_tei
+/metsout
+/alltei
