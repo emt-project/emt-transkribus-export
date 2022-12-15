@@ -57,8 +57,13 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
         item['place'] = row['Ort']
         item['writte_date'] = row['Datum']
         item['current_date'] = f"{date.today()}"
+        facsimile = doc.any_xpath('.//tei:facsimile')[0]
+        item["facsimile"] = ET.tostring(facsimile, encoding='utf-8', pretty_print=True).decode('utf-8')
         body = doc.any_xpath('.//tei:body')[0]
-        item["body_string"] = ET.tostring(body, encoding='utf-8', pretty_print=True).decode('utf-8')
+        body_string = ET.tostring(body, encoding='utf-8', pretty_print=True).decode('utf-8')
+        body_string = body_string.replace('reason=""', '')
+        body_string = body_string.replace('type=""', '')
+        item["body_string"] = body_string
         try:
             item['parsed_date'] = parse(item['writte_date'])
         except (ParserError, TypeError):

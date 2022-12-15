@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xml:id="{{ file_name }}"
-   xml:base="https://id.acdh.oeaw.ac.at/kem">
+   xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +55,7 @@
                         <idno>{{ idno }}</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate{% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}" {% endif %}>{{ written_date }}</origDate></origin>
+                        <origin><origDate{% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}"{% endif %}>{{ written_date }}</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,7 +70,7 @@
             <correspAction type="sent">
                <persName ref="#{{ sender_id }}">{{ sender }}</persName>
                <placeName ref="#{{ sender_id_place }}">{{ sender_place }}</placeName>
-               <date {% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}" {% endif %}>{{ written_date }}</date>
+               <date {% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}"{% endif %}>{{ written_date }}</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#{{ receiver_id }}">{{ receiver }}</persName>
@@ -83,9 +83,8 @@
          <change who="pandorfer" when="{{ current_date }}">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-   </facsimile>
+   {{ facsimile|safe}}
    <text type="letter">
-      {{ body_string|safe }}
+   {{ body_string|safe }}
    </text>
 </TEI>
