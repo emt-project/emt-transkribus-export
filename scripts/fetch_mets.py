@@ -5,6 +5,7 @@ from transkribus_utils.transkribus_utils import ACDHTranskribusUtils
 
 user = os.environ.get('TR_USER')
 pw = os.environ.get('TR_PW')
+os.makedirs('./mets', exist_ok=True)
 
 transkribus_client = ACDHTranskribusUtils(
     user=user,

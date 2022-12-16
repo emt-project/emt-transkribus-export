@@ -63,6 +63,10 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
         body_string = ET.tostring(body, encoding='utf-8', pretty_print=True).decode('utf-8')
         body_string = body_string.replace('reason=""', '')
         body_string = body_string.replace('type=""', '')
+        body_string = body_string.replace('<blackening>', '<seg type="blackening">')
+        body_string = body_string.replace('</blackening>', '</seg>')
+        body_string = body_string.replace('<comment>', '<seg type="comment">')
+        body_string = body_string.replace('</comment>', '</seg>')
         item["body_string"] = body_string
         try:
             item['parsed_date'] = parse(item['writte_date'])
