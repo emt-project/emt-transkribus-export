@@ -39,4 +39,4 @@ jobs:
         ./transform.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Exported and Transformed ColId ${{ github.event.inputs.colId }}
+        commit_message: Exported and Transformed EMT-Transkribus Collections
