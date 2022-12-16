@@ -49,7 +49,7 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
         col_id = '00000'
     file_name = f"./data/editions/{gr}.xml"
     doc = TeiReader(doc_id)
-    with open(file_name, 'w') as f:
+    with open(file_name.lower(), 'w') as f:
         row = df.iloc[0]
         item = {}
         item['doc_id'] = proper_col_id
