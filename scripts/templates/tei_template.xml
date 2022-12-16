@@ -59,6 +59,10 @@
                      </history>
                   </msDesc>
                </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">{{ col_id }}</idno>
+                  <idno type="transkribus-doc-id">{{ doc_id }}</idno>
+               </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>

@@ -29,6 +29,12 @@ for x in files:
     title = doc.any_xpath('.//tei:title[@type="main"]/text()')[0]
     file_mapper[title] = x
 
+mets = glob.glob('./mets/*/*mets.xml')
+mets_mapper = {}
+for x in mets:
+    col_id, doc_id = x.replace('_mets.xml', '').replace("./mets/", "").split('/')
+    mets_mapper[doc_id] = col_id
+
 no_match = []
 for gr, df in tqdm.tqdm(df.groupby('folder')):
     try:
@@ -36,11 +42,18 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
     except KeyError:
         no_match.append(gr)
         continue
+    proper_col_id = doc_id.replace('./alltei/', '').replace('_tei.xml', '')
+    try:
+        col_id = mets_mapper[proper_col_id]
+    except KeyError:
+        col_id = '00000'
     file_name = f"./data/editions/{gr}.xml"
     doc = TeiReader(doc_id)
     with open(file_name, 'w') as f:
         row = df.iloc[0]
         item = {}
+        item['doc_id'] = proper_col_id
+        item['col_id'] = col_id
         item['settlement'] = "München"
         item['repositor'] = "some archive in munich"
         item['id'] = gr.lower()

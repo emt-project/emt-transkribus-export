@@ -57,6 +57,10 @@
                      </history>
                   </msDesc>
                </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">136452</idno>
+                  <idno type="transkribus-doc-id">907045</idno>
+               </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
