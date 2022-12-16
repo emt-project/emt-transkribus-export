@@ -62,7 +62,14 @@
             </listWit>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <profileDesc>{% if bemerkung or terms %}
+         <abstract>
+         {% if terms %}
+          <ab type="abstract-terms">{% for x in terms %}
+            <term>{{ x }}</term>{% endfor %}
+         </ab>{% endif %}{% if bemerkung %}
+         <ab type="abstract-terms">{{ bemerkung }}</ab>{% endif %}
+        </abstract>{% endif %}
          <langUsage>
             <language ident="{{ lang_code }}">{{ language }}</language>
          </langUsage>
