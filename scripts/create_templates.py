@@ -55,7 +55,7 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
         item['doc_id'] = proper_col_id
         item['col_id'] = col_id
         item['settlement'] = "München"
-        item['repositor'] = "some archive in munich"
+        item['repositor'] = "Bayerisches Hauptstaatsarchiv"
         item['id'] = gr.lower()
         item['file_name'] = f"{gr}.xml".lower()
         item['title'] = f"{row['weranwen']}, {row['Ort']} am {row['Datum']}"
