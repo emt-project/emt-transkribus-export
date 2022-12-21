@@ -66,13 +66,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="abstract-terms">eingelegt in Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg 15.12.1704; enthält Chiffre (mehrere Zeilen), eventuell könnten zu diesem Brief die Entwürfe auf Bild 52 und 53 gehören?</ab>
+         <ab type="notes">eingelegt in Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg 15.12.1704; enthält Chiffre (mehrere Zeilen), eventuell könnten zu diesem Brief die Entwürfe auf Bild 52 und 53 gehören?</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -90,7 +92,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

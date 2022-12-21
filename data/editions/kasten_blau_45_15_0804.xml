@@ -66,13 +66,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="abstract-terms">Zandberg korrigiert aus Zangberg (oder umgekehrt), heißt wohl Zangberg = in Bayern bei Ampfing, also auf Heimreise von München (Zeremonialprotokolle Bild 564/fol.556: kamen nachts nach Ampfing und Zantberg). Schreibpause, weil PW auch nach Augsburg kam (Kaps S. 78)</ab>
+         <ab type="notes">Zandberg korrigiert aus Zangberg (oder umgekehrt), heißt wohl Zangberg = in Bayern bei Ampfing, also auf Heimreise von München (Zeremonialprotokolle Bild 564/fol.556: kamen nachts nach Ampfing und Zantberg). Schreibpause, weil PW auch nach Augsburg kam (Kaps S. 78)</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -90,7 +92,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

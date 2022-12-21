@@ -66,13 +66,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung+L519</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="abstract-terms">erwähnt Blatternerkrankung ihrer Tochter Maria Magdalena (Madlenel) Tod von Marco d'Aviano, der immer wieder in Briefen vorgekommen ist (13.08.1699). rechts oben zusätzliche Foliierung: 51</ab>
+         <ab type="notes">erwähnt Blatternerkrankung ihrer Tochter Maria Magdalena (Madlenel) Tod von Marco d'Aviano, der immer wieder in Briefen vorgekommen ist (13.08.1699). rechts oben zusätzliche Foliierung: 51</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -90,7 +92,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

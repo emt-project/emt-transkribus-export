@@ -66,13 +66,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="abstract-terms">eingelegt in Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg 21.11.1705. Liegt zwischen 1705.11.21-1705.11.21, Durch den Einstieg mit "auch" wirkt es, als gehöre das Schreiben zu einem anderen dazu - muss nach 12.09.1705 geschrieben sein - evtl. zu Brief 255, dort wird Diemantstein erwähnt</ab>
+         <ab type="notes">eingelegt in Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg 21.11.1705. Liegt zwischen 1705.11.21-1705.11.21, Durch den Einstieg mit "auch" wirkt es, als gehöre das Schreiben zu einem anderen dazu - muss nach 12.09.1705 geschrieben sein - evtl. zu Brief 255, dort wird Diemantstein erwähnt</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -90,7 +92,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

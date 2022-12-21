@@ -66,14 +66,16 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>?</term>
             <term>?</term>
             <term>Zeitung</term>
          </ab>
-         <ab type="abstract-terms">Abschrift. italienisch. Ein Anliegen soll an Eleonora Magdalena von Pfalz-Neuburg herangetragen werden</ab>
+         <ab type="notes">Abschrift. italienisch. Ein Anliegen soll an Eleonora Magdalena von Pfalz-Neuburg herangetragen werden</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="ita">italienisch</language>
          </langUsage>
@@ -91,7 +93,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

@@ -66,13 +66,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="abstract-terms">Liegt zwischen 1686.07.18-1686.07.21. wg. Foliierung: es gibt kein Foto von 47 r, aber man sieht eine 47 verkehrt durchscheinen; kurze Entschuldigung, dass sie nicht schreibt wg. einer Hochzeit</ab>
+         <ab type="notes">Liegt zwischen 1686.07.18-1686.07.21. wg. Foliierung: es gibt kein Foto von 47 r, aber man sieht eine 47 verkehrt durchscheinen; kurze Entschuldigung, dass sie nicht schreibt wg. einer Hochzeit</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -90,7 +92,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

@@ -66,12 +66,14 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Extrakt eines Briefes</term>
          </ab>
-         <ab type="abstract-terms">"Extract" des Briefes Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg vom 01.07.1694. Vgl. Abschrift dieses Briefs Kasten_blau_44_6_0235.jpg ff.</ab>
+         <ab type="notes">"Extract" des Briefes Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg vom 01.07.1694. Vgl. Abschrift dieses Briefs Kasten_blau_44_6_0235.jpg ff.</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch, Abschrift</language>
          </langUsage>
@@ -89,7 +91,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

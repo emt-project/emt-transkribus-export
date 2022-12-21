@@ -67,8 +67,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>{% if bemerkung or terms %}
-         <abstract>
-         {% if terms %}
+         <abstract>{% if terms %}
           <ab type="abstract-terms">{% for x in terms %}
             <term>{{ x }}</term>{% endfor %}
          </ab>{% endif %}{% if bemerkung %}

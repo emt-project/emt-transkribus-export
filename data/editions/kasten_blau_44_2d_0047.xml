@@ -66,14 +66,16 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>Schreiber ?</term>
             <term>Chronostichon</term>
          </ab>
-         <ab type="abstract-terms">latein. Chronostichon; kleinerer Zettel scheints ausgeschnitten, erwähnt im  Brief vom 27.06.</ab>
+         <ab type="notes">latein. Chronostichon; kleinerer Zettel scheints ausgeschnitten, erwähnt im  Brief vom 27.06.</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="lat">lateinisch</language>
          </langUsage>
@@ -91,7 +93,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">

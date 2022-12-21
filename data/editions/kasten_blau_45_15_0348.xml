@@ -66,14 +66,16 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Konzept</term>
             <term>Schreiber</term>
             <term>Bericht</term>
          </ab>
-         <ab type="abstract-terms">scheint nur eine Seite aus einem längeren Schreiben zu sein; geht u.a. um Graf Starhemberg und den Kaiser</ab>
+         <ab type="notes">scheint nur eine Seite aus einem längeren Schreiben zu sein; geht u.a. um Graf Starhemberg und den Kaiser</ab>
         </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -91,7 +93,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
