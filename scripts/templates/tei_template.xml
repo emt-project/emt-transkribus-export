@@ -72,8 +72,11 @@
           <ab type="abstract-terms">{% for x in terms %}
             <term>{{ x }}</term>{% endfor %}
          </ab>{% endif %}{% if bemerkung %}
-         <ab type="abstract-terms">{{ bemerkung }}</ab>{% endif %}
+         <ab type="notes">{{ bemerkung }}</ab>{% endif %}
         </abstract>{% endif %}
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="{{ lang_code }}">{{ language }}</language>
          </langUsage>
