@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0226.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0226.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-07-27"></origDate></origin>
+                        <origin><origDate when-iso="1687-07-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1687-07-27"></date>
+               <date when-iso="1687-07-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1193" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1193px"/>
+    <graphic url="Kasten_blau_45_15_0226.jpg" width="800px" height="1193px"/>
     <zone points="18,190 18,1191 783,1191 783,190" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="123,262 162,235 333,262 489,221 722,231 788,222 787,181 654,186 616,162 561,206 497,182 171,203 120,174" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="91,305 183,309 257,275 376,293 478,270 505,287 539,269 707,279 754,258 753,227 675,216 589,246 403,237 337,257 261,241 210,268 87,226" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -122,11 +118,11 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatt<supplied >er</supplied>
+    <pb facs="#facs_1" n="112 r" xml:id="Kasten_blau_45_15_0226.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatt<supplied>er</supplied>
       <lb facs="#facs_1_r1l2" n="N002"/>Ich kom heündt abermahl mit einer <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> entschul-
       <lb facs="#facs_1_r1l3" n="N003"/>digung, das dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben, so durch den Martiniz
       <lb facs="#facs_1_r1l4" n="N004"/>vnd ordinari bekommen, meine <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> antwort
@@ -134,15 +130,15 @@
       <lb facs="#facs_1_r1l6" n="N006"/>vnd Anna in dem clostern gewesen vnd heünt
       <lb facs="#facs_1_r1l7" n="N007"/>auch bey Himelporten wegen <choice><expan>Sankt</expan><abbr>S</abbr></choice> Valentin, der <unclear>helden</unclear>
       <lb facs="#facs_1_r1l8" n="N008"/>patron. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr den
-      <lb facs="#facs_1_r1l9" n="N009"/><choice><expan>gnädigen</expan><abbr>g</abbr></choice> wuntsch, so sie mihr zue dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> sch<supplied >r</supplied>eiben
+      <lb facs="#facs_1_r1l9" n="N009"/><choice><expan>gnädigen</expan><abbr>g</abbr></choice> wuntsch, so sie mihr zue dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben
       <lb facs="#facs_1_r1l10" n="N010"/>vom 18ten dis zue meinem nahmendag duen wollen.
       <lb facs="#facs_1_r1l11" n="N011"/>Werd mich allezeit befleisen, ewer Durchlaucht mein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice>
-      <lb facs="#facs_1_r1l12" n="N012"/>dienst zu erweisen vnd das ich ste<supplied >r</supplied>ben werde
+      <lb facs="#facs_1_r1l12" n="N012"/>dienst zu erweisen vnd das ich ste<supplied>r</supplied>ben werde
       <lb facs="#facs_1_line_1643710332049_138" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l15" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l15" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l16" n="N015"/>EMT
       <lb facs="#facs_1_r1l14" n="N016"/>Wien den 27ten julij 1687
-      <lb facs="#facs_1_r1l17" n="N017"/>Mit nechster post werd alls suechen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue bea<supplied >n</supplied>tw<supplied >or</supplied>ten
+      <lb facs="#facs_1_r1l17" n="N017"/>Mit nechster post werd alls suechen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue bea<supplied>n</supplied>tw<supplied>or</supplied>ten
       <lb facs="#facs_1_r1l18" n="N018"/>vnd herein zue bringen, was ich izt versaumbt
       <lb facs="#facs_1_r1l19" n="N019"/>hab.</ab>
   </div>

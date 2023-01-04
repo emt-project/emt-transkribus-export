@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0012.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0012.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-06-12"></origDate></origin>
+                        <origin><origDate when-iso="1679-06-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1679-06-12"></date>
+               <date when-iso="1679-06-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1231" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1231px"/>
+    <graphic url="Kasten_blau_44_2d_0012.jpg" width="800px" height="1231px"/>
     <zone points="72,239 72,1006 771,1006 771,239" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="150,308 228,296 267,323 352,316 407,286 489,310 543,280 590,294 773,276 769,199 520,262 465,243 230,254 146,230" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="149,366 266,337 324,364 441,343 500,370 532,340 617,352 749,326 747,276 512,313 402,286 326,327 194,296 147,308" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,19 +116,19 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0012.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr brueder
       <lb facs="#facs_1_r1l2" n="N002"/>Ich bediene mich der gelegenheit, das ihr Mayestät,
       <lb facs="#facs_1_r1l3" n="N003"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, seinen Cammerern, den Grau
       <lb facs="#facs_1_r1l4" n="N004"/>von Lamberg, hinauf schiket, selbigen mit <seg type="blackening">zue</seg>
-      <lb facs="#facs_1_r1l5" n="N005"/>diesem brief zue aco<supplied >m</supplied>pagniren. Er wirt dero Liebden
-      <lb facs="#facs_1_r1l6" n="N006"/>mit mehr<supplied >e</supplied>rem meiner trewen affection
+      <lb facs="#facs_1_r1l5" n="N005"/>diesem brief zue aco<supplied>m</supplied>pagniren. Er wirt dero Liebden
+      <lb facs="#facs_1_r1l6" n="N006"/>mit mehr<supplied>e</supplied>rem meiner trewen affection
       <lb facs="#facs_1_r1l7" n="N007"/>versicheren, warauf ich mich bezihe. Was
       <lb facs="#facs_1_r1l8" n="N008"/>ich vohr große freüdt hab wegen der gelükligen
-      <lb facs="#facs_1_r1l9" n="N009"/>nider kunft ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice>, kan <supplied >ich</supplied> nit beschreiben.
+      <lb facs="#facs_1_r1l9" n="N009"/>nider kunft ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice>, kan <supplied>ich</supplied> nit beschreiben.
       <lb facs="#facs_1_r1l10" n="N010"/>Hoffe, mein Erzherzogin werde balt nachfolgen,
       <lb facs="#facs_1_r1l11" n="N011"/>es mues aber ein sohn sein. Ich versichere
       <lb facs="#facs_1_r1l12" n="N012"/>vnterdeßen dero Liebden, das ich allezeit verbleiben werde

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0407.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0407.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1699-05-23"></origDate></origin>
+                        <origin><origDate when-iso="1699-05-23"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1699-05-23"></date>
+               <date when-iso="1699-05-23"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1113" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1113px"/>
+    <graphic url="Kasten_blau_44_6_0407.jpg" width="800px" height="1113px"/>
     <zone points="36,46 36,1062 756,1062 756,46" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="32,80 80,80 128,112 144,102 183,105 181,25 136,28 102,15 61,48 30,45" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="102,434 161,443 209,416 286,440 322,423 416,434 503,405 585,424 686,400 685,353 581,374 488,350 410,365 370,343 299,371 192,347 101,389" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -118,24 +114,24 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="258 r" xml:id="Kasten_blau_44_6_0407.jpg" ed="30 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>23 maij 1699</unclear>
-      <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Curfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l4" n="N003"/>Ve<supplied >r</supplied>h<supplied >o</supplied>ffe, dero Liebden werden sich ihn gutten wohlstandt <unclear>befinden</unclear>
-      <lb facs="#facs_1_r1l5" n="N004"/>vnd mein b<supplied >ri</supplied>f empfangen haben. Gottlob,
-      <lb facs="#facs_1_r1l6" n="N005"/>hie continui<supplied >r</supplied>t noch als in dem erwünsten
-      <lb facs="#facs_1_r1l7" n="N006"/>stand, vnd haben mihr bede dise sch<supplied >rei</supplied>ben geben <seg type="blackening">g</seg>
-      <lb facs="#facs_1_r1l8" n="N007"/>zu überschiken. Heündt g<supplied >e</supplied>hn mihr auf Wien zu
-      <lb facs="#facs_1_r1l9" n="N008"/>einer processi<supplied >o</supplied>n, also bleibt mihr k<supplied >e</supplied>in z<supplied >e</supplied>it zu sch<supplied >rei</supplied>ben.
-      <lb facs="#facs_1_r1l10" n="N009"/>Due mi<supplied >c</supplied>h dero Liebden b<supplied >e</supplied>f<supplied >e</supplied>hlen vndt w<supplied >e</supplied>rde st<supplied >er</supplied>ben
+      <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Curfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l4" n="N003"/>Ve<supplied>r</supplied>h<supplied>o</supplied>ffe, dero Liebden werden sich ihn gutten wohlstandt <unclear>befinden</unclear>
+      <lb facs="#facs_1_r1l5" n="N004"/>vnd mein b<supplied>ri</supplied>f empfangen haben. Gottlob,
+      <lb facs="#facs_1_r1l6" n="N005"/>hie continui<supplied>r</supplied>t noch als in dem erwünsten
+      <lb facs="#facs_1_r1l7" n="N006"/>stand, vnd haben mihr bede dise sch<supplied>rei</supplied>ben geben <seg type="blackening">g</seg>
+      <lb facs="#facs_1_r1l8" n="N007"/>zu überschiken. Heündt g<supplied>e</supplied>hn mihr auf Wien zu
+      <lb facs="#facs_1_r1l9" n="N008"/>einer processi<supplied>o</supplied>n, also bleibt mihr k<supplied>e</supplied>in z<supplied>e</supplied>it zu sch<supplied>rei</supplied>ben.
+      <lb facs="#facs_1_r1l10" n="N009"/>Due mi<supplied>c</supplied>h dero Liebden b<supplied>e</supplied>f<supplied>e</supplied>hlen vndt w<supplied>e</supplied>rde st<supplied>er</supplied>ben
       <lb facs="#facs_1_r1l11" n="N010"/>dero Liebden
-      <lb facs="#facs_1_r1l13" n="N011"/>g<supplied >e</supplied>t<supplied >re</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l13" n="N011"/>g<supplied>e</supplied>t<supplied>re</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l14" n="N012"/>Eleonora
-      <lb facs="#facs_1_r1l12" n="N013"/>Laxe<supplied >n</supplied>burg den 23ten maij 1699
-      <lb facs="#facs_1_r1l15" n="N014"/>Bitt mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin ein schöns compliment <supplied >zu machen</supplied>.</ab>
+      <lb facs="#facs_1_r1l12" n="N013"/>Laxe<supplied>n</supplied>burg den 23ten maij 1699
+      <lb facs="#facs_1_r1l15" n="N014"/>Bitt mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin ein schöns compliment <supplied>zu machen</supplied>.</ab>
   </div>
 </body>
 

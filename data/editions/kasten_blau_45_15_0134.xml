@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0134.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0134.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-01-30"></origDate></origin>
+                        <origin><origDate when-iso="1687-01-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1687-01-30"></date>
+               <date when-iso="1687-01-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1226" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1226px"/>
+    <graphic url="Kasten_blau_45_15_0134.jpg" width="800px" height="1226px"/>
     <zone points="15,163 15,1224 790,1224 790,163" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="114,233 220,237 274,204 332,228 407,201 539,214 714,191 755,208 786,203 784,142 730,160 609,137 464,166 343,126 112,184" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="86,299 177,302 281,260 760,254 773,198 541,215 478,199 369,225 274,205 217,238 81,207" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1226" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1226px"/>
+    <graphic url="Kasten_blau_45_15_0135.jpg" width="800px" height="1226px"/>
     <zone points="26,43 26,1181 796,1181 796,43" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="49,94 170,74 384,88 431,65 780,79 778,5 753,-1 47,4" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="33,144 147,151 213,125 265,149 361,136 388,159 526,124 781,122 779,79 749,76 31,90" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -145,7 +141,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1238" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1238px"/>
+    <graphic url="Kasten_blau_45_15_0136.jpg" width="800px" height="1238px"/>
     <zone points="11,31 11,1231 787,1231 787,31" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="30,108 172,60 282,90 325,63 369,79 439,55 536,78 702,69 754,52 752,-11 278,-1 221,27 28,31" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="16,140 454,105 604,124 763,94 767,59 643,84 574,59 471,81 339,61 284,91 159,65 15,114" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -178,14 +174,14 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="56 r2" xml:id="Kasten_blau_45_15_0134.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr bede dero <choice><expan>gnädige</expan><abbr>g</abbr></choice>
       <lb facs="#facs_1_r1l3" n="N003"/>schreiben vom 10ten vnd 18ten. Das erstere aber hab
-      <lb facs="#facs_1_r1l4" n="N004"/>ich erst den freitag vnd das leztere gleich den samst<supplied >a</supplied>g
+      <lb facs="#facs_1_r1l4" n="N004"/>ich erst den freitag vnd das leztere gleich den samst<supplied>a</supplied>g
       <lb facs="#facs_1_r1l5" n="N005"/>drauf bekommen. Kan mihr nit einbilden, woh
       <lb facs="#facs_1_r1l6" n="N006"/>die ersten brif so lang geblieben. Ich hab ein
       <lb facs="#facs_1_r1l7" n="N007"/>klein argwohn, aber zwar ohne fundament, der
@@ -200,8 +196,8 @@
       <lb facs="#facs_1_r1l18" n="N016"/>hatt zwischen Filshoffen vnd Baßaw, dah er doch
       <lb facs="#facs_1_r1l19" n="N017"/>ganz gemach, aber über ein eis reiten müeßen,
       <lb facs="#facs_1_r1l20" n="N018"/>mit dem pfert gefallen vnd ihm an der axel</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="56 v2" xml:id="Kasten_blau_45_15_0135.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>das kleine beinel, welches sie die klauikel nennen, gebrochen.
       <lb facs="#facs_2_r1l2" n="N002"/>Ich hab erst am sontag schpaht den brif bekommen mit
       <lb facs="#facs_2_r1l3" n="N003"/>diser zeitung, so hab ich gleich ihm den Wirz ent-
@@ -210,23 +206,23 @@
       <lb facs="#facs_2_r1l6" n="N006"/>Es ist aber alles in guettem standt vnd hofft
       <lb facs="#facs_2_r1l7" n="N007"/>der Wirtz, es werd gahr balt gutt werden, 
       <lb facs="#facs_2_r1l8" n="N008"/>heündt werden sie ihn wider verbinten. Sein balbirer
-      <lb facs="#facs_2_r1l9" n="N009"/>hatt es schon gahr gutt eingericht geha<supplied >b</supplied>tt, hoffe,
+      <lb facs="#facs_2_r1l9" n="N009"/>hatt es schon gahr gutt eingericht geha<supplied>b</supplied>tt, hoffe,
       <lb facs="#facs_2_r1l10" n="N010"/>es werd balt ganz guett sein, er hatt nit vill
       <lb facs="#facs_2_r1l11" n="N011"/>schmerzen mehr, heündt ist der 11te dag. Er hatt mihr
       <lb facs="#facs_2_r1l12" n="N012"/>noch denselben dag ein langen brif geschriben vnd
       <lb facs="#facs_2_r1l13" n="N013"/>ist an der rechten arm. Heünt aber hatt er bey
-      <lb facs="#facs_2_r1l14" n="N014"/>ewer Durchlaucht sein schuldichkeit nit abgelegt mit sch<supplied >r</supplied>eiben,
+      <lb facs="#facs_2_r1l14" n="N014"/>ewer Durchlaucht sein schuldichkeit nit abgelegt mit sch<supplied>r</supplied>eiben,
       <lb facs="#facs_2_r1l15" n="N015"/>weil die balbirer haben wollen, das er den armb
       <lb facs="#facs_2_r1l16" n="N016"/>rüren soll, dan dise dag das mark einschiest, das
       <lb facs="#facs_2_r1l17" n="N017"/>das bein soll zuesammen stoßen. Mit nechstem
-      <lb facs="#facs_2_r1l18" n="N018"/>wirt er sein schuldi<supplied >c</supplied>hkeit ablegen. Mit mein Joseph
+      <lb facs="#facs_2_r1l18" n="N018"/>wirt er sein schuldi<supplied>c</supplied>hkeit ablegen. Mit mein Joseph
       <lb facs="#facs_2_r1l19" n="N019"/>geht gottlob guett, die hiez hatt schon fast völlich nach-
       <lb facs="#facs_2_r1l20" n="N020"/>gelaßen vnd die flekh vergehen schon auch. Das wehnige</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="57 r2" xml:id="Kasten_blau_45_15_0136.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>eßen, das man ihm gibt, schmekt ihm auch guett. Schlafft
       <lb facs="#facs_3_r1l2" n="N002"/>woll, also hoff ich, es soll balt vollich guett werden,
-      <lb facs="#facs_3_r1l3" n="N003"/>das er na<supplied >c</supplied>h dem 9ten dag wirt können ein wehnig im
+      <lb facs="#facs_3_r1l3" n="N003"/>das er na<supplied>c</supplied>h dem 9ten dag wirt können ein wehnig im
       <lb facs="#facs_3_r1l4" n="N004"/>zimmer aufstehn. Iezt sorg ich mich auf die andren
       <lb facs="#facs_3_r1l5" n="N005"/>kinder, förcht, sie bekommens auch. Ich hoff, des Irsch
       <lb facs="#facs_3_r1l6" n="N006"/>negotium <unclear>werde</unclear> gutt abgehn. Wegen des rescript
@@ -240,7 +236,7 @@
       <lb facs="#facs_3_r1l14" n="N014"/>hab des Lokowiz brif nit in die canzlei geschikt. Wegen
       <lb facs="#facs_3_r1l15" n="N015"/>Schpanien werden ihr Mayestät gwis niks vnterlaßen, aber
       <lb facs="#facs_3_r1l16" n="N016"/>dort geht alles halt gahr langsam. Mit disem
-      <lb facs="#facs_3_r1l17" n="N017"/>due ich mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied >e</supplied>hlen vnd werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_3_r1l17" n="N017"/>due ich mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied>e</supplied>hlen vnd werde ste<supplied>r</supplied>ben
       <lb facs="#facs_3_r1l18" n="N018"/>ewer Durchlaucht
       <lb facs="#facs_3_line_1642437216998_478" n="N019"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
       <lb facs="#facs_3_line_1642437439534_489" n="N020"/>EMT

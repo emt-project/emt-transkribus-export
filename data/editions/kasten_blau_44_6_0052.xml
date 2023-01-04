@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0052.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0052.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-01-02"></origDate></origin>
+                        <origin><origDate when-iso="1690-01-02"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1690-01-02"></date>
+               <date when-iso="1690-01-02"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1252" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1252px"/>
+    <graphic url="Kasten_blau_44_6_0052.jpg" width="800px" height="1252px"/>
     <zone points="17,59 17,1239 765,1239 765,59" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="62,169 161,155 509,140 710,159 732,167 735,216 714,223 268,252 63,240" rendition="Line" xml:id="facs_1_line_1643377044129_2341"/>
         <zone points="568,164 661,164 678,171 702,155 719,166 741,167 735,97 677,97 662,84 639,83 601,111 563,111" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -125,10 +121,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="37 r" xml:id="Kasten_blau_44_6_0052.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_line_1643377044129_2341" n="N001"/>Bitt, wan die Königin wekh, die brief durch den Kramprecht
       <lb facs="#facs_1_r1l2" n="N002"/>zue bestellen.
       <lb facs="#facs_1_r1l5" n="N003"/>Durchleüchtiger Fürst, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
@@ -147,9 +143,9 @@
       <lb facs="#facs_1_r1l18" n="N016"/>sey gewest wie der iüngste dag, 8 dag haben noch alle
       <lb facs="#facs_1_r1l19" n="N017"/>weil kleine empfunden. Due mich dero Liebden befehlen vnd werde
       <lb facs="#facs_1_r1l21" n="N018"/>sterben, dero Liebden
-      <lb facs="#facs_1_r1l20" n="N019"/>getrewste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l20" n="N019"/>getrewste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l23" n="N020"/>Eleonora
-      <lb facs="#facs_1_r1l22" n="N021"/><unclear>Augschpurg</unclear> den 2ten <supplied >jenner</supplied> des 1690ten jahrs</ab>
+      <lb facs="#facs_1_r1l22" n="N021"/><unclear>Augschpurg</unclear> den 2ten <supplied>jenner</supplied> des 1690ten jahrs</ab>
   </div>
 </body>
 

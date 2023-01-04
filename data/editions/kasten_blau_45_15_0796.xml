@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0796.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0796.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-09-30"></origDate></origin>
+                        <origin><origDate when-iso="1689-09-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-09-30"></date>
+               <date when-iso="1689-09-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_45_15_0796.jpg" width="800px" height="1249px"/>
     <zone points="33,463 33,1187 748,1187 748,463" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="68,517 137,503 187,532 254,512 293,529 419,491 477,516 622,512 752,472 647,438 555,456 510,428 444,456 343,432 288,455 200,427 66,436" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="63,576 190,557 253,585 387,558 585,566 613,546 688,555 688,529 452,501 402,530 368,515 292,532 255,512 186,533 137,503 62,525" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,11 +115,11 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster h<supplied >e</supplied>rr vatter
+    <pb facs="#facs_1" n="148 r" xml:id="Kasten_blau_45_15_0796.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster h<supplied>e</supplied>rr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Mitt der gutten gelegenheit, das ihr Mayestät den
       <lb facs="#facs_1_r1l3" n="N003"/>Hoffkanzler zue ewer Durchlaucht schiken, hab ich mein
       <lb facs="#facs_1_r1l4" n="N004"/>schuldichkeit nit vnterlaßen wollen, ewer Durchlaucht mit
@@ -132,11 +128,11 @@
       <lb facs="#facs_1_r1l7" n="N007"/>werden vnd ich balt die gnad haben werde,
       <lb facs="#facs_1_r1l8" n="N008"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue bedienen. Mich in allem auf
       <lb facs="#facs_1_r1l9" n="N009"/>den Hoffkanzler bezihendt, will ewer Durchlaucht nit lenger
-      <lb facs="#facs_1_r1l10" n="N010"/>mit mein sch<supplied >r</supplied>eiben bemühen. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice>
+      <lb facs="#facs_1_r1l10" n="N010"/>mit mein sch<supplied>r</supplied>eiben bemühen. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice>
       <lb facs="#facs_1_r1l11" n="N011"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die ich sterben werde
       <lb facs="#facs_1_line_1651507282582_360" n="N012"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l12" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> do<supplied >c</supplied>hter
-      <lb facs="#facs_1_r1l14" n="N014"/>Eleonor<supplied >a</supplied>
+      <lb facs="#facs_1_r1l12" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> do<supplied>c</supplied>hter
+      <lb facs="#facs_1_r1l14" n="N014"/>Eleonor<supplied>a</supplied>
       <lb facs="#facs_1_line_1651507282582_359" n="N015"/>Augschpurg den 30ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1689</ab>
   </div>
 </body>

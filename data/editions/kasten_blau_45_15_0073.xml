@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0073.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0073.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-07-11"></origDate></origin>
+                        <origin><origDate when-iso="1686-07-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1686-07-11"></date>
+               <date when-iso="1686-07-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1200" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1200px"/>
+    <graphic url="Kasten_blau_45_15_0073.jpg" width="800px" height="1200px"/>
     <zone points="60,174 60,1159 784,1159 784,174" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="76,268 169,237 213,261 287,226 338,249 379,229 585,227 621,203 786,214 778,162 749,155 663,180 377,161 201,201 71,173" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="73,324 117,334 183,283 269,274 389,306 640,256 791,292 787,221 69,264" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -115,20 +111,20 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerl<supplied >i</supplied>ebster herrr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Nach dem der v<supplied >o</supplied>n Neßelraht seine reis wider
-      <lb facs="#facs_1_r1l3" n="N003"/>zuruk nimbt, als hab ihn mit dißen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> z<supplied >e</supplied>ilen
+    <pb facs="#facs_1" n="45 r" xml:id="Kasten_blau_45_15_0073.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerl<supplied>i</supplied>ebster herrr vatter
+      <lb facs="#facs_1_r1l2" n="N002"/>Nach dem der v<supplied>o</supplied>n Neßelraht seine reis wider
+      <lb facs="#facs_1_r1l3" n="N003"/>zuruk nimbt, als hab ihn mit dißen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> z<supplied>e</supplied>ilen
       <lb facs="#facs_1_r1l4" n="N004"/>accompagniren wollen. Er wirt ewer Durchlaucht schon
       <lb facs="#facs_1_r1l5" n="N005"/>alles berichten in dem negotio wegen der
       <lb facs="#facs_1_r1l6" n="N006"/>stiffter. Also will ich ewer Durchlaucht nit lenger mit
-      <lb facs="#facs_1_r1l7" n="N007"/>meinem sch<supplied >r</supplied>eiben vngelegenheit machen, bef<supplied >e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>
-      <lb facs="#facs_1_r1l8" n="N008"/>in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> vnd werde st<supplied >e</supplied>rben
+      <lb facs="#facs_1_r1l7" n="N007"/>meinem sch<supplied>r</supplied>eiben vngelegenheit machen, bef<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>
+      <lb facs="#facs_1_r1l8" n="N008"/>in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> vnd werde st<supplied>e</supplied>rben
       <lb facs="#facs_1_r1l9" n="N009"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vn</abbr></choice> trewgehorsa<supplied >ms</supplied>te
+      <lb facs="#facs_1_r1l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vn</abbr></choice> trewgehorsa<supplied>ms</supplied>te
       <lb facs="#facs_1_r1l12" n="N011"/>EMT
       <lb facs="#facs_1_r1l10" n="N012"/>Wien den 11ten julij 1686</ab>
   </div>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0020.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0020.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-10-31"></origDate></origin>
+                        <origin><origDate when-iso="1679-10-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Brandeis / Brandýs nad Labem</placeName>
-               <date  when-iso="1679-10-31"></date>
+               <date when-iso="1679-10-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1227" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1227px"/>
+    <graphic url="Kasten_blau_44_2d_0020.jpg" width="800px" height="1227px"/>
     <zone points="121,328 121,1162 763,1162 763,328" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="134,356 331,388 394,359 437,382 492,360 526,375 746,353 745,301 682,317 614,291 447,305 418,289 133,286" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="142,408 331,421 558,404 588,422 627,394 728,400 728,357 518,378 492,360 439,384 394,359 331,387 140,358" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1202px"/>
+    <graphic url="Kasten_blau_44_2d_0021.jpg" width="800px" height="1202px"/>
     <zone points="78,325 78,1043 798,1043 798,325" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="141,355 325,358 349,374 394,357 489,378 615,353 673,372 749,350 728,320 686,333 658,317 476,316 425,336 203,299 141,314" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="139,412 188,390 337,413 401,402 439,421 479,402 630,401 658,418 765,400 765,367 690,381 611,357 492,381 393,357 337,383 265,356 140,363" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -141,10 +137,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0020.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr brueder
       <lb facs="#facs_1_r1l2" n="N002"/>Es ist mihr wohl leidt, das ich nit ehender hab
       <lb facs="#facs_1_r1l3" n="N003"/>können dero Liebden mit diesen zeilen meiner trewen
@@ -162,13 +158,13 @@
       <lb facs="#facs_1_r1l15" n="N015"/>der heischt der Pubensch. Ich mein, ich
       <lb facs="#facs_1_r1l17" n="N016"/>hab nirgenst so ein schönen <add>dier</add> garten gesehen.
       <lb facs="#facs_1_r1l18" n="N017"/>Ein ort heischt der Stern, dah seint lautter</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2d_0021.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>allen, ist auch ein diergarten, seint rechte
       <lb facs="#facs_2_r1l2" n="N002"/>hirsch drinnen. Die carmeliterinnen seint
       <lb facs="#facs_2_r1l3" n="N003"/>auch allerliebste nonnen, haben ein schön closter
       <lb facs="#facs_2_r1l4" n="N004"/>vndt garten, vill schöner als zue Wien. Diese
-      <lb facs="#facs_2_r1l5" n="N005"/>zeitungen mues alle mein Erzherzogin au<supplied >c</supplied>h wißen,
+      <lb facs="#facs_2_r1l5" n="N005"/>zeitungen mues alle mein Erzherzogin au<supplied>c</supplied>h wißen,
       <lb facs="#facs_2_r1l6" n="N006"/>dan ich es ihr nit geschrieben. Vnser Erzherzogin
       <lb facs="#facs_2_r1l8" n="N007"/>Maria Antonia ist auch gelüklich ankomen.
       <lb facs="#facs_2_r1l9" n="N008"/>Hier mit due ich mich in dero Liebden affection

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0436.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0436.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1699-07-14"></origDate></origin>
+                        <origin><origDate when-iso="1699-07-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date  when-iso="1699-07-14"></date>
+               <date when-iso="1699-07-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1105" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1105px"/>
+    <graphic url="Kasten_blau_44_6_0436.jpg" width="800px" height="1105px"/>
     <zone points="26,41 26,1074 764,1074 764,41" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="108,404 263,431 288,416 344,432 370,412 392,432 435,406 496,440 548,417 611,434 749,416 749,359 625,371 543,345 461,362 343,347 206,359 160,393 108,372" rendition="Line" xml:id="facs_1_r1l5"/>
         <zone points="84,478 227,465 286,495 380,495 464,460 593,488 729,463 722,422 650,444 593,419 494,442 445,414 354,443 291,414 260,434 84,399" rendition="Line" xml:id="facs_1_r1l6"/>
@@ -121,12 +117,12 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l5" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied >er</supplied>zallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l6" n="N002"/>Ich hab dero liebsts sch<supplied >rei</supplied>ben durc<supplied >h</supplied> dero beichtuatte<supplied >r</supplied>n <choice><expan>Pater</expan><abbr>P</abbr></choice> 
+    <pb facs="#facs_1" n="275 r" xml:id="Kasten_blau_44_6_0436.jpg" ed="61 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l5" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l6" n="N002"/>Ich hab dero liebsts sch<supplied>rei</supplied>ben durc<supplied>h</supplied> dero beichtuatte<supplied>r</supplied>n <choice><expan>Pater</expan><abbr>P</abbr></choice> 
       <lb facs="#facs_1_r1l7" n="N003"/>Poitiers woll empfangen. Bin dero Liebden vnentlich obligirt
       <lb facs="#facs_1_r1l8" n="N004"/>vohr die sorchfalt, so sie vohr meinen Carl dragen,
       <lb facs="#facs_1_r1l9" n="N005"/>alle meine kinder gehören ihnen zue. Der ver<unclear>k</unclear>leitte
@@ -136,10 +132,10 @@
       <lb facs="#facs_1_r1l13" n="N009"/>sich aber, alles beßer auszueforschen vndt durch <choice><expan>Pater</expan><abbr>P</abbr></choice>
       <lb facs="#facs_1_r1l14" n="N010"/>Poitiers zue refferirn, welches mihr aniezo erwarten.
       <lb facs="#facs_1_r1l15" n="N011"/>Mihr seindt halt dero Liebden vmb alles obligirt, dan sie
-      <lb facs="#facs_1_r1l16" n="N012"/>auf allerley weis dises ha<supplied >u</supplied>s helfen erhalten vnd persua-
-      <lb facs="#facs_1_line_1645185798532_1959" n="N013"/>girn, wie ich dan st<supplied >er</supplied>ben werde
+      <lb facs="#facs_1_r1l16" n="N012"/>auf allerley weis dises ha<supplied>u</supplied>s helfen erhalten vnd persua-
+      <lb facs="#facs_1_line_1645185798532_1959" n="N013"/>girn, wie ich dan st<supplied>er</supplied>ben werde
       <lb facs="#facs_1_line_1645185878799_1967" n="N014"/>dero Liebden
-      <lb facs="#facs_1_line_1645185798532_1958" n="N015"/>g<supplied >e</supplied>tre<supplied >w</supplied>ste schwester
+      <lb facs="#facs_1_line_1645185798532_1958" n="N015"/>g<supplied>e</supplied>tre<supplied>w</supplied>ste schwester
       <lb facs="#facs_1_r1l19" n="N016"/>Eleonora
       <lb facs="#facs_1_line_1645185878799_1968" n="N017"/>Fauorita den 14ten julij 1699</ab>
   </div>

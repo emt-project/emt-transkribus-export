@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0072.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0072.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1691-02-20"></origDate></origin>
+                        <origin><origDate when-iso="1691-02-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1691-02-20"></date>
+               <date when-iso="1691-02-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1240px"/>
+    <graphic url="Kasten_blau_44_6_0072.jpg" width="800px" height="1240px"/>
     <zone points="51,61 51,1164 747,1164 747,61" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="112,377 300,394 387,362 422,379 444,360 634,383 683,362 752,372 750,295 629,322 591,304 532,321 249,298 189,319 110,296" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="72,460 239,423 309,452 409,425 463,451 537,429 696,439 720,433 718,377 645,394 590,365 442,386 392,366 186,403 69,379" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1240px"/>
+    <graphic url="Kasten_blau_44_6_0073.jpg" width="800px" height="1240px"/>
     <zone points="18,64 18,1233 773,1233 773,64" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="26,108 205,112 285,142 407,102 552,122 763,107 767,62 72,56" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="27,155 192,189 416,162 453,177 519,152 608,177 745,165 738,121 478,117 426,140 350,120 274,146 208,118 27,109" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -145,12 +141,12 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="51 r" xml:id="Kasten_blau_44_6_0072.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
-      <lb facs="#facs_1_r1l3" n="N002"/>Ich hab bede dero schr<supplied >ei</supplied>ben vom 5ten mit der staffetta
+      <lb facs="#facs_1_r1l3" n="N002"/>Ich hab bede dero schr<supplied>ei</supplied>ben vom 5ten mit der staffetta
       <lb facs="#facs_1_r1l4" n="N003"/>vnd vom 12ten mit dem Geheimenraht Güttich woll
       <lb facs="#facs_1_r1l5" n="N004"/>empfangen. Erfreüdt mich, das bis dahto alles
       <lb facs="#facs_1_r1l6" n="N005"/>so guet in der polnischen sach ist abgangen.
@@ -163,8 +159,8 @@
       <lb facs="#facs_1_r1l13" n="N012"/>bedrüebt. Ich hett woll gewüntscht, das sie
       <lb facs="#facs_1_r1l14" n="N013"/>disen sentenz ehender hette bekommen, damit
       <lb facs="#facs_1_r1l15" n="N014"/>sie nit so lang in einer lehren hoffnung</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="51 v" xml:id="Kasten_blau_44_6_0073.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>wehr gebliben. Ich hoff vnd wüntsch, das vnser
       <lb facs="#facs_2_r1l2" n="N002"/>braütchen ein glükhlige reis vnd vergnüechte
       <lb facs="#facs_2_r1l3" n="N003"/>eh möge haben. Es heist woll bey mihr, je
@@ -180,14 +176,14 @@
       <lb facs="#facs_2_r1l13" n="N013"/>Gott mus allein remediren, darumb ist
       <lb facs="#facs_2_r1l14" n="N014"/>beßer, das dero Liebden so woll als ich daruon abstra-
       <lb facs="#facs_2_r1l15" n="N015"/>hiren, weils doch nit helfen wirt. Ich wüntsche,
-      <lb facs="#facs_2_r1l16" n="N016"/>das des Fürsten reis möge glüklich s<supplied >e</supplied>in vnd dero Liebden
+      <lb facs="#facs_2_r1l16" n="N016"/>das des Fürsten reis möge glüklich s<supplied>e</supplied>in vnd dero Liebden
       <lb facs="#facs_2_r1l17" n="N017"/>alles contento haben, welches von herzen wüntscht
       <lb facs="#facs_2_r1l18" n="N018"/>dero Liebden
-      <lb facs="#facs_2_r1l20" n="N019"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l20" n="N019"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l21" n="N020"/>Eleonora
       <lb facs="#facs_2_r1l19" n="N021"/>Wien den 20ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1691
       <lb facs="#facs_2_line_1643575327347_1763" n="N022"/>Wegen des Humpüsch werd die sach ihr Mayestät bestens recomendiren. Es geht halt hie etwas
-      <lb facs="#facs_2_line_1643575334957_1768" n="N023"/>geschwint die sa<supplied >c</supplied>hen nemlich, wie dero Liebden woll wißen.</ab>
+      <lb facs="#facs_2_line_1643575334957_1768" n="N023"/>geschwint die sa<supplied>c</supplied>hen nemlich, wie dero Liebden woll wißen.</ab>
   </div>
 </body>
 

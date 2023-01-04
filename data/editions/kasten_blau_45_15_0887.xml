@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0887.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0887.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-06-18"></origDate></origin>
+                        <origin><origDate when-iso="1690-06-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1690-06-18"></date>
+               <date when-iso="1690-06-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1250" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1250px"/>
+    <graphic url="Kasten_blau_45_15_0887.jpg" width="800px" height="1250px"/>
     <zone points="26,106 26,1182 755,1182 755,106" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="115,516 216,496 364,523 422,496 508,522 760,505 760,450 660,420 557,441 425,415 295,433 116,413" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="58,586 98,594 170,563 222,589 262,562 413,581 461,545 519,582 627,577 693,551 692,506 505,522 434,502 363,522 317,500 273,523 223,496 56,501" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1297" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1297px"/>
+    <graphic url="Kasten_blau_45_15_0888.jpg" width="800px" height="1297px"/>
     <zone points="31,99 31,1271 786,1271 786,99" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="45,134 146,169 178,141 207,169 252,140 336,159 420,133 523,167 625,131 777,149 758,91 696,112 467,78 336,122 240,79 45,89" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="45,202 95,182 217,215 334,193 405,233 497,224 543,190 614,224 771,213 771,160 735,155 381,172 342,155 246,177 178,141 138,171 45,140" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -141,7 +137,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1279" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1279px"/>
+    <graphic url="Kasten_blau_45_15_0889.jpg" width="800px" height="1279px"/>
     <zone points="17,61 17,1203 762,1203 762,61" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="1,119 113,95 159,120 351,89 427,119 493,88 548,107 744,97 767,89 767,21 543,1 320,33 1,39" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="18,176 312,139 543,181 581,144 708,153 729,102 666,114 591,92 506,120 472,96 433,116 357,91 335,113 151,123 119,98 61,131 17,120" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -157,10 +153,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="203 r" xml:id="Kasten_blau_45_15_0887.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleuchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l3" n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 13ten dis hab mit schuldigstem
       <lb facs="#facs_1_r1l4" n="N003"/>respect empfangen. Der almechtige wolle ewer Durchlaucht bey
@@ -174,18 +170,18 @@
       <lb facs="#facs_1_r1l12" n="N011"/>heündt selber gahr instendig an mich begert, dan
       <lb facs="#facs_1_r1l13" n="N012"/>er gern alles zum besten einrichten wolt, das
       <lb facs="#facs_1_r1l14" n="N013"/>ewer Durchlaucht woll accomodirt werden mögen. Den Altheim
-      <lb facs="#facs_1_r1l16" n="N014"/>betreffent, weil die sach noch so verschoben, wi<supplied >r</supplied>t es sich</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l16" n="N014"/>betreffent, weil die sach noch so verschoben, wi<supplied>r</supplied>t es sich</ab>
+    <pb facs="#facs_2" n="203 v" xml:id="Kasten_blau_45_15_0888.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>vnterdeßen beßer zeigen. Das der Deütschmeister noch zum
       <lb facs="#facs_2_r1l2" n="N002"/>König kommen soll, wehr gahr guett, ich glaub, das
       <lb facs="#facs_2_r1l3" n="N003"/>es ihm selber lieber sein wirt incognito, dan
       <lb facs="#facs_2_r1l4" n="N004"/>bey dem hoff, wegen allerley regalien vnd presenten
       <lb facs="#facs_2_r1l5" n="N005"/>es dem Deütschmeister ein überaus große
-      <lb facs="#facs_2_r1l6" n="N006"/>spese veruhrsachen wurden. Was das vohr ein fr<supplied >e</supplied>üdt
-      <lb facs="#facs_2_r1l7" n="N007"/>mit der Königin ist von allen, ist nit zue besch<supplied >r</supplied>eiben,
+      <lb facs="#facs_2_r1l6" n="N006"/>spese veruhrsachen wurden. Was das vohr ein fr<supplied>e</supplied>üdt
+      <lb facs="#facs_2_r1l7" n="N007"/>mit der Königin ist von allen, ist nit zue besch<supplied>r</supplied>eiben,
       <lb facs="#facs_2_r1l8" n="N008"/>gott geb ihr nuhr balt ein erben, so wirt alles
-      <lb facs="#facs_2_r1l9" n="N009"/>volkommen sein. Wegen des franzosischen brif wi<supplied >r</supplied>t
+      <lb facs="#facs_2_r1l9" n="N009"/>volkommen sein. Wegen des franzosischen brif wi<supplied>r</supplied>t
       <lb facs="#facs_2_r1l10" n="N010"/>der Stratman geantwort haben. Hierbey überschik <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>,
       <lb facs="#facs_2_r1l11" n="N011"/>was auf ihr Mayestät schreiben der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Würmb geantwort,
       <lb facs="#facs_2_r1l12" n="N012"/>auch die Prinseßin vnd vetter Pfilipp. Ob mein
@@ -196,10 +192,10 @@
       <lb facs="#facs_2_r1l17" n="N017"/>dah, auch höhr ich sehr loben die verwitibte von Anschpach,
       <lb facs="#facs_2_r1l18" n="N018"/>dah steht aber die religion im weg. Man lobt auch
       <lb facs="#facs_2_r1l19" n="N019"/>überaus eine von den bereitischen Prinzeßinnen,
-      <lb facs="#facs_2_r1l20" n="N020"/>wie schön vnd woll erzogen sie sey, auch inclinir <supplied >sie</supplied>
+      <lb facs="#facs_2_r1l20" n="N020"/>wie schön vnd woll erzogen sie sey, auch inclinir <supplied>sie</supplied>
       <lb facs="#facs_2_r1l21" n="N021"/>zur catolischen religion. Das müest zwar vohrgehen, man kunt</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="204 r" xml:id="Kasten_blau_45_15_0889.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>sich vnterdeßen vnter der handt erkündigen, was überall
       <lb facs="#facs_3_r1l2" n="N002"/>zue hoffen, vnd dan das beste ausklauben, gott
       <lb facs="#facs_3_line_1652892896588_811" n="N003"/>geb sein gnad. Hab die vohrige post <unclear>???</unclear> <add>die schpanischen</add> brif

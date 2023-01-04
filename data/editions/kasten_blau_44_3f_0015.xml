@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_3f_0015.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0015.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1695-03-30"></origDate></origin>
+                        <origin><origDate when-iso="1695-03-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1695-03-30"></date>
+               <date when-iso="1695-03-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1257" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1257px"/>
+    <graphic url="Kasten_blau_44_3f_0015.jpg" width="800px" height="1257px"/>
     <zone points="32,57 32,1239 771,1239 771,57" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="26,117 41,114 65,122 75,112 103,113 122,109 133,100 176,97 178,54 149,47 131,56 111,48 90,50 76,58 51,53 27,60" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="27,443 183,472 276,445 422,455 455,429 533,458 571,440 762,459 762,402 714,389 284,399 200,362 112,395 27,385" rendition="Line" xml:id="facs_1_line_1640284103462_291"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1272" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1272px"/>
+    <graphic url="Kasten_blau_44_3f_0016.jpg" width="800px" height="1272px"/>
     <zone points="43,64 43,808 776,808 776,64" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="54,142 80,130 128,161 195,141 219,164 283,133 452,123 500,155 547,137 645,161 747,129 747,106 670,91 615,113 549,92 431,85 350,107 54,78" rendition="Line" xml:id="facs_2_r1l3"/>
         <zone points="42,189 366,205 486,180 557,208 702,185 747,211 765,150 470,162 407,138 369,160 305,134 223,164 190,142 42,165" rendition="Line" xml:id="facs_2_r1l4"/>
@@ -138,35 +134,35 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0015.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>30. <choice><expan>märz</expan><abbr>m</abbr></choice> 95</unclear>
-      <lb facs="#facs_1_line_1640284103462_291" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_line_1640284103462_291" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l4" n="N003"/>Ich zweifel nit, dero Liebden werden den bedrüebten traurfall vnsers
-      <lb facs="#facs_1_r1l5" n="N004"/>schweger<supplied >i</supplied>n <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> schon vernommen haben, also due ihm dazue von
-      <lb facs="#facs_1_r1l6" n="N005"/>he<supplied >r</supplied>zen condoliren. Ist woll ein schwer<supplied >e</supplied>r vall, absonderlich
-      <lb facs="#facs_1_r1l7" n="N006"/>wegen ihrer sehl, doch ist gottes barmh<supplied >er</supplied>zichkeit vber alles, villeicht
-      <lb facs="#facs_1_r1l8" n="N007"/>hatt er ihr die l<supplied >e</supplied>zte gnad geben. In den polnischen sachen
+      <lb facs="#facs_1_r1l5" n="N004"/>schweger<supplied>i</supplied>n <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> schon vernommen haben, also due ihm dazue von
+      <lb facs="#facs_1_r1l6" n="N005"/>he<supplied>r</supplied>zen condoliren. Ist woll ein schwer<supplied>e</supplied>r vall, absonderlich
+      <lb facs="#facs_1_r1l7" n="N006"/>wegen ihrer sehl, doch ist gottes barmh<supplied>er</supplied>zichkeit vber alles, villeicht
+      <lb facs="#facs_1_r1l8" n="N007"/>hatt er ihr die l<supplied>e</supplied>zte gnad geben. In den polnischen sachen
       <lb facs="#facs_1_r1l9" n="N008"/>hatt man von hier schon alles gedahn, ein curir hinein
       <lb facs="#facs_1_r1l10" n="N009"/>geschikt vndt werden ihr Mayestät duen, was sie könen, wirt
-      <lb facs="#facs_1_r1l11" n="N010"/>hart her gehn. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl ist ga<supplied >n</supplied>z verlohren. Schik dero Liebden mein brif an
+      <lb facs="#facs_1_r1l11" n="N010"/>hart her gehn. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl ist ga<supplied>n</supplied>z verlohren. Schik dero Liebden mein brif an
       <lb facs="#facs_1_r1l12" n="N011"/>ihr Durchlaucht, vnser <choice><expan>geliebste</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>fr</abbr></choice> muetter, damit, wan sies villeicht
       <lb facs="#facs_1_r1l13" n="N012"/>nit weis, dero Liebden ihn wollen zuerukh halten, dan ich nit gern dise
       <lb facs="#facs_1_r1l14" n="N013"/>üble zeitung <unclear>brengen</unclear> wolle. Ich bin doch sehr in ängsten
-      <lb facs="#facs_1_r1l15" n="N014"/>wegen vns<supplied >er</supplied> <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> Durchlaucht, weil ich heündt kein brif von nie-
-      <lb facs="#facs_1_r1l16" n="N015"/>mandt <supplied >habe</supplied>. Der Schellerer hatt mihr ein an Wißer geschikt,
+      <lb facs="#facs_1_r1l15" n="N014"/>wegen vns<supplied>er</supplied> <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> Durchlaucht, weil ich heündt kein brif von nie-
+      <lb facs="#facs_1_r1l16" n="N015"/>mandt <supplied>habe</supplied>. Der Schellerer hatt mihr ein an Wißer geschikt,
       <lb facs="#facs_1_r1l17" n="N016"/>darauf gestanden, das dero Liebden wollen, ich sollen in auf machen, so</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_3f_0016.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l3" n="N001"/>hab ichs gedan, <add>sonst hets mich nie vnterstanden, wan ers nit expres darauf gesezt</add>, aber alles in ziffer gefunden. Hab
       <lb facs="#facs_2_r1l4" n="N002"/>mihrs nit getraut den Schellerer diziffriren zu laßen,
       <lb facs="#facs_2_r1l5" n="N003"/>weil ich nit gewist, ob nit etwas von des Wißer
       <lb facs="#facs_2_r1l6" n="N004"/>haubt negotium drin, weil er mihr gesacht, er hab
       <lb facs="#facs_2_r1l7" n="N005"/>dem Scheller niks daruon gesacht, also dues dero Liebden wider
       <lb facs="#facs_2_r1l8" n="N006"/>zue rukh schiken. Iezt kombt gleich der Fogt zue mihr,
-      <lb facs="#facs_2_r1l9" n="N007"/>vndt darna<supplied >c</supplied>h gehn in die meß, also mus enden
+      <lb facs="#facs_2_r1l9" n="N007"/>vndt darna<supplied>c</supplied>h gehn in die meß, also mus enden
       <lb facs="#facs_2_r1l10" n="N008"/>in eil, sterbe
       <lb facs="#facs_2_r1l11" n="N009"/>dero Liebden
       <lb facs="#facs_2_r1l13" n="N010"/>getrewste schwester

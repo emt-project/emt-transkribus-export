@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0449.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0449.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1698-02-26"></origDate></origin>
+                        <origin><origDate when-iso="1698-02-26"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1698-02-26"></date>
+               <date when-iso="1698-02-26"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1184" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1184px"/>
+    <graphic url="Kasten_blau_44_7_0449.jpg" width="800px" height="1184px"/>
     <zone points="30,38 30,1107 755,1107 755,38" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="29,521 760,495 760,427 599,457 515,428 421,454 304,429 185,442 106,397 28,400" rendition="Line" xml:id="facs_1_r1l3"/>
         <zone points="44,569 83,549 256,566 301,540 433,588 510,549 677,567 708,554 708,516 554,503 470,530 440,508 388,535 343,503 264,521 203,503 44,521" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -115,20 +111,20 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l3" n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+    <pb facs="#facs_1" n="248 r" xml:id="Kasten_blau_44_7_0449.jpg" ed="34 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l3" n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l4" n="N002"/>In dem der <choice><expan>Pater</expan><abbr>P</abbr></choice> Lucas bey seiner hinabreis
       <lb facs="#facs_1_r1l5" n="N003"/>sich auch an dero Liebden hoff einfinden wirdt, als hab in
       <lb facs="#facs_1_r1l6" n="N004"/>mit disen accompagniren wollen vndt dero Liebden ihn
       <lb facs="#facs_1_r1l7" n="N005"/>reccomendiren. Ist gahr ein frommer, lieber man.
       <lb facs="#facs_1_r1l8" n="N006"/>Dero Liebden seindt ohne dem denen geisteligen genedig, also
-      <lb facs="#facs_1_r1l9" n="N007"/><supplied >hat</supplied> er ohne mein reccomendat<supplied >ion</supplied> von dero Liebden alle gnad zu
-      <lb facs="#facs_1_r1l10" n="N008"/>hoffen. Ich aber werd alzeit verble<supplied >i</supplied>ben
+      <lb facs="#facs_1_r1l9" n="N007"/><supplied>hat</supplied> er ohne mein reccomendat<supplied>ion</supplied> von dero Liebden alle gnad zu
+      <lb facs="#facs_1_r1l10" n="N008"/>hoffen. Ich aber werd alzeit verble<supplied>i</supplied>ben
       <lb facs="#facs_1_r1l11" n="N009"/>dero Liebden
-      <lb facs="#facs_1_line_1650275392083_177" n="N010"/>getre<supplied >w</supplied>ste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_line_1650275392083_177" n="N010"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l13" n="N011"/>Eleonora
       <lb facs="#facs_1_line_1650275392083_178" n="N012"/>Wien den 26 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1698</ab>
   </div>

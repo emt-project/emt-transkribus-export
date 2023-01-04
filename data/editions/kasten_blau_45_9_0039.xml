@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0039.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0039.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1682-04-14"></origDate></origin>
+                        <origin><origDate when-iso="1682-04-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1682-04-14"></date>
+               <date when-iso="1682-04-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1205" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1205px"/>
+    <graphic url="Kasten_blau_45_9_0039.jpg" width="800px" height="1205px"/>
     <zone points="65,182 65,1155 787,1155 787,182" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="138,211 260,237 350,208 413,232 540,218 664,233 734,215 735,179 434,181 325,154 138,194" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="114,289 211,268 272,289 358,282 424,260 587,289 655,265 764,274 764,240 638,223 447,242 385,212 292,246 181,208 115,221" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -121,13 +117,13 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="23 r" xml:id="Kasten_blau_45_9_0039.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich kann nit genuechsamme wort finden, ewer Durchlaucht vohr
-      <lb facs="#facs_1_r1l3" n="N003"/>die <choice><expan>gnädigen</expan><abbr>g</abbr></choice> expressiones <supplied >zu danken</supplied>, so sie mihr so woll durch dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> 
+      <lb facs="#facs_1_r1l3" n="N003"/>die <choice><expan>gnädigen</expan><abbr>g</abbr></choice> expressiones <supplied>zu danken</supplied>, so sie mihr so woll durch dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> 
       <lb facs="#facs_1_r1l4" n="N004"/>schreiben als durch den Grau Hamilton bezeigen wollen. Bin
       <lb facs="#facs_1_r1l5" n="N005"/>woll aller diesen übergroßen gnaden nit werd vnd
       <lb facs="#facs_1_r1l6" n="N006"/>kan niemahlen solche schuldigist abdienen. An meinem
@@ -139,7 +135,7 @@
       <lb facs="#facs_1_r1l12" n="N012"/>hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> befehlen, die ich sterben
       <lb facs="#facs_1_r1l13" n="N013"/>werde 
       <lb facs="#facs_1_line_1637230646407_72" n="N014"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l16" n="N015"/>ganzergebenste trew g<supplied >e</supplied>horsa<supplied >m</supplied>ste
+      <lb facs="#facs_1_r1l16" n="N015"/>ganzergebenste trew g<supplied>e</supplied>horsa<supplied>m</supplied>ste
       <lb facs="#facs_1_r1l17" n="N016"/>dochter
       <lb facs="#facs_1_r1l18" n="N017"/>EMT
       <lb facs="#facs_1_r1l15" n="N018"/>Laxenburg den 14 apprill 1682 </ab>

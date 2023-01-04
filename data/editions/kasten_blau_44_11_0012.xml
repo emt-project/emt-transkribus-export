@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_11_0012.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0012.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1711-12-22"></origDate></origin>
+                        <origin><origDate when-iso="1711-12-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1711-12-22"></date>
+               <date when-iso="1711-12-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1240px"/>
+    <graphic url="Kasten_blau_44_11_0012.jpg" width="800px" height="1240px"/>
     <zone points="78,45 78,1214 771,1214 771,45" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="124,469 171,438 253,473 282,452 379,462 625,415 739,419 776,408 774,365 296,369 203,417 120,406" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="94,524 149,543 301,489 425,521 569,486 672,509 749,476 748,435 687,450 652,432 624,460 478,440 363,479 284,452 242,473 197,443 93,467" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1206" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1206px"/>
+    <graphic url="Kasten_blau_44_11_0013.jpg" width="800px" height="1206px"/>
     <zone points="290,772 505,772 505,340 290,340" rendition="TextRegion" xml:id="facs_2_region_1663317444305_188">
         <zone points="340,620 339,577 342,530 342,486 340,445 340,405 390,405 390,444 392,485 392,531 389,578 390,619" rendition="Line" xml:id="facs_2_line_1663317461680_192"/>
         <zone points="388,715 387,660 386,603 387,559 387,511 386,464 385,412 435,411 436,463 437,511 437,560 436,603 437,659 438,714" rendition="Line" xml:id="facs_2_line_1663317470788_197"/>
@@ -128,28 +124,28 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="5 r" xml:id="Kasten_blau_44_11_0012.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l3" n="N002"/>Weilen die <choice><expan>heiligen</expan><abbr>h</abbr></choice> weina<supplied >c</supplied>ht feird<supplied >a</supplied>g vndt news iahr sich
+      <lb facs="#facs_1_r1l3" n="N002"/>Weilen die <choice><expan>heiligen</expan><abbr>h</abbr></choice> weina<supplied>c</supplied>ht feird<supplied>a</supplied>g vndt news iahr sich
       <lb facs="#facs_1_r1l4" n="N003"/>herzue naht, kan nitt vmgehn, dazu von grundt meins
-      <lb facs="#facs_1_r1l5" n="N004"/>herzen allen erdenkhligen s<supplied >e</supplied>gen von gott mitt villen volgenden
+      <lb facs="#facs_1_r1l5" n="N004"/>herzen allen erdenkhligen s<supplied>e</supplied>gen von gott mitt villen volgenden
       <lb facs="#facs_1_r1l6" n="N005"/>anzuwüntschen, welche dero Liebden selbsten verlangen möchten,
-      <lb facs="#facs_1_r1l7" n="N006"/>vndt ihnen alles diss, was sie zue des hoffentli<supplied >c</supplied>h
-      <lb facs="#facs_1_r1l8" n="N007"/>heündt gekrönhten Kaißer vnd der gemeinen sa<supplied >c</supplied>h so
+      <lb facs="#facs_1_r1l7" n="N006"/>vndt ihnen alles diss, was sie zue des hoffentli<supplied>c</supplied>h
+      <lb facs="#facs_1_r1l8" n="N007"/>heündt gekrönhten Kaißer vnd der gemeinen sa<supplied>c</supplied>h so
       <lb facs="#facs_1_r1l9" n="N008"/>eifrig vndt patriotisch beygedragen, mitt allen
       <lb facs="#facs_1_r1l10" n="N009"/>erdenkligen vergnügen vndt glükhsehlichkeiten ersezen
-      <lb facs="#facs_1_r1l11" n="N010"/>wolle. Ich aber werde mich glüksehli<supplied >c</supplied>h schezen,
+      <lb facs="#facs_1_r1l11" n="N010"/>wolle. Ich aber werde mich glüksehli<supplied>c</supplied>h schezen,
       <lb facs="#facs_1_r1l12" n="N011"/>wan ich, so lang ein atem in mir ist, zeigen werde konen,
       <lb facs="#facs_1_line_1663317278636_169" n="N012"/>das ich vonherzen bin
       <lb facs="#facs_1_r1l15" n="N013"/>dero Liebden
-      <lb facs="#facs_1_r1l14" n="N014"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l14" n="N014"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l16" n="N015"/>Eleonora
       <lb facs="#facs_1_line_1663317278636_168" n="N016"/>Wien den 22ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1711</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_region_1663317444305_188" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_11_0013.jpg"/>
+    <ab facs="#facs_2_region_1663317444305_188">
       <lb facs="#facs_2_line_1663317461680_192" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
       <lb facs="#facs_2_line_1663317470788_197" n="N002"/>Pfalz, meinem herzallerlibsten
       <lb facs="#facs_2_line_1663317476581_202" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruder</ab>

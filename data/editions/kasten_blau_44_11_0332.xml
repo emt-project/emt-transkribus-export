@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_11_0332.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0332.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1716-01-08"></origDate></origin>
+                        <origin><origDate when-iso="1716-01-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1716-01-08"></date>
+               <date when-iso="1716-01-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1207" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1207px"/>
+    <graphic url="Kasten_blau_44_11_0332.jpg" width="800px" height="1207px"/>
     <zone points="56,51 56,1126 748,1126 748,51" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="133,406 315,378 345,397 501,373 564,392 688,370 742,381 741,320 647,298 586,321 505,301 464,332 132,314" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="93,452 133,434 169,461 230,460 317,438 389,471 485,435 747,445 737,392 654,407 626,383 528,414 465,380 306,401 93,379" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1203" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1203px"/>
+    <graphic url="Kasten_blau_44_11_0333.jpg" width="800px" height="1203px"/>
     <zone points="31,0 31,1070 798,1070 798,0" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="43,153 298,174 557,143 608,170 802,152 778,114 577,97 546,114 347,93 278,115 43,93" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="48,228 147,236 308,206 441,238 493,200 739,224 761,185 330,158 47,178" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -138,14 +134,14 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="25 r" xml:id="Kasten_blau_44_11_0332.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtigster Curfürst, mein herzliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N002"/>Ob mich zwar vohr allen dero wertestes andenken
       <lb facs="#facs_1_r1l4" n="N003"/>vndt bezeigende lieb erfrewen kan, so hatt mich doch
-      <lb facs="#facs_1_r1l5" n="N004"/>vill mehr dero liebsts sch<supplied >r</supplied>eiben vom 24ten passato, wel<supplied >c</supplied>hs
+      <lb facs="#facs_1_r1l5" n="N004"/>vill mehr dero liebsts sch<supplied>r</supplied>eiben vom 24ten passato, wel<supplied>c</supplied>hs
       <lb facs="#facs_1_r1l6" n="N005"/>eigenhendich vndt mitt villen liebreichisten vndt von
       <lb facs="#facs_1_r1l7" n="N006"/>mihr vnuerdienten bezeigungen vndt wüntschen zue diesen
       <lb facs="#facs_1_r1l8" n="N007"/>newen angetrettenen iahr angefüllet ist, nit wehnig
@@ -156,15 +152,15 @@
       <lb facs="#facs_1_r1l13" n="N012"/>erhalten, das sie sich meinet wegen mit eigenhendigen schreiben
       <lb facs="#facs_1_r1l14" n="N013"/>nit weiters bemühen wurden, so weis ich nit, was ich
       <lb facs="#facs_1_r1l15" n="N014"/>verschuldt, das dis mahl solches vnterbrochen worden.</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="25 v" xml:id="Kasten_blau_44_11_0333.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>Bitt also nochmahlen, konftichhin meintwegen sich im aller-
       <lb facs="#facs_2_r1l3" n="N002"/>geringsten nit zue bemühen, dan mihr die versicherung
       <lb facs="#facs_2_r1l4" n="N003"/>dero vnschäzbahren beharligen lieb vohr alles ist. Dero Liebden werden
       <lb facs="#facs_2_r1l5" n="N004"/>mihr vergeben, das aus lieb vndt sorg dises so vohraus
       <lb facs="#facs_2_r1l6" n="N005"/>geschriben. Izt aber komme, mein schuldigste dankhsagung
       <lb facs="#facs_2_r1l8" n="N006"/>vohr alle gutte wuntsch auf das herzligste abzulegen, dero Liebden
-      <lb facs="#facs_2_r1l9" n="N007"/>könen versich<supplied >e</supplied>rt sein, das alles, was der guttigste gott mihr
+      <lb facs="#facs_2_r1l9" n="N007"/>könen versich<supplied>e</supplied>rt sein, das alles, was der guttigste gott mihr
       <lb facs="#facs_2_r1l10" n="N008"/>aus seiner barmherzichkeit verleyen wirt, verlange an
       <lb facs="#facs_2_r1l11" n="N009"/>zue wenden zu dero Liebden dienst, wünschendt von seiner <choice><expan>göttlichen</expan><abbr>gott</abbr></choice> <unclear>mt</unclear>,
       <lb facs="#facs_2_r1l12" n="N010"/>durch vnzahlbare iahr dero Liebden mit bestendigen wollstandt vnd

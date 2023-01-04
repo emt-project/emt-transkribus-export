@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0817.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0817.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-03-17"></origDate></origin>
+                        <origin><origDate when-iso="1690-03-17"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1690-03-17"></date>
+               <date when-iso="1690-03-17"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1250" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1250px"/>
+    <graphic url="Kasten_blau_45_15_0817.jpg" width="800px" height="1250px"/>
     <zone points="25,312 25,1232 759,1232 759,312" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="56,366 764,348 764,279 356,290 235,265 97,313 56,304" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="39,421 123,401 192,423 274,394 363,423 452,386 758,400 758,365 607,369 578,350 459,377 369,350 235,379 39,369" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1231" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1231px"/>
+    <graphic url="Kasten_blau_45_15_0818.jpg" width="800px" height="1231px"/>
     <zone points="50,68 50,1153 775,1153 775,68" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="69,107 249,121 380,94 733,113 750,110 750,22 418,22 316,74 69,37" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="61,161 258,147 292,165 324,140 446,142 620,172 737,148 727,106 500,94 294,123 60,108" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -146,7 +142,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1269" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1269px"/>
+    <graphic url="Kasten_blau_45_15_0819.jpg" width="800px" height="1269px"/>
     <zone points="18,61 18,1222 763,1222 763,61" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="19,121 186,119 218,96 254,117 483,97 744,113 751,15 17,33" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="18,186 186,145 257,180 373,146 729,160 728,116 677,112 633,129 568,109 437,127 397,106 18,124" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -164,31 +160,31 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="160 r" xml:id="Kasten_blau_45_15_0817.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 3ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice> respect empfangen
       <lb facs="#facs_1_r1l3" n="N003"/>wie auch, weil die post heündt früen als sonst an-
       <lb facs="#facs_1_r1l4" n="N004"/>kommen, eins vom 7ten dis, daruohr ich <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh
       <lb facs="#facs_1_r1l5" n="N005"/>erstatte, bittent den almechtigen, das er ewer Durchlaucht
-      <lb facs="#facs_1_r1l6" n="N006"/>vernershin in bestendigem woh<supplied >l</supplied>standt erhalten wolle
-      <lb facs="#facs_1_r1l7" n="N007"/>vnd ich balt die gnad haben <supplied >werde,</supplied> ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> zu be-
+      <lb facs="#facs_1_r1l6" n="N006"/>vernershin in bestendigem woh<supplied>l</supplied>standt erhalten wolle
+      <lb facs="#facs_1_r1l7" n="N007"/>vnd ich balt die gnad haben <supplied>werde,</supplied> ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> zu be-
       <lb facs="#facs_1_r1l8" n="N008"/>dienen. Mit ihr Mayestät aug ist gottob wider ganz gutt.
       <lb facs="#facs_1_r1l9" n="N009"/>Wegen der polnischen sach, weil der Schirofski schon
       <lb facs="#facs_1_r1l10" n="N010"/>drinnen ist, also vermeinen ihr Mayestät, sey iezt
       <lb facs="#facs_1_r1l11" n="N011"/>niks anderst zue duen, bis er einige nachricht von
       <lb facs="#facs_1_r1l12" n="N012"/>seiner verichtung geben wirt. Wegen <choice><expan>bruder</expan><abbr>br</abbr></choice> Pfilipp Wilhelm
       <lb facs="#facs_1_r1l13" n="N013"/>reis werden ewer Durchlaucht auch schon mein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> antwort
-      <lb facs="#facs_1_r1l14" n="N014"/>empfangen haben. Es erfrewet mich von herz<supplied >en</supplied> zue vernemmen,
-      <lb facs="#facs_1_r1l15" n="N015"/>das die Königin in Portugal wider in einer hofnung <supplied >ist</supplied>.
+      <lb facs="#facs_1_r1l14" n="N014"/>empfangen haben. Es erfrewet mich von herz<supplied>en</supplied> zue vernemmen,
+      <lb facs="#facs_1_r1l15" n="N015"/>das die Königin in Portugal wider in einer hofnung <supplied>ist</supplied>.
       <lb facs="#facs_1_r1l16" n="N016"/>Sie halt sich woll, wan nuhr der Mansfelt balt hinein
       <lb facs="#facs_1_r1l17" n="N017"/>kem, sie förcht sonst, wegen der heirat möchtens die fran-
       <lb facs="#facs_1_r1l18" n="N018"/>zosen imbrogliren, wans nit balt geschicht, gott gebs, das</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l1" n="N001"/><supplied >die</supplied> Königin balt in Schpanien komme. Der Kramprecht schreibt,
+    <pb facs="#facs_2" n="160 v" xml:id="Kasten_blau_45_15_0818.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l1" n="N001"/><supplied>die</supplied> Königin balt in Schpanien komme. Der Kramprecht schreibt,
       <lb facs="#facs_2_r1l2" n="N002"/>das sie noch den 22ten in Engelandt wahre, gott geb sein
       <lb facs="#facs_2_r1l3" n="N003"/>gnad. Hierbey überschikh <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> die deciffrirte brif aus Schpanien,
       <lb facs="#facs_2_r1l4" n="N004"/>werd ins könftige der <choice><expan>gnädigen</expan><abbr>g</abbr></choice> befehl beobachten vnd allzeit
@@ -210,19 +206,19 @@
       <lb facs="#facs_2_r1l20" n="N020"/>gehört, das er nit solt das regiment acceptiren,
       <lb facs="#facs_2_r1l21" n="N021"/>vnd glaub es auch nit, werde aber auf alle weis
       <lb facs="#facs_2_r1l22" n="N022"/>den Prinzen ihr  Mayestät bestermaßen reccomendiren. Von</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="161 r" xml:id="Kasten_blau_45_15_0819.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>Werka haben ihr Mayestät schon zwey mahl schreiben aus dem Hag,
-      <lb facs="#facs_3_r1l2" n="N002"/>wan gleich noch der primarius nit dort <supplied >ist</supplied>, könte er schon
+      <lb facs="#facs_3_r1l2" n="N002"/>wan gleich noch der primarius nit dort <supplied>ist</supplied>, könte er schon
       <lb facs="#facs_3_r1l3" n="N003"/>in negotiis vort fahren. Er schreibt aber, das der
       <lb facs="#facs_3_r1l4" n="N004"/>englische noch kein volmacht hab von seinem König,
       <lb facs="#facs_3_r1l5" n="N005"/>an disem stekts allein, gott gebe glükhlige operationes.
-      <lb facs="#facs_3_r1l6" n="N006"/>In deßen schuz ich ewer Durchlaucht <supplied >und</supplied> mich in dero beharlige
+      <lb facs="#facs_3_r1l6" n="N006"/>In deßen schuz ich ewer Durchlaucht <supplied>und</supplied> mich in dero beharlige
       <lb facs="#facs_3_r1l7" n="N007"/><choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> empfehlent vndt ersterbe
       <lb facs="#facs_3_r1l8" n="N008"/>ewer Durchlaucht
-      <lb facs="#facs_3_r1l9" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied >e</supplied>wg<supplied >e</supplied>ho<supplied >r</supplied>samste do<supplied >c</supplied>hter
+      <lb facs="#facs_3_r1l9" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wg<supplied>e</supplied>ho<supplied>r</supplied>samste do<supplied>c</supplied>hter
       <lb facs="#facs_3_r1l11" n="N010"/>Eleonora
-      <lb facs="#facs_3_r1l10" n="N011"/>Wien den 17ten m<supplied >e</supplied>rz 1690</ab>
+      <lb facs="#facs_3_r1l10" n="N011"/>Wien den 17ten m<supplied>e</supplied>rz 1690</ab>
   </div>
 </body>
 

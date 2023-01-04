@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0437.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0437.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-09-21"></origDate></origin>
+                        <origin><origDate when-iso="1688-09-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#">Friedrichsburg</placeName>
-               <date  when-iso="1688-09-21"></date>
+               <date when-iso="1688-09-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1289" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1289px"/>
+    <graphic url="Kasten_blau_45_15_0437.jpg" width="800px" height="1289px"/>
     <zone points="49,88 49,955 355,955 355,88" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="89,125 109,130 142,120 160,132 171,125 197,135 225,122 267,133 292,122 360,132 361,72 282,65 255,81 214,80 164,97 128,69 90,70" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="131,228 166,230 186,221 197,226 209,217 245,220 254,227 275,220 275,184 236,184 217,166 199,163 192,169 181,165 163,171 151,164 141,169 131,167" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -160,7 +156,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1273" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1273px"/>
+    <graphic url="Kasten_blau_45_15_0438.jpg" width="800px" height="1273px"/>
     <zone points="92,1141 92,1272 102,1272 102,1141" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="87,1253 93,1254 99,1253 101,1255 107,1255 107,1213 101,1214 92,1206 87,1206" rendition="Line" xml:id="facs_2_r1l1"/>
       </zone>
@@ -186,10 +182,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="245 r" xml:id="Kasten_blau_45_15_0437.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>ihr Mayestät die esiserin
       <lb facs="#facs_1_r1l2" n="N002"/>dignshundtigen
       <lb facs="#facs_1_r1l3" n="N003"/>ot sein denigen dirnkh
@@ -211,7 +207,7 @@
       <lb facs="#facs_1_r1l19" n="N019"/>
       <lb facs="#facs_1_r1l20" n="N020"/>cndtes w pecomi
       <lb facs="#facs_1_r1l21" n="N021"/>feos grgesh geschehrn</ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>allerderchlechtigste 
       <lb facs="#facs_1_r2l2" n="N002"/>b
       <lb facs="#facs_1_r2l3" n="N003"/>nit grösen frindeg herbiens 
@@ -247,12 +243,12 @@
       <lb facs="#facs_1_r2l33" n="N033"/>nechsthin brist erhalten das die vrigin en
       <lb facs="#facs_1_r2l34" n="N034"/>wis gan frischen vndt gesendtn sres hr
       <lb facs="#facs_1_r2l35" n="N035"/></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="245 v" xml:id="Kasten_blau_45_15_0438.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/></ab>
-    <ab facs="#facs_2_r2" >
+    <ab facs="#facs_2_r2">
       <lb facs="#facs_2_r2l1" n="N001"/>h</ab>
-    <ab facs="#facs_2_r3" >
+    <ab facs="#facs_2_r3">
       <lb facs="#facs_2_r3l1" n="N001"/>mein gleüchserb s e ae eretho rbe
       <lb facs="#facs_2_r3l2" n="N002"/>gesagnnder libsfrcht gükhliod
       <lb facs="#facs_2_r3l3" n="N003"/>bundten tendt mit einem sehasgen berdt stnkh

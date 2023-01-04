@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0049.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0049.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-06-11"></origDate></origin>
+                        <origin><origDate when-iso="1686-06-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1686-06-11"></date>
+               <date when-iso="1686-06-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="1692" lry="2530" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1692px" height="2530px"/>
+    <graphic url="Kasten_blau_44_2d_0049.jpg" width="1692px" height="2530px"/>
     <zone points="104,319 1607,319 1621,1778 118,1778" rendition="TextRegion" xml:id="facs_1_region_1669631101461_93">
         <zone points="224,556 755,592 872,534 1060,577 1365,505 1518,527 1626,491 1624,401 885,389 740,476 220,398" rendition="Line" xml:id="facs_1_line_1669631131161_100"/>
         <zone points="224,740 769,647 924,718 1086,645 1549,659 1532,540 698,597 371,541 215,585" rendition="Line" xml:id="facs_1_line_1669631140471_105"/>
@@ -115,21 +111,21 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_region_1669631101461_93" >
-      <lb facs="#facs_1_line_1669631131161_100" n="N001"/>Durchleüchtiger Fürst, herz allerlibster br<supplied >u</supplied>der
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0049.jpg"/>
+    <ab facs="#facs_1_region_1669631101461_93">
+      <lb facs="#facs_1_line_1669631131161_100" n="N001"/>Durchleüchtiger Fürst, herz allerlibster br<supplied>u</supplied>der
       <lb facs="#facs_1_line_1669631140471_105" n="N002"/>Schikh herbey die verschprochene tagzettel,
       <lb facs="#facs_1_line_1669631149473_110" n="N003"/>hab aber nit zeit zue schreiben. Befill
       <lb facs="#facs_1_line_1669631157534_115" n="N004"/>mich meiner Erzherzogin, mus gehen, ist
-      <lb facs="#facs_1_line_1669631165746_120" n="N005"/>gala vnd hab <unclear>fowen</unclear> seint schon die schp<supplied >e</supplied>is
-      <lb facs="#facs_1_line_1669631169551_125" n="N006"/>begert, i<supplied >c</supplied>h sterb
+      <lb facs="#facs_1_line_1669631165746_120" n="N005"/>gala vnd hab <unclear>fowen</unclear> seint schon die schp<supplied>e</supplied>is
+      <lb facs="#facs_1_line_1669631169551_125" n="N006"/>begert, i<supplied>c</supplied>h sterb
       <lb facs="#facs_1_line_1669631172212_130" n="N007"/>dero Liebden
-      <lb facs="#facs_1_line_1669631180145_140" n="N008"/>g<supplied >e</supplied>trewste schwe<supplied >s</supplied>ter
+      <lb facs="#facs_1_line_1669631180145_140" n="N008"/>g<supplied>e</supplied>trewste schwe<supplied>s</supplied>ter
       <lb facs="#facs_1_line_1669631192191_145" n="N009"/>EMT
       <lb facs="#facs_1_line_1669631176790_135" n="N010"/>Wien den 11ten julij 1686</ab>
-    <ab facs="#facs_1_r2" />
+    <ab facs="#facs_1_r2"/>
   </div>
 </body>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0791.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0791.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-09-12"></origDate></origin>
+                        <origin><origDate when-iso="1689-09-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-09-12"></date>
+               <date when-iso="1689-09-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1265" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1265px"/>
+    <graphic url="Kasten_blau_45_15_0791.jpg" width="800px" height="1265px"/>
     <zone points="57,420 57,1184 772,1184 772,420" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="128,462 364,470 467,446 620,484 690,456 768,460 769,408 606,380 411,410 252,374 155,425 129,419" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="91,503 131,492 170,523 241,526 285,508 308,527 353,504 749,501 749,464 720,458 616,483 468,446 360,474 173,477 92,441" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -116,7 +112,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1282" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1282px"/>
+    <graphic url="Kasten_blau_45_15_0790.jpg" width="800px" height="1282px"/>
     <zone points="20,135 20,1263 779,1263 779,135" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="34,196 121,204 160,176 352,190 404,159 625,184 721,161 720,131 683,115 520,126 411,100 244,136 32,103" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="33,273 130,237 289,259 373,228 470,241 524,218 605,241 751,208 749,168 691,194 518,167 425,202 211,185 141,216 30,196" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -147,10 +143,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="145 v" xml:id="Kasten_blau_45_15_0791.jpg" ed="561 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Mitt diser guetten gelegenheit des Carl Cammerfourirs
       <lb facs="#facs_1_r1l3" n="N003"/>hab ich nit vnterlaßen wollen, mein <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> schuldichkeit
@@ -165,30 +161,30 @@
       <lb facs="#facs_1_r1l12" n="N012"/>empfangen haben. Dise wochen ist aber nit möglich
       <lb facs="#facs_1_r1l13" n="N013"/>wegen der tedeum. Am donnerstach haltens ihr
       <lb facs="#facs_1_r1l14" n="N014"/>Mayestät darumb nit, weil an werkdag wehnig leüt</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="145 r" xml:id="Kasten_blau_45_15_0790.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>darbey sich einfinden werden, auch gestren
       <lb facs="#facs_2_r1l2" n="N002"/>schon auf den kanzlen auf den sontag verkündt
       <lb facs="#facs_2_r1l3" n="N003"/>ist worden, das mans also nit mehr endren
       <lb facs="#facs_2_r1l4" n="N004"/>kan. Ist auch die reis noch nit vollich resoluirt,
-      <lb facs="#facs_2_r1l5" n="N005"/>dan mihr noch nit recht wißen wegen der König<supplied >i</supplied>n,
+      <lb facs="#facs_2_r1l5" n="N005"/>dan mihr noch nit recht wißen wegen der König<supplied>i</supplied>n,
       <lb facs="#facs_2_r1l6" n="N006"/>wie ich schon geschriben, werde aber heünt oder
       <lb facs="#facs_2_r1l7" n="N007"/>lengst morgen ein courir mit der volligen
       <lb facs="#facs_2_r1l8" n="N008"/>resolution vnd fourir zettel schiken. Heündt
       <lb facs="#facs_2_r1l9" n="N009"/>wirt die conferenz in der polnischen sach
       <lb facs="#facs_2_r1l10" n="N010"/>auch werden. Gestren hatt <choice><expan>Pater</expan><abbr>P</abbr></choice> Marcus den segen
       <lb facs="#facs_2_r1l11" n="N011"/>auf dem plaz geben, woh ein vnsäglige menge
-      <lb facs="#facs_2_r1l12" n="N012"/>volks wahr, seindt dorten etlige <seg type="comment">cr<supplied >u</supplied>mpe</seg> gerad
-      <lb facs="#facs_2_r1l13" n="N013"/>worden vnd <supplied >haben</supplied> die kruken wekh geworfen. Zwey maner
+      <lb facs="#facs_2_r1l12" n="N012"/>volks wahr, seindt dorten etlige <seg type="comment">cr<supplied>u</supplied>mpe</seg> gerad
+      <lb facs="#facs_2_r1l13" n="N013"/>worden vnd <supplied>haben</supplied> die kruken wekh geworfen. Zwey maner
       <lb facs="#facs_2_r1l14" n="N014"/>hatt der Cuhrfürstin pagi mit sein augen gesehen,
       <lb facs="#facs_2_r1l15" n="N015"/>vnd der Königin cammerdiener ein weib, das 15
       <lb facs="#facs_2_r1l16" n="N016"/>iahr auf hent vnd fües krochen, ist gleich
       <lb facs="#facs_2_r1l17" n="N017"/>aufgestanden vnd geradt gangen. Man wirts
       <lb facs="#facs_2_r1l18" n="N018"/>aber autentisch nachfragen vnd examiniren, gott
       <lb facs="#facs_2_r1l19" n="N019"/>sey gelobt, der ist wunderbarlich in seinen dienern.
-      <lb facs="#facs_2_r1l20" n="N020"/>Due mich hermit <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied >e</supplied>hlen vnd werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_2_r1l20" n="N020"/>Due mich hermit <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied>e</supplied>hlen vnd werde ste<supplied>r</supplied>ben
       <lb facs="#facs_2_line_1651502701579_161" n="N021"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1651502716564_165" n="N022"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_2_line_1651502716564_165" n="N022"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l25" n="N023"/>EMT
       <lb facs="#facs_2_r1l24" n="N024"/>Augschpurg den 12ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1689</ab>
   </div>

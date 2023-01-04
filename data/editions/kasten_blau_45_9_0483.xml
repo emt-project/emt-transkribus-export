@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0483.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0483.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1202px"/>
+    <graphic url="Kasten_blau_45_9_0483.jpg" width="800px" height="1202px"/>
     <zone points="12,195 12,1199 777,1199 777,195" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="105,243 304,269 391,236 586,250 771,218 770,191 606,206 450,181 408,198 346,180 287,208 199,195 155,222 105,209" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="104,329 198,285 380,318 476,277 633,313 750,305 765,243 682,260 518,230 477,253 401,242 369,266 280,272 102,244" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1193" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1193px"/>
+    <graphic url="Kasten_blau_45_9_0484.jpg" width="800px" height="1193px"/>
     <zone points="62,102 62,1068 780,1068 780,102" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="63,141 137,158 227,134 307,155 368,130 436,152 491,132 702,162 724,159 725,108 665,116 622,95 566,115 503,90 440,117 384,82 305,76 167,109 64,84" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="69,186 319,203 348,179 521,213 559,185 668,209 764,194 764,163 689,180 603,152 351,161 226,135 69,162" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -145,10 +141,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="285 r" xml:id="Kasten_blau_45_9_0483.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab mit großen freüden so woll aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben
       <lb facs="#facs_1_r1l3" n="N003"/>vom 16ten pasato als vom 18ten durch den Cammerdiener
@@ -162,13 +158,13 @@
       <lb facs="#facs_1_r1l11" n="N011"/>sontag geschen wirt, mit dem Stratman draus reden.
       <lb facs="#facs_1_r1l12" n="N012"/>Ich höre aber, ins könftig sey es schon ein-
       <lb facs="#facs_1_r1l13" n="N013"/>gericht, werde mich befleis, allezeit ewer Durchlaucht <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> 
-      <lb facs="#facs_1_r1l14" n="N014"/>befeh<supplied >l</supplied>chen nachzueleben, was ich werde können. Wegen
+      <lb facs="#facs_1_r1l14" n="N014"/>befeh<supplied>l</supplied>chen nachzueleben, was ich werde können. Wegen
       <lb facs="#facs_1_r1l15" n="N015"/>Brandenburg glaubs ich woll, auch das ihr Mayestät, wan
       <lb facs="#facs_1_r1l16" n="N016"/>sie werden können, auch <add>auf</add> alle weis werden suechen selbigen
       <lb facs="#facs_1_r1l17" n="N017"/>herrn zue gewinnen. Deralmechtige woll vns verners
       <lb facs="#facs_1_r1l19" n="N018"/>beystehn wie bis dato in disem krieg, dan heünt wider</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="285 v" xml:id="Kasten_blau_45_9_0484.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>die guette zeitung kommen, das Caschaw sich ergeben,
       <lb facs="#facs_2_r1l2" n="N002"/>auch die türken den Tekeli gefangen vnd auf Adria-
       <lb facs="#facs_2_r1l3" n="N003"/>nopel geschikt. Also seint die übrigen rebellen
@@ -177,7 +173,7 @@
       <lb facs="#facs_2_r1l6" n="N006"/>ewich gedankt. Die türken haben auch Zolnokh verlaßen,
       <lb facs="#facs_2_r1l7" n="N007"/>aber nit verderbt, das die vnserigen noch prouiant
       <lb facs="#facs_2_r1l8" n="N008"/>vnd munition drin gefunden. Sie haben iezt ein anders
-      <lb facs="#facs_2_r1l9" n="N009"/>ort vohr bey Erla, welches sie aber meinen, <supplied >dass</supplied> auch kein
+      <lb facs="#facs_2_r1l9" n="N009"/>ort vohr bey Erla, welches sie aber meinen, <supplied>dass</supplied> auch kein
       <lb facs="#facs_2_r1l10" n="N010"/>resistenz wirt duen, damit wirt Erla blokirt sein vnd
       <lb facs="#facs_2_r1l11" n="N011"/>die dasigen leüt quartier haben. Mit dem Josephl
       <lb facs="#facs_2_r1l12" n="N012"/>hatt noch die endrung nit geschen können, weil noch

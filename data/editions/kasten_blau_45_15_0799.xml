@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0799.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0799.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-10-05"></origDate></origin>
+                        <origin><origDate when-iso="1689-10-05"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-10-05"></date>
+               <date when-iso="1689-10-05"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1232" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1232px"/>
+    <graphic url="Kasten_blau_45_15_0799.jpg" width="800px" height="1232px"/>
     <zone points="41,399 41,1221 760,1221 760,399" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="132,467 174,456 318,484 467,442 526,465 765,424 763,384 709,371 668,397 544,378 490,414 271,388 131,434" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="76,489 209,516 257,498 336,517 512,495 626,517 676,495 738,503 724,447 636,448 592,474 477,446 444,473 322,486 74,445" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -116,7 +112,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1221" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1221px"/>
+    <graphic url="Kasten_blau_45_15_0800.jpg" width="800px" height="1221px"/>
     <zone points="42,26 42,1202 797,1202 797,26" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="55,44 660,5 758,16 783,27 784,114 56,116" rendition="Line" xml:id="facs_2_line_1651512053802_467"/>
         <zone points="72,162 132,147 171,173 279,136 399,155 512,131 765,133 764,101 679,89 540,111 251,91 71,120" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -143,7 +139,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1255" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1255px"/>
+    <graphic url="Kasten_blau_45_15_0801.jpg" width="800px" height="1255px"/>
     <zone points="14,62 14,1207 767,1207 767,62" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="31,54 456,16 751,10 774,22 771,131 93,137 36,129" rendition="Line" xml:id="facs_3_line_1651514053605_513"/>
         <zone points="29,171 132,174 189,148 365,174 429,146 483,169 632,155 681,175 724,164 723,108 425,126 342,103 286,131 232,102 128,137 28,129" rendition="Line" xml:id="facs_3_r1l3"/>
@@ -159,10 +155,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="150 r" xml:id="Kasten_blau_45_15_0799.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster her vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab mit <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> respect ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
       <lb facs="#facs_1_r1l3" n="N003"/>durch den Stratman empfangen vnd von beden mit meiner
@@ -177,8 +173,8 @@
       <lb facs="#facs_1_r1l12" n="N012"/>zue warm gewest, wie mihr dorten waren. Due auch
       <lb facs="#facs_1_r1l13" n="N013"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> berichten, wie das der almechtige
       <lb facs="#facs_1_r1l14" n="N014"/>güettigste gott abermahl sein almacht erwißen</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="150 v" xml:id="Kasten_blau_45_15_0800.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_line_1651512053802_467" n="N001"/>erwißen, in dem der türkh <unclear>40 000</unclear> starkh bey Niha retranchirter <add>vnd auf ein berg</add>
       <lb facs="#facs_2_r1l3" n="N002"/>gestanden, vnsere aber nuhr <unclear>15 000</unclear> combatenti <seg type="blackening">vnsere</seg> aber
       <lb facs="#facs_2_r1l4" n="N003"/>durch ein vmbweg ihm in ruken kommen, woh das
@@ -201,8 +197,8 @@
       <lb facs="#facs_2_r1l21" n="N020"/>gott zeigt, das er allein alles duen will, dan dis recht
       <lb facs="#facs_2_r1l22" n="N021"/>miraculos ist, vnd ist die macht nit in der
       <lb facs="#facs_2_r1l23" n="N022"/>menge des volks, sondren in dem starken arm gottes,</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="151 r" xml:id="Kasten_blau_45_15_0801.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_line_1651514053605_513" n="N001"/>der geb auch balt ein gutte zeitung von Bonn,
       <lb facs="#facs_3_r1l3" n="N002"/>waran ich nit zweifle. <choice><expan>Pater</expan><abbr>P</abbr></choice> Marc geht morgen wekh
       <lb facs="#facs_3_r1l4" n="N003"/>auf Neüburg, hab ihn mit harter müe darzu persua-

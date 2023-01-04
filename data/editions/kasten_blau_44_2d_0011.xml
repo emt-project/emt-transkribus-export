@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0011.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0011.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-05-02"></origDate></origin>
+                        <origin><origDate when-iso="1679-05-02"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-05-02"></date>
+               <date when-iso="1679-05-02"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1213" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1213px"/>
+    <graphic url="Kasten_blau_44_2d_0011.jpg" width="800px" height="1213px"/>
     <zone points="16,282 16,1192 761,1192 761,282" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="132,330 232,322 301,347 326,326 377,339 423,319 564,341 716,307 715,283 648,271 572,293 512,272 297,288 206,252 131,252" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="108,384 265,382 289,364 330,396 416,368 564,388 598,364 725,354 713,307 553,347 472,324 436,350 402,328 301,349 232,322 107,316" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -122,10 +118,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0011.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r1l2" n="N002"/>Es ist mihr zwahr von herzen leidt, das
       <lb facs="#facs_1_r1l3" n="N003"/>mit der lieben Erzherzogin wider aus der
@@ -140,7 +136,7 @@
       <lb facs="#facs_1_r1l12" n="N012"/>wetter werde bey ihnen beßer sein als hier,
       <lb facs="#facs_1_r1l13" n="N013"/>damit sie ein schpaß können haben. Ich mues
       <lb facs="#facs_1_r1l14" n="N014"/>schlißen, der Doctor macht mich doll vmb die
-      <lb facs="#facs_1_r1l15" n="N015"/>brif. Ich st<supplied >e</supplied>rbe
+      <lb facs="#facs_1_r1l15" n="N015"/>brif. Ich st<supplied>e</supplied>rbe
       <lb facs="#facs_1_line_1640285711991_931" n="N016"/>dero Liebden
       <lb facs="#facs_1_r1l16" n="N017"/>getreweste schwester
       <lb facs="#facs_1_r1l18" n="N018"/>EMT

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0688.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0688.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-05-11"></origDate></origin>
+                        <origin><origDate when-iso="1689-05-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1689-05-11"></date>
+               <date when-iso="1689-05-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1215" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1215px"/>
+    <graphic url="Kasten_blau_45_15_0688.jpg" width="800px" height="1215px"/>
     <zone points="37,394 37,1163 757,1163 757,394" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="151,421 205,429 233,456 456,420 537,444 757,433 757,378 541,357 439,382 378,361 267,373 152,340" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="105,489 310,502 392,474 601,473 654,498 758,491 751,431 537,444 472,427 224,461 105,410" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -118,10 +114,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="82 r" xml:id="Kasten_blau_45_15_0688.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht nochmahlen zue condoliren über den bedrübten
       <lb facs="#facs_1_r1l3" n="N003"/>hintrit vnserer lieben Erzherzogin Maria Anna,
@@ -134,7 +130,7 @@
       <lb facs="#facs_1_r1l10" n="N010"/>andren consolationen dises ersezen wolle. Mich in dero
       <lb facs="#facs_1_r1l11" n="N011"/><choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfelendt sterbe
       <lb facs="#facs_1_line_1648566134014_310" n="N012"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l14" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l14" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l16" n="N014"/>EMT
       <lb facs="#facs_1_r1l15" n="N015"/>Laxenburg den 11ten maij 1689</ab>
   </div>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0855.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0855.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-05-07"></origDate></origin>
+                        <origin><origDate when-iso="1690-05-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1690-05-07"></date>
+               <date when-iso="1690-05-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1236" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1236px"/>
+    <graphic url="Kasten_blau_45_15_0855.jpg" width="800px" height="1236px"/>
     <zone points="27,343 27,1184 759,1184 759,343" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="59,393 355,405 449,378 554,393 764,369 763,336 630,340 584,311 511,339 385,315 348,346 268,319 97,281" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="49,464 125,436 303,463 337,442 455,459 540,434 579,450 743,431 730,369 643,401 483,377 294,409 262,388 214,410 149,377 47,387" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -116,7 +112,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1244" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1244px"/>
+    <graphic url="Kasten_blau_45_15_0856.jpg" width="800px" height="1244px"/>
     <zone points="55,63 55,835 772,835 772,63" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="66,105 332,90 434,110 459,92 538,124 755,94 755,56 442,43 385,70 324,40 273,73 150,47 66,62" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="61,173 229,168 280,144 392,177 631,141 747,153 746,114 704,103 577,131 473,103 352,122 252,97 60,118" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -137,10 +133,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="184 r" xml:id="Kasten_blau_45_15_0855.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Weil der Fürst von Dietrichsten schon vereist, so werd
       <lb facs="#facs_1_r1l3" n="N003"/>villeicht dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben etwas schpeter bekommen.
@@ -153,23 +149,23 @@
       <lb facs="#facs_1_r1l10" n="N010"/>auf befinden. Heündt ist ein curir von
       <lb facs="#facs_1_r1l11" n="N011"/>Madrit kommen, bringt aber keine brif von der
       <lb facs="#facs_1_line_1652452654176_779" n="N012"/>Königin <add>oder iemant von ihrer suite</add>, sondern der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Wallenstein bericht, das sie
-      <lb facs="#facs_1_r1l14" n="N013"/>in der Corugna ankommen <supplied >sind</supplied>. Der König hatt iren
+      <lb facs="#facs_1_r1l14" n="N013"/>in der Corugna ankommen <supplied>sind</supplied>. Der König hatt iren
       <lb facs="#facs_1_r1l15" n="N014"/>Obrist Hoffmeister abgesezt, weil er ihr nit gleich
       <lb facs="#facs_1_r1l17" n="N015"/>entgegen gangen. Die überliverung haben der</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="184 v" xml:id="Kasten_blau_45_15_0856.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Deütschmeister, Mansfelt vnd Russel gedahn, ist alles voller
       <lb facs="#facs_2_r1l2" n="N002"/>freüden. Ich hoff, die andren bede curir vom König
       <lb facs="#facs_2_r1l3" n="N003"/>vnd Mansfelt werden auch balt kommen,
       <lb facs="#facs_2_line_1652452916465_796" n="N004"/>dan diser hatt sich durch Marsillien <unclear>???</unclear> <add>practicirt</add>
-      <lb facs="#facs_2_r1l6" n="N005"/><supplied >und</supplied> vohr ein venediger ausgeben, mit den andern werds
+      <lb facs="#facs_2_r1l6" n="N005"/><supplied>und</supplied> vohr ein venediger ausgeben, mit den andern werds
       <lb facs="#facs_2_r1l7" n="N006"/>noch mehr particulariteten haben. Ihr conterfet in
       <lb facs="#facs_2_r1l8" n="N007"/>der schpanischen dracht hat der Kenig zeigen laßen, sey ein
       <lb facs="#facs_2_r1l9" n="N008"/>großer iubel vnd zuelauf geweßt. Die zeit
       <lb facs="#facs_2_r1l10" n="N009"/>erleit auf dismahl nit mehrers, überschik den
-      <lb facs="#facs_2_r1l11" n="N010"/>brif <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aus Schanien vnd ste<supplied >r</supplied>be
+      <lb facs="#facs_2_r1l11" n="N010"/>brif <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aus Schanien vnd ste<supplied>r</supplied>be
       <lb facs="#facs_2_r1l12" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l14" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghors</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_2_r1l14" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghors</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_2_r1l15" n="N013"/>Eleonora
       <lb facs="#facs_2_r1l13" n="N014"/>Laxenburg den 7ten maij 1690</ab>
   </div>

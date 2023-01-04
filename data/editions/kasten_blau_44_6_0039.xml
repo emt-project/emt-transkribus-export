@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0039.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0039.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-06-16"></origDate></origin>
+                        <origin><origDate when-iso="1689-06-16"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1689-06-16"></date>
+               <date when-iso="1689-06-16"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1228" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1228px"/>
+    <graphic url="Kasten_blau_44_6_0039.jpg" width="800px" height="1228px"/>
     <zone points="32,83 32,1211 750,1211 750,83" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="42,371 170,395 296,368 377,385 537,354 609,364 724,347 723,281 334,270 189,305 40,275" rendition="Line" xml:id="facs_1_r2l2"/>
         <zone points="31,442 227,420 351,449 394,424 489,442 601,416 673,435 712,412 712,371 359,388 314,372 166,396 102,370 30,392" rendition="Line" xml:id="facs_1_r2l3"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1212" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1212px"/>
+    <graphic url="Kasten_blau_44_6_0040.jpg" width="800px" height="1212px"/>
     <zone points="73,108 73,435 692,435 692,108" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="69,167 157,185 212,157 307,187 352,167 478,165 521,144 565,155 564,122 529,104 369,127 282,99 233,120 174,98 116,128 68,117" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="133,261 144,259 157,269 164,271 168,267 179,272 199,251 211,255 240,246 232,187 219,184 210,188 194,183 181,196 171,197 148,221 129,226" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -125,7 +121,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1243" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1243px"/>
+    <graphic url="Kasten_blau_44_6_0041.jpg" width="800px" height="1243px"/>
     <zone points="418,718 418,859 767,859 767,718" rendition="TextRegion" xml:id="facs_3_r2">
         <zone points="502,834 536,837 549,827 564,834 589,825 616,833 632,826 668,839 710,819 721,827 740,819 737,772 703,798 646,783 622,791 583,772 552,791 500,796" rendition="Line" xml:id="facs_3_r2l3"/>
         <zone points="422,795 497,800 518,786 546,795 594,773 622,791 671,780 706,799 733,781 772,781 770,736 725,755 687,739 651,763 614,735 580,751 552,741 478,777 421,777" rendition="Line" xml:id="facs_3_r2l2"/>
@@ -135,12 +131,12 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
-      <lb facs="#facs_1_r2l2" n="N001"/>Durchleüchtiger Fürst, h<supplied >er</supplied>zallerliebster herr brueder
-      <lb facs="#facs_1_r2l3" n="N002"/>Ich hab dero liebs sch<supplied >re</supplied>iben durch den <choice><expan>Grav</expan><abbr>Gr</abbr></choice> von Lamberg
+    <pb facs="#facs_1" n="27 r" xml:id="Kasten_blau_44_6_0039.jpg"/>
+    <ab facs="#facs_1_r2">
+      <lb facs="#facs_1_r2l2" n="N001"/>Durchleüchtiger Fürst, h<supplied>er</supplied>zallerliebster herr brueder
+      <lb facs="#facs_1_r2l3" n="N002"/>Ich hab dero liebs sch<supplied>re</supplied>iben durch den <choice><expan>Grav</expan><abbr>Gr</abbr></choice> von Lamberg
       <lb facs="#facs_1_r2l4" n="N003"/>woll empfangen. Dero Liebden derfen sich gahr nit entschuldigen,
       <lb facs="#facs_1_r2l5" n="N004"/>den diße reis gahr guett, so sie gedan, der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> von
       <lb facs="#facs_1_r2l6" n="N005"/>Öting wirt auch schon angelangt sein. Zue der heüntigen
@@ -151,20 +147,20 @@
       <lb facs="#facs_1_r2l11" n="N010"/>ihn alle stundt. Von ihr Durchlaucht, vnsern <choice><expan>gnädigen</expan><abbr>g</abbr></choice> hern vatter,
       <lb facs="#facs_1_r2l12" n="N011"/>werden dero Liebden alles vernemmen, vnd weil sonst hier
       <lb facs="#facs_1_r2l13" n="N012"/>ganz niks gibt dero Liebden zue berichten, also will
-      <lb facs="#facs_1_r2l14" n="N013"/>ich dero Liebden auch nit lenger mit meinen sch<supplied >r</supplied>eiben
-      <lb facs="#facs_1_r2l15" n="N014"/>vngelegenheit machen, sonde<supplied >r</supplied>n mich in</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l1" n="N001"/>dero affection bef<supplied >e</supplied>hlen, die ich st<supplied >e</supplied>rben werde
+      <lb facs="#facs_1_r2l14" n="N013"/>ich dero Liebden auch nit lenger mit meinen sch<supplied>r</supplied>eiben
+      <lb facs="#facs_1_r2l15" n="N014"/>vngelegenheit machen, sonde<supplied>r</supplied>n mich in</ab>
+    <pb facs="#facs_2" n="27 v" xml:id="Kasten_blau_44_6_0040.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l1" n="N001"/>dero affection bef<supplied>e</supplied>hlen, die ich st<supplied>e</supplied>rben werde
       <lb facs="#facs_2_r1l2" n="N002"/>dero Liebden
-      <lb facs="#facs_2_r1l4" n="N003"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l4" n="N003"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l5" n="N004"/>EMT
       <lb facs="#facs_2_r1l3" n="N005"/>Wien den 16ten junij 1689</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r2" >
+    <pb facs="#facs_3" n="28 v" xml:id="Kasten_blau_44_6_0041.jpg"/>
+    <ab facs="#facs_3_r2">
       <lb facs="#facs_3_r2l3" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm
       <lb facs="#facs_3_r2l2" n="N002"/>Pfalzgrauen bey Reyhn, meinem
-      <lb facs="#facs_3_r2l1" n="N003"/>herzallerlibsten herren br<supplied >u</supplied>dern</ab>
+      <lb facs="#facs_3_r2l1" n="N003"/>herzallerlibsten herren br<supplied>u</supplied>dern</ab>
   </div>
 </body>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0363.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0363.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1684-12-14"></origDate></origin>
+                        <origin><origDate when-iso="1684-12-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1684-12-14"></date>
+               <date when-iso="1684-12-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1177" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1177px"/>
+    <graphic url="Kasten_blau_45_9_0363.jpg" width="800px" height="1177px"/>
     <zone points="13,150 13,1176 775,1176 775,150" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="120,201 224,232 390,192 697,193 761,176 759,136 348,141 292,170 179,159 119,182" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="74,260 118,245 218,276 517,228 705,229 753,250 763,175 418,207 391,190 223,232 71,179" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -170,10 +166,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="215 r" xml:id="Kasten_blau_45_9_0363.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht sag ich <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das sie mein <choice><expan>gehorsamen</expan><abbr>g</abbr></choice> wuntsch
       <lb facs="#facs_1_r1l3" n="N003"/>in <choice><expan>gnaden</expan><abbr>gnd</abbr></choice> aufgenommen, ewer Durchlaucht konen <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> versichert sein,
@@ -192,7 +188,7 @@
       <lb facs="#facs_1_r1l16" n="N016"/>rirt. Morgen wirt er das jurament ablegen
       <lb facs="#facs_1_r1l17" n="N017"/>vnd könftigen montag hinein sein reis antretten.</ab>
     <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_region_1671032904180_877" >
+    <ab facs="#facs_2_region_1671032904180_877">
       <lb facs="#facs_2_line_1671032913196_880" n="N001"/>
       <lb facs="#facs_2_line_1671032919130_885" n="N002"/>
       <lb facs="#facs_2_line_1671032924197_890" n="N003"/>
@@ -212,7 +208,7 @@
       <lb facs="#facs_2_line_1671033002804_962" n="N017"/>
       <lb facs="#facs_2_line_1671033008479_967" n="N018"/></ab>
     <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_region_1671033075015_1015" >
+    <ab facs="#facs_3_region_1671033075015_1015">
       <lb facs="#facs_3_line_1671033248010_1020" n="N001"/>erfreut bezeigt vber dise resolution, so ihr Mayestät gefast.
       <lb facs="#facs_3_line_1671033252709_1025" n="N002"/>Er zeigt woll ein große lieb zue vnsern haus wie
       <lb facs="#facs_3_line_1671033257819_1030" n="N003"/>auch ingleichen der Bischoff von Wien vnd Hoffkanzler,
@@ -229,9 +225,9 @@
       <lb facs="#facs_3_line_1671033314629_1080" n="N014"/>die brif an mein bruederen, welche ihn
       <lb facs="#facs_3_line_1671033321564_1085" n="N015"/>nimmer hier angetroffen, wie auch ein von Patter
       <lb facs="#facs_3_line_1671033328740_1090" n="N016"/>Hippolito.</ab>
-    <ab facs="#facs_3_r6" />
-    <ab facs="#facs_3_r8" />
-    <ab facs="#facs_3_r10" />
+    <ab facs="#facs_3_r6"/>
+    <ab facs="#facs_3_r8"/>
+    <ab facs="#facs_3_r10"/>
   </div>
 </body>
 

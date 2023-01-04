@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0321.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0321.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1224" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1224px"/>
+    <graphic url="Kasten_blau_45_15_0321.jpg" width="800px" height="1224px"/>
     <zone points="35,341 35,1168 748,1168 748,341" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="145,431 368,414 414,392 460,412 740,387 748,324 606,344 490,320 365,354 141,348" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="99,505 156,480 328,468 418,496 555,447 696,458 700,406 591,421 298,406 188,419 147,444 95,434" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -116,10 +112,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="173 r" xml:id="Kasten_blau_45_15_0321.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster <unclear>herr</unclear> vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Zue dißen <choice><expan>heilligen</expan><abbr>h</abbr></choice> oster fest ermanet mich
       <lb facs="#facs_1_r1l3" n="N003"/>mein <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> schuldichkeit, ewer Durchlaucht zue dem
@@ -130,7 +126,7 @@
       <lb facs="#facs_1_r1l8" n="N008"/>trost genediglich verleyen vnd absonderlich deren,
       <lb facs="#facs_1_r1l9" n="N009"/>so sterben wirt
       <lb facs="#facs_1_line_1644917243213_107" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l13" n="N012"/>EMT</ab>
   </div>
 </body>

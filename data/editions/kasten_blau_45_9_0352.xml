@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0352.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0352.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1191" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1191px"/>
+    <graphic url="Kasten_blau_45_9_0352.jpg" width="800px" height="1191px"/>
     <zone points="42,83 42,1120 762,1120 762,83" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="49,208 269,199 305,174 434,183 482,155 722,169 719,116 638,113 610,139 550,108 393,136 264,119 230,141 44,133" rendition="Line" xml:id="facs_1_r2l1"/>
         <zone points="77,256 315,216 749,220 746,163 552,161 321,200 136,197 76,223" rendition="Line" xml:id="facs_1_r2l2"/>
@@ -116,10 +112,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="208 r" xml:id="Kasten_blau_45_9_0352.jpg"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r2l2" n="N002"/>Der dag der <choice><expan>heiligen</expan><abbr>h</abbr></choice> Cattarina erküenet mich abermahlen, ewer Durchlaucht
       <lb facs="#facs_1_r2l3" n="N003"/>mit meinen zeilen vngelegenheit zue machen, deroselben zue
@@ -130,7 +126,7 @@
       <lb facs="#facs_1_r2l8" n="N008"/>ewer Durchlaucht selbsten balt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue bedienen, die ich
       <lb facs="#facs_1_r2l9" n="N009"/>sterben werde
       <lb facs="#facs_1_r2l10" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_1_r2l11" n="N011"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> tr<supplied >e</supplied>wgehorsa<supplied >m</supplied>ste d<supplied >o</supplied>chter
+      <lb facs="#facs_1_r2l11" n="N011"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste d<supplied>o</supplied>chter
       <lb facs="#facs_1_r2l12" n="N012"/>EMT</ab>
   </div>
 </body>

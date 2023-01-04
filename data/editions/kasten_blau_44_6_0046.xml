@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0046.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0046.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-12-18"></origDate></origin>
+                        <origin><origDate when-iso="1689-12-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-12-18"></date>
+               <date when-iso="1689-12-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1251" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1251px"/>
+    <graphic url="Kasten_blau_44_6_0046.jpg" width="800px" height="1251px"/>
     <zone points="21,317 21,1198 747,1198 747,317" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="48,395 200,355 283,394 381,358 472,381 726,356 725,299 558,313 499,279 450,296 386,281 324,309 272,286 93,345 47,322" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="43,461 257,410 349,434 461,407 519,439 741,401 740,371 672,350 592,376 512,362 437,397 355,367 281,394 202,354 42,393" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -123,10 +119,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="33 r" xml:id="Kasten_blau_44_6_0046.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleuchtiger Fürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l2" n="N002"/>Ich verhoff, dero Liebden werden meine lezten schreiben mit
       <lb facs="#facs_1_r1l3" n="N003"/>den einschlußen an Deütschmeister vnd Mansfelt
@@ -143,7 +139,7 @@
       <lb facs="#facs_1_r1l14" n="N014"/>resoluirt werden, gott vnd der <choice><expan>heilige</expan><abbr>h</abbr></choice> geist geb sein gnad.
       <lb facs="#facs_1_r1l15" n="N015"/>Ich werde sterben
       <lb facs="#facs_1_line_1643374866764_2178" n="N016"/>dero Liebden
-      <lb facs="#facs_1_r1l18" n="N017"/>getrewste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l18" n="N017"/>getrewste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l20" n="N018"/>Eleonora
       <lb facs="#facs_1_r1l19" n="N019"/>Augschprug den 18ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1689</ab>
   </div>

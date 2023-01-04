@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0354.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0354.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-06-03"></origDate></origin>
+                        <origin><origDate when-iso="1688-06-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1688-06-03"></date>
+               <date when-iso="1688-06-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1248" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1248px"/>
+    <graphic url="Kasten_blau_45_15_0354.jpg" width="800px" height="1248px"/>
     <zone points="11,933 11,1085 21,1085 21,933" rendition="TextRegion" xml:id="facs_1_r1">
       </zone>
     <zone points="17,67 17,1173 762,1173 762,67" rendition="TextRegion" xml:id="facs_1_r2">
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1220" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1220px"/>
+    <graphic url="Kasten_blau_45_15_0355.jpg" width="800px" height="1220px"/>
     <zone points="53,60 53,1206 775,1206 775,60" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="58,91 158,86 212,116 287,87 375,111 428,88 484,112 597,79 740,98 768,87 769,47 57,45" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="64,151 665,161 752,129 752,92 586,121 485,121 455,98 389,124 355,97 286,113 251,95 210,125 141,92 114,109 63,93" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -150,11 +146,11 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" />
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="193 r" xml:id="Kasten_blau_45_15_0354.jpg"/>
+    <ab facs="#facs_1_r1"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l3" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
       <lb facs="#facs_1_r2l4" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in bestem
       <lb facs="#facs_1_r2l5" n="N003"/>wohlstandt befinden, welches mich vnauschprech-
@@ -170,8 +166,8 @@
       <lb facs="#facs_1_r2l17" n="N013"/>wüste, waß er gericht hette. In Sibenbürgen
       <lb facs="#facs_1_r2l18" n="N014"/>seindt gottlob die sachen zimlich stabilirt.
       <lb facs="#facs_1_r2l19" n="N015"/>Mihr werden auch auf könftigen samstag</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="193 v" xml:id="Kasten_blau_45_15_0355.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>widrumb auf Wien. Heündt seindt die kinder
       <lb facs="#facs_2_r1l2" n="N002"/>heraußen, gehen izt ein wehnig schpaziren. Sie sein
       <lb facs="#facs_2_r1l3" n="N003"/>iezt beschefftigt ein balet zue lernen auf
@@ -179,24 +175,24 @@
       <lb facs="#facs_2_r1l5" n="N005"/>zue lest so vill aus, als mihr können, ihr Mayestät
       <lb facs="#facs_2_r1l6" n="N006"/>wolten auch noch geren ein großhirsch schießen,
       <lb facs="#facs_2_r1l7" n="N007"/>also mus ich aus mangel der zeit wider mein
-      <lb facs="#facs_2_r1l8" n="N008"/>willen enden. Due mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> bef<supplied >e</supplied>hlen,
-      <lb facs="#facs_2_r1l9" n="N009"/>vnd werde st<supplied >e</supplied>rben
+      <lb facs="#facs_2_r1l8" n="N008"/>willen enden. Due mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> bef<supplied>e</supplied>hlen,
+      <lb facs="#facs_2_r1l9" n="N009"/>vnd werde st<supplied>e</supplied>rben
       <lb facs="#facs_2_r1l10" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1645956326188_158" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_2_line_1645956326188_158" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l12" n="N012"/>EMT
-      <lb facs="#facs_2_line_1645956326188_159" n="N013"/>Laxenbu<supplied >r</supplied>g den 3ten junij 1688
+      <lb facs="#facs_2_line_1645956326188_159" n="N013"/>Laxenbu<supplied>r</supplied>g den 3ten junij 1688
       <lb facs="#facs_2_r1l13" n="N014"/>Es <unclear>??eht</unclear> ein gewißer Marsiglio, welchen der Deütschmeister
       <lb facs="#facs_2_r1l14" n="N015"/>woll kendt, als wan er vom Herzoch von Lotring geschikt
       <lb facs="#facs_2_r1l15" n="N016"/>wehre nach Rohm, dem haben ihr Mayestät auch in der
       <lb facs="#facs_2_r1l16" n="N017"/>cölnischen sach commission geben. Er hofft woll
       <lb facs="#facs_2_r1l17" n="N018"/>etwas guets zue richten, in 6 wochen wirt er wider
-      <lb facs="#facs_2_r1l18" n="N019"/>hier sein. Er ist heündt b<supplied >e</supplied>y mihr gewest vnd <supplied >hat</supplied> lang über
+      <lb facs="#facs_2_r1l18" n="N019"/>hier sein. Er ist heündt b<supplied>e</supplied>y mihr gewest vnd <supplied>hat</supplied> lang über
       <lb facs="#facs_2_r1l19" n="N020"/>dise materi gerett. Er sagt, der Papst werd froh sein,
       <lb facs="#facs_2_r1l20" n="N021"/>wan man ihm recht, aber mit fondament, einige simonia
       <lb facs="#facs_2_r1l21" n="N022"/>beweisen werd, dan er ein particular auersion wider
       <lb facs="#facs_2_r1l22" n="N023"/>den Fürstenberg habe. Es weis aber kein mensch von diser
       <lb facs="#facs_2_r1l23" n="N024"/>sag als der Hoffkanzler, damit es in secreto bleib, bitt
-      <lb facs="#facs_2_r1l24" n="N025"/>also, ewer Durchlaucht wollen auch niemant daru<supplied >o</supplied>n sagen.</ab>
+      <lb facs="#facs_2_r1l24" n="N025"/>also, ewer Durchlaucht wollen auch niemant daru<supplied>o</supplied>n sagen.</ab>
   </div>
 </body>
 

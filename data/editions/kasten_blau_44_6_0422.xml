@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0422.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0422.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1699-06-23"></origDate></origin>
+                        <origin><origDate when-iso="1699-06-23"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date  when-iso="1699-06-23"></date>
+               <date when-iso="1699-06-23"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1128" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1128px"/>
+    <graphic url="Kasten_blau_44_6_0422.jpg" width="800px" height="1128px"/>
     <zone points="4,77 4,1089 761,1089 761,77" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="12,433 92,448 183,423 260,446 317,422 464,452 521,425 587,448 721,420 721,387 623,391 596,370 195,374 136,405 68,361 12,376" rendition="Line" xml:id="facs_1_r1l5"/>
         <zone points="12,506 92,482 275,499 365,480 720,508 720,458 644,446 489,459 302,431 227,457 150,425 90,447 12,436" rendition="Line" xml:id="facs_1_r1l6"/>
@@ -122,28 +118,28 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l5" n="N001"/>Durchleüchtiger Curfü<supplied >r</supplied>st, mein h<supplied >er</supplied>zallerlibs<supplied >ter</supplied> <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l6" n="N002"/>Weil der <unclear>G</unclear> Wa<supplied >c</supplied>htendonk wider zu dero bedienung
+    <pb facs="#facs_1" n="266 r" xml:id="Kasten_blau_44_6_0422.jpg" ed="60 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l5" n="N001"/>Durchleüchtiger Curfü<supplied>r</supplied>st, mein h<supplied>er</supplied>zallerlibs<supplied>ter</supplied> <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l6" n="N002"/>Weil der <unclear>G</unclear> Wa<supplied>c</supplied>htendonk wider zu dero bedienung
       <lb facs="#facs_1_r1l7" n="N003"/>abreist, hab ich ihn mit disen accompagniren
       <lb facs="#facs_1_r1l10" n="N004"/>wollen. Ihr Mayestät haben ihm auf dero Liebden reccomen-
-      <lb facs="#facs_1_r1l11" n="N005"/>dation wegen der trewen die<supplied >n</supplied>st, seine vnd seiner v<supplied >e</supplied>ttern,
-      <lb facs="#facs_1_r1l12" n="N006"/>na<supplied >c</supplied>h seinen verlangen begnadet. Er hatt sich
-      <lb facs="#facs_1_r1l13" n="N007"/>auch alhir na<supplied >c</supplied>h alen verg<supplied >n</supplied>ügen comporti<supplied >r</supplied>t, also
-      <lb facs="#facs_1_r1l15" n="N008"/>due ihn auch widerumb in dero Liebden <choice><expan>gnade</expan><abbr>g</abbr></choice> reccomend<supplied >ire</supplied>n.
-      <lb facs="#facs_1_r1l17" n="N009"/>Ich aber werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_1_r1l11" n="N005"/>dation wegen der trewen die<supplied>n</supplied>st, seine vnd seiner v<supplied>e</supplied>ttern,
+      <lb facs="#facs_1_r1l12" n="N006"/>na<supplied>c</supplied>h seinen verlangen begnadet. Er hatt sich
+      <lb facs="#facs_1_r1l13" n="N007"/>auch alhir na<supplied>c</supplied>h alen verg<supplied>n</supplied>ügen comporti<supplied>r</supplied>t, also
+      <lb facs="#facs_1_r1l15" n="N008"/>due ihn auch widerumb in dero Liebden <choice><expan>gnade</expan><abbr>g</abbr></choice> reccomend<supplied>ire</supplied>n.
+      <lb facs="#facs_1_r1l17" n="N009"/>Ich aber werde ste<supplied>r</supplied>ben
       <lb facs="#facs_1_line_1645114403514_1395" n="N010"/>dero Liebden
-      <lb facs="#facs_1_line_1645114412725_1401" n="N011"/>getre<supplied >w</supplied>ste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_line_1645114412725_1401" n="N011"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_line_1645114418371_1407" n="N012"/>Eleonora
       <lb facs="#facs_1_line_1645114412725_1402" n="N013"/>Fauorita den 23ten junij 1699
-      <lb facs="#facs_1_line_1645114418371_1408" n="N014"/>Ich bin woll vhrsa<supplied >c</supplied>h, das er sich <unclear>???</unclear>
-      <lb facs="#facs_1_r1l20" n="N015"/>dag le<supplied >n</supplied>ger aufgehalten, den hab vermei<supplied >n</supplied>t, die <unclear>promotion</unclear> werd
-      <lb facs="#facs_1_r1l22" n="N016"/>heraus kommen, hab auch nit z<supplied >e</supplied>it g<supplied >e</supplied>hebt ehe<supplied >n</supplied>der zu sch<supplied >rei</supplied>ben.
+      <lb facs="#facs_1_line_1645114418371_1408" n="N014"/>Ich bin woll vhrsa<supplied>c</supplied>h, das er sich <unclear>???</unclear>
+      <lb facs="#facs_1_r1l20" n="N015"/>dag le<supplied>n</supplied>ger aufgehalten, den hab vermei<supplied>n</supplied>t, die <unclear>promotion</unclear> werd
+      <lb facs="#facs_1_r1l22" n="N016"/>heraus kommen, hab auch nit z<supplied>e</supplied>it g<supplied>e</supplied>hebt ehe<supplied>n</supplied>der zu sch<supplied>rei</supplied>ben.
       <lb facs="#facs_1_line_1645115461849_1452" n="N017"/>Wüntsch dero Liebden milion glükh vndt alles, was sie selber
-      <lb facs="#facs_1_line_1645115476018_1457" n="N018"/>verla<supplied >n</supplied>gen zue dem morgigen dag des <choice><expan>heiligen</expan><abbr>h</abbr></choice> Joanes, <unclear>mit</unclear> villen uolgenden <unclear>???</unclear></ab>
+      <lb facs="#facs_1_line_1645115476018_1457" n="N018"/>verla<supplied>n</supplied>gen zue dem morgigen dag des <choice><expan>heiligen</expan><abbr>h</abbr></choice> Joanes, <unclear>mit</unclear> villen uolgenden <unclear>???</unclear></ab>
   </div>
 </body>
 

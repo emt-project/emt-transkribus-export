@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="korrespondenzakten_1147_0192.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="korrespondenzakten_1147_0192.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -77,29 +73,29 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#">nan</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#"/>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#">nan</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="1624" lry="2395" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1624px" height="2395px"/>
+    <graphic url="Korrespondenzakten_1147_0189.jpg" width="1624px" height="2395px"/>
     <zone points="71,38 415,38 415,188 71,188" rendition="TextRegion" xml:id="facs_1_region_1670929694546_247">
         <zone points="137,53 361,57 360,107 136,103" rendition="Line" xml:id="facs_1_line_1670929698821_250"/>
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/>
+    <graphic url="Korrespondenzakten_1147_0192.jpg" width="800px" height="1210px"/>
     <zone points="21,27 21,1207 783,1207 783,27" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="156,459 298,477 332,456 373,480 493,460 554,483 769,463 769,420 702,422 591,387 487,429 425,408 349,430 301,394 156,381" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="58,537 176,516 284,538 406,515 446,535 579,505 740,528 750,461 605,465 549,490 454,459 373,483 193,469 57,495" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -121,7 +117,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1217" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1217px"/>
+    <graphic url="Korrespondenzakten_1147_0193.jpg" width="800px" height="1217px"/>
     <zone points="47,0 47,1174 798,1174 798,0" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="42,83 110,99 181,66 559,97 635,70 803,71 803,33 770,26 563,42 514,6 42,6" rendition="Line" xml:id="facs_3_r1l3"/>
         <zone points="46,119 206,105 409,140 456,109 566,127 789,108 789,86 365,75 290,96 260,72 46,90" rendition="Line" xml:id="facs_3_r1l4"/>
@@ -153,7 +149,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_4">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/>
+    <graphic url="Korrespondenzakten_1147_0194.jpg" width="800px" height="1210px"/>
     <zone points="16,22 16,1208 772,1208 772,22" rendition="TextRegion" xml:id="facs_4_r1">
         <zone points="40,99 110,84 144,109 312,83 376,111 525,91 597,114 659,87 730,93 741,50 477,62 355,29 200,61 40,52" rendition="Line" xml:id="facs_4_r1l2"/>
         <zone points="36,143 165,129 222,155 382,156 428,138 473,169 571,140 720,150 731,99 368,112 294,83 147,109 110,84 36,106" rendition="Line" xml:id="facs_4_r1l3"/>
@@ -179,7 +175,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1204" xml:id="facs_5">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1204px"/>
+    <graphic url="Korrespondenzakten_1147_0195.jpg" width="800px" height="1204px"/>
     <zone points="38,56 38,1203 798,1203 798,56" rendition="TextRegion" xml:id="facs_5_r1">
         <zone points="48,94 131,77 270,80 306,104 375,84 691,107 762,95 763,49 628,15 501,44 426,14 250,22 205,47 139,34 49,70" rendition="Line" xml:id="facs_5_r1l1"/>
         <zone points="53,138 213,133 269,157 455,125 743,158 743,93 446,112 337,91 248,115 132,82 99,109 53,101" rendition="Line" xml:id="facs_5_r1l2"/>
@@ -206,7 +202,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1191" xml:id="facs_6">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1191px"/>
+    <graphic url="Korrespondenzakten_1147_0190.jpg" width="800px" height="1191px"/>
     <zone points="25,12 25,1190 765,1190 765,12" rendition="TextRegion" xml:id="facs_6_r1">
         <zone points="108,140 284,108 407,128 649,105 697,118 738,101 737,59 667,37 610,65 295,65 239,46 106,65" rendition="Line" xml:id="facs_6_r1l2"/>
         <zone points="31,166 172,184 214,158 285,160 357,183 469,153 698,162 727,158 726,117 452,112 328,145 203,116 137,151 90,121 30,134" rendition="Line" xml:id="facs_6_r1l3"/>
@@ -231,7 +227,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1207" xml:id="facs_7">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1207px"/>
+    <graphic url="Korrespondenzakten_1147_0191.jpg" width="800px" height="1207px"/>
     <zone points="22,61 22,1206 780,1206 780,61" rendition="TextRegion" xml:id="facs_7_r1">
         <zone points="52,99 175,124 275,97 489,114 687,92 773,118 785,9 385,4 222,73 52,52" rendition="Line" xml:id="facs_7_r1l2"/>
         <zone points="41,152 294,165 470,134 573,167 630,141 751,147 742,107 690,124 644,105 223,106 165,125 41,100" rendition="Line" xml:id="facs_7_r1l3"/>
@@ -253,7 +249,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1221" xml:id="facs_8">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1221px"/>
+    <graphic url="Korrespondenzakten_1147_0196.jpg" width="800px" height="1221px"/>
     <zone points="12,71 12,1220 777,1220 777,71" rendition="TextRegion" xml:id="facs_8_r1">
         <zone points="68,124 95,140 203,104 395,118 507,93 576,110 629,95 629,68 550,50 337,64 66,48" rendition="Line" xml:id="facs_8_r1l2"/>
         <zone points="59,182 179,204 434,151 541,183 608,161 648,180 762,164 760,123 554,98 500,134 423,120 338,141 252,116 114,159 56,131" rendition="Line" xml:id="facs_8_r1l3"/>
@@ -287,7 +283,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1225" xml:id="facs_9">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1225px"/>
+    <graphic url="Korrespondenzakten_1147_0197.jpg" width="800px" height="1225px"/>
     <zone points="64,77 64,1178 798,1178 798,77" rendition="TextRegion" xml:id="facs_9_r1">
         <zone points="95,138 228,118 301,146 395,111 648,98 699,123 802,98 800,59 378,57 350,88 278,63 197,111 93,103" rendition="Line" xml:id="facs_9_r1l1"/>
         <zone points="102,178 177,159 263,187 338,156 425,180 567,142 782,156 803,152 801,98 700,123 648,98 490,107 445,138 392,120 267,151 100,128" rendition="Line" xml:id="facs_9_r1l2"/>
@@ -322,7 +318,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1218" xml:id="facs_10">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1218px"/>
+    <graphic url="Korrespondenzakten_1147_0198.jpg" width="800px" height="1218px"/>
     <zone points="38,137 38,1192 776,1192 776,137" rendition="TextRegion" xml:id="facs_10_r1">
         <zone points="76,168 176,191 269,169 697,171 696,127 666,139 638,121 496,134 457,111 75,134" rendition="Line" xml:id="facs_10_r1l1"/>
         <zone points="63,208 455,197 491,216 572,197 627,218 713,210 727,161 63,190" rendition="Line" xml:id="facs_10_r1l2"/>
@@ -357,7 +353,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1235" xml:id="facs_11">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1235px"/>
+    <graphic url="Korrespondenzakten_1147_0199.jpg" width="800px" height="1235px"/>
     <zone points="42,9 42,1227 798,1227 798,9" rendition="TextRegion" xml:id="facs_11_r1">
         <zone points="91,163 387,173 621,150 789,175 789,125 725,109 508,131 348,103 254,126 91,120" rendition="Line" xml:id="facs_11_r1l2"/>
         <zone points="103,203 218,196 251,222 346,190 383,214 411,195 586,190 678,213 757,205 757,187 556,153 390,176 331,155 204,175 164,151 103,163" rendition="Line" xml:id="facs_11_r1l3"/>
@@ -399,17 +395,17 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_region_1670929694546_247" >
+    <pb facs="#facs_1" n="1" xml:id="Korrespondenzakten_1147_0189.jpg" ed="87 r"/>
+    <ab facs="#facs_1_region_1670929694546_247">
       <lb facs="#facs_1_line_1670929698821_250" n="N001"/>8 Octobris 95</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="114 r" xml:id="Korrespondenzakten_1147_0192.jpg" ed="88 r"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>
       <lb facs="#facs_2_r1l3" n="N002"/>Ich hab dero angenehme schreiben vom 15ten, 21 vndt 29ten
       <lb facs="#facs_2_r1l4" n="N003"/>passato wohl empfangen vndt allen inhalt woll
-      <lb facs="#facs_2_r1l5" n="N004"/>vernommen. Freüdt mich, das <unclear>das fr<supplied >i</supplied>denswerk</unclear>  
+      <lb facs="#facs_2_r1l5" n="N004"/>vernommen. Freüdt mich, das <unclear>das fr<supplied>i</supplied>denswerk</unclear>  
       <lb facs="#facs_2_r1l6" n="N005"/>in <unclear>guetem stant</unclear>. Was aber <unclear>des Kinski cores</unclear>
       <lb facs="#facs_2_r1l7" n="N006"/><unclear>pondens <seg type="comment">n</seg>etrift</unclear>, so will ich mich in der sach woll
       <lb facs="#facs_2_r1l8" n="N007"/>informiren, damit ich hernach dero Liebden alles zueferläßich berichten
@@ -423,17 +419,17 @@
       <lb facs="#facs_2_r1l16" n="N015"/><unclear>weis</unclear>, imdem <unclear>er von <seg type="comment">JJ</seg> negotiation nichts</unclear>  
       <lb facs="#facs_2_r1l17" n="N016"/><unclear>weis, das er glaubt, es könne</unclear> zum <unclear>nesten <seg type="comment">dor</seg></unclear>  
       <lb facs="#facs_2_r1l18" n="N017"/><unclear>ch dise correspondens<unclear/></unclear> gericht we</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="114 v" xml:id="Korrespondenzakten_1147_0193.jpg" ed="88 v"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l3" n="N001"/><unclear>rden</unclear>. Das macht aber nichts zur sach vndt <unclear>zeigt</unclear>
       <lb facs="#facs_3_r1l4" n="N002"/><unclear>nur mer</unclear> das Tiberius <unclear>negotium</unclear> woll <unclear>secre </unclear>
       <lb facs="#facs_3_r1l5" n="N003"/><unclear>tirt ist worden</unclear>. Was <unclear>der Hammilton <seg type="comment">??</seg></unclear> 
       <lb facs="#facs_3_r1l6" n="N004"/><unclear>bericht hatt, das der Schellerer sol   </unclear>
       <lb facs="#facs_3_r1l7" n="N005"/><unclear>wissen</unclear>, hatt er mihr auch gesacht, es ist aber dis
       <lb facs="#facs_3_r1l8" n="N006"/>die ganze sach, gleich nach <unclear>des <choice><expan>Kanzler</expan><abbr>Kaz</abbr></choice> Wiser abre</unclear>
-      <lb facs="#facs_3_r1l9" n="N007"/><unclear>is ist von dero Liebden ein brif an de<supplied >n</supplied> Wiser komme<supplied >n</supplied></unclear>,
+      <lb facs="#facs_3_r1l9" n="N007"/><unclear>is ist von dero Liebden ein brif an de<supplied>n</supplied> Wiser komme<supplied>n</supplied></unclear>,
       <lb facs="#facs_3_r1l10" n="N008"/>bey welchem dero Liebden befohlen, <unclear>er sol wan</unclear> ich wolt <unclear>mir</unclear>
-      <lb facs="#facs_3_r1l11" n="N009"/><unclear>in zu lesen gebe<supplied >n</supplied>. So hat er in aufge</unclear>
+      <lb facs="#facs_3_r1l11" n="N009"/><unclear>in zu lesen gebe<supplied>n</supplied>. So hat er in aufge</unclear>
       <lb facs="#facs_3_r1l12" n="N010"/><unclear>macht, darin ist was in genera hie  </unclear>
       <lb facs="#facs_3_r1l13" n="N011"/><unclear>von gestanden</unclear>, <unclear>wie sich dero Liebden</unclear> ohne zweifel noch woll werden
       <lb facs="#facs_3_r1l14" n="N012"/>zue erinnern wißen. Darauf hatt man sich gestelt, als
@@ -443,8 +439,8 @@
       <lb facs="#facs_3_r1l18" n="N016"/>leüchnen, bey disem ists vndt wirts bestendig verbleiben.
       <lb facs="#facs_3_line_1657203039370_452" n="N017"/><add>Dero Liebden machens nuhr auch so, dan bisweilen stelt man sich, als wan man villeicht</add>
       <lb facs="#facs_3_line_1657203056682_457" n="N018"/><add>wüst, damit man etwas innen werde, ich habs bisweilen practizirt.</add>
-      <lb facs="#facs_3_line_1657202893194_436" n="N019"/>Gott geb, was <unclear>des <choice><expan>Pater</expan><abbr>P</abbr></choice> Wiser negotium wol m<supplied >a</supplied>g</unclear>
-      <lb facs="#facs_3_r1l24" n="N020"/><unclear>abgen</unclear> vndt das <unclear>der Duktor</unclear> gescheider s<supplied >e</supplied>y, als mihr
+      <lb facs="#facs_3_line_1657202893194_436" n="N019"/>Gott geb, was <unclear>des <choice><expan>Pater</expan><abbr>P</abbr></choice> Wiser negotium wol m<supplied>a</supplied>g</unclear>
+      <lb facs="#facs_3_r1l24" n="N020"/><unclear>abgen</unclear> vndt das <unclear>der Duktor</unclear> gescheider s<supplied>e</supplied>y, als mihr
       <lb facs="#facs_3_r1l25" n="N021"/>ist vohrkommen. Hab zwar nuhr einmahl mit ihm gerett,
       <lb facs="#facs_3_r1l26" n="N022"/>ich hoff <unclear>balt brif von Coppenhagen</unclear> zue bekommen.
       <lb facs="#facs_3_r1l27" n="N023"/>Die bewuste person betreffendt hab ich dem Deütschtmeister
@@ -452,15 +448,15 @@
       <lb facs="#facs_3_r1l29" n="N025"/>bekommen. Den Don Gaston betreffendt wünsche ich, das
       <lb facs="#facs_3_r1l30" n="N026"/>dero Liebden noch alle meine brif haben möge, so werden sie daraus
       <lb facs="#facs_3_r1l31" n="N027"/>sehen, das ich niemahlen anderst geschriben, als das</ab>
-    <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-    <ab facs="#facs_4_r1" >
+    <pb facs="#facs_4" n="115 r" xml:id="Korrespondenzakten_1147_0194.jpg" ed="89 r"/>
+    <ab facs="#facs_4_r1">
       <lb facs="#facs_4_r1l2" n="N001"/>die sach mit dem Landgrau Görch noch gahr nit
       <lb facs="#facs_4_r1l3" n="N002"/>aus, in dem sie keine negatiu geben, das sie aber
       <lb facs="#facs_4_r1l4" n="N003"/>kein pupill, vndt wan sie den Don Gaston wirt nemmen
-      <lb facs="#facs_4_r1l5" n="N004"/>wollen, mihr es nit verhinde<supplied >r</supplied>n werden vndt er es also
-      <lb facs="#facs_4_r1l6" n="N005"/>dorten zu suechen <supplied >hat</supplied>. Ist wahr, das mich anfangs geschmerzt, das
+      <lb facs="#facs_4_r1l5" n="N004"/>wollen, mihr es nit verhinde<supplied>r</supplied>n werden vndt er es also
+      <lb facs="#facs_4_r1l6" n="N005"/>dorten zu suechen <supplied>hat</supplied>. Ist wahr, das mich anfangs geschmerzt, das
       <lb facs="#facs_4_r1l7" n="N006"/>dero Liebden ein solches secretum aus der sach gemacht haben,
-      <lb facs="#facs_4_r1l8" n="N007"/><supplied >habe</supplied> aber beynebens dero Liebden allezeit bestendig geschriben vndt
+      <lb facs="#facs_4_r1l8" n="N007"/><supplied>habe</supplied> aber beynebens dero Liebden allezeit bestendig geschriben vndt
       <lb facs="#facs_4_r1l9" n="N008"/>auch dem <choice><expan>Pater</expan><abbr>P</abbr></choice> Wißer klar gesacht, das vns vohr
       <lb facs="#facs_4_r1l10" n="N009"/>kein impegniren können, weil mit <choice><expan>Prinz</expan><abbr>P</abbr></choice> Görch noch nit
       <lb facs="#facs_4_r1l11" n="N010"/>aus, vndt wan <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl ein inclination dort hin gehabt
@@ -473,25 +469,25 @@
       <lb facs="#facs_4_r1l18" n="N017"/>kein auersion vor ihn gezeigt, sondren so, wan man von disen
       <lb facs="#facs_4_r1l19" n="N018"/>als von andern gerett, alzeit geantwort, sie gedenkh
       <lb facs="#facs_4_r1l20" n="N019"/>noch nit zue heiraten, köne ihren gehmahl nit so
-      <lb facs="#facs_4_r1l21" n="N020"/>balt vergeßen, b<supplied >e</supplied>y disen ists gebliben. Das dero Liebden aber
+      <lb facs="#facs_4_r1l21" n="N020"/>balt vergeßen, b<supplied>e</supplied>y disen ists gebliben. Das dero Liebden aber
       <lb facs="#facs_4_r1l22" n="N021"/>den <choice><expan>Grau</expan><abbr>G</abbr></choice> Kinsky beschuldigen, als hett er disen nit <unclear>??</unclear></ab>
-    <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-    <ab facs="#facs_5_r1" >
+    <pb facs="#facs_5" n="115 v" xml:id="Korrespondenzakten_1147_0195.jpg" ed="89 v"/>
+    <ab facs="#facs_5_r1">
       <lb facs="#facs_5_r1l1" n="N001"/>mein ich woll, gescheh ihm vnrecht, dan das ist ein sach,
       <lb facs="#facs_5_r1l2" n="N002"/>die ihm weder gibt noch nimbt vndt er schwerlich
       <lb facs="#facs_5_r1l3" n="N003"/>meiner schwegrin was wirt in diser materi sich heraus
       <lb facs="#facs_5_r1l4" n="N004"/>gelaßen haben. Dero Liebden seindt selber so raisonabel, das
-      <lb facs="#facs_5_r1l5" n="N005"/>sie woll erkennen werden, das <supplied >weder</supplied> ihr Mayestät noch ich vns in diser
+      <lb facs="#facs_5_r1l5" n="N005"/>sie woll erkennen werden, das <supplied>weder</supplied> ihr Mayestät noch ich vns in diser
       <lb facs="#facs_5_r1l6" n="N006"/>sach nit impegniren können, haben mihrs doch mit
-      <lb facs="#facs_5_r1l7" n="N007"/>Parma auch nit wollen duen, weil mih<supplied >r</supplied> midt Modona
+      <lb facs="#facs_5_r1l7" n="N007"/>Parma auch nit wollen duen, weil mih<supplied>r</supplied> midt Modona
       <lb facs="#facs_5_r1l8" n="N008"/>impegnirt wahren vndt vnser schwester allein die sach
-      <lb facs="#facs_5_r1l9" n="N009"/>ausfüren laßen, bis entlich der H<supplied >er</supplied>zoch von Modana selbst 
-      <lb facs="#facs_5_r1l10" n="N010"/>nidt allein abgestanden, sonde<supplied >r</supplied>n auch die dispens vrgirt hatt, 
-      <lb facs="#facs_5_r1l11" n="N011"/>auch vohr Modana, wan ers begert hette, b<supplied >e</supplied>y vnser schwegerin
+      <lb facs="#facs_5_r1l9" n="N009"/>ausfüren laßen, bis entlich der H<supplied>er</supplied>zoch von Modana selbst 
+      <lb facs="#facs_5_r1l10" n="N010"/>nidt allein abgestanden, sonde<supplied>r</supplied>n auch die dispens vrgirt hatt, 
+      <lb facs="#facs_5_r1l11" n="N011"/>auch vohr Modana, wan ers begert hette, b<supplied>e</supplied>y vnser schwegerin
       <lb facs="#facs_5_r1l12" n="N012"/>niks gedahn hetten. Also hoff, dero Liebden werden mihrs nit vohr übel
-      <lb facs="#facs_5_r1l13" n="N013"/>nemmen, das so offenhe<supplied >r</supplied>zich alles schreib. Mit den <choice><expan>Landgraven</expan><abbr>Landgr</abbr></choice>
+      <lb facs="#facs_5_r1l13" n="N013"/>nemmen, das so offenhe<supplied>r</supplied>zich alles schreib. Mit den <choice><expan>Landgraven</expan><abbr>Landgr</abbr></choice>
       <lb facs="#facs_5_r1l14" n="N014"/>kan man izt niks duen, bis er wider aus Schpanien kombt,
-      <lb facs="#facs_5_r1l15" n="N015"/>wan er dort ein guetts glükh ma<supplied >c</supplied>ht, dörft sie
+      <lb facs="#facs_5_r1l15" n="N015"/>wan er dort ein guetts glükh ma<supplied>c</supplied>ht, dörft sie
       <lb facs="#facs_5_r1l16" n="N016"/>woll ehender incliniren. Vetter Pfilips betreffendt, wegen seines
       <lb facs="#facs_5_r1l17" n="N017"/>apanage, können ihr Mayestät izt niks duen, solten sie es ihme
       <lb facs="#facs_5_r1l18" n="N018"/>aber weigern oder aufhalten, mues er bey ihr Mayestät durch
@@ -499,8 +495,8 @@
       <lb facs="#facs_5_r1l20" n="N020"/>protegiren wies mit dem Cardinal <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> geschen.
       <lb facs="#facs_5_r1l21" n="N021"/>Den reuers, so er geben, mach gahr guett sein, aber ich 
       <lb facs="#facs_5_r1l22" n="N022"/>kan dero Liebden nit verhalten, das mihr gahr nit gefalt,</ab>
-    <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-    <ab facs="#facs_6_r1" >
+    <pb facs="#facs_6" n="118 r" xml:id="Korrespondenzakten_1147_0190.jpg" ed="92 r"/>
+    <ab facs="#facs_6_r1">
       <lb facs="#facs_6_r1l2" n="N001"/>das ers will secretirt haben, dan es heischt, der mich
       <lb facs="#facs_6_r1l3" n="N002"/>bekendt vohr den menschen, den werde ich erkennen vohr
       <lb facs="#facs_6_r1l4" n="N003"/>meinen englen. Er mueß warhafftig alle menschlige
@@ -521,8 +517,8 @@
       <lb facs="#facs_6_r1l20" n="N018"/>ihr Mayestät wollen ihm auch noch 3000 zuelegen, haben ihm auch
       <lb facs="#facs_6_r1l21" n="N019"/>die winter quartir schon angeschafft vndt werden
       <lb facs="#facs_6_r1l22" n="N020"/>ihm mit nechstem ein decret schiken, das er so lang</ab>
-    <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-    <ab facs="#facs_7_r1" >
+    <pb facs="#facs_7" n="118 v" xml:id="Korrespondenzakten_1147_0191.jpg" ed="92 v"/>
+    <ab facs="#facs_7_r1">
       <lb facs="#facs_7_r1l2" n="N001"/><choice><expan>bruder</expan><abbr>b</abbr></choice> Carl regiment comandirn soll, bis er eins bekombt,
       <lb facs="#facs_7_r1l3" n="N002"/>mit disem bekombt er auch den rang. Das aber
       <lb facs="#facs_7_r1l4" n="N003"/>ihr Mayestät positiue ihme das erste regiment sollen
@@ -531,17 +527,17 @@
       <lb facs="#facs_7_r1l7" n="N006"/>kommen kan. Indeßen kan ehr sich woll, mein
       <lb facs="#facs_7_r1l8" n="N007"/>ich, contentiren mitt disen 6000 <choice><expan>Gulden</expan><abbr>fl</abbr></choice> vndt die quartir,
       <lb facs="#facs_7_r1l9" n="N008"/>ihr Mayestät werden doch so balt möglich auf ihn
-      <lb facs="#facs_7_r1l10" n="N009"/>bedacht sein. Mit disen due mich dero Liebden bef<supplied >e</supplied>hlen vndt
-      <lb facs="#facs_7_r1l11" n="N010"/>werde st<supplied >e</supplied>rben
+      <lb facs="#facs_7_r1l10" n="N009"/>bedacht sein. Mit disen due mich dero Liebden bef<supplied>e</supplied>hlen vndt
+      <lb facs="#facs_7_r1l11" n="N010"/>werde st<supplied>e</supplied>rben
       <lb facs="#facs_7_line_1657205875295_621" n="N011"/>dero Liebden
       <lb facs="#facs_7_line_1657205882885_627" n="N012"/>getrewste schwester
       <lb facs="#facs_7_r1l13" n="N013"/>Eleonora
       <lb facs="#facs_7_line_1657205882885_628" n="N014"/>Eberstorf den 8ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1695
       <lb facs="#facs_7_r1l14" n="N015"/>Mit disen langen brif falt mihr vnmüglich, meiner
-      <lb facs="#facs_7_r1l15" n="N016"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwegren zu sch<supplied >re</supplied>iben, wünsch vill glükh zum
+      <lb facs="#facs_7_r1l15" n="N016"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwegren zu sch<supplied>re</supplied>iben, wünsch vill glükh zum
       <lb facs="#facs_7_r1l16" n="N017"/>bad, das mög balt ein gutten effect bringen.</ab>
-    <pb facs="#facs_8" n="8" xml:id="img_0008"/>
-    <ab facs="#facs_8_r1" >
+    <pb facs="#facs_8" n="116 r" xml:id="Korrespondenzakten_1147_0196.jpg" ed="90 r"/>
+    <ab facs="#facs_8_r1">
       <lb facs="#facs_8_r1l2" n="N001"/>pagina prima linea quarta ?uatinem
       <lb facs="#facs_8_r1l3" n="N002"/>dmb dis frindenst wäretl in auberg stand waß aber
       <lb facs="#facs_8_r1l4" n="N003"/>das ein in wnswardem bekrütte, so will ich mich in
@@ -571,8 +567,8 @@
       <lb facs="#facs_8_r1l28" n="N027"/>gemeten vin dihat gemichten e dhat brisisen sollen 
       <lb facs="#facs_8_r1l29" n="N028"/>ho ar auff henem wsfolen vndich auff wenemen
       <lb facs="#facs_8_r1l30" n="N029"/></ab>
-    <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-    <ab facs="#facs_9_r1" >
+    <pb facs="#facs_9" n="116 v" xml:id="Korrespondenzakten_1147_0197.jpg" ed="90 v"/>
+    <ab facs="#facs_9_r1">
       <lb facs="#facs_9_r1l1" n="N001"/>meinign lauig schulsten ist es vnd verit be zendig
       <lb facs="#facs_9_r1l2" n="N002"/>verblebeg p lmerligen ds mihr au als biso hei
       <lb facs="#facs_9_r1l3" n="N003"/>stelt mein eis also veisen mein hiel sclahisten shenit
@@ -603,8 +599,8 @@
       <lb facs="#facs_9_r1l28" n="N028"/>leuh zue bespone is satt man ma baten der dandt condint
       <lb facs="#facs_9_r1l29" n="N029"/>
       <lb facs="#facs_9_r1l30" n="N030"/>b</ab>
-    <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-    <ab facs="#facs_10_r1" >
+    <pb facs="#facs_10" n="117 r" xml:id="Korrespondenzakten_1147_0198.jpg" ed="91 r"/>
+    <ab facs="#facs_10_r1">
       <lb facs="#facs_10_r1l1" n="N001"/>vnd siergase sseim wehie ver ihn gehrigbestenderis
       <lb facs="#facs_10_r1l2" n="N002"/>wanan von disem aso verwinder gnendt alteit gewit
       <lb facs="#facs_10_r1l3" n="N003"/>weßet se bndemnbti vndt zuebeetsein drü sen
@@ -635,8 +631,8 @@
       <lb facs="#facs_10_r1l28" n="N028"/>in anm 
       <lb facs="#facs_10_r1l29" n="N029"/>EMT
       <lb facs="#facs_10_r1l30" n="N030"/></ab>
-    <pb facs="#facs_11" n="11" xml:id="img_0011"/>
-    <ab facs="#facs_11_r1" >
+    <pb facs="#facs_11" n="117 v" xml:id="Korrespondenzakten_1147_0199.jpg" ed="91 v"/>
+    <ab facs="#facs_11_r1">
       <lb facs="#facs_11_r1l2" n="N001"/>de mir gas nit gesallten da ees will denetit haben
       <lb facs="#facs_11_r1l3" n="N002"/>dames veisht der mich bet seintso dem mnschor
       <lb facs="#facs_11_r1l4" n="N003"/>den prunde fetseinge vor men kageben i M

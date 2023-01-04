@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0402.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0402.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1685-03-21"></origDate></origin>
+                        <origin><origDate when-iso="1685-03-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1685-03-21"></date>
+               <date when-iso="1685-03-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1188" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1188px"/>
+    <graphic url="Kasten_blau_45_9_0402.jpg" width="800px" height="1188px"/>
     <zone points="56,203 56,1187 783,1187 783,203" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="173,247 310,265 356,230 415,258 475,242 493,258 533,241 636,253 672,232 752,250 779,244 779,184 550,205 506,182 418,197 380,183 173,220" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="89,292 139,283 190,312 308,283 510,303 631,275 718,296 776,279 776,242 309,266 255,243 201,254 88,200" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -121,7 +117,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1191" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1191px"/>
+    <graphic url="Kasten_blau_45_9_0401.jpg" width="800px" height="1191px"/>
     <zone points="21,70 21,1179 784,1179 784,70" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="54,105 147,98 181,121 336,105 380,124 448,99 517,121 595,91 688,121 750,106 750,63 189,55 151,83 116,65 54,80" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="47,146 630,139 780,161 771,104 663,124 47,107" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -151,10 +147,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="238 r" xml:id="Kasten_blau_45_9_0402.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Weil ich glaub, das der Palfi ehender als die post
       <lb facs="#facs_1_r1l3" n="N003"/>wirt kommen, als hab ich dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom 9ten
@@ -170,12 +166,12 @@
       <lb facs="#facs_1_r1l13" n="N013"/>das mit morgiger post die antwort erfolgen
       <lb facs="#facs_1_r1l14" n="N014"/>solte. Wegen des Pfluech wurde kein bedenken sein,
       <lb facs="#facs_1_r1l15" n="N015"/>steht aber dahin, ob ihm nit lieber wurdt sein ein
-      <lb facs="#facs_1_r1l16" n="N016"/>versicherungsdecret aus der hoffca<supplied >n</supplied>zlei, bis er es offen-
+      <lb facs="#facs_1_r1l16" n="N016"/>versicherungsdecret aus der hoffca<supplied>n</supplied>zlei, bis er es offen-
       <lb facs="#facs_1_r1l17" n="N017"/>tlich wirt können von der reichs canzlei anemmen,
       <lb facs="#facs_1_r1l18" n="N018"/>sonst wirt er müeßen die tax doppelt geben, in
       <lb facs="#facs_1_r1l19" n="N019"/>der hoff canzley vnd reichskanzley. Wegen des Reichenbach</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="238 v" xml:id="Kasten_blau_45_9_0401.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>werden ewer Durchlaucht schon empfangen haben die versicherung,
       <lb facs="#facs_2_r1l2" n="N002"/>solten ewer Durchlaucht aber ein mehrers verlangen, wirt es auch
       <lb facs="#facs_2_r1l3" n="N003"/>kein difficultet haben, gott geb, das alles zue einem
@@ -192,7 +188,7 @@
       <lb facs="#facs_2_r1l14" n="N014"/>Due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vnd werden
       <lb facs="#facs_2_r1l15" n="N015"/>sterben
       <lb facs="#facs_2_r1l16" n="N016"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l17" n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghos</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_2_r1l17" n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghos</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_2_r1l19" n="N018"/>EMT
       <lb facs="#facs_2_r1l18" n="N019"/>Wien den 21 merz 1685
       <lb facs="#facs_2_r1l20" n="N020"/>Die neülige prob ist gahr woll abgangen, seint etlige

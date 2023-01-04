@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0196.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0196.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-06-03"></origDate></origin>
+                        <origin><origDate when-iso="1687-06-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1687-06-03"></date>
+               <date when-iso="1687-06-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1204" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1204px"/>
+    <graphic url="Kasten_blau_45_15_0196.jpg" width="800px" height="1204px"/>
     <zone points="24,209 24,1201 797,1201 797,209" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="27,252 92,270 125,243 216,266 439,234 499,257 577,233 761,241 780,197 526,207 505,188 413,220 130,171 90,210 26,205" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="45,326 289,319 330,289 380,309 506,286 548,308 765,295 786,290 784,237 410,255 372,276 179,251 120,287 44,288" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -126,29 +122,29 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="93 r" xml:id="Kasten_blau_45_15_0196.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Wünsche ewer Durchlaucht nochmahlen alle glüksehlichkeit bey
       <lb facs="#facs_1_r1l3" n="N003"/>den gestrigen sponsalien meiner schwester zue erleben,
       <lb facs="#facs_1_r1l4" n="N004"/>von ihr auch so vill enikel, als ewer Durchlaucht wünschen kennen.
       <lb facs="#facs_1_r1l5" n="N005"/>Die arme, das scheiden wirt ihr woll gahr hart sein
       <lb facs="#facs_1_r1l7" n="N006"/>gewesen, dan ich weis, wie es mihr gewesen, vnd ich
-      <lb facs="#facs_1_r1l9" n="N007"/>bin nit so weit gangen vnd <supplied >hatte</supplied> hoffnung, ewer Durchlaucht
+      <lb facs="#facs_1_r1l9" n="N007"/>bin nit so weit gangen vnd <supplied>hatte</supplied> hoffnung, ewer Durchlaucht
       <lb facs="#facs_1_r1l10" n="N008"/>balt wider zu sehn. Gott geb ihr alle ver-
       <lb facs="#facs_1_r1l11" n="N009"/>gnüegung. Bitt auch <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung,
       <lb facs="#facs_1_r1l12" n="N010"/>das heündt nit vill schreib, werd am sontag 
       <lb facs="#facs_1_r1l13" n="N011"/>wider ein geistlige braut haben, so hab vill <unclear>zue</unclear>
-      <lb facs="#facs_1_r1l14" n="N012"/>duen mit ih<supplied >r</supplied>en aufbuz. Man schreibt, der Herzoch
+      <lb facs="#facs_1_r1l14" n="N012"/>duen mit ih<supplied>r</supplied>en aufbuz. Man schreibt, der Herzoch
       <lb facs="#facs_1_r1l15" n="N013"/>von Mantoua werd erster dagen hier sein, ist
       <lb facs="#facs_1_r1l16" n="N014"/>woll ein wunderliger herr, er will in <unclear>Niderl</unclear>
       <lb facs="#facs_1_r1l17" n="N015"/>reisen, wie man sagt. Sonst gibts hier ganz
       <lb facs="#facs_1_r1l18" n="N016"/>niks, das ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> berichten könt, due
-      <lb facs="#facs_1_r1l19" n="N017"/>mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied >e</supplied>f<supplied >e</supplied>hlen vnd werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_1_r1l19" n="N017"/>mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hlen vnd werde ste<supplied>r</supplied>ben
       <lb facs="#facs_1_line_1639399109011_3196" n="N018"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l20" n="N019"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l20" n="N019"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l22" n="N020"/>EMT
       <lb facs="#facs_1_r1l23" n="N021"/>Wien den 3ten junij 1687
       <lb facs="#facs_1_line_1639399156928_3208" n="N022"/>Ich weis nit, ob ich meiner schwester schreiben soll, bis sie in Portugal kombt,

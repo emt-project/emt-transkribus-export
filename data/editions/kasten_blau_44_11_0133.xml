@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_11_0133.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0133.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1713-04-15"></origDate></origin>
+                        <origin><origDate when-iso="1713-04-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1713-04-15"></date>
+               <date when-iso="1713-04-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1262" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1262px"/>
+    <graphic url="Kasten_blau_44_11_0133.jpg" width="800px" height="1262px"/>
     <zone points="54,23 54,1211 773,1211 773,23" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="119,392 176,420 224,400 406,419 424,401 562,404 608,375 663,399 778,376 759,324 462,343 425,322 335,342 292,315 165,358 118,332" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="71,461 439,479 507,446 737,448 748,396 658,400 607,376 539,421 491,400 312,419 224,400 177,419 152,402 113,441 70,431" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -119,10 +115,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="36 r" xml:id="Kasten_blau_44_11_0133.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtigster Curfürst, mein herzlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N002"/>Weilen dises jahr das frohlige alleluja vndt
       <lb facs="#facs_1_r1l4" n="N003"/>dero Liebden gloreicher geburzdag so nahet zue samen
@@ -136,7 +132,7 @@
       <lb facs="#facs_1_r1l12" n="N011"/>erhalten, als die ich ehnder werde aufhören
       <lb facs="#facs_1_r1l13" n="N012"/>zu leben als von herzen zu sein
       <lb facs="#facs_1_line_1663510821609_323" n="N013"/>dero Liebden
-      <lb facs="#facs_1_r1l14" n="N014"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l14" n="N014"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l16" n="N015"/>Eleonora
       <lb facs="#facs_1_line_1663510821609_322" n="N016"/>Wien den 15ten aprill 1713</ab>
   </div>

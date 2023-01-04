@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_3f_0011.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0011.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1695-01-29"></origDate></origin>
+                        <origin><origDate when-iso="1695-01-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1695-01-29"></date>
+               <date when-iso="1695-01-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1223" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1223px"/>
+    <graphic url="Kasten_blau_44_3f_0011.jpg" width="800px" height="1223px"/>
     <zone points="32,38 32,899 737,899 737,38" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="37,82 47,82 56,74 83,80 119,71 135,83 149,84 160,72 167,77 185,67 182,5 133,8 127,13 93,8 79,13 72,8 62,15 48,6 33,8" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="68,415 224,434 279,414 482,434 546,407 606,428 657,403 695,417 726,406 727,330 304,353 167,348 69,312" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -115,20 +111,20 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0011.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>29 <choice><expan>januar</expan><abbr>janu</abbr></choice> 95</unclear>
-      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l3" n="N003"/>Ich hab dero sch<supplied >rei</supplied>ben wegen aufrichtung des regiments
+      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l3" n="N003"/>Ich hab dero sch<supplied>rei</supplied>ben wegen aufrichtung des regiments
       <lb facs="#facs_1_r1l4" n="N004"/>zue recht empfangen, die puncta hab dem Deütsch-
       <lb facs="#facs_1_r1l5" n="N005"/>meister überschikt, das andre dem Schellerer geben,
-      <lb facs="#facs_1_r1l6" n="N006"/>das er darüber mit dem Starenbe<supplied >r</supplied>g riuistire.
+      <lb facs="#facs_1_r1l6" n="N006"/>das er darüber mit dem Starenbe<supplied>r</supplied>g riuistire.
       <lb facs="#facs_1_r1l7" n="N007"/>Due mich in allem auf ihn bezien, mich dero Liebden
-      <lb facs="#facs_1_r1l8" n="N008"/>bef<supplied >e</supplied>hlen vndt werde st<supplied >er</supplied>ben
+      <lb facs="#facs_1_r1l8" n="N008"/>bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
       <lb facs="#facs_1_r1l11" n="N009"/>dero Liebden
-      <lb facs="#facs_1_r1l12" n="N010"/>g<supplied >e</supplied>trewste schwester
+      <lb facs="#facs_1_r1l12" n="N010"/>g<supplied>e</supplied>trewste schwester
       <lb facs="#facs_1_r1l14" n="N011"/>Eleonora
       <lb facs="#facs_1_r1l13" n="N012"/>Wien den 29ten jener 1695</ab>
   </div>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_3f_0046.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0046.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1695-03-12"></origDate></origin>
+                        <origin><origDate when-iso="1695-03-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1695-03-12"></date>
+               <date when-iso="1695-03-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_44_3f_0046.jpg" width="800px" height="1249px"/>
     <zone points="15,42 15,1184 762,1184 762,42" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="16,84 66,93 104,87 118,94 144,80 174,83 176,15 141,27 93,24 83,30 73,24 50,30 41,24 26,31 17,26" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="10,420 58,438 142,409 227,442 252,418 342,444 456,409 530,441 576,415 615,437 761,418 761,368 699,384 528,359 462,394 194,359 74,404 10,397" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1246" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1246px"/>
+    <graphic url="Kasten_blau_44_3f_0047.jpg" width="800px" height="1246px"/>
     <zone points="37,39 37,1182 783,1182 783,39" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="47,117 138,107 223,136 261,105 306,140 341,109 465,136 532,110 747,125 748,80 675,98 564,69 446,86 338,61 263,73 211,47 162,69 49,51" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="39,180 104,162 155,189 259,160 288,180 335,154 458,184 500,154 719,185 754,167 755,127 184,135 74,105 40,125" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -149,29 +145,29 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>12. jun<supplied >ij</supplied> 95</unclear>
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0046.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>12. jun<supplied>ij</supplied> 95</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durch leüchtige <choice><corr/><sic>Cuhrfürstin</sic></choice>, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N003"/>Weil der Wißer von ihr Mayestät widerumb abgefertigt ist,
       <lb facs="#facs_1_r1l4" n="N004"/>als komme ich dero liebste schreiben vom 27ten <choice><corr/><sic>jener</sic></choice>, so ich durch
-      <lb facs="#facs_1_r1l5" n="N005"/>den Wiser, vndt vom 6ten vnd 10ten passato mit der ordinari empfangen, <supplied >zu beantworten</supplied>.
+      <lb facs="#facs_1_r1l5" n="N005"/>den Wiser, vndt vom 6ten vnd 10ten passato mit der ordinari empfangen, <supplied>zu beantworten</supplied>.
       <lb facs="#facs_1_r1l6" n="N006"/>Er wirt dero Liebden in allem ausfürlich berichten, auf welches
       <lb facs="#facs_1_r1l7" n="N007"/>ich mich bezie vndt bitte, dero Liebden wollen in dißen, was ich so
       <lb facs="#facs_1_r1l8" n="N008"/>woll wegen der ministren als in allen andern puncten dero Liebden bericht,
-      <lb facs="#facs_1_r1l9" n="N009"/>durch ihn glauben, dan ich finden due, das dero Liebden in villen so<supplied >c</supplied>hen
+      <lb facs="#facs_1_r1l9" n="N009"/>durch ihn glauben, dan ich finden due, das dero Liebden in villen so<supplied>c</supplied>hen
       <lb facs="#facs_1_r1l10" n="N010"/>nit woll informirt sein vndt man schon impressions
-      <lb facs="#facs_1_r1l11" n="N011"/>gema<supplied >c</supplied>ht, die ohne fundament seindt. Wegen vns<supplied >e</supplied>r
+      <lb facs="#facs_1_r1l11" n="N011"/>gema<supplied>c</supplied>ht, die ohne fundament seindt. Wegen vns<supplied>e</supplied>r
       <lb facs="#facs_1_r1l12" n="N012"/><choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter, soduen dero Liebden hoschsterleücht, selbige woh möglich
       <lb facs="#facs_1_r1l13" n="N013"/>bei sich zue erhalten. Die sachen, so dero Liebden mihr überschriben,
       <lb facs="#facs_1_r1l14" n="N014"/>kenn ich noch alle von alters her vndt vermein,
-      <lb facs="#facs_1_r1l15" n="N015"/>was im zimmer passi<supplied >r</supplied>t, woh man von niemant
-      <lb facs="#facs_1_r1l16" n="N016"/>geße<supplied >h</supplied>n wirt, soll die Grauin, die lieb zuegewinnen, mer
+      <lb facs="#facs_1_r1l15" n="N015"/>was im zimmer passi<supplied>r</supplied>t, woh man von niemant
+      <lb facs="#facs_1_r1l16" n="N016"/>geße<supplied>h</supplied>n wirt, soll die Grauin, die lieb zuegewinnen, mer
       <lb facs="#facs_1_r1l17" n="N017"/>secundiren als widerschprechen, auch immereinmahl</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_3f_0047.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>selbst zue hören, leßen oder erzelen. Mit der gelegenheit
       <lb facs="#facs_2_r1l3" n="N002"/>kan man bisweilen was moralisch mitt drin brengen. Ich
       <lb facs="#facs_2_r1l4" n="N003"/>will izt ein geistligen romans lasen deütsch machen vndt
@@ -186,12 +182,12 @@
       <lb facs="#facs_2_r1l13" n="N012"/>im übrigen auf den Wißer, allein bitt noch mahlen
       <lb facs="#facs_2_r1l14" n="N013"/>in dem haubt werkh cauto zue gehn, dan mihr
       <lb facs="#facs_2_r1l15" n="N014"/>sonst alles verderben könten. Es ist mihr so angst
-      <lb facs="#facs_2_r1l16" n="N015"/>darbey, das nuhr ein fra<supplied >n</supplied>cöschisch stükel sey pour faire
+      <lb facs="#facs_2_r1l16" n="N015"/>darbey, das nuhr ein fra<supplied>n</supplied>cöschisch stükel sey pour faire
       <lb facs="#facs_2_r1l17" n="N016"/>dela defience entre les alyez, gott wolle
       <lb facs="#facs_2_r1l18" n="N017"/>alles zum besten schiken, dan wans vohr alle so auantagos,
       <lb facs="#facs_2_r1l19" n="N018"/>warumb sollen sie bedenken haben, das man es comuni-
-      <lb facs="#facs_2_r1l20" n="N019"/>ciren. Ich schlies, b<supplied >e</supplied>zie mich in allem auf den Wißer
-      <lb facs="#facs_2_r1l21" n="N020"/>vndt werde st<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l20" n="N019"/>ciren. Ich schlies, b<supplied>e</supplied>zie mich in allem auf den Wißer
+      <lb facs="#facs_2_r1l21" n="N020"/>vndt werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_line_1641829464137_246" n="N021"/>dero Liebden
       <lb facs="#facs_2_r1l22" n="N022"/>getrweste schwester
       <lb facs="#facs_2_r1l23" n="N023"/>Eleonora

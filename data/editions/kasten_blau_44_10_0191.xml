@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_10_0191.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0191.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1221" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1221px"/>
+    <graphic url="Kasten_blau_44_10_0191.jpg" width="800px" height="1221px"/>
     <zone points="84,35 84,1186 767,1186 767,35" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="92,90 118,90 144,90 170,90 196,90 222,90 248,90 248,35 222,35 196,35 170,35 144,35 118,35 92,35" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="142,454 173,454 204,453 235,453 267,453 298,452 329,451 360,450 392,449 423,448 454,447 485,445 517,444 548,442 579,440 610,438 642,435 673,432 704,429 735,426 767,422 767,370 735,374 704,377 673,380 642,383 610,386 579,388 548,390 517,392 485,393 454,395 423,396 392,397 360,398 329,399 298,400 267,401 235,401 204,401 173,402 142,402" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -112,7 +108,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1226" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1226px"/>
+    <graphic url="Kasten_blau_44_10_0192.jpg" width="800px" height="1226px"/>
     <zone points="62,0 62,538 760,538 760,0" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="70,196 104,198 138,200 172,202 206,203 240,204 274,205 308,205 342,206 376,206 410,206 444,206 478,206 512,206 546,207 580,207 614,207 648,208 682,209 716,210 751,212 751,169 716,167 682,166 648,165 614,164 580,164 546,164 512,163 478,163 444,163 410,163 376,163 342,163 308,162 274,162 240,161 206,160 172,159 138,157 104,155 70,153" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="81,266 116,267 152,269 188,270 223,271 259,272 295,273 331,273 366,273 402,274 438,274 474,274 509,274 545,274 581,274 617,274 652,274 688,274 724,273 760,273 760,228 724,228 688,229 652,229 617,229 581,229 545,229 509,229 474,229 438,229 402,229 366,228 331,228 295,228 259,227 223,226 188,225 152,224 116,222 81,221" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -123,7 +119,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1196" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1196px"/>
+    <graphic url="Kasten_blau_44_10_0193.jpg" width="800px" height="1196px"/>
     <zone points="268,461 554,461 554,893 268,893" rendition="TextRegion" xml:id="facs_3_region_1660552170889_445">
         <zone points="473,487 473,538 470,591 470,638 473,683 472,729 468,770 466,810 466,855 416,855 416,809 418,767 422,726 423,684 420,639 420,590 423,537 423,487" rendition="Line" xml:id="facs_3_line_1660552211430_449"/>
         <zone points="424,495 423,543 424,595 420,636 417,681 412,718 410,742 411,786 411,826 361,826 361,786 360,741 362,712 367,675 370,632 374,593 373,543 374,494" rendition="Line" xml:id="facs_3_line_1660552221092_454"/>
@@ -133,32 +129,32 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="7 r" xml:id="Kasten_blau_44_10_0191.jpg" ed="114 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>feb 1710</unclear>
-      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerl<supplied >i</supplied>bster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerl<supplied>i</supplied>bster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N003"/>Ich komme, mein schuldige dankhsagung
-      <lb facs="#facs_1_r1l4" n="N004"/>abzulegen vohr den liebr<supplied >e</supplied>ichen wuntsch zu dem
+      <lb facs="#facs_1_r1l4" n="N004"/>abzulegen vohr den liebr<supplied>e</supplied>ichen wuntsch zu dem
       <lb facs="#facs_1_r1l5" n="N005"/>dag der <choice><expan>heiligen</expan><abbr>h</abbr></choice> 3 könig. Hoffe, gott werde mihr
       <lb facs="#facs_1_r1l6" n="N006"/>gnad geben, alles das, was er durch seine
       <lb facs="#facs_1_r1l7" n="N007"/>gütte mihr verleyen wirt, anzuwenden zu
       <lb facs="#facs_1_r1l8" n="N008"/>seiner ehr, vnd dero Liebden mein gegen dero-
       <lb facs="#facs_1_r1l9" n="N009"/>selben bestendig dragenden <choice><expan>schwesterliche</expan><abbr>schwst</abbr></choice> lieb
-      <lb facs="#facs_1_r1l10" n="N010"/>zue erzeigen, warzue ein iede gelegenh<supplied >ei</supplied>t</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l10" n="N010"/>zue erzeigen, warzue ein iede gelegenh<supplied>ei</supplied>t</ab>
+    <pb facs="#facs_2" n="7 v" xml:id="Kasten_blau_44_10_0192.jpg" ed="114 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>mihr die gröste freüdt sein wirt, durch welche
       <lb facs="#facs_2_r1l3" n="N002"/>dero Liebden erkennen mögen, das ich lebenslang verbleiben
       <lb facs="#facs_2_r1l4" n="N003"/>werde
       <lb facs="#facs_2_r1l5" n="N004"/>dero Liebden
-      <lb facs="#facs_2_r1l6" n="N005"/>getr<supplied >e</supplied>wsteschw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l6" n="N005"/>getr<supplied>e</supplied>wsteschw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l7" n="N006"/>Eleonora</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_region_1660552170889_445" >
+    <pb facs="#facs_3" n="3" xml:id="Kasten_blau_44_10_0193.jpg"/>
+    <ab facs="#facs_3_region_1660552170889_445">
       <lb facs="#facs_3_line_1660552211430_449" n="N001"/>Ihr <choice><expan>LIebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
-      <lb facs="#facs_3_line_1660552221092_454" n="N002"/>Pfalz, meinem herzallerl<supplied >i</supplied>bsten
+      <lb facs="#facs_3_line_1660552221092_454" n="N002"/>Pfalz, meinem herzallerl<supplied>i</supplied>bsten
       <lb facs="#facs_3_line_1660552226630_459" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brudern</ab>
   </div>
 </body>

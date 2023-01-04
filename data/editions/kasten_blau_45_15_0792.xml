@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0792.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0792.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-09-13"></origDate></origin>
+                        <origin><origDate when-iso="1689-09-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-09-13"></date>
+               <date when-iso="1689-09-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1299" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1299px"/>
+    <graphic url="Kasten_blau_45_15_0792.jpg" width="800px" height="1299px"/>
     <zone points="49,389 49,1287 767,1287 767,389" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="124,460 250,456 304,421 346,448 662,423 772,435 772,384 692,374 124,364" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="73,518 95,527 191,480 303,482 350,508 390,481 421,496 474,476 632,509 729,488 716,432 576,453 522,433 383,440 358,458 290,441 160,469 71,399" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1283" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1283px"/>
+    <graphic url="Kasten_blau_45_15_0793.jpg" width="800px" height="1283px"/>
     <zone points="38,121 38,1274 776,1274 776,121" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="53,168 174,183 333,153 369,187 402,155 486,186 532,161 724,164 722,88 473,109 378,94 343,107 246,93 177,109 51,101" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="52,236 240,207 316,245 347,215 399,202 484,226 512,211 776,213 775,163 486,186 406,157 368,187 330,155 267,181 239,171 190,188 153,172 132,188 51,167" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -147,10 +143,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="146 r" xml:id="Kasten_blau_45_15_0792.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht sag <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> dankh vohr bede dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben
       <lb facs="#facs_1_r1l3" n="N003"/>vom Vokt vnd curir. Auf ewer Durchlaucht verlangen
@@ -166,8 +162,8 @@
       <lb facs="#facs_1_r1l13" n="N013"/>wider ein wehnig recht drein komme vnd hier
       <lb facs="#facs_1_r1l14" n="N014"/>verbleibe. Wan ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befehlen werden, wirt er
       <lb facs="#facs_1_r1l15" n="N015"/>schon noch ein mahl auf ein par dag hinübergeschikt</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="146 v" xml:id="Kasten_blau_45_15_0793.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>werden. Ihr Mayestät wehren auch gern lenger bey
       <lb facs="#facs_2_r1l2" n="N002"/>ewer Durchlaucht verbliben, aber auch die andre negotien,
       <lb facs="#facs_2_line_1651505322259_267" n="N003"/>nit allein in dem haubt werkh, sondren die haus-
@@ -185,10 +181,10 @@
       <lb facs="#facs_2_r1l16" n="N015"/>Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfehlen vnd werde
       <lb facs="#facs_2_r1l17" n="N016"/>ste<choice><expan/><abbr>r</abbr></choice>ben
       <lb facs="#facs_2_r1l18" n="N017"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l19" n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l19" n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l21" n="N019"/>EMT
       <lb facs="#facs_2_r1l20" n="N020"/>Augschpurg den 13ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1689
-      <lb facs="#facs_2_r1l22" n="N021"/>Due mich in allem auf den Vokt beziehen. Disen b<supplied >r</supplied>if nebenst
+      <lb facs="#facs_2_r1l22" n="N021"/>Due mich in allem auf den Vokt beziehen. Disen b<supplied>r</supplied>if nebenst
       <lb facs="#facs_2_r1l23" n="N022"/><choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice> dankhsagen vohr empfangne gnaden hatt mihr <choice><expan>Pater</expan><abbr>P</abbr></choice> <choice><expan>Hippolito</expan><abbr>Hip</abbr></choice>
       <lb facs="#facs_2_r1l24" n="N023"/>geben einzueschließen.</ab>
   </div>

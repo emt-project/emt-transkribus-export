@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="korrespondenzakten_1147_0135.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="korrespondenzakten_1147_0135.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1695-01-05"></origDate></origin>
+                        <origin><origDate when-iso="1695-01-05"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1695-01-05"></date>
+               <date when-iso="1695-01-05"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1253" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1253px"/>
+    <graphic url="Korrespondenzakten_1147_0135.jpg" width="800px" height="1253px"/>
     <zone points="16,37 16,1239 747,1239 747,37" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="16,72 40,81 54,75 70,83 84,77 104,84 114,75 120,77 138,69 149,72 151,27 139,28 125,19 116,23 106,17 67,27 32,19 27,24 18,21" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="134,486 404,516 501,480 573,492 610,522 745,502 746,448 673,452 640,431 593,453 529,422 377,439 319,417 134,454" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -123,25 +119,25 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="84 r" xml:id="Korrespondenzakten_1147_0135.jpg" ed="57 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>5. jan 95</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster
       <lb facs="#facs_1_r1l3" n="N003"/><choice><expan>herr</expan><abbr>h</abbr></choice> bruder. Weil ich gestren nit können mehr den
       <lb facs="#facs_1_r1l4" n="N004"/>brif an mein <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl überschiken aus kürze
-      <lb facs="#facs_1_r1l5" n="N005"/>der zeit, also due es mit heüntiger gelegenh<supplied >e</supplied>it
-      <lb facs="#facs_1_r1l6" n="N006"/>des spanischen se<supplied >c</supplied>retari, welcher den toison bringet.
+      <lb facs="#facs_1_r1l5" n="N005"/>der zeit, also due es mit heüntiger gelegenh<supplied>e</supplied>it
+      <lb facs="#facs_1_r1l6" n="N006"/>des spanischen se<supplied>c</supplied>retari, welcher den toison bringet.
       <lb facs="#facs_1_r1l7" n="N007"/>Dis ist der erste passo, so ihr Mayestät vermeindt
-      <lb facs="#facs_1_r1l8" n="N008"/>das zue dun s<supplied >e</supplied>y, vnterdeßen wirt der Deütschmeister
+      <lb facs="#facs_1_r1l8" n="N008"/>das zue dun s<supplied>e</supplied>y, vnterdeßen wirt der Deütschmeister
       <lb facs="#facs_1_r1l9" n="N009"/>kommen, so werden verners die sachen mit ihm
       <lb facs="#facs_1_r1l10" n="N010"/>überlegen, auch dero Liebden project ihr Mayestät vohrdragen.
-      <lb facs="#facs_1_r1l11" n="N011"/>Due mich indeßen dero Liebden bef<supplied >e</supplied>hlen vndt bezie
-      <lb facs="#facs_1_r1l12" n="N012"/>mich im übrigen auf mein gestrigs sch<supplied >rei</supplied>ben, die
-      <lb facs="#facs_1_r1l13" n="N013"/>ich st<supplied >er</supplied>ben werde
+      <lb facs="#facs_1_r1l11" n="N011"/>Due mich indeßen dero Liebden bef<supplied>e</supplied>hlen vndt bezie
+      <lb facs="#facs_1_r1l12" n="N012"/>mich im übrigen auf mein gestrigs sch<supplied>rei</supplied>ben, die
+      <lb facs="#facs_1_r1l13" n="N013"/>ich st<supplied>er</supplied>ben werde
       <lb facs="#facs_1_line_1657115240538_312" n="N014"/>dero Liebden
-      <lb facs="#facs_1_r1l15" n="N015"/>g<supplied >e</supplied>trewste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l15" n="N015"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l16" n="N016"/>Eleonora 
       <lb facs="#facs_1_line_1657115102636_291" n="N017"/>Wien den 5ten jener
       <lb facs="#facs_1_line_1657115130230_303" n="N018"/>1695

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0750.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0750.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-07-05"></origDate></origin>
+                        <origin><origDate when-iso="1689-07-05"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1689-07-05"></date>
+               <date when-iso="1689-07-05"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1272" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1272px"/>
+    <graphic url="Kasten_blau_45_15_0750.jpg" width="800px" height="1272px"/>
     <zone points="57,485 57,1254 748,1254 748,485" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="148,528 432,522 519,545 566,522 702,544 752,527 753,488 608,488 527,464 473,490 370,447 249,468 149,447" rendition="Line" xml:id="facs_1_r2l1"/>
         <zone points="97,576 174,573 235,611 350,581 433,599 485,587 523,610 713,586 713,544 564,555 432,522 216,547 165,522 97,525" rendition="Line" xml:id="facs_1_r2l2"/>
@@ -113,7 +109,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1272" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1272px"/>
+    <graphic url="Kasten_blau_45_15_0751.jpg" width="800px" height="1272px"/>
     <zone points="53,64 53,819 776,819 776,64" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="59,120 245,94 361,116 465,94 693,117 758,101 752,51 480,51 279,48 165,52 52,58" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="48,172 127,147 174,177 285,149 413,171 776,152 776,112 744,106 598,106 572,126 48,112" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -132,33 +128,33 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster h<supplied >e</supplied>rr vatter
+    <pb facs="#facs_1" n="121 r" xml:id="Kasten_blau_45_15_0750.jpg"/>
+    <ab facs="#facs_1_r2">
+      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster h<supplied>e</supplied>rr vatter
       <lb facs="#facs_1_r2l2" n="N002"/>Mitt der gelegenheit, das der <choice><expan>Graven</expan><abbr>Gr</abbr></choice> von Wollenstein von
       <lb facs="#facs_1_r2l3" n="N003"/>ihr Mayestät in Schpanien geschikt wirt vnd auch über
       <lb facs="#facs_1_r2l4" n="N004"/>Neüburg seinen weg nemmen duet, von ewer Durchlaucht dero
       <lb facs="#facs_1_r2l5" n="N005"/>befehl zue empfangen, so hab ich mein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schul-
       <lb facs="#facs_1_r2l6" n="N006"/>dichkeit nit vnterlaßen wollen, ewer Durchlaucht mit
-      <lb facs="#facs_1_r2l7" n="N007"/>meinen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> zeilen zue bedien<supplied >en</supplied>, verhoffendt, das
+      <lb facs="#facs_1_r2l7" n="N007"/>meinen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> zeilen zue bedien<supplied>en</supplied>, verhoffendt, das
       <lb facs="#facs_1_r2l8" n="N008"/>er ewer Durchlaucht in bestem wohlstandt finden werde,
-      <lb facs="#facs_1_r2l9" n="N009"/>welches mich über alles erfreien wi<supplied >r</supplied>t zue
+      <lb facs="#facs_1_r2l9" n="N009"/>welches mich über alles erfreien wi<supplied>r</supplied>t zue
       <lb facs="#facs_1_r2l10" n="N010"/>vernemmen. Was von hier könte <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> berichten,
       <lb facs="#facs_1_r2l11" n="N011"/>werden ewer Durchlaucht alles von ihme vernemmen. Das
-      <lb facs="#facs_1_r2l12" n="N012"/>habe <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> erinne<supplied >r</supplied>n wollen, das in der polnischen <supplied >sache</supplied></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r2l12" n="N012"/>habe <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> erinne<supplied>r</supplied>n wollen, das in der polnischen <supplied>sache</supplied></ab>
+    <pb facs="#facs_2" n="121 v" xml:id="Kasten_blau_45_15_0751.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>man vermeint, es wehre mit verkaufung der
       <lb facs="#facs_2_r1l2" n="N002"/>güetter geferlich vnd beßer, wan es kundt bono
-      <lb facs="#facs_2_r1l3" n="N003"/>modo <unclear>sekiuirt</unclear> werden. Der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> wi<supplied >r</supplied>t ewer Durchlaucht
+      <lb facs="#facs_2_r1l3" n="N003"/>modo <unclear>sekiuirt</unclear> werden. Der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> wi<supplied>r</supplied>t ewer Durchlaucht
       <lb facs="#facs_2_r1l4" n="N004"/>mein <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> respect vnd höchstes verlangen, selbige
-      <lb facs="#facs_2_r1l5" n="N005"/>persönlich zue bedienen, mit meren contest<supplied >i</supplied>ren,
+      <lb facs="#facs_2_r1l5" n="N005"/>persönlich zue bedienen, mit meren contest<supplied>i</supplied>ren,
       <lb facs="#facs_2_line_1651071295406_284" n="N006"/>auf den ich mich beziehe vnd mich in ewer
-      <lb facs="#facs_2_r1l8" n="N007"/>Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfele, die ich st<supplied >e</supplied>rben werde
+      <lb facs="#facs_2_r1l8" n="N007"/>Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfele, die ich st<supplied>e</supplied>rben werde
       <lb facs="#facs_2_line_1651071510922_306" n="N008"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l10" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> tr<supplied >e</supplied>wgeho<supplied >r</supplied>sa<supplied >m</supplied>ste do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l10" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> tr<supplied>e</supplied>wgeho<supplied>r</supplied>sa<supplied>m</supplied>ste do<supplied>c</supplied>hter
       <lb facs="#facs_2_line_1654178563240_670" n="N010"/>EMT
       <lb facs="#facs_2_line_1651071485785_301" n="N011"/>Wien den 5ten julij 1689 
       <lb facs="#facs_2_r1l11" n="N012"/>Hirbey kombt der schpanische brif, so mit lezterer post hab bekommen.</ab>

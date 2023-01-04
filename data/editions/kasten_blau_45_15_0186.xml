@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0186.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0186.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1220" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1220px"/>
+    <graphic url="Kasten_blau_45_15_0186.jpg" width="800px" height="1220px"/>
     <zone points="37,195 37,1186 772,1186 772,195" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="141,251 209,278 359,239 464,257 516,231 583,252 634,231 715,243 777,223 775,186 417,179 375,204 308,186 140,236" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="99,333 257,289 378,321 420,294 542,282 747,302 775,286 772,227 429,265 361,246 321,272 221,257 189,278 94,243" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,24 +115,24 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatt<supplied >e</supplied>r
+    <pb facs="#facs_1" n="86 r" xml:id="Kasten_blau_45_15_0186.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatt<supplied>e</supplied>r
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht bitt ich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung,
-      <lb facs="#facs_1_r1l3" n="N003"/>das heüt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied >r</supplied>eiben nit beantwort.
+      <lb facs="#facs_1_r1l3" n="N003"/>das heüt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben nit beantwort.
       <lb facs="#facs_1_r1l4" n="N004"/>Ihr Mayestät, mein Kaiser, haben eingenommen,
       <lb facs="#facs_1_r1l5" n="N005"/>vnd ich hab heünt ihm zue vnterhalten
       <lb facs="#facs_1_r1l6" n="N006"/>mitt mein freilen ein kleins balettel gelernt
-      <lb facs="#facs_1_r1l7" n="N007"/>vnd gedanzt, so ist kein z<supplied >e</supplied>it. Mit nechstem
+      <lb facs="#facs_1_r1l7" n="N007"/>vnd gedanzt, so ist kein z<supplied>e</supplied>it. Mit nechstem
       <lb facs="#facs_1_r1l8" n="N008"/>wert als herein bringen. Hierbey kombt
       <lb facs="#facs_1_r1l9" n="N009"/>ein weis von einem wint. Bitt <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>,
       <lb facs="#facs_1_r1l10" n="N010"/>mich bey ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter, <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>
-      <lb facs="#facs_1_r1l11" n="N011"/>zue entschuldigen, kan einmahl nit <supplied >schreiben</supplied>. Sterb
+      <lb facs="#facs_1_r1l11" n="N011"/>zue entschuldigen, kan einmahl nit <supplied>schreiben</supplied>. Sterb
       <lb facs="#facs_1_line_1639397670725_3030" n="N012"/>ewer Durchlaucht
       <lb facs="#facs_1_line_1639397664376_3024" n="N013"/><seg type="blackening">EM</seg>
-      <lb facs="#facs_1_r1l13" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_1_r1l13" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_1_r1l14" n="N015"/>EMT</ab>
   </div>
 </body>

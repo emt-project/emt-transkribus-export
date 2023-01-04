@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0043.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0043.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-11-07"></origDate></origin>
+                        <origin><origDate when-iso="1689-11-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-11-07"></date>
+               <date when-iso="1689-11-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1213" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1213px"/>
+    <graphic url="Kasten_blau_44_6_0043.jpg" width="800px" height="1213px"/>
     <zone points="12,60 12,1206 765,1206 765,60" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="111,260 393,290 457,267 563,284 755,273 754,227 579,241 458,208 412,236 332,223 297,244 263,228 111,244" rendition="Line" xml:id="facs_1_r1l5"/>
         <zone points="73,237 207,242 290,217 367,238 458,207 502,233 553,210 755,239 762,179 598,194 522,167 479,195 265,204 204,178 72,203" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -129,15 +125,15 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l5" n="N001"/>Heüt kombt die He<supplied >r</supplied>zogin von Wirtenberg wider zue mier.
+    <pb facs="#facs_1" n="30 r" xml:id="Kasten_blau_44_6_0043.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l5" n="N001"/>Heüt kombt die He<supplied>r</supplied>zogin von Wirtenberg wider zue mier.
       <lb facs="#facs_1_r1l4" n="N002"/><unclear>die Princes An ist natürlich Margraf Herman</unclear> 
       <lb facs="#facs_1_r1l3" n="N003"/>solten ein minuet miteinander dansen, er Venus
       <lb facs="#facs_1_r1l2" n="N004"/>vnd sie Cupido. 
-      <lb facs="#facs_1_r1l6" n="N005"/>Durchleüchtiger Fürst, h<supplied >er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> bruder
+      <lb facs="#facs_1_r1l6" n="N005"/>Durchleüchtiger Fürst, h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> bruder
       <lb facs="#facs_1_r1l7" n="N006"/>Ich hoff, dero Liebden werden diser brif gelükhlich
       <lb facs="#facs_1_r1l8" n="N007"/>zue Düßeldorf angelangt finden, welchs
       <lb facs="#facs_1_r1l9" n="N008"/>mich über alles erfrewen wirt zue vernemmen.
@@ -150,11 +146,11 @@
       <lb facs="#facs_1_r1l16" n="N015"/>Hier ist izt schandtlich schandtlich wetter,
       <lb facs="#facs_1_r1l17" n="N016"/>hoff nit, das dero Liebden in dero reis verhinderlich sein
       <lb facs="#facs_1_r1l18" n="N017"/>wirt, wehniger an der gesuntheit schaden. Mit
-      <lb facs="#facs_1_r1l19" n="N018"/>meiner Ther<supplied >e</supplied>sel seint gottlob keine blatte<supplied >r</supplied>n,
+      <lb facs="#facs_1_r1l19" n="N018"/>meiner Ther<supplied>e</supplied>sel seint gottlob keine blatte<supplied>r</supplied>n,
       <lb facs="#facs_1_r1l20" n="N019"/>ist nuhr von der <unclear>gall</unclear> ein fieber gewest. Ich
       <lb facs="#facs_1_r1l21" n="N020"/>sterbe
       <lb facs="#facs_1_line_1643372719072_2055" n="N021"/>dero Liebden
-      <lb facs="#facs_1_line_1643372755549_2059" n="N022"/>getre<supplied >w</supplied>ste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_line_1643372755549_2059" n="N022"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l23" n="N023"/>Eleonora
       <lb facs="#facs_1_line_1643372755549_2060" n="N024"/>Augschpurg den 7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice>
       <lb facs="#facs_1_r1l25" n="N025"/>1689</ab>

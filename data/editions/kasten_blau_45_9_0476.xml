@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0476.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0476.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1685-10-18"></origDate></origin>
+                        <origin><origDate when-iso="1685-10-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1685-10-18"></date>
+               <date when-iso="1685-10-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1193" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1193px"/>
+    <graphic url="Kasten_blau_45_9_0476.jpg" width="800px" height="1193px"/>
     <zone points="17,158 17,1187 798,1187 798,158" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="111,234 455,191 545,211 625,184 661,205 749,202 793,191 793,169 677,129 583,163 535,132 298,147 109,115" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="74,290 167,252 272,283 372,251 439,264 498,233 582,264 679,239 729,266 803,235 802,206 666,206 628,184 533,222 401,200 72,216" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -121,10 +117,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="281 r" xml:id="Kasten_blau_45_9_0476.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Vohr dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom 20ten, 22ten, 28ten passato vnd 2ten dis
       <lb facs="#facs_1_r1l3" n="N003"/>sage ich <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh. Freütt mich von herzen, dero
@@ -132,7 +128,7 @@
       <lb facs="#facs_1_r1l5" n="N005"/>bey der bürst gehabt, wie ich auch alles von meinem
       <lb facs="#facs_1_r1l6" n="N006"/><choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brud</abbr></choice> vernommen. Wegen der pfälzischen sachen wie auch
       <lb facs="#facs_1_r1l7" n="N007"/>wegen des Starenbergs werden ewer Durchlaucht von dem Stratman
-      <lb facs="#facs_1_r1l8" n="N008"/>wie auch meinem bruedern se<supplied >l</supplied>ber, zue vodrist aber
+      <lb facs="#facs_1_r1l8" n="N008"/>wie auch meinem bruedern se<supplied>l</supplied>ber, zue vodrist aber
       <lb facs="#facs_1_r1l9" n="N009"/>von ihr Mayestät schon alles beantwortet haben, das ich ewer Durchlaucht
       <lb facs="#facs_1_r1l10" n="N010"/>nit mehr darmit vngelegenheit machen will. Was
       <lb facs="#facs_1_r1l11" n="N011"/>aber die sach anbelangt wegen meines <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl,

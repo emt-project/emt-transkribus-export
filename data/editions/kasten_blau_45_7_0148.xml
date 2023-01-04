@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_7_0148.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_7_0148.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1705-06-17"></origDate></origin>
+                        <origin><origDate when-iso="1705-06-17"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1705-06-17"></date>
+               <date when-iso="1705-06-17"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1187" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1187px"/>
+    <graphic url="Kasten_blau_45_7_0148.jpg" width="800px" height="1187px"/>
     <zone points="48,0 48,1109 758,1109 758,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="126,465 216,442 252,463 328,432 426,459 603,450 691,421 749,432 761,349 702,325 441,380 392,353 272,346 125,402" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="61,506 217,487 255,511 330,488 500,520 619,493 674,510 727,482 726,425 602,450 427,460 308,440 205,470 60,470" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -113,7 +109,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1193" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1193px"/>
+    <graphic url="Kasten_blau_45_7_0149.jpg" width="800px" height="1193px"/>
     <zone points="33,57 33,1075 797,1075 797,57" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="33,121 123,135 280,83 375,116 506,77 644,111 685,86 756,93 746,41 576,70 500,39 461,77 332,75 299,50 116,76 32,45" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="38,191 131,146 228,176 307,144 498,169 748,159 780,149 780,101 594,108 503,78 433,120 338,87 207,90 122,134 37,128" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -138,10 +134,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="72 r" xml:id="Kasten_blau_45_7_0148.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l2" n="N002"/>Dero herzu nahender nahmensdag gibt mihr
       <lb facs="#facs_1_r1l3" n="N003"/>ahnlaß, dero Liebden dazu zu gratuliren. Bitte gott, das
@@ -149,17 +145,17 @@
       <lb facs="#facs_1_r1l5" n="N005"/>möge überhaufen vndt <seg type="blackening">vndt</seg> ville vnzahlbar
       <lb facs="#facs_1_r1l6" n="N006"/>iahr continuiren, welches vohr mich in meiner
       <lb facs="#facs_1_r1l7" n="N007"/>bedrüebnuß die gröste linderung geben könte.
-      <lb facs="#facs_1_r1l8" n="N008"/>Vnser schw<supplied >e</supplied>ster Lischen ist heündt auf Prag, wi<supplied >r</supplied>t
-      <lb facs="#facs_1_r1l9" n="N009"/>dort erwarten die antwort w<supplied >e</supplied>gen ihrs Pri<supplied >n</supplied>zen,
-      <lb facs="#facs_1_r1l10" n="N010"/>ob in der Konig will loß laßen, sonst wi<supplied >r</supplied>t
+      <lb facs="#facs_1_r1l8" n="N008"/>Vnser schw<supplied>e</supplied>ster Lischen ist heündt auf Prag, wi<supplied>r</supplied>t
+      <lb facs="#facs_1_r1l9" n="N009"/>dort erwarten die antwort w<supplied>e</supplied>gen ihrs Pri<supplied>n</supplied>zen,
+      <lb facs="#facs_1_r1l10" n="N010"/>ob in der Konig will loß laßen, sonst wi<supplied>r</supplied>t
       <lb facs="#facs_1_r1l11" n="N011"/>sie zu ihm gehen, weil ers ihr erlaubt hatt
       <lb facs="#facs_1_r1l12" n="N012"/>vnd der <choice><expan>Prinz</expan><abbr>P</abbr></choice> es so sehr verlangt, weil er in</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l1" n="N001"/>kein gutten standt vnd in sein sa<supplied >c</supplied>hen ein disposition
+    <pb facs="#facs_2" n="72 v" xml:id="Kasten_blau_45_7_0149.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l1" n="N001"/>kein gutten standt vnd in sein sa<supplied>c</supplied>hen ein disposition
       <lb facs="#facs_2_r1l2" n="N002"/>magen will, so notwendig ist. Ich hoff, sie soll balt
       <lb facs="#facs_2_r1l3" n="N003"/>wider kommen. Ich reccommendire dero Liebden nochmahlen
-      <lb facs="#facs_2_r1l4" n="N004"/>die anschpachische sach, dero Liebden lasen sichs doch ang<supplied >e</supplied>legen
+      <lb facs="#facs_2_r1l4" n="N004"/>die anschpachische sach, dero Liebden lasen sichs doch ang<supplied>e</supplied>legen
       <lb facs="#facs_2_r1l5" n="N005"/>sein, dan es mein sohn <unclear>izt</unclear> gahr zu bedrüeblich wer
       <lb facs="#facs_2_r1l6" n="N006"/>vnd hart, sich auf ein andre zu resoluiren. Weil
       <lb facs="#facs_2_r1l7" n="N007"/>sie so eifrich in ihrer religion, wirts hernach
@@ -169,11 +165,11 @@
       <lb facs="#facs_2_r1l11" n="N011"/>andre ist erst 14 iahr, wan man so iung
       <lb facs="#facs_2_r1l12" n="N012"/>heirat, hatt man ordinari wehnig kinder
       <lb facs="#facs_2_line_1665237095011_174" n="N013"/>an dennen alles gelegen ist.
-      <lb facs="#facs_2_r1l15" n="N014"/>Due mich dero Liebden befehlen vnd werde st<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l15" n="N014"/>Due mich dero Liebden befehlen vnd werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_line_1653403183053_308" n="N015"/>dero Liebden
-      <lb facs="#facs_2_r1l17" n="N016"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l17" n="N016"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l18" n="N017"/>Eleonora
-      <lb facs="#facs_2_r1l16" n="N018"/>Wien den 17ten jun<supplied >i</supplied> 1705</ab>
+      <lb facs="#facs_2_r1l16" n="N018"/>Wien den 17ten jun<supplied>i</supplied> 1705</ab>
   </div>
 </body>
 

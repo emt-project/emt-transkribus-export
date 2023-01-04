@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0335.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0335.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1697-05-29"></origDate></origin>
+                        <origin><origDate when-iso="1697-05-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1697-05-29"></date>
+               <date when-iso="1697-05-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1200" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1200px"/>
+    <graphic url="Kasten_blau_44_7_0335.jpg" width="800px" height="1200px"/>
     <zone points="17,87 17,1190 773,1190 773,87" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="59,511 112,479 173,510 209,489 414,476 480,495 526,472 650,494 737,476 737,435 694,422 632,438 497,420 457,438 293,397 59,410" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="33,576 126,533 173,556 262,539 294,563 344,528 687,540 721,530 720,478 650,495 544,473 491,500 413,477 164,510 130,482 30,468" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1203" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1203px"/>
+    <graphic url="Kasten_blau_44_7_0336.jpg" width="800px" height="1203px"/>
     <zone points="33,64 33,1191 786,1191 786,64" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="38,83 141,114 275,91 361,125 438,103 685,115 756,86 755,16 37,32" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="37,145 144,161 232,135 417,147 469,128 593,156 674,122 728,148 769,128 768,95 354,120 281,95 162,119 93,93 36,119" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -144,7 +140,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1208" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1208px"/>
+    <graphic url="Kasten_blau_44_7_0337.jpg" width="800px" height="1208px"/>
     <zone points="12,45 12,1108 765,1108 765,45" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="11,117 72,91 135,123 173,96 279,119 463,96 644,100 696,127 734,110 734,73 695,44 604,25 12,21" rendition="Line" xml:id="facs_3_r1l2"/>
         <zone points="12,167 120,185 330,139 387,164 444,143 478,165 631,169 741,151 741,112 697,127 505,95 429,122 386,102 265,121 173,96 132,125 78,89 12,119" rendition="Line" xml:id="facs_3_r1l3"/>
@@ -170,14 +166,14 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="183 r" xml:id="Kasten_blau_44_7_0335.jpg" ed="59 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>
       <lb facs="#facs_1_r1l3" n="N002"/>Ich hab dero schreiben vom 4ten dis woll empfangen, waraus ich
       <lb facs="#facs_1_r1l4" n="N003"/>ausfürlich vernommen die <unclear>intligene soluti</unclear>
-      <lb facs="#facs_1_r1l5" n="N004"/><unclear>on in Dännenmark</unclear>, well<supplied >ch</supplied>s mus man gott bef<supplied >e</supplied>hlen.
+      <lb facs="#facs_1_r1l5" n="N004"/><unclear>on in Dännenmark</unclear>, well<supplied>ch</supplied>s mus man gott bef<supplied>e</supplied>hlen.
       <lb facs="#facs_1_r1l6" n="N005"/>Ich weis zwar nit, ob wan <unclear>der hisige <choice><expan>Pater</expan><abbr>P</abbr></choice> wer  </unclear>
       <lb facs="#facs_1_r1l7" n="N006"/><unclear>hinkommen, die sachen nit besser</unclear>
       <lb facs="#facs_1_r1l8" n="N007"/><unclear>gangen weren</unclear>, gott hatt auch dises zuegelaßen, also
@@ -189,8 +185,8 @@
       <lb facs="#facs_1_r1l14" n="N013"/><unclear>tiren will</unclear> oder <unclear>soll</unclear>, halt ich gahr nit vohr
       <lb facs="#facs_1_r1l15" n="N014"/>guett. Ich hab zwar was daruon dero Liebden geschriben, aber nuhr
       <lb facs="#facs_1_r1l16" n="N015"/>in casu, <unclear>wan in Dännenmark sie voi</unclear></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="183 v" xml:id="Kasten_blau_44_7_0336.jpg" ed="59 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/><unclear>selbst hetten angebunden</unclear>, sonst gahr
       <lb facs="#facs_2_r1l2" n="N002"/>nit, dan damit macht man <unclear>sie nur stat </unclear>
       <lb facs="#facs_2_line_1649333111243_32" n="N003"/><unclear>tiger und bilden sie innen ein</unclear>,
@@ -206,22 +202,22 @@
       <lb facs="#facs_2_line_1649333212387_51" n="N013"/><unclear>ge, wan auf ein andere muste</unclear>
       <lb facs="#facs_2_r1l17" n="N014"/><unclear>gedacht werden</unclear>, niks vohrnemmen, was es
       <lb facs="#facs_2_r1l18" n="N015"/>auch immer sey, bis sie nit vohrhero herüber comuni-
-      <lb facs="#facs_2_r1l19" n="N016"/>cirt <supplied >haben</supplied>, vndt auch könftig meine brif woll leßen, vndt
+      <lb facs="#facs_2_r1l19" n="N016"/>cirt <supplied>haben</supplied>, vndt auch könftig meine brif woll leßen, vndt
       <lb facs="#facs_2_r1l20" n="N017"/>wan ich mich etwan nit recht in ein vndt andern
       <lb facs="#facs_2_r1l21" n="N018"/>explicir, lieber noch einmahl drüber vernemmen, als
       <lb facs="#facs_2_r1l22" n="N019"/>die sachen übereilen, wie es <unclear>mit abschikung </unclear>
       <lb facs="#facs_2_r1l23" n="N020"/><unclear>dises <choice><expan>Paters</expan><abbr>P</abbr></choice> geschen.</unclear> Wegen des secreto
       <lb facs="#facs_2_r1l24" n="N021"/>mags woll angestelt sein gewesen, das aber kan ich dero Liebden
       <lb facs="#facs_2_r1l25" n="N022"/>versichern, das ich hir von frembden alles etlige post</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="184 r" xml:id="Kasten_blau_44_7_0337.jpg" ed="60 r"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l2" n="N001"/>zueuohr gewust, als es von dero Liebden vernommen, was dorten
       <lb facs="#facs_3_r1l3" n="N002"/>passirt ist, vndt mitt allen vmbständen. Iezt mus
       <lb facs="#facs_3_r1l4" n="N003"/>man <unclear>auf ein andere gedenken. </unclear>
-      <lb facs="#facs_3_r1l5" n="N004"/><unclear>Mitt Fra<supplied >n</supplied>kreich ist kein ge</unclear>
+      <lb facs="#facs_3_r1l5" n="N004"/><unclear>Mitt Fra<supplied>n</supplied>kreich ist kein ge</unclear>
       <lb facs="#facs_3_r1l6" n="N005"/><unclear>daenken zu halten</unclear>, mihr seint von dort so
       <lb facs="#facs_3_r1l7" n="N006"/>offt bedrogen vndt <unclear>r</unclear> belogen worden, das mihr genuech
-      <lb facs="#facs_3_r1l8" n="N007"/>daran haben vndt lieber weis was duen <supplied >würden</supplied>, als <unclear>das ge</unclear>
+      <lb facs="#facs_3_r1l8" n="N007"/>daran haben vndt lieber weis was duen <supplied>würden</supplied>, als <unclear>das ge</unclear>
       <lb facs="#facs_3_r1l9" n="N008"/><unclear>sindel herziglen</unclear>, dan dort helfen
       <lb facs="#facs_3_r1l10" n="N009"/>keine precautiones, es ist weder trew noch glauben,
       <lb facs="#facs_3_r1l11" n="N010"/>dio ce ne guardi è la madonna <choice><expan>santissima</expan><abbr>ssma</abbr></choice>. Weiter
@@ -229,9 +225,9 @@
       <lb facs="#facs_3_r1l13" n="N012"/>legens braucht, scheindt, <unclear>Hanover könne wol </unclear>
       <lb facs="#facs_3_r1l14" n="N013"/><unclear>considerirt werden,</unclear> doch mus
       <lb facs="#facs_3_r1l15" n="N014"/>man alles woll bedenken vndt mit gott überlegen. Due mich
-      <lb facs="#facs_3_r1l16" n="N015"/>hirmit dero Liebden bef<supplied >e</supplied>hlen vndt werde st<supplied >er</supplied>ben
+      <lb facs="#facs_3_r1l16" n="N015"/>hirmit dero Liebden bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
       <lb facs="#facs_3_line_1649333837609_95" n="N016"/>dero Liebden
-      <lb facs="#facs_3_line_1649333855892_102" n="N017"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_3_line_1649333855892_102" n="N017"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_3_r1l18" n="N018"/>Eleonora
       <lb facs="#facs_3_line_1649333855892_103" n="N019"/>Laxenburg den 29ten maij 1697</ab>
   </div>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0606.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0606.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-02-15"></origDate></origin>
+                        <origin><origDate when-iso="1689-02-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__39">Neuburg</placeName>
-               <date  when-iso="1689-02-15"></date>
+               <date when-iso="1689-02-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1283" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1283px"/>
+    <graphic url="Kasten_blau_45_15_0606.jpg" width="800px" height="1283px"/>
     <zone points="21,1158 21,1282 68,1282 68,1158" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="14,1272 31,1274 35,1279 39,1276 45,1279 53,1277 63,1283 70,1284 75,1241 64,1241 57,1237 48,1239 38,1230 33,1232 30,1229 20,1228" rendition="Line" xml:id="facs_1_r1l1"/>
       </zone>
@@ -149,12 +145,12 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="31 r" xml:id="Kasten_blau_45_15_0606.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/></ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>ihr Mayestät die ohigserin e
       <lb facs="#facs_1_r2l2" n="N002"/>mit dhnon hig m
       <lb facs="#facs_1_r2l3" n="N003"/>allemgsten beeilligg
@@ -162,9 +158,9 @@
       <lb facs="#facs_1_r2l5" n="N005"/> estalt
       <lb facs="#facs_1_r2l6" n="N006"/>mnlrrg den 1 jeb
       <lb facs="#facs_1_r2l7" n="N007"/>E</ab>
-    <ab facs="#facs_1_r3" >
+    <ab facs="#facs_1_r3">
       <lb facs="#facs_1_r3l1" n="N001"/></ab>
-    <ab facs="#facs_1_r4" >
+    <ab facs="#facs_1_r4">
       <lb facs="#facs_1_r4l1" n="N001"/>allerdurhleüctigste hur
       <lb facs="#facs_1_r4l2" n="N002"/>dan kh Mayestät ist wohen lerget be
       <lb facs="#facs_1_r4l3" n="N003"/>dansten welchen gestalt der vehrlichten sendt aut

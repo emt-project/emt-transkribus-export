@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0177.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0177.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-05-08"></origDate></origin>
+                        <origin><origDate when-iso="1687-05-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1687-05-08"></date>
+               <date when-iso="1687-05-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1209" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1209px"/>
+    <graphic url="Kasten_blau_45_15_0177.jpg" width="800px" height="1209px"/>
     <zone points="46,172 46,1150 776,1150 776,172" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="90,204 170,208 220,238 476,194 525,226 592,204 769,220 769,171 610,174 526,144 454,160 365,138 194,164 90,143" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="88,278 122,255 208,277 293,248 355,270 478,257 535,283 586,257 679,276 775,262 775,227 677,210 530,229 494,202 317,233 277,214 221,237 171,208 88,203" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -121,25 +117,25 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="81 r" xml:id="Kasten_blau_45_15_0177.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster her vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das heünt
-      <lb facs="#facs_1_r1l3" n="N003"/>nit mit sch<supplied >r</supplied>eiben <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aufwart vnd dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
-      <lb facs="#facs_1_r1l4" n="N004"/>beantworte. Der dach ist heündt v<supplied >o</supplied>hrmitag in der
+      <lb facs="#facs_1_r1l3" n="N003"/>nit mit sch<supplied>r</supplied>eiben <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aufwart vnd dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
+      <lb facs="#facs_1_r1l4" n="N004"/>beantworte. Der dach ist heündt v<supplied>o</supplied>hrmitag in der
       <lb facs="#facs_1_r1l5" n="N005"/>kirchen, nachmitag mit vesper, einer mantuanischen audienz,
       <lb facs="#facs_1_r1l6" n="N006"/>auch zwehn neüe musici, die kommen sein vnd mihr
       <lb facs="#facs_1_r1l7" n="N007"/>in cammera gehört, nachgehns auf der beys zu-
       <lb facs="#facs_1_r1l8" n="N008"/>gebracht worden. Werde mit nechstem gewißlich
       <lb facs="#facs_1_r1l9" n="N009"/>alles ersezen, ist iezt schon schpaht, vnd morgen
       <lb facs="#facs_1_r1l10" n="N010"/>sollen früe ausgehn. Schikh <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> die simphonia
-      <lb facs="#facs_1_r1l11" n="N011"/>zur opera. Wan sie mues in einem dag gehal<supplied >t</supplied>en
+      <lb facs="#facs_1_r1l11" n="N011"/>zur opera. Wan sie mues in einem dag gehal<supplied>t</supplied>en
       <lb facs="#facs_1_r1l12" n="N012"/>werden, wirt woll lang sein in der hiz, 6 stundt
-      <lb facs="#facs_1_r1l13" n="N013"/>gahr guet. Due mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied >e</supplied>hlen vnd werde st<supplied >e</supplied>rben
+      <lb facs="#facs_1_r1l13" n="N013"/>gahr guet. Due mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bef<supplied>e</supplied>hlen vnd werde st<supplied>e</supplied>rben
       <lb facs="#facs_1_line_1639392937449_2890" n="N014"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1643046072294_27" n="N015"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_1_line_1643046072294_27" n="N015"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_1_r1l16" n="N016"/>EMT
       <lb facs="#facs_1_line_1643046072295_28" n="N017"/>Wien den 8ten maij 1687
       <lb facs="#facs_1_r1l17" n="N018"/>Der Stahren Berg ist ankommen.</ab>

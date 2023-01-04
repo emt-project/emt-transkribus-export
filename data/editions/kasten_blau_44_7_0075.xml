@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0075.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0075.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1696-04-12"></origDate></origin>
+                        <origin><origDate when-iso="1696-04-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1696-04-12"></date>
+               <date when-iso="1696-04-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_44_7_0075.jpg" width="800px" height="1249px"/>
     <zone points="17,177 17,491 64,491 64,177" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="31,284 33,283 37,283 38,282 41,283 47,280 51,280 46,256 44,257 35,256 30,258 26,258" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="12,453 23,457 31,453 35,457 48,454 53,450 56,453 62,448 69,449 71,397 60,398 55,393 39,397 33,393 25,396 21,393 14,394" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -142,7 +138,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1239" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1239px"/>
+    <graphic url="Kasten_blau_44_7_0076.jpg" width="800px" height="1239px"/>
     <zone points="41,154 41,983 775,983 775,154" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="92,183 760,188 759,143 697,134 527,155 460,121 380,141 354,122 92,141" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="113,217 160,234 227,212 292,232 353,210 439,233 508,207 549,225 591,207 750,216 749,179 661,176 525,195 419,178 375,199 210,181 113,200" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -176,13 +172,13 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="43 r" xml:id="Kasten_blau_44_7_0075.jpg" ed="38 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>
       <lb facs="#facs_1_r1l2" n="N002"/>dr</ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>o
       <lb facs="#facs_1_r2l2" n="N002"/>allerdurchlüchligeiste grassmachtig ste
       <lb facs="#facs_1_r2l3" n="N003"/>EM
@@ -216,10 +212,10 @@
       <lb facs="#facs_1_r2l31" n="N031"/>der kmmenen allernadgisten befelichs mas d
       <lb facs="#facs_1_r2l32" n="N032"/> blanget werden meine byde benden vnd
       <lb facs="#facs_1_r2l33" n="N033"/>b</ab>
-    <ab facs="#facs_1_r3" >
+    <ab facs="#facs_1_r3">
       <lb facs="#facs_1_r3l1" n="N001"/></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="43 v" xml:id="Kasten_blau_44_7_0076.jpg" ed="38 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>dentamidton velse möchstknftigen mentag brnsen k
       <lb facs="#facs_2_r1l2" n="N002"/>mihsem wrden eer ma. mag die gane besfaenheit
       <lb facs="#facs_2_r1l3" n="N003"/>vnd asallt der sase allemitentsigstehinterbrngen

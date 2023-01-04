@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="korrespondenzakten_1147_0033.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="korrespondenzakten_1147_0033.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1691-01-03"></origDate></origin>
+                        <origin><origDate when-iso="1691-01-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1691-01-03"></date>
+               <date when-iso="1691-01-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1253" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1253px"/>
+    <graphic url="Korrespondenzakten_1147_0033.jpg" width="800px" height="1253px"/>
     <zone points="12,49 12,1199 746,1199 746,49" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="31,100 65,98 92,116 97,113 113,120 163,107 160,26 114,31 81,22 71,29 47,21 40,28 29,25" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="7,574 88,592 127,569 157,592 274,567 342,592 437,560 523,592 729,565 741,509 583,502 476,529 206,504 83,539 7,516" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -113,7 +109,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1216" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1216px"/>
+    <graphic url="Korrespondenzakten_1147_0034.jpg" width="800px" height="1216px"/>
     <zone points="70,49 70,1133 797,1133 797,49" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="75,114 725,123 751,119 752,39 598,71 507,52 440,79 75,66" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="69,176 120,185 153,159 381,177 447,158 741,175 740,120 423,131 394,112 351,131 229,105 158,135 68,116" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -137,7 +133,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1247" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1247px"/>
+    <graphic url="Korrespondenzakten_1147_0035.jpg" width="800px" height="1247px"/>
     <zone points="14,42 14,1233 747,1233 747,42" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="50,139 108,110 284,103 374,138 431,105 723,119 752,104 752,70 487,58 403,85 258,57 48,65" rendition="Line" xml:id="facs_3_r1l2"/>
         <zone points="45,179 155,185 196,166 274,187 386,161 456,180 556,157 626,172 703,163 703,140 590,145 513,121 280,140 259,120 164,130 116,112 44,139" rendition="Line" xml:id="facs_3_r1l3"/>
@@ -155,26 +151,26 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="23 r" xml:id="Korrespondenzakten_1147_0033.jpg" ed="5 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>3ter jenij 91</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N003"/>Ich hab dero liebstes schreiben bede vom 12ten vnd
       <lb facs="#facs_1_r1l4" n="N004"/>19ten woll empfangen. Bedanke mich schönstens
-      <lb facs="#facs_1_r1l5" n="N005"/>vohr dero gutten wüntsch zum <choice><expan>heiligen</expan><abbr>h</abbr></choice> fe<supplied >ie</supplied>rdagen, newen iahr
-      <lb facs="#facs_1_r1l6" n="N006"/>vnd gebu<supplied >r</supplied>zdag, der almechtig verley dero Liebden auch
+      <lb facs="#facs_1_r1l5" n="N005"/>vohr dero gutten wüntsch zum <choice><expan>heiligen</expan><abbr>h</abbr></choice> fe<supplied>ie</supplied>rdagen, newen iahr
+      <lb facs="#facs_1_r1l6" n="N006"/>vnd gebu<supplied>r</supplied>zdag, der almechtig verley dero Liebden auch
       <lb facs="#facs_1_r1l7" n="N007"/>alles, was sie selbst verlangen mit villen
-      <lb facs="#facs_1_r1l8" n="N008"/>volgenden. Das festel schik hirb<supplied >e</supplied>y, die partitur werd
+      <lb facs="#facs_1_r1l8" n="N008"/>volgenden. Das festel schik hirb<supplied>e</supplied>y, die partitur werd
       <lb facs="#facs_1_r1l9" n="N009"/>so balt möglich abschreiben laßen, so balt als
       <lb facs="#facs_1_r1l10" n="N010"/>möglich. Seint izt zwar sehr beschefftigt die
       <lb facs="#facs_1_r1l11" n="N011"/>notisten schon mit dem <choice><expan>heiligen</expan><abbr>h</abbr></choice> fansching so vill zu
       <lb facs="#facs_1_r1l12" n="N012"/>dun haben, das wehnig zeit ist. Das <choice><expan>schwester</expan><abbr>schw</abbr></choice> Lepoldin</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l2" n="N001"/>beßer <supplied >geht</supplied>, freüt mich. Wegen der freile hab ich meiner <choice><expan>fraw</expan><abbr>f</abbr></choice>
-      <lb facs="#facs_2_r1l3" n="N002"/>schwege<supplied >ri</supplied>n brif eh geschriben, als dero Liebden sein gelesen, also
+    <pb facs="#facs_2" n="23 v" xml:id="Korrespondenzakten_1147_0034.jpg" ed="5 v"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l2" n="N001"/>beßer <supplied>geht</supplied>, freüt mich. Wegen der freile hab ich meiner <choice><expan>fraw</expan><abbr>f</abbr></choice>
+      <lb facs="#facs_2_r1l3" n="N002"/>schwege<supplied>ri</supplied>n brif eh geschriben, als dero Liebden sein gelesen, also
       <lb facs="#facs_2_r1l4" n="N003"/>werd halt schauen, woh sie anderstwoh zu accomodirn
       <lb facs="#facs_2_r1l5" n="N004"/>sein möchte. Wegen der völker erwart die resolution.
       <lb facs="#facs_2_r1l6" n="N005"/>Wegen der refforma hab ich mich woll vner-
@@ -192,17 +188,17 @@
       <lb facs="#facs_2_r1l18" n="N017"/>Dero Liebden wollen doch in dergleichen vellen auch dero
       <lb facs="#facs_2_r1l19" n="N018"/>Beichtvatter vnd andere teologos meinung
       <lb facs="#facs_2_r1l20" n="N019"/>vernemmen, dan einmahl an disem ligt die</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="24 r" xml:id="Korrespondenzakten_1147_0035.jpg" ed="6 r"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l2" n="N001"/>ewichkeit, vnd dise, so dero Liebden solche sachen ein-
       <lb facs="#facs_3_r1l3" n="N002"/>rahten, halt ich nit vohr trewe diener,
       <lb facs="#facs_3_r1l4" n="N003"/>gutte christen vnd compatrioten. Ich bitt,
       <lb facs="#facs_3_r1l5" n="N004"/>dero Liebden vergeben mihr mein freys schreiben, geschiht
-      <lb facs="#facs_3_r1l6" n="N005"/>aus tr<supplied >e</supplied>wem h<supplied >er</supplied>zen vnd was ich aus he<supplied >r</supplied>zliger
-      <lb facs="#facs_3_r1l7" n="N006"/>lib vermein <supplied >zu</supplied> dero Liebden bestem zue sein, steht doch
-      <lb facs="#facs_3_r1l8" n="N007"/>alles b<supplied >e</supplied>y ihnen. Werde st<supplied >e</supplied>rben
+      <lb facs="#facs_3_r1l6" n="N005"/>aus tr<supplied>e</supplied>wem h<supplied>er</supplied>zen vnd was ich aus he<supplied>r</supplied>zliger
+      <lb facs="#facs_3_r1l7" n="N006"/>lib vermein <supplied>zu</supplied> dero Liebden bestem zue sein, steht doch
+      <lb facs="#facs_3_r1l8" n="N007"/>alles b<supplied>e</supplied>y ihnen. Werde st<supplied>e</supplied>rben
       <lb facs="#facs_3_r1l9" n="N008"/>dero Liebden
-      <lb facs="#facs_3_r1l10" n="N009"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_3_r1l10" n="N009"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_3_r1l12" n="N010"/>Eleonora
       <lb facs="#facs_3_r1l11" n="N011"/>Wien den 3ten <choice><expan>jener</expan><abbr>jen</abbr></choice> 1691</ab>
   </div>

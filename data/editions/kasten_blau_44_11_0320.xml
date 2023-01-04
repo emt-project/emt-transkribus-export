@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_11_0320.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0320.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1715-12-12"></origDate></origin>
+                        <origin><origDate when-iso="1715-12-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1715-12-12"></date>
+               <date when-iso="1715-12-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1302" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1302px"/>
+    <graphic url="Kasten_blau_44_11_0320.jpg" width="800px" height="1302px"/>
     <zone points="24,47 24,338 338,338 338,47" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="18,89 54,96 85,72 108,76 141,96 154,97 165,88 188,92 190,26 125,31 95,24 83,33 71,26 20,29" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="29,169 68,166 99,174 118,166 146,178 181,173 193,180 211,170 260,173 261,123 209,128 201,122 186,131 161,122 133,135 95,113 66,119 53,112 30,121" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -134,7 +130,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1284" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1284px"/>
+    <graphic url="Kasten_blau_44_11_0321.jpg" width="800px" height="1284px"/>
     <zone points="53,101 53,1260 798,1260 798,101" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="408,131 473,141 516,120 561,139 699,134 744,154 779,147 780,91 734,110 658,83 608,91 560,77 534,93 465,93 409,75" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="419,177 471,169 506,180 553,169 586,182 609,171 640,185 672,169 698,186 715,173 757,184 778,176 778,158 757,149 679,153 639,140 600,155 546,155 505,150 490,136 420,141" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -177,17 +173,17 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="18 r" xml:id="Kasten_blau_44_11_0320.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>in 2or 1
       <lb facs="#facs_1_r1l2" n="N002"/>ventilten mgserm
       <lb facs="#facs_1_r1l3" n="N003"/>cconora a
       <lb facs="#facs_1_r1l4" n="N004"/>eragenhätigen sche
       <lb facs="#facs_1_r1l5" n="N005"/>brantworthing dero schreibemb
       <lb facs="#facs_1_r1l6" n="N006"/>von  oo</ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>
       <lb facs="#facs_1_r2l2" n="N002"/>erdurchleüchtigste
       <lb facs="#facs_1_r2l3" n="N003"/>r Ms e gdigste heileen
@@ -212,8 +208,8 @@
       <lb facs="#facs_1_r2l22" n="N022"/>ma nachtemüllichst angedrgen we
       <lb facs="#facs_1_r2l23" n="N023"/>laßen vomit ich also ehr reind
       <lb facs="#facs_1_r2l24" n="N024"/>so kang vurtröseten consolation</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="18 v" xml:id="Kasten_blau_44_11_0321.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>vinmahlen eint wunklich vehrichhaft
       <lb facs="#facs_2_r1l2" n="N002"/>wenden möge by vnseans
       <lb facs="#facs_2_r1l3" n="N003"/>bendem vnd dennen valtgenißem

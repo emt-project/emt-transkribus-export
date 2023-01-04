@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0109.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0109.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-12-07"></origDate></origin>
+                        <origin><origDate when-iso="1686-12-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1686-12-07"></date>
+               <date when-iso="1686-12-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1199" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1199px"/>
+    <graphic url="Kasten_blau_45_15_0109.jpg" width="800px" height="1199px"/>
     <zone points="24,163 24,1194 783,1194 783,163" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="112,232 174,220 228,242 248,220 396,227 533,196 578,212 640,183 772,194 781,153 719,127 666,150 450,148 314,175 107,142" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="88,299 196,262 670,247 745,228 743,194 686,211 618,188 580,216 466,205 363,231 293,215 227,244 174,220 83,229" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1201" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1201px"/>
+    <graphic url="Kasten_blau_45_15_0110.jpg" width="800px" height="1201px"/>
     <zone points="42,67 42,564 752,564 752,67" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="49,118 90,108 120,133 162,111 412,107 450,88 737,102 736,2 48,6" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="48,173 92,148 173,169 258,145 347,161 578,131 737,151 735,100 47,123" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -136,36 +132,36 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzall<supplied >erl</supplied>iebster herr vatter
+    <pb facs="#facs_1" n="39 r2" xml:id="Kasten_blau_45_15_0109.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzall<supplied>erl</supplied>iebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab nit verhofft, das ich so balt werde
       <lb facs="#facs_1_r1l3" n="N003"/>müeßen ewer Durchlaucht die bedrüebte zeitung
-      <lb facs="#facs_1_r1l4" n="N004"/>des dötligen hintrits der Kais<supplied >e</supplied>rin berichten. In dem
+      <lb facs="#facs_1_r1l4" n="N004"/>des dötligen hintrits der Kais<supplied>e</supplied>rin berichten. In dem
       <lb facs="#facs_1_r1l5" n="N005"/>es auch so <seg type="comment">geh</seg> kommen, ist desto schmerzliger vnd
       <lb facs="#facs_1_r1l6" n="N006"/>hab ich es woll herzlich empfunden, dan sie mihr
-      <lb facs="#facs_1_r1l7" n="N007"/>allezeit absonderlige lieb erzeigt vnd allen den meinig<supplied >e</supplied>n.
-      <lb facs="#facs_1_r1l8" n="N008"/>Auch <supplied >hat sie</supplied>, wie sie den lezten abschit genommen, vm ver-
+      <lb facs="#facs_1_r1l7" n="N007"/>allezeit absonderlige lieb erzeigt vnd allen den meinig<supplied>e</supplied>n.
+      <lb facs="#facs_1_r1l8" n="N008"/>Auch <supplied>hat sie</supplied>, wie sie den lezten abschit genommen, vm ver-
       <lb facs="#facs_1_r1l9" n="N009"/>zeiung gebetten, wan sie mihr was gedahn hette, doch mit
       <lb facs="#facs_1_r1l10" n="N010"/>ihren willen, sachte sie, wer woll nit geschehn, vnd sie
       <lb facs="#facs_1_r1l11" n="N011"/>verschpreche mihr, das sie wolle eifrig bey gott
       <lb facs="#facs_1_r1l12" n="N012"/>vohr mich vnd meine kinder betten, welche sie
       <lb facs="#facs_1_r1l13" n="N013"/>so lieb hab als ihre eigne. Sie hatt so gutt selbig
-      <lb facs="#facs_1_r1l14" n="N014"/>mahl gerett, das glaubt <supplied >habe</supplied>, aufs wehnigst werd sie
+      <lb facs="#facs_1_r1l14" n="N014"/>mahl gerett, das glaubt <supplied>habe</supplied>, aufs wehnigst werd sie
       <lb facs="#facs_1_r1l15" n="N015"/>noch den andren dag vnd noch lenger leben. Aber wehnig
       <lb facs="#facs_1_r1l16" n="N016"/>vatterunser drauf kert sie sich vmb, so merken
-      <lb facs="#facs_1_r1l17" n="N017"/>ihre leütt, das sie schwecher wi<supplied >r</supplied>t, ruefen den beichtvatter,
-      <lb facs="#facs_1_r1l18" n="N018"/>welcher kaum die recomendation der sehlen geb<supplied >e</supplied>tt vnd
+      <lb facs="#facs_1_r1l17" n="N017"/>ihre leütt, das sie schwecher wi<supplied>r</supplied>t, ruefen den beichtvatter,
+      <lb facs="#facs_1_r1l18" n="N018"/>welcher kaum die recomendation der sehlen geb<supplied>e</supplied>tt vnd
       <lb facs="#facs_1_line_1638801754795_2022" n="N019"/>ihr etwas wehnigs zuegeschprochen vnd absoluirt, so war</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="39 v2" xml:id="Kasten_blau_45_15_0110.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>sie schon doht. Meinen alle, es hab sie der schlag troffen,
       <lb facs="#facs_2_r1l2" n="N002"/>gott woll ihr genedig sein. Bitt <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung,
-      <lb facs="#facs_2_r1l3" n="N003"/>das nit mehr schreib, mus heüt so vill sch<supplied >r</supplied>eiben mit
-      <lb facs="#facs_2_r1l4" n="N004"/>den curir<supplied >e</supplied>n hin vnd her, das nit mehr zeit hab. B<supplied >e</supplied>f<supplied >e</supplied>hl
-      <lb facs="#facs_2_r1l5" n="N005"/>mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde st<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l3" n="N003"/>das nit mehr schreib, mus heüt so vill sch<supplied>r</supplied>eiben mit
+      <lb facs="#facs_2_r1l4" n="N004"/>den curir<supplied>e</supplied>n hin vnd her, das nit mehr zeit hab. B<supplied>e</supplied>f<supplied>e</supplied>hl
+      <lb facs="#facs_2_r1l5" n="N005"/>mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht
       <lb facs="#facs_2_r1l8" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>itrges</abbr></choice> dochter
       <lb facs="#facs_2_r1l9" n="N008"/>EMT

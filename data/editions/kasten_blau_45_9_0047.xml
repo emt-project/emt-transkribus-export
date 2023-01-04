@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0047.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0047.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1682-11-08"></origDate></origin>
+                        <origin><origDate when-iso="1682-11-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1682-11-08"></date>
+               <date when-iso="1682-11-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/>
+    <graphic url="Kasten_blau_45_9_0047.jpg" width="800px" height="1210px"/>
     <zone points="48,137 48,1203 781,1203 781,137" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="44,191 265,202 342,173 466,196 557,168 787,184 780,121 496,147 437,115 273,139 198,134 121,92 43,107" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="86,247 162,228 245,253 394,223 531,246 634,219 739,234 786,218 786,181 642,172 448,200 354,176 312,203 84,172" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1184" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1184px"/>
+    <graphic url="Kasten_blau_45_9_0048.jpg" width="800px" height="1184px"/>
     <zone points="31,68 31,1048 778,1048 778,68" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="48,121 266,134 300,111 406,132 760,94 723,59 617,50 569,74 423,60 377,85 128,58 47,81" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="36,175 112,193 225,168 291,202 363,174 484,199 594,173 758,179 758,124 739,121 615,117 463,149 36,120" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -145,10 +141,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="29 r" xml:id="Kasten_blau_45_9_0047.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab mit großen freüden aus dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben vom 15ten durch
       <lb facs="#facs_1_r1l3" n="N003"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Isidorus wie auch vom 23ten vnd 30ten passato die glükhliche
@@ -168,24 +164,24 @@
       <lb facs="#facs_1_r1l17" n="N017"/>preslauischen sach werden ewer Durchlaucht vom Schellerer vernommen
       <lb facs="#facs_1_r1l18" n="N018"/>haben, wie die sachen gangen, vnd das mihr jezt
       <lb facs="#facs_1_r1l19" n="N019"/>die antwort vom Bischoff von Vlmiz durch den</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="29 v" xml:id="Kasten_blau_45_9_0048.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Massimi erwarten. Der Cardinal Bonuisi hatt auch briff
       <lb facs="#facs_2_r1l2" n="N002"/>von Rohm bekommen, so vermeinen sie, weil ehr sehe, das
       <lb facs="#facs_2_r1l3" n="N003"/>doch der von Vlmiz nit könt darzue kommen, das er sich
-      <lb facs="#facs_2_r1l4" n="N004"/>wirt wollen ein meritum machen vnd darumb dise sa<supplied >c</supplied>h
-      <lb facs="#facs_2_r1l5" n="N005"/>sucht, sich in das negotium zue bringen. Iezt erwarten <supplied >wir</supplied>
+      <lb facs="#facs_2_r1l4" n="N004"/>wirt wollen ein meritum machen vnd darumb dise sa<supplied>c</supplied>h
+      <lb facs="#facs_2_r1l5" n="N005"/>sucht, sich in das negotium zue bringen. Iezt erwarten <supplied>wir</supplied>
       <lb facs="#facs_2_r1l6" n="N006"/>halt die antwort. Ihr Mayestät haben an allerheiligen abent
-      <lb facs="#facs_2_r1l7" n="N007"/>ein cattarr bekommen, an aller sehlen ein alt<supplied >e</supplied>ration
-      <lb facs="#facs_2_r1l8" n="N008"/>darbey gehabt, <supplied >die</supplied> aber gleich in der nacht beßer
-      <lb facs="#facs_2_r1l9" n="N009"/>worden. <supplied >Ist</supplied> gleichwoll zue mehere sicherheit am erchtag
+      <lb facs="#facs_2_r1l7" n="N007"/>ein cattarr bekommen, an aller sehlen ein alt<supplied>e</supplied>ration
+      <lb facs="#facs_2_r1l8" n="N008"/>darbey gehabt, <supplied>die</supplied> aber gleich in der nacht beßer
+      <lb facs="#facs_2_r1l9" n="N009"/>worden. <supplied>Ist</supplied> gleichwoll zue mehere sicherheit am erchtag
       <lb facs="#facs_2_r1l10" n="N010"/>im bett blieben, gestern vnd heündt aber widerumb
       <lb facs="#facs_2_r1l11" n="N011"/>auf vnd befinden sich woll. Der cattarr nimt auch
       <lb facs="#facs_2_r1l12" n="N012"/>immer mehr ab. Due mich hiermit in ewer
       <lb facs="#facs_2_r1l13" n="N013"/>Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich sterben werde
       <lb facs="#facs_2_r1l14" n="N014"/>ewer Durchlaucht
       <lb facs="#facs_2_r1l16" n="N015"/>ganz ergebenste trew gehors-
-      <lb facs="#facs_2_r1l17" n="N016"/>amste do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l17" n="N016"/>amste do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l18" n="N017"/>EMT
       <lb facs="#facs_2_r1l15" n="N018"/>Wien den 8 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1682</ab>
   </div>

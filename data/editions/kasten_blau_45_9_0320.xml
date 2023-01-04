@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0320.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0320.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1684-09-06"></origDate></origin>
+                        <origin><origDate when-iso="1684-09-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1684-09-06"></date>
+               <date when-iso="1684-09-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1204" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1204px"/>
+    <graphic url="Kasten_blau_45_9_0320.jpg" width="800px" height="1204px"/>
     <zone points="14,162 14,1199 776,1199 776,162" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="152,209 327,209 412,185 469,202 503,187 586,202 706,192 706,161 617,158 522,129 243,141 152,123" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="94,256 186,226 232,252 275,231 389,261 589,241 765,259 753,191 475,211 389,192 269,218 94,185" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1186" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1186px"/>
+    <graphic url="Kasten_blau_45_9_0321.jpg" width="800px" height="1186px"/>
     <zone points="36,74 36,1184 783,1184 783,74" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="65,110 229,116 249,136 303,110 348,128 466,109 536,136 613,109 776,117 776,47 653,18 455,19 340,60 65,44" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="57,188 390,162 547,178 696,150 781,171 780,125 714,112 541,140 458,109 257,139 232,119 153,136 56,112" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -144,7 +140,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1239" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1239px"/>
+    <graphic url="Kasten_blau_45_9_0322.jpg" width="800px" height="1239px"/>
     <zone points="12,79 12,1237 789,1237 789,79" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="38,130 115,115 175,136 215,110 324,105 428,137 642,106 715,136 781,122 781,55 666,77 569,51 460,77 338,54 219,83 98,55 38,76" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="36,167 82,181 170,159 206,186 290,166 335,187 386,165 745,167 744,123 673,118 420,136 298,105 241,139 209,120 35,128" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -174,10 +170,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="188 r" xml:id="Kasten_blau_45_9_0320.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das bey vohriger post mein
       <lb facs="#facs_1_r1l3" n="N003"/>schuldichkeit nit abgelegt. Ich bin ire worden mit dem postdag,
@@ -192,15 +188,15 @@
       <lb facs="#facs_1_r1l12" n="N012"/>etwas beßers befinde, hoffe in kurzem dero
       <lb facs="#facs_1_r1l13" n="N013"/>völligen wohlstandt zue vernemmen. Es wirt mihr
       <lb facs="#facs_1_r1l14" n="N014"/>diser winter vill iahr vohr kommen, bis der gewünschte
-      <lb facs="#facs_1_r1l15" n="N015"/>früeling mihr die consolation wi<supplied >r</supplied>t bringen, ewer Durchlaucht bede
+      <lb facs="#facs_1_r1l15" n="N015"/>früeling mihr die consolation wi<supplied>r</supplied>t bringen, ewer Durchlaucht bede
       <lb facs="#facs_1_r1l16" n="N016"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue bedienen, vnd wirt vohr mich ein frohlige oster
       <lb facs="#facs_1_r1l17" n="N017"/>wochen sein, weil ewer Durchlaucht balt darnach dero reis vohrnemen
       <lb facs="#facs_1_r1l18" n="N018"/>werden. Wegen <choice><expan>bruder</expan><abbr>b</abbr></choice> Franz werden ewer Durchlaucht von <choice><expan>Pater</expan><abbr>P</abbr></choice> Hippolit</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="188 v" xml:id="Kasten_blau_45_9_0321.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>vernommen haben, was es vohr ein beschaffenheit hatt wegen
       <lb facs="#facs_2_r1l2" n="N002"/>prestirung des juraments, das er es auch in persona müeße
-      <lb facs="#facs_2_r1l3" n="N003"/>denen comissarien ablegen, <supplied >und ob</supplied> ewer Durchlaucht liber sehen werden wegen der
+      <lb facs="#facs_2_r1l3" n="N003"/>denen comissarien ablegen, <supplied>und ob</supplied> ewer Durchlaucht liber sehen werden wegen der
       <lb facs="#facs_2_r1l4" n="N004"/>dezens, das es ihr Mayestät selbsten als den comissarien gescheh. Die
       <lb facs="#facs_2_r1l5" n="N005"/>leüt betreffent, wirt ihne niemant verlangen einige
       <lb facs="#facs_2_r1l6" n="N006"/>aufzueladen. Wan es aber wegen des Heimans, so wirt er
@@ -217,13 +213,13 @@
       <lb facs="#facs_2_r1l17" n="N017"/>der herunter reis wurden ihme die rötte vill vergehn,
       <lb facs="#facs_2_r1l18" n="N018"/>vnd wan er gleich noch einwehnig roht, hatt es niks
       <lb facs="#facs_2_r1l19" n="N019"/>zue bedeüten. Solten aber ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> finden, das <choice><expan>bruder</expan><abbr>b</abbr></choice> Franz nit</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="189 r" xml:id="Kasten_blau_45_9_0322.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>iezt kommen solte, könte etwan auf ein zeit auch <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Fridrich</expan><abbr>Frid</abbr></choice>
       <lb facs="#facs_3_r1l2" n="N002"/>verschoben werden, alles nach ewer Durchlaucht <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> befehl. Den Minkewiz
       <lb facs="#facs_3_r1l3" n="N003"/>hab wider zurukh geschikt, weil des Leßle seine leüt in
-      <lb facs="#facs_3_r1l4" n="N004"/><supplied >i</supplied>hrem posto bleiben, bis das regiment zu der armeé komt.
-      <lb facs="#facs_3_r1l5" n="N005"/>Die beyrische fanterie wi<supplied >r</supplied>t izt schon balt zue Offen sein,
+      <lb facs="#facs_3_r1l4" n="N004"/><supplied>i</supplied>hrem posto bleiben, bis das regiment zu der armeé komt.
+      <lb facs="#facs_3_r1l5" n="N005"/>Die beyrische fanterie wi<supplied>r</supplied>t izt schon balt zue Offen sein,
       <lb facs="#facs_3_r1l6" n="N006"/>deils der caualerie ist gestren hir ankommen. Wegen
       <lb facs="#facs_3_r1l7" n="N007"/>des Windischgräz, so hatt er mihr auch ein memorial
       <lb facs="#facs_3_r1l8" n="N008"/>geschikt, welches ich ihr Mayestät auch <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> überliuert. Ihr Mayestät 
@@ -231,11 +227,11 @@
       <lb facs="#facs_3_r1l10" n="N010"/>laßen, also werden sich auch außer allen zweifel
       <lb facs="#facs_3_r1l11" n="N011"/>seine dienst entweder auf dise oder doch andre
       <lb facs="#facs_3_r1l12" n="N012"/>weis zue seiner zeit erkennen. Due mich hermit
-      <lb facs="#facs_3_r1l13" n="N013"/>in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vntr</abbr></choice> b<supplied >e</supplied>f<supplied >e</supplied>hlen vnd ste<supplied >r</supplied>be
+      <lb facs="#facs_3_r1l13" n="N013"/>in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vntr</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hlen vnd ste<supplied>r</supplied>be
       <lb facs="#facs_3_line_1637071233829_5110" n="N014"/>ewer Durchlaucht 
       <lb facs="#facs_3_line_1639216504989_447" n="N015"/><unclear>Lins</unclear> den 6 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1684
-      <lb facs="#facs_3_line_1639216504973_446" n="N016"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied >w</supplied>gehorsamste
-      <lb facs="#facs_3_r1l15" n="N017"/>d<supplied >o</supplied>chter
+      <lb facs="#facs_3_line_1639216504973_446" n="N016"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied>w</supplied>gehorsamste
+      <lb facs="#facs_3_r1l15" n="N017"/>d<supplied>o</supplied>chter
       <lb facs="#facs_3_r1l16" n="N018"/>EMT
       <lb facs="#facs_3_r1l18" n="N019"/>Hierbey schike <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> ewer Durchlaucht widerumb des Windischgräz schreiben
       <lb facs="#facs_3_r1l19" n="N020"/>vnd die antwort von <choice><expan>Pater</expan><abbr>P</abbr></choice> Hippolit. Der Gall ist auch ankomen,

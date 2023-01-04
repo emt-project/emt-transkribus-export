@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_10_0315.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0315.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1240px"/>
+    <graphic url="Kasten_blau_44_10_0315.jpg" width="800px" height="1240px"/>
     <zone points="85,0 85,1205 765,1205 765,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="139,360 175,347 234,379 374,345 463,365 507,342 586,365 699,342 698,279 437,289 309,267 212,289 139,331" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="87,424 112,437 237,403 265,428 319,399 390,420 489,391 561,426 710,383 709,350 582,368 503,343 476,365 374,345 265,386 201,384 163,350 85,359" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -117,22 +113,22 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="49 r" xml:id="Kasten_blau_44_10_0315.jpg" ed="193 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l3" n="N002"/>Ich mus mich anklagen, das ich verg<supplied >e</supplied>sen hab, die
-      <lb facs="#facs_1_r1l4" n="N003"/>abschrift des Leweste<supplied >i</supplied>n brif bey zuschließen, also kombt
-      <lb facs="#facs_1_r1l5" n="N004"/>es herbey. Widerhole nochmahlen, was ich dero Liebden geb<supplied >e</supplied>tten,
-      <lb facs="#facs_1_r1l6" n="N005"/>vndt verlaße mich gä<supplied >n</supplied>zlich auf dero vatterlige
-      <lb facs="#facs_1_r1l7" n="N006"/>vmb <choice><expan>brüderliche</expan><abbr>brd</abbr></choice> lieb, ohne welcher ich ga<supplied >n</supplied>z trostloß
-      <lb facs="#facs_1_r1l8" n="N007"/>bleiben müste. Aus Schpan<supplied >i</supplied>en hab dersider keine brif,
-      <lb facs="#facs_1_r1l9" n="N008"/>windt vndt wetter wi<supplied >r</supplied>t daran vhrsach sein.
-      <lb facs="#facs_1_r1l10" n="N009"/>Due mein liebsten sohn vndt mich in dero b<supplied >e</supplied>stendige
-      <lb facs="#facs_1_r1l11" n="N010"/>affecti<supplied >o</supplied>n bef<supplied >e</supplied>hlen, ich aber lebe vndt st<supplied >er</supplied>b
+      <lb facs="#facs_1_r1l3" n="N002"/>Ich mus mich anklagen, das ich verg<supplied>e</supplied>sen hab, die
+      <lb facs="#facs_1_r1l4" n="N003"/>abschrift des Leweste<supplied>i</supplied>n brif bey zuschließen, also kombt
+      <lb facs="#facs_1_r1l5" n="N004"/>es herbey. Widerhole nochmahlen, was ich dero Liebden geb<supplied>e</supplied>tten,
+      <lb facs="#facs_1_r1l6" n="N005"/>vndt verlaße mich gä<supplied>n</supplied>zlich auf dero vatterlige
+      <lb facs="#facs_1_r1l7" n="N006"/>vmb <choice><expan>brüderliche</expan><abbr>brd</abbr></choice> lieb, ohne welcher ich ga<supplied>n</supplied>z trostloß
+      <lb facs="#facs_1_r1l8" n="N007"/>bleiben müste. Aus Schpan<supplied>i</supplied>en hab dersider keine brif,
+      <lb facs="#facs_1_r1l9" n="N008"/>windt vndt wetter wi<supplied>r</supplied>t daran vhrsach sein.
+      <lb facs="#facs_1_r1l10" n="N009"/>Due mein liebsten sohn vndt mich in dero b<supplied>e</supplied>stendige
+      <lb facs="#facs_1_r1l11" n="N010"/>affecti<supplied>o</supplied>n bef<supplied>e</supplied>hlen, ich aber lebe vndt st<supplied>er</supplied>b
       <lb facs="#facs_1_r1l12" n="N011"/>ewer <choice><expan>LIebden</expan><abbr>Ld</abbr></choice>
-      <lb facs="#facs_1_r1l13" n="N012"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l13" n="N012"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l14" n="N013"/>Eleonora</ab>
   </div>
 </body>

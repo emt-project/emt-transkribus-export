@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0190.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0190.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1683-10-09"></origDate></origin>
+                        <origin><origDate when-iso="1683-10-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1683-10-09"></date>
+               <date when-iso="1683-10-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/>
+    <graphic url="Kasten_blau_45_9_0190.jpg" width="800px" height="1210px"/>
     <zone points="17,203 17,1204 774,1204 774,203" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="114,231 238,265 290,249 342,265 431,227 462,244 737,223 736,167 660,187 567,167 429,194 166,171 114,198" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="69,299 115,275 587,286 631,267 735,288 753,235 427,227 344,262 238,265 68,221" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -121,7 +117,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1200" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1200px"/>
+    <graphic url="Kasten_blau_45_9_0191.jpg" width="800px" height="1200px"/>
     <zone points="49,81 49,1199 796,1199 796,81" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="44,117 760,116 760,76 687,59 564,76 360,47 194,79 44,76" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="48,190 104,158 353,188 532,152 772,174 764,124 324,113 230,144 96,105 47,122" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -147,7 +143,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1218" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1218px"/>
+    <graphic url="Kasten_blau_45_9_0192.jpg" width="800px" height="1218px"/>
     <zone points="9,63 12,730 776,733 773,66" rendition="TextRegion" xml:id="facs_3_r2">
         <zone points="38,140 175,107 243,106 298,137 440,110 656,121 716,114 715,68 655,72 573,16 532,15 323,81 161,76 113,95 36,77" rendition="Line" xml:id="facs_3_r2l1"/>
         <zone points="33,179 179,163 228,184 290,161 405,179 611,148 774,167 772,112 700,133 553,106 501,129 395,118 299,149 176,106 32,142" rendition="Line" xml:id="facs_3_r2l2"/>
@@ -166,10 +162,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="109 r" xml:id="Kasten_blau_45_9_0190.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab mit höchster consolation aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom
       <lb facs="#facs_1_r1l3" n="N003"/>1ten dißes ersehen, das sich ewer Durchlaucht in guettem wohlstand
@@ -190,8 +186,8 @@
       <lb facs="#facs_1_r1l19" n="N018"/>ist gahr krankh vnd matt, ist auch nimmer jung.
       <lb facs="#facs_1_r1l20" n="N019"/>Cuhrbeyern bleibt bestendig in seinem eifer, ihr Mayestät
       <lb facs="#facs_1_r1l21" n="N020"/>schreiben ihm vnd representiren ihm gnuech, das er sich</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="109 v" xml:id="Kasten_blau_45_9_0191.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>conseruiren soll, wan es nuhr ausgeb, wer freilich ein großer
       <lb facs="#facs_2_r1l2" n="N002"/>schad, wan ihm was geschen solt. Ich hoff, er werd ihr Mayestät volgen
       <lb facs="#facs_2_r1l3" n="N003"/>vnd sich in acht nemmen. Ist schad, das der Dering
@@ -202,7 +198,7 @@
       <lb facs="#facs_2_r1l8" n="N008"/>werde nit geschen. Mein gröste consolation wehre
       <lb facs="#facs_2_r1l9" n="N009"/>woll, wann ich die gnad möchte haben, ewer Durchlaucht wider
       <lb facs="#facs_2_r1l10" n="N010"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue bedienen. Wan Brandenburg recht sich
-      <lb facs="#facs_2_r1l11" n="N011"/>vnirete, wurd <supplied >es</supplied> vill dise reis auf Regenschpurg befördern,
+      <lb facs="#facs_2_r1l11" n="N011"/>vnirete, wurd <supplied>es</supplied> vill dise reis auf Regenschpurg befördern,
       <lb facs="#facs_2_r1l12" n="N012"/>gott gebs. Es ist in disen coniuncturen auch nit
       <lb facs="#facs_2_r1l13" n="N013"/>guett, das der Obristhoffmeister gestorben, welches den 5ten
       <lb facs="#facs_2_r1l14" n="N014"/>dies geschen, doch gott weis alles zum besten, was er
@@ -213,8 +209,8 @@
       <lb facs="#facs_2_r1l19" n="N019"/>so krankh ist, das also alles in suspenso bleibt.
       <lb facs="#facs_2_r1l20" n="N020"/>Sie ist woll in grosen sorgen, dan eben die schlimme
       <lb facs="#facs_2_r1l21" n="N021"/>zeitung vnsrer reis vnd der belegrung hinein kommen.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r2" >
+    <pb facs="#facs_3" n="110 r" xml:id="Kasten_blau_45_9_0192.jpg"/>
+    <ab facs="#facs_3_r2">
       <lb facs="#facs_3_r2l1" n="N001"/>Izt wirt sie aber schon erfreüt sein mit der beßren.
       <lb facs="#facs_3_r2l2" n="N002"/>Meine kinder seindt auch woll ankummen vnd gottlob
       <lb facs="#facs_3_r2l3" n="N003"/>woll auf. Weil ich mich auch so guett befind vnd
@@ -224,7 +220,7 @@
       <lb facs="#facs_3_r2l7" n="N007"/>wolte es gern verdienen. Ich due mich hiermit in
       <lb facs="#facs_3_r2l8" n="N008"/>ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die ich sterben werd
       <lb facs="#facs_3_line_1637066022144_2756" n="N009"/>ewer Durchlaucht
-      <lb facs="#facs_3_r2l10" n="N010"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> trewg<supplied >e</supplied>horsa<supplied >m</supplied>st do<supplied >c</supplied>hter
+      <lb facs="#facs_3_r2l10" n="N010"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> trewg<supplied>e</supplied>horsa<supplied>m</supplied>st do<supplied>c</supplied>hter
       <lb facs="#facs_3_line_1637066028129_2761" n="N011"/>EMT
       <lb facs="#facs_3_r2l9" n="N012"/>Lins den 9ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1683</ab>
   </div>

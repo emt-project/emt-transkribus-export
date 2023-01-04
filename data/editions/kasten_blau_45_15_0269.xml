@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0269.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0269.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-12-27"></origDate></origin>
+                        <origin><origDate when-iso="1687-12-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Preßburg</placeName>
-               <date  when-iso="1687-12-27"></date>
+               <date when-iso="1687-12-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1261" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1261px"/>
+    <graphic url="Kasten_blau_45_15_0269.jpg" width="800px" height="1261px"/>
     <zone points="11,198 11,1257 780,1257 780,198" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="27,247 144,236 264,261 406,221 689,242 781,227 781,180 663,183 594,153 546,174 472,149 275,195 167,154 26,149" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="48,285 112,277 222,309 409,276 506,303 700,263 776,275 775,226 749,224 629,243 583,226 520,252 327,235 264,261 47,230" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -122,7 +118,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1242" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1242px"/>
+    <graphic url="Kasten_blau_45_15_0270.jpg" width="800px" height="1242px"/>
     <zone points="32,50 32,1031 797,1031 797,50" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="61,109 803,84 795,38 315,44 230,69 59,42" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="56,166 764,134 784,98 370,94 352,113 317,86 219,89 54,123" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -149,10 +145,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="140 r" xml:id="Kasten_blau_45_15_0269.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 12ten vnd 19ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice>
       <lb facs="#facs_1_r1l3" n="N003"/>respect empfangen, gottlob, das ewer Durchlaucht sich woll
@@ -173,15 +169,15 @@
       <lb facs="#facs_1_r1l19" n="N018"/>komme. Das hatt man angenommen mit bedroung
       <lb facs="#facs_1_r1l20" n="N019"/>der vngnad, wan ers nit prestire. Weis nit, ob er
       <lb facs="#facs_1_r1l22" n="N020"/>also noch wekh wirt sein oder nit. Mein Keiser</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="140 v" xml:id="Kasten_blau_45_15_0270.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>hatt noch den cattar zimlich starkh, hoff soll balt
       <lb facs="#facs_2_r1l2" n="N002"/>vergehen. Sage ewer Durhlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr die <unclear>?ions</unclear>
       <lb facs="#facs_2_r1l3" n="N003"/>porten, so sie mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> schiken wollen, seint gahr hüpsch.
       <lb facs="#facs_2_r1l4" n="N004"/>Ich werd ewer Durchlaucht <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> befehl nach meiner schwester
-      <lb facs="#facs_2_r1l5" n="N005"/>schr<supplied >e</supplied>iben, dan mitt disen aderlaßen kunt sie sich
+      <lb facs="#facs_2_r1l5" n="N005"/>schr<supplied>e</supplied>iben, dan mitt disen aderlaßen kunt sie sich
       <lb facs="#facs_2_r1l6" n="N006"/>verderben, das gahr kein kint bekem, will nit hoffen,
-      <lb facs="#facs_2_r1l7" n="N007"/>das am fues wirt gewesen s<supplied >e</supplied>in. Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>,
+      <lb facs="#facs_2_r1l7" n="N007"/>das am fues wirt gewesen s<supplied>e</supplied>in. Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>,
       <lb facs="#facs_2_r1l8" n="N008"/>wan sie etwas von ihr bekomen, mich <unclear>gh</unclear> daruon deil-
       <lb facs="#facs_2_r1l9" n="N009"/>hafftig zue machen, auch, wie die fest dort abgangen
       <lb facs="#facs_2_r1l10" n="N010"/>sein. So lang sie drinen ist, hab ich nuhr ein einzigen

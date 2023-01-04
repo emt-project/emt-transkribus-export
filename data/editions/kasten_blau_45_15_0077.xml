@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0077.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0077.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-07-21"></origDate></origin>
+                        <origin><origDate when-iso="1686-07-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1686-07-21"></date>
+               <date when-iso="1686-07-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1186" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1186px"/>
+    <graphic url="Kasten_blau_45_15_0077.jpg" width="800px" height="1186px"/>
     <zone points="42,175 42,1185 777,1185 777,175" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="62,256 139,253 170,240 239,241 353,218 407,233 459,202 513,227 572,209 777,217 787,190 761,161 547,179 515,158 475,170 384,148 287,145 240,173 143,150" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="130,309 208,288 215,297 276,291 361,263 650,291 691,265 766,294 774,249 709,220 608,240 354,219 295,244 264,225 222,245 189,226 129,234" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1191" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1191px"/>
+    <graphic url="Kasten_blau_45_15_0078.jpg" width="800px" height="1191px"/>
     <zone points="90,9 90,1141 732,1141 732,9" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="309,36 334,42 347,35 377,45 397,31 409,40 417,36 433,43 450,36 483,49 516,40 516,-4 495,5 482,-1 448,5 403,-2 337,5 309,-1" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="186,88 209,79 288,99 334,87 364,102 394,84 460,102 575,85 575,38 424,50 396,32 367,51 339,39 299,49 272,27 250,37 186,22" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -153,10 +149,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="48 r" xml:id="Kasten_blau_45_15_0077.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzallerliebster herrvatter
       <lb facs="#facs_1_r1l2" n="N002"/>Von Offen seint widrumb diße schreiben kommen
       <lb facs="#facs_1_r1l3" n="N003"/>vom Deütsch Meister, auch andere dagzettel. Seint
@@ -166,15 +162,15 @@
       <lb facs="#facs_1_r1l7" n="N007"/>das heündt nit mehr schreib, seint heündt den
       <lb facs="#facs_1_r1l8" n="N008"/>ganzen dag bey den carmeliten gewesen. Sie haben
       <lb facs="#facs_1_r1l9" n="N009"/>das scapulier fest gehalten, also ist schpaht worden.
-      <lb facs="#facs_1_r1l10" n="N010"/>Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vnd werde st<supplied >e</supplied>rben
+      <lb facs="#facs_1_r1l10" n="N010"/>Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vnd werde st<supplied>e</supplied>rben
       <lb facs="#facs_1_r1l11" n="N011"/>ewer Durchlaucht
       <lb facs="#facs_1_r1l13" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> dochter
       <lb facs="#facs_1_line_1640075379596_145" n="N013"/>EMT
       <lb facs="#facs_1_r1l12" n="N014"/>Wien den 21 julij 1686
       <lb facs="#facs_1_line_1640075379598_146" n="N015"/>Ich weis nit, warumb <choice><expan>Pater</expan><abbr>P</abbr></choice> Marco
-      <lb facs="#facs_1_r1l15" n="N016"/>so gahr nit schreibt, hab auf zwey brif kein antwo<supplied >r</supplied>t.</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l15" n="N016"/>so gahr nit schreibt, hab auf zwey brif kein antwo<supplied>r</supplied>t.</ab>
+    <pb facs="#facs_2" n="49 r" xml:id="Kasten_blau_45_15_0078.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>tan teintschmeste
       <lb facs="#facs_2_r1l2" n="N002"/>drlötlager bey vom den 1 hilig ibeb
       <lb facs="#facs_2_r1l3" n="N003"/>rch dißem vnglükhserlig laßern geitigen streit weobein auch bezeigte

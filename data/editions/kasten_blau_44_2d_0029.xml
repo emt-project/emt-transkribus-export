@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0029.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0029.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1682-01-04"></origDate></origin>
+                        <origin><origDate when-iso="1682-01-04"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1682-01-04"></date>
+               <date when-iso="1682-01-04"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1227" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1227px"/>
+    <graphic url="Kasten_blau_44_2d_0029.jpg" width="800px" height="1227px"/>
     <zone points="81,227 81,1209 760,1209 760,227" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="152,260 289,262 307,280 381,259 487,272 517,255 658,257 685,273 671,214 560,212 534,230 417,209 196,220 152,191" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="92,333 138,307 262,332 343,306 589,305 651,323 724,303 724,266 310,279 195,272 92,234" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1224" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1224px"/>
+    <graphic url="Kasten_blau_44_2d_0030.jpg" width="800px" height="1224px"/>
     <zone points="74,172 74,507 776,507 776,172" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="113,202 177,193 226,214 294,198 327,218 383,203 433,220 558,196 635,217 716,208 716,171 676,154 586,174 540,152 113,169" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="115,265 212,251 329,270 384,246 527,269 754,245 754,216 556,206 513,229 380,202 300,235 236,209 114,212" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -135,15 +131,15 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0029.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r1l2" n="N002"/>Ich sag dero Liebden schuldigen dankh vohr die guetten wuntsch, so sie
       <lb facs="#facs_1_r1l3" n="N003"/>mihr zue disen heiligen weinacht feierdagen vndt newen iahr
-      <lb facs="#facs_1_r1l4" n="N004"/>haben duen wollen. Wüntsche ihnen hingegen alles, was sie se<supplied >l</supplied>ber
-      <lb facs="#facs_1_r1l5" n="N005"/>verlangen, samt dern noch villen volgenden mit allen s<supplied >e</supplied>lbst
+      <lb facs="#facs_1_r1l4" n="N004"/>haben duen wollen. Wüntsche ihnen hingegen alles, was sie se<supplied>l</supplied>ber
+      <lb facs="#facs_1_r1l5" n="N005"/>verlangen, samt dern noch villen volgenden mit allen s<supplied>e</supplied>lbst
       <lb facs="#facs_1_r1l6" n="N006"/>erwünschten glukhselichkeiten, vndt dises iahr mit einem
       <lb facs="#facs_1_r1l7" n="N007"/>kristkindlen erfreüet zue wehrden, wahran ich zwar ganz
       <lb facs="#facs_1_r1l8" n="N008"/>nit zweifle. Vnser landtag hatt gottlob einmahl
@@ -158,11 +154,11 @@
       <lb facs="#facs_1_r1l17" n="N017"/>alleweil vndt ist gahr vngeberlich vndt grantich
       <lb facs="#facs_1_r1l18" n="N018"/>mit ihm. Heündt werden mihr zuhr Kaiserin
       <lb facs="#facs_1_r1l19" n="N019"/>in ein walische predich gehen, sie loben ihn, das</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2d_0030.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>er ein guetter prediger sey, verlangt mich, ihn zue 
       <lb facs="#facs_2_r1l2" n="N002"/>hören, aber eben darumb mues ich mich hiermit
-      <lb facs="#facs_2_r1l3" n="N003"/>wider mein willen enden <supplied >und</supplied> dero Liebden bitten, mich meiner Erzh<supplied >e</supplied>rzogin
+      <lb facs="#facs_2_r1l3" n="N003"/>wider mein willen enden <supplied>und</supplied> dero Liebden bitten, mich meiner Erzh<supplied>e</supplied>rzogin
       <lb facs="#facs_2_r1l4" n="N004"/>ins herz zue befehlen, die ich sterben werde
       <lb facs="#facs_2_r1l5" n="N005"/>dero Liebden
       <lb facs="#facs_2_r1l7" n="N006"/>getrewste schwester

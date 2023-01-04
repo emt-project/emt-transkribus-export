@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_9_0092.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_9_0092.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1707-07-01"></origDate></origin>
+                        <origin><origDate when-iso="1707-07-01"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1707-07-01"></date>
+               <date when-iso="1707-07-01"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1244" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1244px"/>
+    <graphic url="Kasten_blau_44_9_0092.jpg" width="800px" height="1244px"/>
     <zone points="62,0 62,1158 736,1158 736,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="72,386 276,415 383,389 408,414 454,398 491,423 635,373 654,392 729,376 719,342 608,331 241,343 191,316 72,312" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="73,465 152,485 206,447 318,467 381,437 455,465 490,434 523,463 602,467 704,446 704,388 650,396 627,376 489,424 385,390 354,408 322,389 277,420 200,390 72,396" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -116,7 +112,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1214" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1214px"/>
+    <graphic url="Kasten_blau_44_9_0093.jpg" width="800px" height="1214px"/>
     <zone points="102,59 102,612 757,612 757,59" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="97,182 230,182 256,200 349,165 437,183 747,174 746,116 695,104 600,127 541,104 449,112 350,140 150,138 96,115" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="108,233 247,270 415,219 509,242 531,220 641,217 761,243 747,173 658,196 508,171 107,193" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -132,7 +128,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1061" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1061px"/>
+    <graphic url="Kasten_blau_44_9_0094.jpg" width="800px" height="1061px"/>
     <zone points="11,97 11,964 720,964 720,97" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="169,187 200,183 238,197 253,184 266,190 287,186 313,212 328,200 347,203 347,149 336,154 269,124 246,131 230,119 169,134" rendition="Line" xml:id="facs_3_r1l2"/>
         <zone points="27,252 127,252 165,277 199,262 234,294 305,267 375,286 535,260 683,282 725,263 726,207 687,219 580,187 270,221 243,199 204,215 132,157 28,193" rendition="Line" xml:id="facs_3_r1l3"/>
@@ -151,7 +147,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="801" lry="1054" xml:id="facs_4">
-    <graphic url="%2Ffiles.jpeg" width="801px" height="1054px"/>
+    <graphic url="Kasten_blau_44_9_0095.jpg" width="801px" height="1054px"/>
     <zone points="120,145 120,316 799,316 799,145" rendition="TextRegion" xml:id="facs_4_r1">
         <zone points="114,197 204,199 240,176 359,201 430,179 661,218 691,200 731,238 748,177 533,115 483,143 452,121 404,140 294,123 214,146 164,120 117,136" rendition="Line" xml:id="facs_4_r1l1"/>
         <zone points="123,257 180,274 294,243 416,280 503,258 607,285 662,261 773,317 801,310 805,241 777,219 716,241 586,198 434,184 126,201" rendition="Line" xml:id="facs_4_r1l2"/>
@@ -161,56 +157,56 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="48 r" xml:id="Kasten_blau_44_9_0092.jpg" ed="54 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l2" n="N002"/>Dises schreiben dient nuhr mich zu entschuldigen, das
-      <lb facs="#facs_1_r1l3" n="N003"/>nit mit dem courir gesch<supplied >rie</supplied>ben, ist selben dag mein
-      <lb facs="#facs_1_r1l4" n="N004"/>sohn zu mihr kommen vndt <supplied >hat</supplied> mich so lang aufgehalten,
-      <lb facs="#facs_1_r1l5" n="N005"/>das vnmöglich mehr hab sch<supplied >rei</supplied>ben könen. Wegen des
+      <lb facs="#facs_1_r1l3" n="N003"/>nit mit dem courir gesch<supplied>rie</supplied>ben, ist selben dag mein
+      <lb facs="#facs_1_r1l4" n="N004"/>sohn zu mihr kommen vndt <supplied>hat</supplied> mich so lang aufgehalten,
+      <lb facs="#facs_1_r1l5" n="N005"/>das vnmöglich mehr hab sch<supplied>rei</supplied>ben könen. Wegen des
       <lb facs="#facs_1_r1l6" n="N006"/>Großherzoch due ich, was ich kan, dero Liebden werden aber vom
       <lb facs="#facs_1_r1l7" n="N007"/>Wißer vernemmen, was vohr große diffculteten sich
-      <lb facs="#facs_1_r1l8" n="N008"/>ereignen, doch werd noch verne<supplied >r</supplied>s alls möglige an-
+      <lb facs="#facs_1_r1l8" n="N008"/>ereignen, doch werd noch verne<supplied>r</supplied>s alls möglige an-
       <lb facs="#facs_1_r1l9" n="N009"/>wenden. Wegen Napoli ist izt alles still vnd habens
       <lb facs="#facs_1_r1l10" n="N010"/>die sachen so eingericht, das sie ihnen woll ein
-      <lb facs="#facs_1_r1l11" n="N011"/>hoffnung gema<supplied >c</supplied>ht, aber ohne meiner geringsten
+      <lb facs="#facs_1_r1l11" n="N011"/>hoffnung gema<supplied>c</supplied>ht, aber ohne meiner geringsten
       <lb facs="#facs_1_r1l12" n="N012"/>impegno. Solte aber weiters was an mich komen,
       <lb facs="#facs_1_r1l13" n="N013"/><seg type="comment">habe ich vermeint, wolte ihnen dise beygelegte</seg>
-      <lb facs="#facs_1_r1l14" n="N014"/>conditiones ma<supplied >c</supplied>hen, wormit die sach vohr sich selbsten
+      <lb facs="#facs_1_r1l14" n="N014"/>conditiones ma<supplied>c</supplied>hen, wormit die sach vohr sich selbsten
       <lb facs="#facs_1_r1l15" n="N015"/>fallen wirt. Bitte dero Liebden, dero <unclear>sertavit</unclear> darüber</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l2" n="N001"/>zu eröffnen. Ich mus auch heüt etwas ku<supplied >r</supplied>z abrechen
+    <pb facs="#facs_2" n="48 v" xml:id="Kasten_blau_44_9_0093.jpg" ed="54 v"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l2" n="N001"/>zu eröffnen. Ich mus auch heüt etwas ku<supplied>r</supplied>z abrechen
       <lb facs="#facs_2_r1l3" n="N002"/>weilen es schpaht ist vnd mit den lecherein in Schpanien
-      <lb facs="#facs_2_r1l4" n="N003"/>sch<supplied >r</supplied>eiben mus. Due mich dero Liebden bef<supplied >e</supplied>hlen, werde st<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l4" n="N003"/>sch<supplied>r</supplied>eiben mus. Due mich dero Liebden bef<supplied>e</supplied>hlen, werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_line_1656334436611_152" n="N004"/>dero Liebden
-      <lb facs="#facs_2_r1l5" n="N005"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schwester
+      <lb facs="#facs_2_r1l5" n="N005"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schwester
       <lb facs="#facs_2_r1l6" n="N006"/>Eleonora
       <lb facs="#facs_2_line_1656334436611_151" n="N007"/>Wien den 1ten julj 1707
       <lb facs="#facs_2_r1l8" n="N008"/>Aus Italien seint gutte nachricht, der <choice><expan>Prinz</expan><abbr>Pz</abbr></choice> hatt schon ein
       <lb facs="#facs_2_line_1656334589500_181" n="N009"/>ort genommen vndt ein andres habens <add>der feindt</add> verlaßen vnd
-      <lb facs="#facs_2_r1l11" n="N010"/>rasirt, g<supplied >e</supplied>gen Napoli gehts auch woll. Reccomendir dero Liebden
-      <lb facs="#facs_2_r1l12" n="N011"/>muglist die beschleinigu<supplied >n</supplied>g der recrouten.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+      <lb facs="#facs_2_r1l11" n="N010"/>rasirt, g<supplied>e</supplied>gen Napoli gehts auch woll. Reccomendir dero Liebden
+      <lb facs="#facs_2_r1l12" n="N011"/>muglist die beschleinigu<supplied>n</supplied>g der recrouten.</ab>
+    <pb facs="#facs_3" n="49 r" xml:id="Kasten_blau_44_9_0094.jpg" ed="55 r"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l2" n="N001"/>Conditions
       <lb facs="#facs_3_r1l3" n="N002"/>1 das mein sohn, der Konig, es wiße vnd absonderlich
       <lb facs="#facs_3_r1l4" n="N003"/>hoch verlange,
-      <lb facs="#facs_3_r1l5" n="N004"/>2 das das Kön<supplied >i</supplied>g<supplied >re</supplied>ich vnd meristen vohrn<supplied >em</supplied>ste es ver-
-      <lb facs="#facs_3_r1l6" n="N005"/>langen vndt absonderli<supplied >c</supplied>h begern,
+      <lb facs="#facs_3_r1l5" n="N004"/>2 das das Kön<supplied>i</supplied>g<supplied>re</supplied>ich vnd meristen vohrn<supplied>em</supplied>ste es ver-
+      <lb facs="#facs_3_r1l6" n="N005"/>langen vndt absonderli<supplied>c</supplied>h begern,
       <lb facs="#facs_3_line_1656335929618_203" n="N006"/>3 das durch dises gewiße sicherheit, so man zeigen
-      <lb facs="#facs_3_r1l9" n="N007"/>mus, das Königr<supplied >ei</supplied>ch zu erobren vnd manteni<supplied >r</supplied>en,
-      <lb facs="#facs_3_r1l10" n="N008"/>4 das ohne diß gleiche s<supplied >i</supplied>cherheit, das es nit
+      <lb facs="#facs_3_r1l9" n="N007"/>mus, das Königr<supplied>ei</supplied>ch zu erobren vnd manteni<supplied>r</supplied>en,
+      <lb facs="#facs_3_r1l10" n="N008"/>4 das ohne diß gleiche s<supplied>i</supplied>cherheit, das es nit
       <lb facs="#facs_3_r1l11" n="N009"/>werde erobret werden,
-      <lb facs="#facs_3_r1l12" n="N010"/>5 das es geschee mit der alijrten voh<supplied >r</supplied>wisen
+      <lb facs="#facs_3_r1l12" n="N010"/>5 das es geschee mit der alijrten voh<supplied>r</supplied>wisen
       <lb facs="#facs_3_r1l13" n="N011"/>vnd aprobation,
-      <lb facs="#facs_3_r1l14" n="N012"/>6 das die alleirten guaranti<supplied >re</supplied>n, das in allen fallen,
-      <lb facs="#facs_3_r1l15" n="N013"/>der krig schlag woll oder übl aus, das Ko<supplied >nig</supplied>reich
+      <lb facs="#facs_3_r1l14" n="N012"/>6 das die alleirten guaranti<supplied>re</supplied>n, das in allen fallen,
+      <lb facs="#facs_3_r1l15" n="N013"/>der krig schlag woll oder übl aus, das Ko<supplied>nig</supplied>reich
       <lb facs="#facs_3_r1l16" n="N014"/>beim friden mein sohn verbleiben solle,</ab>
-    <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-    <ab facs="#facs_4_r1" >
+    <pb facs="#facs_4" n="49 v" xml:id="Kasten_blau_44_9_0095.jpg" ed="55 v"/>
+    <ab facs="#facs_4_r1">
       <lb facs="#facs_4_r1l1" n="N001"/>7 das mihr allzeit frey stehe, wider heraus
       <lb facs="#facs_4_r1l2" n="N002"/>zu gehen, wan ich es allso vohr conuenient
       <lb facs="#facs_4_r1l3" n="N003"/>finden werde.</ab>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0007.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0007.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1682-01-08"></origDate></origin>
+                        <origin><origDate when-iso="1682-01-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1682-01-08"></date>
+               <date when-iso="1682-01-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1223" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1223px"/>
+    <graphic url="Kasten_blau_45_9_0007.jpg" width="800px" height="1223px"/>
     <zone points="64,50 64,1171 786,1171 786,50" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="170,219 266,216 303,237 371,214 405,232 435,210 482,223 555,207 694,226 725,210 725,163 325,144 253,179 170,165" rendition="Line" xml:id="facs_1_r2l2"/>
         <zone points="125,254 224,273 263,252 605,265 648,242 775,261 775,218 723,209 683,226 437,209 407,231 125,217" rendition="Line" xml:id="facs_1_r2l3"/>
@@ -124,7 +120,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1222" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1222px"/>
+    <graphic url="Kasten_blau_45_9_0008.jpg" width="800px" height="1222px"/>
     <zone points="39,102 39,830 797,830 797,102" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="83,150 127,167 329,135 417,155 497,130 644,155 773,131 772,98 622,109 465,81 280,112 82,98" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="85,190 404,202 432,179 456,201 472,183 660,194 762,167 755,137 644,155 538,136 414,161 287,135 85,175" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -149,10 +145,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="3 r" xml:id="Kasten_blau_45_9_0007.jpg"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r2l3" n="N002"/>Ich habe ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 30ten verwichnen monats mit
       <lb facs="#facs_1_r2l4" n="N003"/>schuldigistem respect empfangen. Bey diesen üblen sachen tröstet
@@ -176,13 +172,13 @@
       <lb facs="#facs_1_r2l22" n="N021"/>Mayestät durch den Hoffkanzler vndt Schellerer, wohnit bey
       <lb facs="#facs_1_r2l23" n="N022"/>heüntiger, dannoch bey könftigr post zuewißen duen.
       <lb facs="#facs_1_r2l24" n="N023"/>Sonst seindt mihr gottlob alle woll, der Josepl ist auch</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="3 v" xml:id="Kasten_blau_45_9_0008.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>von sein cattärl beßer, welches gottlob nit vill geweßen, nuhr das
       <lb facs="#facs_2_r1l2" n="N002"/>er einwehnich gehuest. Ist schon ganz rogel vndt huest gahr nit
       <lb facs="#facs_2_r1l3" n="N003"/>vill mehr. Er hatt mihr auf mein geburzdag lateinisch glükh
       <lb facs="#facs_2_r1l4" n="N004"/>gewüntscht, welches er seider dem newen iahr gelernt. Hatt zwar
-      <lb facs="#facs_2_r1l5" n="N005"/>nuhr diese wehnich worth <supplied >gesagt</supplied>, Augusta mater salue in annos multos
+      <lb facs="#facs_2_r1l5" n="N005"/>nuhr diese wehnich worth <supplied>gesagt</supplied>, Augusta mater salue in annos multos
       <lb facs="#facs_2_r1l6" n="N006"/><unclear>oiue</unclear> et me ama, ist aber das erste lateinsch, so er gelernt.
       <lb facs="#facs_2_r1l7" n="N007"/>Iezt hoffe ich werde es mit der armatur auch beßer
       <lb facs="#facs_2_r1l8" n="N008"/>vortgehn, weil der Herzoch von Lotring hier ist. Er ist den 5ten komen.

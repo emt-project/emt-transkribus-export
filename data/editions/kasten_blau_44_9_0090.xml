@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_9_0090.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_9_0090.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1707-07-31"></origDate></origin>
+                        <origin><origDate when-iso="1707-07-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1707-07-31"></date>
+               <date when-iso="1707-07-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1309" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1309px"/>
+    <graphic url="Kasten_blau_44_9_0090.jpg" width="800px" height="1309px"/>
     <zone points="20,0 20,1248 768,1248 768,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="20,70 46,69 72,68 98,67 124,68 150,72 176,81 176,51 150,42 124,38 98,37 72,38 46,39 20,40" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="57,109 87,108 118,107 149,105 180,105 210,105 241,104 272,105 303,105 333,106 364,106 395,107 426,108 456,109 487,110 518,111 549,112 579,112 610,113 641,114 672,114 672,84 641,84 610,83 579,82 549,82 518,81 487,80 456,79 426,78 395,77 364,76 333,76 303,75 272,75 241,74 210,75 180,75 149,75 118,77 87,78 57,79" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -135,7 +131,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1304" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1304px"/>
+    <graphic url="Kasten_blau_44_9_0091.jpg" width="800px" height="1304px"/>
     <zone points="113,59 113,1262 798,1262 798,59" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="113,1201 138,1204 163,1205 188,1204 213,1202 238,1200 263,1200 263,1170 238,1170 213,1172 188,1174 163,1175 138,1174 113,1171" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="224,1241 258,1241 293,1225 293,1195 258,1211 224,1211" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -172,10 +168,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="47 r" xml:id="Kasten_blau_44_9_0090.jpg" ed="53 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>
       <lb facs="#facs_1_r1l2" n="N002"/>
       <lb facs="#facs_1_r1l3" n="N003"/>
@@ -209,8 +205,8 @@
       <lb facs="#facs_1_r1l31" n="N031"/>
       <lb facs="#facs_1_r1l32" n="N032"/>
       <lb facs="#facs_1_r1l33" n="N033"/></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="47 v" xml:id="Kasten_blau_44_9_0091.jpg" ed="53 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>
       <lb facs="#facs_2_r1l2" n="N002"/>
       <lb facs="#facs_2_r1l3" n="N003"/>

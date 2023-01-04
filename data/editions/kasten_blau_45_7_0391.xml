@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_7_0391.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_7_0391.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1706-05-30"></origDate></origin>
+                        <origin><origDate when-iso="1706-05-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1706-05-30"></date>
+               <date when-iso="1706-05-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1263" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1263px"/>
+    <graphic url="Kasten_blau_45_7_0391.jpg" width="800px" height="1263px"/>
     <zone points="47,96 47,1170 751,1170 751,96" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="107,452 271,486 426,453 632,462 737,436 735,383 611,400 502,380 389,413 263,390 173,440 106,428" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="71,495 628,506 708,494 707,438 479,484 416,463 271,486 201,461 70,458" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1289" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1289px"/>
+    <graphic url="Kasten_blau_45_7_0392.jpg" width="800px" height="1289px"/>
     <zone points="60,92 60,1210 798,1210 798,92" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="60,154 183,177 209,156 225,173 346,156 391,183 444,162 479,179 643,164 761,194 762,143 670,109 521,142 291,105 61,120" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="61,201 172,193 242,220 277,198 332,222 376,196 564,221 594,202 639,229 676,203 750,214 751,178 440,162 387,184 259,157 181,179 61,157" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -149,29 +145,29 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="57 r" xml:id="Kasten_blau_45_7_0391.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l3" n="N002"/>Weilen der Deütschm<supplied >e</supplied>ister durch den von Stein, so er wegen der münstrischen
+      <lb facs="#facs_1_r1l3" n="N002"/>Weilen der Deütschm<supplied>e</supplied>ister durch den von Stein, so er wegen der münstrischen
       <lb facs="#facs_1_r1l5" n="N003"/>sach hierher geschikt <add>mihr zu wißen gedan, das er</add> auf meine gedahne demonstrationes so vill
       <lb facs="#facs_1_r1l6" n="N004"/>refflection gemacht, in dem er so woll meins Keiser <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> als meins
-      <lb facs="#facs_1_r1l7" n="N005"/>gl<supplied >i</supplied>ebten sohns <choice><expan>Mayestät</expan><abbr>Mt</abbr></choice> vnd mein impegno mit dem Bischoff von Osnabrukh
+      <lb facs="#facs_1_r1l7" n="N005"/>gl<supplied>i</supplied>ebten sohns <choice><expan>Mayestät</expan><abbr>Mt</abbr></choice> vnd mein impegno mit dem Bischoff von Osnabrukh
       <lb facs="#facs_1_r1l8" n="N006"/><choice><expan>Liebden</expan><abbr>Ld</abbr></choice> erkendt, das mihr mit honestetè nit zurukh können, vndt
       <lb facs="#facs_1_r1l9" n="N007"/>neben so villen andren vhrsachen, so ich bey dem vohrigen courir
-      <lb facs="#facs_1_r1l11" n="N008"/>so woll als durch den <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Golnitsch <add>vnd Wißer</add> dero Liebden weitlaüfig übersch<supplied >r</supplied>iben,
+      <lb facs="#facs_1_r1l11" n="N008"/>so woll als durch den <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Golnitsch <add>vnd Wißer</add> dero Liebden weitlaüfig übersch<supplied>r</supplied>iben,
       <lb facs="#facs_1_r1l12" n="N009"/>sich dahin declarirt, das er nit allein dem Bischoff von Osnabrukh,
       <lb facs="#facs_1_r1l13" n="N010"/>so er dazu gelangen könne, nit hinderlich sein wolle, sondern
-      <lb facs="#facs_1_r1l14" n="N011"/>ihme gern cediren, vndt was er köne beydr<supplied >a</supplied>gen wolle, <supplied >dabei</supplied> hoffette, man
+      <lb facs="#facs_1_r1l14" n="N011"/>ihme gern cediren, vndt was er köne beydr<supplied>a</supplied>gen wolle, <supplied>dabei</supplied> hoffette, man
       <lb facs="#facs_1_r1l15" n="N012"/>werde seiner anderstwoh (dan er bis dahto vom heiraten nit
       <lb facs="#facs_1_r1l16" n="N013"/>hören will), als im fall der Bischoff von Osnabrukh einiges bistumb
-      <lb facs="#facs_1_r1l17" n="N014"/>resigniren müeste oder im fall zu Trier oder sonsten ein ape<supplied >r</supplied>tur
+      <lb facs="#facs_1_r1l17" n="N014"/>resigniren müeste oder im fall zu Trier oder sonsten ein ape<supplied>r</supplied>tur
       <lb facs="#facs_1_r1l18" n="N015"/>sein wurd, seiner eingedenkh zu sein, warzu dan der Keiser, mein
       <lb facs="#facs_1_r1l19" n="N016"/><choice><expan>geliebster</expan><abbr>glbstr</abbr></choice> sohn, ich vndt alle mitteinander mit hochster freüdt helfen</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l2" n="N001"/>wurden. Also hab ich neben den vohrigen auch noch dises dero Liebden v<supplied >o</supplied>hrstellen
+    <pb facs="#facs_2" n="57 v" xml:id="Kasten_blau_45_7_0392.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l2" n="N001"/>wurden. Also hab ich neben den vohrigen auch noch dises dero Liebden v<supplied>o</supplied>hrstellen
       <lb facs="#facs_2_r1l3" n="N002"/>wollen, nit zweiflendt, sie werden auch bey dero gegebnen
       <lb facs="#facs_2_r1l4" n="N003"/>wort, so sie so heilich dem Bischoffen von Osnabrukh <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>
       <lb facs="#facs_2_r1l5" n="N004"/>verschprochen haben, bestendig verbleiben vndt mit allen
@@ -183,17 +179,17 @@
       <lb facs="#facs_2_r1l11" n="N010"/>gleichermaßen eifrigist werden angelegen sein laßen zum
       <lb facs="#facs_2_r1l12" n="N011"/>besten zu etablirn. Ich verwundere mich, das ich auf
       <lb facs="#facs_2_r1l17" n="N012"/>den courir <add>oder caualier</add>, so der Bischoff <add><unclear>von</unclear> Osnabrukh <choice><expan>Liebden</expan><abbr>Ld</abbr></choice></add> in diser materi zu dero Liebden geschikt,
-      <lb facs="#facs_2_r1l18" n="N013"/>noch keine andtwort auf mein schr<supplied >e</supplied>iben bekommen, ich
+      <lb facs="#facs_2_r1l18" n="N013"/>noch keine andtwort auf mein schr<supplied>e</supplied>iben bekommen, ich
       <lb facs="#facs_2_r1l19" n="N014"/>förchte, wan dero Liebden so lang darmit aufhalten, wurde es ihme bilich
       <lb facs="#facs_2_r1l20" n="N015"/>verdrießen, vndt ich wolte gern dise heüßer, weil das eine
       <lb facs="#facs_2_r1l21" n="N016"/>mein eigens vndt das andre mihr billig wegen ihrer vnuer-
       <lb facs="#facs_2_r1l22" n="N017"/>gleichligen liebsten eltern inniglich lieb ist, in bestendiger
       <lb facs="#facs_2_r1l23" n="N018"/>vndt bester freüntschafft vndt einkeit wißen, welches auch so woll
-      <lb facs="#facs_2_r1l24" n="N019"/>vnsern erzhaus als dem cuhrhaus vnd publico großen nuzen bri<supplied >n</supplied>gen
+      <lb facs="#facs_2_r1l24" n="N019"/>vnsern erzhaus als dem cuhrhaus vnd publico großen nuzen bri<supplied>n</supplied>gen
       <lb facs="#facs_2_r1l25" n="N020"/>wirt. Due mich anbey in dero Liebden affection befehlen, die ich leben
       <lb facs="#facs_2_r1l26" n="N021"/>vndt sterben werde
       <lb facs="#facs_2_line_1666855498598_564" n="N022"/>dero Liebden
-      <lb facs="#facs_2_r1l27" n="N023"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l27" n="N023"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l28" n="N024"/>Eleonora
       <lb facs="#facs_2_r1l29" n="N025"/>Wien den 30ten maij 1706</ab>
   </div>

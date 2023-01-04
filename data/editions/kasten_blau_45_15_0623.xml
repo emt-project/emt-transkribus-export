@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0623.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0623.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-03-05"></origDate></origin>
+                        <origin><origDate when-iso="1689-03-05"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1689-03-05"></date>
+               <date when-iso="1689-03-05"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1224" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1224px"/>
+    <graphic url="Kasten_blau_45_15_0623.jpg" width="800px" height="1224px"/>
     <zone points="42,397 42,1133 763,1133 763,397" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="38,464 729,439 768,429 767,366 680,360 583,391 537,365 408,393 261,376 119,420 37,402" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="48,524 126,511 181,529 253,483 372,498 421,532 483,510 554,534 629,498 737,500 737,465 642,440 570,468 437,444 325,476 199,449 104,477 48,466" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -114,7 +110,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1198" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1198px"/>
+    <graphic url="Kasten_blau_45_15_0624.jpg" width="800px" height="1198px"/>
     <zone points="47,68 47,785 783,785 783,68" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="64,136 249,101 356,121 502,98 775,110 773,21 731,15 293,25 256,7 62,29" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="52,187 769,157 749,115 675,132 504,98 282,137 240,121 52,137" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -133,15 +129,15 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="42 r" xml:id="Kasten_blau_45_15_0623.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Durch dißen curir werden ewer Durchlaucht ausfürlich ver-
       <lb facs="#facs_1_r1l3" n="N003"/>nemmen, was ihr Mayestät meinung so woll in der
       <lb facs="#facs_1_r1l4" n="N004"/>geferligen sach bey meinem brudren, als auch wegen
-      <lb facs="#facs_1_r1l5" n="N005"/>Heidelberg vnd deren landen conseruirung <supplied >ist</supplied>. Ihr Mayestät
+      <lb facs="#facs_1_r1l5" n="N005"/>Heidelberg vnd deren landen conseruirung <supplied>ist</supplied>. Ihr Mayestät
       <lb facs="#facs_1_r1l6" n="N006"/>völker ligen so nahet sie können, ist aber das
       <lb facs="#facs_1_r1l7" n="N007"/>übleste, das die franzosen so alles verderbt, das
       <lb facs="#facs_1_r1l8" n="N008"/>sie kaum leben können. Das meiste ist, warauf
@@ -150,20 +146,20 @@
       <lb facs="#facs_1_r1l11" n="N011"/>regimenter marschiren, ein deil seint aber weit,
       <lb facs="#facs_1_r1l12" n="N012"/>iedoch duet man, was man kan. Wegen des Staren-
       <lb facs="#facs_1_r1l13" n="N013"/>bergs, weil er noch nit so balt kunte gehn, vnd</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="42 v" xml:id="Kasten_blau_45_15_0624.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>werden ewer Durchlaucht auch ihr Mayestät meinung vernemmen, das
       <lb facs="#facs_2_r1l2" n="N002"/>man wen andren schiken soll. Heünt befindt sich gottlob
-      <lb facs="#facs_2_r1l3" n="N003"/>die E<supplied >r</supplied>zh<supplied >er</supplied>zogin zimlich woll, doch auf den abendt bleibt
+      <lb facs="#facs_2_r1l3" n="N003"/>die E<supplied>r</supplied>zh<supplied>er</supplied>zogin zimlich woll, doch auf den abendt bleibt
       <lb facs="#facs_2_r1l4" n="N004"/>sie in zimer vnd legt sich beyzeiten nider, bis
       <lb facs="#facs_2_r1l5" n="N005"/>sie die kreften beßer erholt. Damit ich den curir
       <lb facs="#facs_2_r1l6" n="N006"/>nit aufhalt, ist auch heünt noch vill in Schpanien
-      <lb facs="#facs_2_r1l7" n="N007"/>zue schiken, also due mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied >e</supplied>f<supplied >e</supplied>hlen vnd
+      <lb facs="#facs_2_r1l7" n="N007"/>zue schiken, also due mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hlen vnd
       <lb facs="#facs_2_r1l8" n="N008"/>vnd werde sterben
       <lb facs="#facs_2_r1l9" n="N009"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> tr<supplied >e</supplied>wg<supplied >e</supplied>ho<supplied >r</supplied>sa<supplied >m</supplied>ste do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> tr<supplied>e</supplied>wg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l12" n="N011"/>EMT
-      <lb facs="#facs_2_r1l10" n="N012"/>Wien den 5 me<supplied >r</supplied>z 1689</ab>
+      <lb facs="#facs_2_r1l10" n="N012"/>Wien den 5 me<supplied>r</supplied>z 1689</ab>
   </div>
 </body>
 

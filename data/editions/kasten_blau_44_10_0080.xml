@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_10_0080.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0080.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1709-04-20"></origDate></origin>
+                        <origin><origDate when-iso="1709-04-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1709-04-20"></date>
+               <date when-iso="1709-04-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1213" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1213px"/>
+    <graphic url="Kasten_blau_44_10_0080.jpg" width="800px" height="1213px"/>
     <zone points="63,0 63,1186 797,1186 797,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="118,399 162,418 287,393 324,422 465,393 509,422 571,381 769,368 769,316 647,293 570,309 499,285 387,312 293,296 117,321" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="86,484 182,459 214,479 374,454 416,490 651,450 748,464 780,452 779,407 622,381 512,422 464,393 324,422 293,398 176,415 82,362" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -114,7 +110,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1211" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1211px"/>
+    <graphic url="Kasten_blau_44_10_0081.jpg" width="800px" height="1211px"/>
     <zone points="15,78 15,1203 797,1203 797,78" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="28,114 170,100 224,125 426,101 511,139 721,122 746,75 656,91 595,60 367,52 299,69 186,40 107,69 29,37" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="32,155 225,171 314,140 382,168 417,144 439,167 462,151 604,179 637,160 720,187 751,171 752,127 33,110" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -143,47 +139,47 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="43 r" xml:id="Kasten_blau_44_10_0080.jpg" ed="49 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N002"/>Ich glaub, der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> von Sinzendorf werde ehster
       <lb facs="#facs_1_r1l4" n="N003"/>dagen hier abreisen, durch welchen als einen, so vnsren
       <lb facs="#facs_1_r1l5" n="N004"/>haus allezeit so deuot geweßen vndt noch
       <lb facs="#facs_1_r1l6" n="N005"/>also bestendig ist, mich vnterfange dero Liebden in ein
       <lb facs="#facs_1_r1l7" n="N006"/>vnd andren meine sentimenten vertraüligst
-      <lb facs="#facs_1_r1l8" n="N007"/>zu eröffnen. In deßen aber kan nit unt<supplied >e</supplied>rlaßen, dero Liebden
-      <lb facs="#facs_1_r1l9" n="N008"/>zu representi<supplied >r</supplied>n, das na<supplied >c</supplied>h dem ich v<supplied >e</supplied>rneme, <supplied >dass</supplied> dero Liebden bey
+      <lb facs="#facs_1_r1l8" n="N007"/>zu eröffnen. In deßen aber kan nit unt<supplied>e</supplied>rlaßen, dero Liebden
+      <lb facs="#facs_1_r1l9" n="N008"/>zu representi<supplied>r</supplied>n, das na<supplied>c</supplied>h dem ich v<supplied>e</supplied>rneme, <supplied>dass</supplied> dero Liebden bey
       <lb facs="#facs_1_r1l10" n="N009"/>vnpaßlichkeit des Bischoffen von Münster abermahl
       <lb facs="#facs_1_r1l11" n="N010"/>auf den Deütschmeister andragen wollen, ich mich in
-      <lb facs="#facs_1_r1l12" n="N011"/><unclear>gewißen</unclear> schuldich finden, na<supplied >c</supplied>h allermoglickeit dero Liebden drum
+      <lb facs="#facs_1_r1l12" n="N011"/><unclear>gewißen</unclear> schuldich finden, na<supplied>c</supplied>h allermoglickeit dero Liebden drum
       <lb facs="#facs_1_r1l13" n="N012"/>zu dehortiren vndt zu bitten, den Deütschmeister
-      <lb facs="#facs_1_r1l14" n="N013"/>nit weiter in ge<supplied >i</supplied>steligen stand zu impegniren,</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l14" n="N013"/>nit weiter in ge<supplied>i</supplied>steligen stand zu impegniren,</ab>
+    <pb facs="#facs_2" n="43 v" xml:id="Kasten_blau_44_10_0081.jpg" ed="49 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>dan wan auch gott vnsern <choice><expan>bruder</expan><abbr>br</abbr></choice> ein sohn gäbe, welches
       <lb facs="#facs_2_r1l2" n="N002"/>sich balt zeigen wirt vnd ich von herzen wüntsche, kan man
       <lb facs="#facs_2_r1l3" n="N003"/>doch auf so ein klebers kindel von einer vngesunten
       <lb facs="#facs_2_r1l4" n="N004"/>mutter, die in allem auf das vnordentligste lebt, wehnig
       <lb facs="#facs_2_r1l5" n="N005"/>fondament machen vndt damit das curhaus vnd religion
       <lb facs="#facs_2_r1l6" n="N006"/>in gefahr sezen. Bitte, dero Liebden wollen es beherzigen, werde es
-      <lb facs="#facs_2_r1l7" n="N007"/>mit meren durch obgeda<supplied >c</supplied>hten <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Sinsendorf representirn
+      <lb facs="#facs_2_r1l7" n="N007"/>mit meren durch obgeda<supplied>c</supplied>hten <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Sinsendorf representirn
       <lb facs="#facs_2_r1l8" n="N008"/>laßen, will es izt abkürzen, dero Liebden nit überlestig zu vallen,
-      <lb facs="#facs_2_r1l9" n="N009"/>die ich leben vndt st<supplied >er</supplied>ben werde
+      <lb facs="#facs_2_r1l9" n="N009"/>die ich leben vndt st<supplied>er</supplied>ben werde
       <lb facs="#facs_2_r1l10" n="N010"/>dero Liebden
-      <lb facs="#facs_2_r1l12" n="N011"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l12" n="N011"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l13" n="N012"/>Eleonora
       <lb facs="#facs_2_r1l11" n="N013"/>Wien den 20ten aprill 1709
-      <lb facs="#facs_2_r1l14" n="N014"/>Der Radig hatt mich geb<supplied >e</supplied>ten, sein dochter
+      <lb facs="#facs_2_r1l14" n="N014"/>Der Radig hatt mich geb<supplied>e</supplied>ten, sein dochter
       <lb facs="#facs_2_r1l15" n="N015"/>dero Liebden vnd dero gemahlin zu reccomendirn, welchs so vill liber
       <lb facs="#facs_2_r1l16" n="N016"/>gedahn, als ich das mädel wegen ihrer geschiklichkeit
       <lb facs="#facs_2_r1l17" n="N017"/>loben höre vndt dero Liebden selbsten bekant ist, das es nit
       <lb facs="#facs_2_r1l18" n="N018"/>gutt wär, wan sie widrumb auf Neüburg kommen
-      <lb facs="#facs_2_r1l19" n="N019"/>solte. Auch bin ich so ser gebetten worden, dero Liebden beyl<supplied >i</supplied>gendes
+      <lb facs="#facs_2_r1l19" n="N019"/>solte. Auch bin ich so ser gebetten worden, dero Liebden beyl<supplied>i</supplied>gendes
       <lb facs="#facs_2_r1l20" n="N020"/>memorial zu reccomendir. Weil dero Liebden selbsten so einen
       <lb facs="#facs_2_r1l21" n="N021"/>grosen eifer zu der religion vnd gewinnung der sehlen haben,
-      <lb facs="#facs_2_r1l22" n="N022"/>so habe es innen nit abschlagen wollen, gott wi<supplied >r</supplied>ts dero Liebden vergelten.</ab>
+      <lb facs="#facs_2_r1l22" n="N022"/>so habe es innen nit abschlagen wollen, gott wi<supplied>r</supplied>ts dero Liebden vergelten.</ab>
   </div>
 </body>
 

@@ -131,9 +131,10 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
         item['writte_date'] = row['Datum']
         item['current_date'] = f"{date.today()}"
         facsimile = doc.any_xpath('.//tei:facsimile')[0]
-        item["facsimile"] = ET.tostring(facsimile, encoding='utf-8', pretty_print=True).decode('utf-8')
+        item["facsimile"] = ET.tostring(facsimile, encoding='utf-8', pretty_print=True).decode('utf-8').replace(' xmlns="http://www.tei-c.org/ns/1.0"', '')
         body = doc.any_xpath('.//tei:body')[0]
         body_string = ET.tostring(body, encoding='utf-8', pretty_print=True).decode('utf-8')
+        body_string = body_string.replace(' xmlns="http://www.tei-c.org/ns/1.0"', '')
         body_string = body_string.replace('reason=""', '')
         body_string = body_string.replace('type=""', '')
         body_string = body_string.replace('<blackening>', '<seg type="blackening">')
@@ -149,4 +150,51 @@ for gr, df in tqdm.tqdm(df.groupby('folder')):
             item['parsed_date'] = None
         item['pages'] = []
         f.write(template.render(**item))
-print(len(no_match))
+print(f"No matches: {len(no_match)}")
+
+print("now fixing facs-filenames and pb-attributes")
+
+editions = "./data/editions/"
+df = pd.read_csv('gesamtliste_enriched.csv')
+no_match = []
+page_count_issue = []
+for g, ndf in df.groupby('folder'):
+    xml_doc = f"{editions}{g.lower()}.xml"
+    pages = []
+    try:
+        doc = TeiReader(f"{xml_doc}")
+    except OSError:
+        no_match.append(xml_doc)
+        continue
+    for i, row in ndf.iterrows():
+        page = {
+            "file__name": row['Dateiname'],
+            "fol_1": row['Foliierung'],
+            "fol_2": row['Zweitfoliierung']
+        }
+        pages.append(page)
+    for i, pb in enumerate(doc.any_xpath('.//tei:pb')):
+        try:
+            matching_page = pages[i]
+        except IndexError:
+            issue = {
+                "doc": xml_doc,
+                "page_nr": i
+            }
+            continue
+        if isinstance(pages[i]['fol_1'], str):
+            pb.attrib["n"] = pages[i]['fol_1']
+        if isinstance(pages[i]['fol_2'], str):
+            pb.attrib["ed"] = pages[i]['fol_2']
+        pb.attrib["{http://www.w3.org/XML/1998/namespace}id"] = pages[i]['file__name']
+    for i, graphic in enumerate(doc.any_xpath('.//tei:surface/tei:graphic[1]')):
+        try:
+            matching_page = pages[i]
+        except IndexError:
+            issue = {
+                "doc": xml_doc,
+                "page_nr": i
+            }
+            continue
+        graphic.attrib["url"] = pages[i]['file__name']
+    doc.tree_to_file(xml_doc)

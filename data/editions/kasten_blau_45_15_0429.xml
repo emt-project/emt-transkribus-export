@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0429.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0429.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-09-11"></origDate></origin>
+                        <origin><origDate when-iso="1688-09-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1688-09-11"></date>
+               <date when-iso="1688-09-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1205" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1205px"/>
+    <graphic url="Kasten_blau_45_15_0429.jpg" width="800px" height="1205px"/>
     <zone points="38,419 38,1193 775,1193 775,419" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="112,460 169,441 269,472 299,453 379,469 526,444 602,488 659,451 780,477 772,389 672,413 623,387 550,426 463,388 306,386 186,420 112,376" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="118,541 155,517 192,529 389,505 568,531 703,522 710,469 647,461 602,485 475,463 407,488 305,454 208,486 118,471" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,24 +115,24 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="240 r" xml:id="Kasten_blau_45_15_0429.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vatter</expan><abbr>v</abbr></choice>
       <lb facs="#facs_1_r1l2" n="N002"/>Damit ich den curir nit auf halte,
-      <lb facs="#facs_1_r1l3" n="N003"/>ewer Durchlaucht die gutte zeitungen der eroberu<supplied >n</supplied>g
+      <lb facs="#facs_1_r1l3" n="N003"/>ewer Durchlaucht die gutte zeitungen der eroberu<supplied>n</supplied>g
       <lb facs="#facs_1_r1l4" n="N004"/><choice><expan/><abbr>von</abbr></choice> Belgrad vnd gewunene schlacht von Morgrau
       <lb facs="#facs_1_r1l5" n="N005"/>Louis zue überbringen, due ich dismahl
-      <lb facs="#facs_1_r1l6" n="N006"/>so kurz meine <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schuld<supplied >i</supplied>chkeit ablegen,
+      <lb facs="#facs_1_r1l6" n="N006"/>so kurz meine <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schuld<supplied>i</supplied>chkeit ablegen,
       <lb facs="#facs_1_r1l7" n="N007"/>gott sey gebenedeit vohr so vill gnaden.
       <lb facs="#facs_1_r1l8" n="N008"/>Der wolle auch genediglich verleyen,
       <lb facs="#facs_1_r1l9" n="N009"/>das diese <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> zeilen ewer Durchlaucht widerumb
       <lb facs="#facs_1_r1l10" n="N010"/>von ihrer incomoditet vollich befreit finden
-      <lb facs="#facs_1_r1l11" n="N011"/>mögen, in deßen <choice><expan>gnade</expan><abbr>g</abbr></choice> ich mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied >e</supplied>f<supplied >e</supplied>hle,
-      <lb facs="#facs_1_r1l13" n="N012"/>die ich st<supplied >e</supplied>rben werde
+      <lb facs="#facs_1_r1l11" n="N011"/>mögen, in deßen <choice><expan>gnade</expan><abbr>g</abbr></choice> ich mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hle,
+      <lb facs="#facs_1_r1l13" n="N012"/>die ich st<supplied>e</supplied>rben werde
       <lb facs="#facs_1_line_1646417342273_204" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1646417251213_191" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_1_line_1646417251213_191" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_1_r1l14" n="N015"/>EMT
       <lb facs="#facs_1_line_1646417342273_203" n="N016"/>Wien den 11ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1688</ab>
   </div>

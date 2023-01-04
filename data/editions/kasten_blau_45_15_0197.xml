@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0197.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0197.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-06-05"></origDate></origin>
+                        <origin><origDate when-iso="1687-06-05"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1687-06-05"></date>
+               <date when-iso="1687-06-05"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1209" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1209px"/>
+    <graphic url="Kasten_blau_45_15_0197.jpg" width="800px" height="1209px"/>
     <zone points="13,1092 13,1208 24,1208 24,1092" rendition="TextRegion" xml:id="facs_1_r1">
       </zone>
     <zone points="41,193 41,1152 778,1152 778,193" rendition="TextRegion" xml:id="facs_1_r2">
@@ -123,11 +119,11 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" />
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="94 r" xml:id="Kasten_blau_45_15_0197.jpg"/>
+    <ab facs="#facs_1_r1"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r2l2" n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das ich heünt nit
       <lb facs="#facs_1_r2l3" n="N003"/>mit schreiben aufwarte. Es ist eben gestren die
@@ -138,10 +134,10 @@
       <lb facs="#facs_1_r2l8" n="N008"/>ich mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen. Der Hoff-
       <lb facs="#facs_1_r2l9" n="N009"/>kanzler wirt ewer Durchlaucht berichten wegen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl vnd
       <lb facs="#facs_1_r2l10" n="N010"/>auch wegen Meins, weil ich vnd auch ihr Mayestät nit
-      <lb facs="#facs_1_r2l11" n="N011"/>genue<supplied >c</supplied>h zeit haben gehabt zue sch<supplied >r</supplied>eiben. Ich werde
+      <lb facs="#facs_1_r2l11" n="N011"/>genue<supplied>c</supplied>h zeit haben gehabt zue sch<supplied>r</supplied>eiben. Ich werde
       <lb facs="#facs_1_r2l12" n="N012"/>sterben
       <lb facs="#facs_1_r2l13" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_1_r2l15" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> d<supplied >o</supplied>chter
+      <lb facs="#facs_1_r2l15" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_1_r2l16" n="N015"/>EMT
       <lb facs="#facs_1_r2l14" n="N016"/>Wien den 5ten junij 1687
       <lb facs="#facs_1_r2l17" n="N017"/>Meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schwester conterfet hab ich

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0802.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0802.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-10-08"></origDate></origin>
+                        <origin><origDate when-iso="1689-10-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-10-08"></date>
+               <date when-iso="1689-10-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_45_15_0802.jpg" width="800px" height="1249px"/>
     <zone points="7,393 7,1241 762,1241 762,393" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="86,450 160,461 188,441 269,464 329,425 503,453 549,425 701,421 712,363 639,385 560,363 267,392 165,379 129,413 84,412" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="66,527 289,475 683,483 721,465 719,422 549,425 503,453 332,429 234,469 189,442 165,460 62,449" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_45_15_0803.jpg" width="800px" height="1249px"/>
     <zone points="21,58 21,494 768,494 768,58" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="36,102 217,121 426,81 727,90 726,46 668,36 633,54 502,35 400,54 341,30 296,47 35,38" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="36,157 157,136 296,172 350,139 482,133 574,161 610,136 756,134 755,89 669,110 520,78 235,127 122,107 35,122" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -135,13 +131,13 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuh<supplied >r</supplied>füst, herzallerliebster herr vatter
+    <pb facs="#facs_1" n="152 r" xml:id="Kasten_blau_45_15_0802.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuh<supplied>r</supplied>füst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l3" n="N002"/>Izt auf den abendt kombt dero Kanzler Irsch, welcher
-      <lb facs="#facs_1_r1l4" n="N003"/>mihr ewer Durchlaucht <choice><expan>gnädige</expan><abbr>g</abbr></choice> schr<supplied >e</supplied>iben bede woll übereicht. Ewer Durchlaucht können
+      <lb facs="#facs_1_r1l4" n="N003"/>mihr ewer Durchlaucht <choice><expan>gnädige</expan><abbr>g</abbr></choice> schr<supplied>e</supplied>iben bede woll übereicht. Ewer Durchlaucht können
       <lb facs="#facs_1_r1l5" n="N004"/><choice><expan>gnädig</expan><abbr>g</abbr></choice> gauben, das ich dero interesse mihr möglist werde
       <lb facs="#facs_1_r1l6" n="N005"/>eifrist angelegen sein laßen. Wegen des Tankelman ist freilich
       <lb facs="#facs_1_r1l7" n="N006"/>nit guet vnd glaub ich, er wert sich nit lang
@@ -152,19 +148,19 @@
       <lb facs="#facs_1_r1l12" n="N011"/>mit der zeitung, brengt weiter keine particularia, sonst
       <lb facs="#facs_1_r1l13" n="N012"/>zwar ein relation, auf welche noch nit fertig, das
       <lb facs="#facs_1_r1l14" n="N013"/>aber, das die niderlag der türkhen vill größer. Der Marg-
-      <lb facs="#facs_1_r1l15" n="N014"/>rau versichert 10 <unclear>m</unclear>, er aber sacht, er meint, g<supplied >e</supplied>wis kan er
+      <lb facs="#facs_1_r1l15" n="N014"/>rau versichert 10 <unclear>m</unclear>, er aber sacht, er meint, g<supplied>e</supplied>wis kan er
       <lb facs="#facs_1_r1l16" n="N015"/>verschprechen 14 <unclear>m</unclear>, die gebliben, dan die Nissa ist ein fluß wie
       <lb facs="#facs_1_r1l17" n="N016"/>die Ens, aber vill rapider, der sey von der menge der
       <lb facs="#facs_1_r1l18" n="N017"/>doten geschwelt worden, das er ausgeloffen, ohne wos aufn</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="152 v" xml:id="Kasten_blau_45_15_0803.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>plaz bliben, gott <unclear>sey ewich</unclear> lob vnd dankh. <choice><expan>Pater</expan><abbr>P</abbr></choice>
       <lb facs="#facs_2_r1l2" n="N002"/>Marcus mit sein gebett hats vns erhalten, der hett
       <lb facs="#facs_2_r1l3" n="N003"/>woll ein große freüdt gehabt. Due mich in ewer
       <lb facs="#facs_2_r1l4" n="N004"/>Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen aus mangel der zeit.
-      <lb facs="#facs_2_r1l5" n="N005"/>Ich werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_2_r1l5" n="N005"/>Ich werde ste<supplied>r</supplied>ben
       <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l7" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l7" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l9" n="N008"/>Eleonora
       <lb facs="#facs_2_r1l8" n="N009"/>Augschpurg den 8ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1689</ab>
   </div>

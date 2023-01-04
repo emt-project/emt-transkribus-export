@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0350.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0350.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1695-01-15"></origDate></origin>
+                        <origin><origDate when-iso="1695-01-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -83,22 +79,22 @@
             <correspAction type="sent">
                <persName ref="#">Gottlieb Amadeus von Windischgrätz</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1695-01-15"></date>
+               <date when-iso="1695-01-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#">JW</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="1714" lry="2597" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1714px" height="2597px"/>
+    <graphic url="Kasten_blau_44_6_0350.jpg" width="1714px" height="2597px"/>
     <zone points="58,153 58,2563 1634,2563 1634,153" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="192,221 219,217 246,214 273,212 301,211 328,210 355,210 383,211 410,211 437,212 465,213 465,156 437,155 410,154 383,154 355,153 328,153 301,154 273,155 246,157 219,160 192,164" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="646,300 673,300 701,298 729,296 757,294 784,293 812,292 840,291 868,291 868,234 840,234 812,235 784,236 757,237 729,239 701,241 673,243 646,243" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -122,10 +118,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="225 r" xml:id="Kasten_blau_44_6_0350.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>
       <lb facs="#facs_1_r1l2" n="N002"/>
       <lb facs="#facs_1_r1l3" n="N003"/>

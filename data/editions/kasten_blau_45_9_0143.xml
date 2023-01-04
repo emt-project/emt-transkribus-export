@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0143.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0143.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1683-06-10"></origDate></origin>
+                        <origin><origDate when-iso="1683-06-10"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1683-06-10"></date>
+               <date when-iso="1683-06-10"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1249" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1249px"/>
+    <graphic url="Kasten_blau_45_9_0143.jpg" width="800px" height="1249px"/>
     <zone points="59,206 44,1184 770,1187 785,209" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="81,286 248,262 310,275 361,252 422,277 495,239 564,261 710,250 749,236 749,171 500,187 365,144 222,178 80,165" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="75,316 196,308 237,337 348,352 469,348 631,303 714,339 756,331 756,272 571,256 464,255 428,278 388,264 349,287 75,285" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1274" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1274px"/>
+    <graphic url="Kasten_blau_45_9_0144.jpg" width="800px" height="1274px"/>
     <zone points="60,84 60,1267 779,1267 779,84" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="56,161 146,149 186,117 261,149 441,115 512,149 605,154 659,124 784,136 785,80 757,69 362,92 59,22" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="60,201 135,218 226,182 359,209 455,186 575,216 633,185 783,195 783,155 712,132 610,155 556,139 464,174 372,142 289,171 194,124 118,170 60,161" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -130,10 +126,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="82 r" xml:id="Kasten_blau_45_9_0143.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Aniezo ist mein gröste sorch zue vernemmen,
       <lb facs="#facs_1_r1l3" n="N003"/>das sich ewer Durchlaucht in guettem wohlstand befinden mögen
@@ -148,15 +144,15 @@
       <lb facs="#facs_1_r1l14" n="N012"/>berichten. Ich befind mich gottlob guett, der
       <lb facs="#facs_1_r1l15" n="N013"/>hatt mich woll absonderlich begnad, das ich in
       <lb facs="#facs_1_r1l16" n="N014"/>so guettem standt bin. <seg type="blackening">also</seg> Am könftigen</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l1" n="N001"/>samstag als übermorgen werden <supplied >wir</supplied> auf Wien vnd amb
-      <lb facs="#facs_2_r1l2" n="N002"/>sontag widerumb heraus <supplied >reisen</supplied>. Dort hoffe <supplied >ich</supplied> die brüder
+    <pb facs="#facs_2" n="82 v" xml:id="Kasten_blau_45_9_0144.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l1" n="N001"/>samstag als übermorgen werden <supplied>wir</supplied> auf Wien vnd amb
+      <lb facs="#facs_2_r1l2" n="N002"/>sontag widerumb heraus <supplied>reisen</supplied>. Dort hoffe <supplied>ich</supplied> die brüder
       <lb facs="#facs_2_r1l3" n="N003"/>zue sehn. Due mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> 
       <lb facs="#facs_2_r1l4" n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die ich sterben werde
       <lb facs="#facs_2_r1l5" n="N005"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l7" n="N006"/>ganzergebe<supplied >n</supplied>ste tr<supplied >e</supplied>wgehorsa<supplied >m</supplied>ste
-      <lb facs="#facs_2_r1l8" n="N007"/>do<supplied >c</supplied>hter EMT
+      <lb facs="#facs_2_r1l7" n="N006"/>ganzergebe<supplied>n</supplied>ste tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste
+      <lb facs="#facs_2_r1l8" n="N007"/>do<supplied>c</supplied>hter EMT
       <lb facs="#facs_2_r1l6" n="N008"/>Laxenburg den 10ten junij 1683</ab>
   </div>
 </body>

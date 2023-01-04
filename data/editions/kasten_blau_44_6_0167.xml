@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0167.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0167.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1693-12-29"></origDate></origin>
+                        <origin><origDate when-iso="1693-12-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1693-12-29"></date>
+               <date when-iso="1693-12-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1266" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1266px"/>
+    <graphic url="Kasten_blau_44_6_0167.jpg" width="800px" height="1266px"/>
     <zone points="43,46 43,1240 758,1240 758,46" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="98,377 156,363 187,381 243,359 295,386 335,361 419,383 451,364 483,386 746,371 731,311 628,332 517,304 450,327 100,289" rendition="Line" xml:id="facs_1_r1l3"/>
         <zone points="59,436 210,402 355,434 425,437 474,408 547,436 660,431 739,409 740,377 486,389 324,368 295,387 237,361 120,386 61,351" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1256" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1256px"/>
+    <graphic url="Kasten_blau_44_6_0168.jpg" width="800px" height="1256px"/>
     <zone points="45,48 45,1181 775,1181 775,48" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="55,140 206,112 239,134 290,111 390,135 664,125 720,144 752,140 754,99 609,76 346,92 225,76 57,72" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="56,162 89,181 184,161 452,169 539,192 581,174 778,204 780,143 697,133 543,159 345,121 57,140" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -149,29 +145,29 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="108 r" xml:id="Kasten_blau_44_6_0167.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l3" n="N001"/>Durchleuchtiger Cuhrfürst, herzallerlibster herr brueder
       <lb facs="#facs_1_r1l4" n="N002"/>Ich hab dero bede liebste schreiben vom 24ten passato, das eine
       <lb facs="#facs_1_r1l5" n="N003"/>durch den <unclear>B</unclear> Nouelli, das ander durch den <choice><expan>Graf</expan><abbr>Gf</abbr></choice> Hammilton, woll
       <lb facs="#facs_1_r1l6" n="N004"/>empfangen, auch mit der ordinari eins vom 16ten dis,
       <lb facs="#facs_1_r1l7" n="N005"/>worinen dero Liebden mihr solche gutte anwüntschung zue diesen <choice><expan>heiligen</expan><abbr>hh</abbr></choice>
-      <lb facs="#facs_1_r1l8" n="N006"/>weinacht fey<supplied >er</supplied>dagen vndt newen iahr duen wollen, das ich
+      <lb facs="#facs_1_r1l8" n="N006"/>weinacht fey<supplied>er</supplied>dagen vndt newen iahr duen wollen, das ich
       <lb facs="#facs_1_r1l9" n="N007"/>mich nit genuechsam daruohr bedankhen kan. Wüntsche
       <lb facs="#facs_1_r1l10" n="N008"/>dero Liebden hingegen alles, was sie selbsten verlangen mögen
-      <lb facs="#facs_1_r1l11" n="N009"/>mit villen volgenden, <supplied >um</supplied> welches ich den liben gott herzlich
-      <lb facs="#facs_1_r1l12" n="N010"/>bitte. Den Hamilton ist schon einmahl bey mihr gew<supplied >e</supplied>sen
-      <lb facs="#facs_1_r1l13" n="N011"/>vnd <supplied >hat</supplied> mihr eins vndt anders vohrgebracht. Dero Liebden können
-      <lb facs="#facs_1_r1l14" n="N012"/>versichert sein, das was ich werde könen ihnen mit f<supplied >r</supplied>eüden
+      <lb facs="#facs_1_r1l11" n="N009"/>mit villen volgenden, <supplied>um</supplied> welches ich den liben gott herzlich
+      <lb facs="#facs_1_r1l12" n="N010"/>bitte. Den Hamilton ist schon einmahl bey mihr gew<supplied>e</supplied>sen
+      <lb facs="#facs_1_r1l13" n="N011"/>vnd <supplied>hat</supplied> mihr eins vndt anders vohrgebracht. Dero Liebden können
+      <lb facs="#facs_1_r1l14" n="N012"/>versichert sein, das was ich werde könen ihnen mit f<supplied>r</supplied>eüden
       <lb facs="#facs_1_r1l15" n="N013"/>werde suechen zue dero satisfaction zue cooperiren, so vill
       <lb facs="#facs_1_r1l16" n="N014"/>mihr möglich sein wirt. In der andren verdriesligen
       <lb facs="#facs_1_r1l17" n="N015"/>materi werden dero Liebden auch von ihme vernommen haben,
       <lb facs="#facs_1_r1l18" n="N016"/>ich suspendir vndt trainir mit den antworten, bis ich
       <lb facs="#facs_1_r1l19" n="N017"/>dero Liebden entlige sentimens hirüber vernemmen werde.</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="108 v" xml:id="Kasten_blau_44_6_0168.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>Was des Deütschmeister vohrschlach wegen geistlig werdung
       <lb facs="#facs_2_r1l3" n="N002"/>angieng, wer er nit übel, aber man müest ihm bedrohen,
       <lb facs="#facs_2_r1l4" n="N003"/>wan er solte oder aus dem nouitiat oder sonsten aus
@@ -179,21 +175,21 @@
       <lb facs="#facs_2_r1l6" n="N005"/>wurde gesezt werden. Woh dis nit wehr, mein ich, wer
       <lb facs="#facs_2_r1l7" n="N006"/>das beste, das man suechet in Schpanien, Portugall oder
       <lb facs="#facs_2_r1l8" n="N007"/>Polen ihn zue accommodiren mitt eben diser bedroung, wan
-      <lb facs="#facs_2_r1l9" n="N008"/>er dorten solte aus diensten gehn, <supplied >und</supplied> mit der entlaßung bis
-      <lb facs="#facs_2_r1l10" n="N009"/>dahin trainirn, bis man versichert, das er an ein v<supplied >o</supplied>n disen
+      <lb facs="#facs_2_r1l9" n="N008"/>er dorten solte aus diensten gehn, <supplied>und</supplied> mit der entlaßung bis
+      <lb facs="#facs_2_r1l10" n="N009"/>dahin trainirn, bis man versichert, das er an ein v<supplied>o</supplied>n disen
       <lb facs="#facs_2_r1l11" n="N010"/>orten werde accomodirt werden. Were dan in deßen
       <lb facs="#facs_2_r1l12" n="N011"/>einige aparens zue einem nahenden friden, kunte
       <lb facs="#facs_2_r1l13" n="N012"/>mans bis dorthin verschieben mit vermelden, man hette aus
-      <lb facs="#facs_2_r1l14" n="N013"/>polittischen vhrsa<supplied >c</supplied>hen ihne vohr dem friden nit entlaßen
+      <lb facs="#facs_2_r1l14" n="N013"/>polittischen vhrsa<supplied>c</supplied>hen ihne vohr dem friden nit entlaßen
       <lb facs="#facs_2_r1l15" n="N014"/>können. Mit welchem auff wehnigst deils der
       <lb facs="#facs_2_r1l16" n="N015"/>üblen opinion, so aniezo die leütt haben, wurde <unclear>benomen</unclear>
-      <lb facs="#facs_2_r1l17" n="N016"/>werden. Erwart, was ich soll antwo<supplied >r</supplied>ten, damit mihr
+      <lb facs="#facs_2_r1l17" n="N016"/>werden. Erwart, was ich soll antwo<supplied>r</supplied>ten, damit mihr
       <lb facs="#facs_2_r1l18" n="N017"/>d' accordo gehen. Ich sterbe
       <lb facs="#facs_2_r1l19" n="N018"/>dero Liebden
-      <lb facs="#facs_2_r1l21" n="N019"/>getrewste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l21" n="N019"/>getrewste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_line_1644059023935_2701" n="N020"/>Eleonora
       <lb facs="#facs_2_r1l20" n="N021"/>Wien den 29ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1693
-      <lb facs="#facs_2_line_1644059023935_2702" n="N022"/>Den Nouelli werde b<supplied >e</supplied>y ihr Mayestät, mein Keiser,
+      <lb facs="#facs_2_line_1644059023935_2702" n="N022"/>Den Nouelli werde b<supplied>e</supplied>y ihr Mayestät, mein Keiser,
       <lb facs="#facs_2_r1l23" n="N023"/>auch bestens reccomendiren.</ab>
   </div>
 </body>

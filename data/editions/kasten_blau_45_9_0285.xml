@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0285.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0285.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1684-06-12"></origDate></origin>
+                        <origin><origDate when-iso="1684-06-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1684-06-12"></date>
+               <date when-iso="1684-06-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1178" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1178px"/>
+    <graphic url="Kasten_blau_45_9_0285.jpg" width="800px" height="1178px"/>
     <zone points="54,128 54,1150 773,1150 773,128" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="95,196 131,211 202,178 311,198 448,164 735,166 733,112 629,103 468,132 92,115" rendition="Line" xml:id="facs_1_r2l1"/>
         <zone points="98,234 171,225 248,251 411,215 511,247 561,219 765,224 775,157 589,166 560,187 351,173 311,198 202,178 166,206 97,201" rendition="Line" xml:id="facs_1_r2l2"/>
@@ -119,13 +115,13 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="167 r" xml:id="Kasten_blau_45_9_0285.jpg"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r2l2" n="N002"/>Mit der gelegenheit, das die <choice><expan>Grävin</expan><abbr>Gr</abbr></choice> Gabrianin hinauf reiset,
-      <lb facs="#facs_1_r2l3" n="N003"/>sich nachgehns na<supplied >c</supplied>h Düßeldorf zue der <choice><expan>Erzherzogin</expan><abbr>Erzhr</abbr></choice> dienst
+      <lb facs="#facs_1_r2l3" n="N003"/>sich nachgehns na<supplied>c</supplied>h Düßeldorf zue der <choice><expan>Erzherzogin</expan><abbr>Erzhr</abbr></choice> dienst
       <lb facs="#facs_1_r2l4" n="N004"/>zue verfüegen, als hab ich nit vnterlaßen wollen, ewer
       <lb facs="#facs_1_r2l5" n="N005"/>Durchlaucht meiner <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> schuldichkeit noch durch diese zeilen
       <lb facs="#facs_1_line_1637070522021_4635" n="N006"/>zue bedienen vnd dise <choice><expan>Grävin</expan><abbr>Gr</abbr></choice> zue dero gnad zue recomen-
@@ -136,7 +132,7 @@
       <lb facs="#facs_1_r2l12" n="N011"/>hirmit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd werde
       <lb facs="#facs_1_r2l13" n="N012"/>sterben
       <lb facs="#facs_1_r2l14" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_1_r2l15" n="N014"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghors</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r2l15" n="N014"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r2l17" n="N015"/>EMT
       <lb facs="#facs_1_r2l16" n="N016"/>Lins den 12ten junij 1684</ab>
   </div>

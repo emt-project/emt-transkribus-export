@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0275.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0275.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-01-07"></origDate></origin>
+                        <origin><origDate when-iso="1688-01-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Preßburg</placeName>
-               <date  when-iso="1688-01-07"></date>
+               <date when-iso="1688-01-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1253" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1253px"/>
+    <graphic url="Kasten_blau_45_15_0275.jpg" width="800px" height="1253px"/>
     <zone points="25,248 25,1218 760,1218 760,248" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="66,292 218,287 245,307 302,271 350,296 730,288 765,273 766,235 673,250 564,224 429,243 67,214" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="77,331 232,325 284,347 347,326 410,344 515,320 725,339 713,284 643,282 587,308 312,276 176,310 77,257" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,10 +116,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="144 r" xml:id="Kasten_blau_45_15_0275.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht bitte ich <choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice> <unclear>vom</unclear> vergebung, das ich
       <lb facs="#facs_1_r1l3" n="N003"/>mit heüntiger post mein schuldikeit gemes
@@ -137,7 +133,7 @@
       <lb facs="#facs_1_r1l11" n="N011"/>das möge auschlagen zue seiner ehr. Mueß enden
       <lb facs="#facs_1_r1l12" n="N012"/>vnd sterbe
       <lb facs="#facs_1_r1l13" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1643971370417_199" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> d<supplied >oc</supplied>hter
+      <lb facs="#facs_1_line_1643971370417_199" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> d<supplied>oc</supplied>hter
       <lb facs="#facs_1_r1l15" n="N015"/>EMT
       <lb facs="#facs_1_line_1643971370419_200" n="N016"/>Presburg den 7ten <choice><expan>jener</expan><abbr>jen</abbr></choice> 1688</ab>
   </div>

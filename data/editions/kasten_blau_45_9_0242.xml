@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0242.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0242.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1205" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1205px"/>
+    <graphic url="Kasten_blau_45_9_0242.jpg" width="800px" height="1205px"/>
     <zone points="18,0 18,1202 777,1202 777,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="91,189 188,175 226,194 326,156 419,193 481,163 532,181 763,170 778,120 734,135 378,103 92,143" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="43,254 159,250 227,214 493,243 634,226 695,251 769,242 771,178 632,197 567,165 457,208 378,176 300,201 189,176 137,203 44,200" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -126,15 +122,15 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatte<supplied >r</supplied>
+    <pb facs="#facs_1" n="139 r" xml:id="Kasten_blau_45_9_0242.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatte<supplied>r</supplied>
       <lb facs="#facs_1_r1l3" n="N002"/>Ich hab gestren vnterlaßen meine schuldichkeit abzulegen
       <lb facs="#facs_1_r1l4" n="N003"/>in meinung, das meine brüder <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> ender als die
       <lb facs="#facs_1_r1l5" n="N004"/>post wurden hinauf kommen, so valt aber auch 
-      <lb facs="#facs_1_r1l6" n="N005"/>heündt die zeit etwas kurz, in dem mihr zue <supplied >der</supplied>
+      <lb facs="#facs_1_r1l6" n="N005"/>heündt die zeit etwas kurz, in dem mihr zue <supplied>der</supplied>
       <lb facs="#facs_1_r1l7" n="N006"/>Kaiserin in die predich gehen vnd die brüder auch
       <lb facs="#facs_1_r1l8" n="N007"/>abschit nemmen. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr
       <lb facs="#facs_1_r1l9" n="N008"/>dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 11ten dis. Erfreüt mich von
@@ -146,11 +142,11 @@
       <lb facs="#facs_1_r1l15" n="N014"/>so wehr ein große hülf. Mit den venediger ists richtich.
       <lb facs="#facs_1_r1l16" n="N015"/>Ich hör, der Bischof von Strasburg will sterben. Ich mues
       <lb facs="#facs_1_r1l17" n="N016"/>mues wider mein willen schließen. Kan ewer Durchlaucht nit
-      <lb facs="#facs_1_r1l18" n="N017"/>beschreiben, was <supplied >für</supplied> ein lob in allem meine brüeder
+      <lb facs="#facs_1_r1l18" n="N017"/>beschreiben, was <supplied>für</supplied> ein lob in allem meine brüeder
       <lb facs="#facs_1_r1l19" n="N018"/>hier hinterlaßen vnd wie die comedi so schön gewesen.
       <lb facs="#facs_1_r1l20" n="N019"/>Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vndt sterbe
       <lb facs="#facs_1_r1l22" n="N020"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l21" n="N021"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> trew <choice><expan>gehorsamste</expan><abbr>gehors</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l21" n="N021"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> trew <choice><expan>gehorsamste</expan><abbr>gehors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l23" n="N022"/>EMT</ab>
   </div>
 </body>

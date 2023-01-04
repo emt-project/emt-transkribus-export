@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0332.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0332.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1684-09-20"></origDate></origin>
+                        <origin><origDate when-iso="1684-09-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1684-09-20"></date>
+               <date when-iso="1684-09-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1219" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1219px"/>
+    <graphic url="Kasten_blau_45_9_0332.jpg" width="800px" height="1219px"/>
     <zone points="63,202 63,1214 775,1214 775,202" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="135,238 261,262 321,230 450,255 579,228 765,234 763,179 674,214 608,185 370,183 135,225" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="94,294 129,310 163,283 188,297 206,286 262,296 302,280 333,289 436,273 511,283 580,276 648,279 706,280 759,272 738,240 677,242 599,237 545,245 492,251 435,248 374,239 362,247 328,230 267,262 209,247 153,247 124,261 93,247" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1215" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1215px"/>
+    <graphic url="Kasten_blau_45_9_0333.jpg" width="800px" height="1215px"/>
     <zone points="48,77 48,1089 777,1089 777,77" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="62,120 144,112 247,140 299,115 388,143 519,106 638,129 732,115 732,80 694,65 516,47 62,70" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="59,183 289,171 428,191 742,167 742,136 677,125 378,143 304,114 247,138 147,112 59,134" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -147,16 +143,16 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="196 r" xml:id="Kasten_blau_45_9_0332.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstant
       <lb facs="#facs_1_r1l3" n="N003"/>befinden, welches mich über alles erfrewen wirt
       <lb facs="#facs_1_r1l4" n="N004"/>zue vernemmen, vndt das sie einen guetten schpas
       <lb facs="#facs_1_r1l5" n="N005"/>in der Grüenaw gehabt haben. Hier seint ihr
-      <lb facs="#facs_1_r1l6" n="N006"/>Mayestät woll etlich mahl aus, <supplied >haben</supplied> aber nit vill
+      <lb facs="#facs_1_r1l6" n="N006"/>Mayestät woll etlich mahl aus, <supplied>haben</supplied> aber nit vill
       <lb facs="#facs_1_r1l7" n="N007"/>gericht, weil das wilpret vnd die hirsch gahr
       <lb facs="#facs_1_r1l8" n="N008"/>schiech, auch vill wek geschoßen worden vnd was
       <lb facs="#facs_1_r1l9" n="N009"/>übrich blieben, das merist sich über die Donau
@@ -169,8 +165,8 @@
       <lb facs="#facs_1_r1l16" n="N016"/>zue machen, auch die iägerei wohl verstanden, gott
       <lb facs="#facs_1_r1l17" n="N017"/>sei ihm genedig. Von Offen ist dersider niks kommen
       <lb facs="#facs_1_r1l18" n="N018"/>als das noch alles im vohrigen standt, der almechtige</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="196 v" xml:id="Kasten_blau_45_9_0333.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>wolle seyn gnad verleyen, das balt ein guette
       <lb facs="#facs_2_r1l2" n="N002"/>zeitung von dort mögen hören. Der Cuhrfürst ist dort
       <lb facs="#facs_2_r1l3" n="N003"/>ankommen vnd die caualerie wirt izt auch schon
@@ -179,14 +175,14 @@
       <lb facs="#facs_2_r1l6" n="N006"/>montag wilsgott habens mihr erlaubt herführ
       <lb facs="#facs_2_r1l7" n="N007"/>zu gehn, dan werde mit dem Schellerer vnd
       <lb facs="#facs_2_r1l8" n="N008"/>Gall wegen meines brudren reden. Dem Strattman
-      <lb facs="#facs_2_r1l9" n="N009"/>ist zwar das fieber ausblieben, aber dise dag <supplied >hat er</supplied>
+      <lb facs="#facs_2_r1l9" n="N009"/>ist zwar das fieber ausblieben, aber dise dag <supplied>hat er</supplied>
       <lb facs="#facs_2_r1l10" n="N010"/>wider ein anstoß gehabt, ist izt nit gutt, das
       <lb facs="#facs_2_r1l11" n="N011"/>er krankh, dan der Bischoff auch nit kan herein kommen,
       <lb facs="#facs_2_r1l12" n="N012"/>so bleiben vill sachen steken. Der Kinisekh hatt
       <lb facs="#facs_2_r1l13" n="N013"/>auch die quartana, hier gehn die fieber starkh
       <lb facs="#facs_2_r1l14" n="N014"/>herumb. Gott geb sein gnad vnd erhalte
       <lb facs="#facs_2_r1l15" n="N015"/>ewer Durchlaucht bede gesunt, so wer ich glükhsehlich sein,
-      <lb facs="#facs_2_r1l16" n="N016"/>als die ich ste<supplied >r</supplied>ben werde
+      <lb facs="#facs_2_r1l16" n="N016"/>als die ich ste<supplied>r</supplied>ben werde
       <lb facs="#facs_2_r1l17" n="N017"/>ewer Durchlaucht
       <lb facs="#facs_2_r1l18" n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> trewgehorsamste
       <lb facs="#facs_2_line_1637071514723_5290" n="N019"/>dochter

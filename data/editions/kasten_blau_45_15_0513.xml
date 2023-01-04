@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0513.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0513.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1179" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1179px"/>
+    <graphic url="Kasten_blau_45_15_0513.jpg" width="800px" height="1179px"/>
     <zone points="51,456 51,1139 763,1139 763,456" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="171,509 299,524 482,500 575,518 675,489 758,496 758,462 680,436 592,461 519,439 469,465 338,425 171,475" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="91,593 234,560 370,583 431,566 565,580 686,551 737,566 736,513 629,531 559,513 532,532 444,513 364,538 90,495" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -112,7 +108,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1176" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1176px"/>
+    <graphic url="Kasten_blau_45_15_0514.jpg" width="800px" height="1176px"/>
     <zone points="81,186 81,608 797,608 797,186" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="104,278 200,238 241,261 320,237 406,271 447,235 500,262 570,226 719,226 707,175 588,193 523,165 439,189 215,161 164,185 100,161" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="90,313 150,332 220,306 339,322 467,281 679,301 714,276 748,283 747,258 580,238 460,274 168,246 129,281 88,271" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -126,28 +122,28 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="288 r" xml:id="Kasten_blau_45_15_0513.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>In herzuenahung dero glüksehligsten geburzdag hab ich
       <lb facs="#facs_1_r1l3" n="N003"/>meine schuldichkeit nit vnterlaßen wollen, ewer Durchlaucht
-      <lb facs="#facs_1_r1l4" n="N004"/>deren vnzahlbare volgende mit me<supplied >i</supplied>ster gesundtheit
+      <lb facs="#facs_1_r1l4" n="N004"/>deren vnzahlbare volgende mit me<supplied>i</supplied>ster gesundtheit
       <lb facs="#facs_1_r1l5" n="N005"/>vnd allen erdenkligen glükhsehlichkeiten erleben zue
       <lb facs="#facs_1_r1l6" n="N006"/>laßen, aus kintligstem herzen anzuewüntschen. Der allerhöchste
       <lb facs="#facs_1_r1l7" n="N007"/>wolle solichen mein inikligen wuntsch durch seine vnend-
-      <lb facs="#facs_1_r1l8" n="N008"/>lige güette erfülle<supplied >n</supplied> vnd ewer Durchlaucht vill mahl so
+      <lb facs="#facs_1_r1l8" n="N008"/>lige güette erfülle<supplied>n</supplied> vnd ewer Durchlaucht vill mahl so
       <lb facs="#facs_1_r1l9" n="N009"/>ville freüde vnd gesuntheit, als sie diße zeit
       <lb facs="#facs_1_r1l10" n="N010"/>hero vnlusten vnd vnpeßlichkeit ausgestanden,</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="288 v" xml:id="Kasten_blau_45_15_0514.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>ins könftige erleben laßen, warauf ich
       <lb facs="#facs_2_r1l2" n="N002"/>kreftig vertrawen due vnd mich anbey in
       <lb facs="#facs_2_r1l3" n="N003"/>ewer Durchlaucht beharlige <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfele, die
-      <lb facs="#facs_2_r1l4" n="N004"/>ich ste<supplied >r</supplied>ben werde
+      <lb facs="#facs_2_r1l4" n="N004"/>ich ste<supplied>r</supplied>ben werde
       <lb facs="#facs_2_r1l5" n="N005"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l7" n="N007"/>EMT</ab>
   </div>
 </body>

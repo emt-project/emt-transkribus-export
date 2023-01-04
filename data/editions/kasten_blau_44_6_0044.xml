@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_6_0044.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0044.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-12-15"></origDate></origin>
+                        <origin><origDate when-iso="1689-12-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Augsburg</placeName>
-               <date  when-iso="1689-12-15"></date>
+               <date when-iso="1689-12-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1234" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1234px"/>
+    <graphic url="Kasten_blau_44_6_0044.jpg" width="800px" height="1234px"/>
     <zone points="21,304 21,1202 768,1202 768,304" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="104,338 205,340 245,362 286,330 450,363 495,342 536,362 588,336 726,347 738,284 617,306 556,284 298,284 251,261 105,254" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="52,416 92,391 274,375 352,411 435,380 527,409 638,385 695,407 759,391 760,344 660,337 587,365 491,344 435,367 352,330 285,332 248,362 200,339 53,339" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -120,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1206" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1206px"/>
+    <graphic url="Kasten_blau_44_6_0045.jpg" width="800px" height="1206px"/>
     <zone points="40,67 40,1146 740,1146 740,67" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="37,109 745,101 749,51 37,53" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="38,177 200,142 267,172 309,152 394,168 500,133 730,163 722,101 38,120" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -144,12 +140,12 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="31 r" xml:id="Kasten_blau_44_6_0044.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich hab dero l<supplied >i</supplied>ebstes schreiben vom 7ten dis woll em-
+      <lb facs="#facs_1_r1l2" n="N002"/>Ich hab dero l<supplied>i</supplied>ebstes schreiben vom 7ten dis woll em-
       <lb facs="#facs_1_r1l3" n="N003"/>pfangen vnd daraws mit freüden ersehn dero Liebden guetten
       <lb facs="#facs_1_r1l4" n="N004"/>wohlstandt wie auch, das der Deütschmeister <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> woll
       <lb facs="#facs_1_r1l5" n="N005"/>bey deroselben angelangt. Ist mihr aber leidt, das
@@ -166,25 +162,25 @@
       <lb facs="#facs_1_r1l16" n="N016"/>ist hier entlich einmahl die proposition gewest,
       <lb facs="#facs_1_r1l17" n="N017"/>heündt seindt die Cuhrfürsten das erstemahl beysammen
       <lb facs="#facs_1_r1l18" n="N018"/>geweßen, gott geb, das balt ein glükhliges endt</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="31 v" xml:id="Kasten_blau_44_6_0045.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>darauf möge erfolgen. Seint gottlob hie alle woll
-      <lb facs="#facs_2_r1l2" n="N002"/>auf, ihr Durchlaucht, v<supplied >n</supplied>ser <choice><expan>gnädiger</expan><abbr>g</abbr></choice> <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vatter</expan><abbr>v</abbr></choice>, haben noch ein cattar. Ich bin
+      <lb facs="#facs_2_r1l2" n="N002"/>auf, ihr Durchlaucht, v<supplied>n</supplied>ser <choice><expan>gnädiger</expan><abbr>g</abbr></choice> <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vatter</expan><abbr>v</abbr></choice>, haben noch ein cattar. Ich bin
       <lb facs="#facs_2_r1l4" n="N003"/>auch etlich dag im zimer <add>vnd bett</add> bliben, weil mein
       <lb facs="#facs_2_r1l5" n="N004"/>Keiser die stig herunter gefallen, hatt ihm aber
       <lb facs="#facs_2_r1l6" n="N005"/>gottlob niks dahn, ich bin auch woll auf.
-      <lb facs="#facs_2_r1l7" n="N006"/>Due mich in dero affection bef<supplied >e</supplied>hlen vnd
-      <lb facs="#facs_2_r1l8" n="N007"/>werde st<supplied >e</supplied>rben
+      <lb facs="#facs_2_r1l7" n="N006"/>Due mich in dero affection bef<supplied>e</supplied>hlen vnd
+      <lb facs="#facs_2_r1l8" n="N007"/>werde st<supplied>e</supplied>rben
       <lb facs="#facs_2_r1l9" n="N008"/>dero Liebden
-      <lb facs="#facs_2_r1l11" n="N009"/>getreweste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l11" n="N009"/>getreweste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l12" n="N010"/>Eleonora
       <lb facs="#facs_2_r1l10" n="N011"/>Augschpurg den 15ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1689
-      <lb facs="#facs_2_r1l13" n="N012"/>Hierb<supplied >e</supplied>y überschik dero Liebden brif an Deütschmeister vnd
+      <lb facs="#facs_2_r1l13" n="N012"/>Hierb<supplied>e</supplied>y überschik dero Liebden brif an Deütschmeister vnd
       <lb facs="#facs_2_r1l14" n="N013"/>Bishoff, ich weis nit, woh sie seint, dero Liebden wollens
       <lb facs="#facs_2_r1l15" n="N014"/>zue recht bestellen, sie sein woh sie wollen. Auch
       <lb facs="#facs_2_r1l16" n="N015"/><unclear>p</unclear> Wißenhoffen, solten die Königin vnd Deütschmeister
       <lb facs="#facs_2_r1l17" n="N016"/>schon abgefahren sein. Wollen dero Liebden die brif über den
-      <lb facs="#facs_2_r1l18" n="N017"/>Hag in Schpanien schiken, <supplied >dann</supplied> auch des Mansfelt seinen.</ab>
+      <lb facs="#facs_2_r1l18" n="N017"/>Hag in Schpanien schiken, <supplied>dann</supplied> auch des Mansfelt seinen.</ab>
   </div>
 </body>
 

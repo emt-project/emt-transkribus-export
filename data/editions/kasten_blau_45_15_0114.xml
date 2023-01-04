@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0114.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0114.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1180" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1180px"/>
+    <graphic url="Kasten_blau_45_15_0114.jpg" width="800px" height="1180px"/>
     <zone points="67,95 67,1130 786,1130 786,95" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="105,232 258,256 355,222 381,237 672,222 671,185 561,166 490,181 266,157 202,184 104,181" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="98,311 294,274 753,273 752,218 635,236 535,226 483,246 334,224 258,256 96,221" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -116,17 +112,17 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Cu<supplied >hr</supplied>fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l3" n="N002"/>Ich hab nit v<supplied >n</supplied>terlaßen wollen, mit der gelegenheit
+    <pb facs="#facs_1" n="42 r2" xml:id="Kasten_blau_45_15_0114.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Cu<supplied>hr</supplied>fürst, herzallerliebster herr vatter
+      <lb facs="#facs_1_r1l3" n="N002"/>Ich hab nit v<supplied>n</supplied>terlaßen wollen, mit der gelegenheit
       <lb facs="#facs_1_r1l4" n="N003"/>des <choice><expan>Graven</expan><abbr>Gr</abbr></choice> Cauniz ewer Durchlaucht mit dißen <choice><expan>vnterdehnigsten</expan><abbr>vn</abbr></choice> zeilen zue
       <lb facs="#facs_1_r1l5" n="N004"/>bedienen, verhoffendt, es werden sich ewer Durchlaucht in guttem
       <lb facs="#facs_1_r1l6" n="N005"/>wohlstandt befinden. Weil ich aber glaube, das diser
       <lb facs="#facs_1_r1l7" n="N006"/>brif nit zum geschwindisten kommen wirt, als werd ich
-      <lb facs="#facs_1_r1l8" n="N007"/>mit der post mit mehren meine <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> schuld<supplied >i</supplied>chk<supplied >e</supplied>it
+      <lb facs="#facs_1_r1l8" n="N007"/>mit der post mit mehren meine <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> schuld<supplied>i</supplied>chk<supplied>e</supplied>it
       <lb facs="#facs_1_r1l9" n="N008"/>beobachten. Der Cauniz wirt ewer Durchlaucht meine <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> deuotion
       <lb facs="#facs_1_r1l10" n="N009"/>contestirn vnd das ich sterben werde
       <lb facs="#facs_1_r1l11" n="N010"/>ewer Durchlaucht

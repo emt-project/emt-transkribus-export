@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2b_0011.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2b_0011.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-05-21"></origDate></origin>
+                        <origin><origDate when-iso="1688-05-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#">Friedrichsburg</placeName>
-               <date  when-iso="1688-05-21"></date>
+               <date when-iso="1688-05-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1282" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1282px"/>
+    <graphic url="Kasten_blau_44_2b_0011.jpg" width="800px" height="1282px"/>
     <zone points="42,53 42,1239 340,1239 340,53" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="81,110 94,113 131,87 158,105 194,88 246,104 273,87 328,101 324,28 299,23 273,42 252,34 231,47 205,28 145,62 120,51 78,59" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="145,915 170,906 183,915 204,903 243,918 281,898 295,903 308,898 335,913 346,910 344,867 314,861 295,870 226,868 206,860 186,864 144,890" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -151,10 +147,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2b_0011.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>ihre a die usein 
       <lb facs="#facs_1_r1l2" n="N002"/>aleulidhstendt lbren
       <lb facs="#facs_1_r1l3" n="N003"/>seint
@@ -164,7 +160,7 @@
       <lb facs="#facs_1_r1l7" n="N007"/>seines zuendchter
       <lb facs="#facs_1_r1l8" n="N008"/>M
       <lb facs="#facs_1_r1l9" n="N009"/> </ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>allerduachlrgtigeste sendt zusungtigste
       <lb facs="#facs_1_r2l2" n="N002"/>freisehe ehugsagen alargeder frwen vondt heite
       <lb facs="#facs_1_r2l3" n="N003"/>alleliebsten sein dohter

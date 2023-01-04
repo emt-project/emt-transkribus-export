@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0184.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0184.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1683-09-20"></origDate></origin>
+                        <origin><origDate when-iso="1683-09-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1683-09-20"></date>
+               <date when-iso="1683-09-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1242" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1242px"/>
+    <graphic url="Kasten_blau_45_9_0184.jpg" width="800px" height="1242px"/>
     <zone points="70,219 70,1200 783,1200 783,219" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="99,279 182,257 265,292 314,264 333,279 546,248 771,252 770,212 664,195 497,191 420,213 378,195 337,213 142,179 98,197" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="107,321 376,299 778,307 776,262 744,254 709,269 553,251 511,273 458,251 379,280 313,264 266,292 182,257 106,281" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1236" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1236px"/>
+    <graphic url="Kasten_blau_45_9_0185.jpg" width="800px" height="1236px"/>
     <zone points="30,202 30,1105 784,1105 784,202" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="82,260 140,231 177,251 345,223 418,269 745,261 762,198 683,202 644,178 247,200 83,177" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="80,300 127,294 195,310 235,290 278,299 303,287 324,302 363,305 362,248 346,244 270,266 231,240 132,241 79,260" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -140,11 +136,11 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtig<supplied >e</supplied>r Fürst, herz allerliebster herr vatter
+    <pb facs="#facs_1" n="105 r" xml:id="Kasten_blau_45_9_0184.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtig<supplied>e</supplied>r Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Weil mein bruder Franz <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> widerumb zue ewer Durchlaucht
       <lb facs="#facs_1_r1l3" n="N003"/>reyset, hab ich nit vnterlaßen wollen, mich durch
       <lb facs="#facs_1_r1l4" n="N004"/>dise zeilen in ewer Durchlaucht <choice><expan>gnaden</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue befehlen,
@@ -159,13 +155,13 @@
       <lb facs="#facs_1_r1l13" n="N013"/>nit versaumet werde. Vermeine nit, das vonöten
       <lb facs="#facs_1_r1l14" n="N014"/>sein wirt, das mein <choice><expan>bruder</expan><abbr>brud</abbr></choice> selber hin geh,
       <lb facs="#facs_1_line_1638182313599_38" n="N015"/>doch steht alles in ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> belieben. Damit
-      <lb facs="#facs_1_r1l17" n="N016"/>ich kein fils bekom, das zue vill schreiben <supplied >due</supplied>,</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l17" n="N016"/>ich kein fils bekom, das zue vill schreiben <supplied>due</supplied>,</ab>
+    <pb facs="#facs_2" n="105 v" xml:id="Kasten_blau_45_9_0185.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>due ich mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen,
       <lb facs="#facs_2_r1l2" n="N002"/>die ich sterben werde
       <lb facs="#facs_2_r1l3" n="N003"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l5" n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> tr<supplied >e</supplied>wgehorsa<supplied >m</supplied>ste dochter
+      <lb facs="#facs_2_r1l5" n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste dochter
       <lb facs="#facs_2_r1l6" n="N005"/>EMT
       <lb facs="#facs_2_r1l4" n="N006"/>Lins den 20ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1683
       <lb facs="#facs_2_r1l7" n="N007"/>Die Palfin vnd Hamilton schreiben mihr, das sie so vill

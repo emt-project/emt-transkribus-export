@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0575.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0575.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-01-22"></origDate></origin>
+                        <origin><origDate when-iso="1689-01-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__39">Neuburg</placeName>
-               <date  when-iso="1689-01-22"></date>
+               <date when-iso="1689-01-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1308" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1308px"/>
+    <graphic url="Kasten_blau_45_15_0575.jpg" width="800px" height="1308px"/>
     <zone points="66,101 66,998 316,998 316,101" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="61,152 100,136 125,147 136,139 154,145 167,132 210,132 222,142 238,130 272,143 312,139 310,78 241,87 206,69 158,89 106,71 98,80 59,84" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="76,195 120,182 161,188 173,181 192,196 235,171 269,183 299,171 298,142 258,138 235,150 210,132 195,131 167,132 150,147 137,139 125,147 116,139 91,152 74,150" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -149,7 +145,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1305" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1305px"/>
+    <graphic url="Kasten_blau_45_15_0576.jpg" width="800px" height="1305px"/>
     <zone points="104,130 104,1199 358,1199 358,130" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="228,176 247,180 254,171 260,175 273,172 279,174 289,168 296,173 302,172 295,112 283,112 277,107 273,112 265,113 252,109 246,117 242,114 233,122 222,125" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="199,298 220,309 249,291 276,307 286,303 291,308 307,309 324,298 341,303 357,298 355,248 310,249 287,262 264,264 226,238 220,244 211,238 197,240" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -201,7 +197,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1356" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1356px"/>
+    <graphic url="Kasten_blau_45_15_0577.jpg" width="800px" height="1356px"/>
     <zone points="36,272 36,1290 345,1290 345,272" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="184,314 202,305 236,320 260,307 277,308 309,294 305,255 299,254 288,260 278,255 259,258 253,266 244,267 226,256 219,260 205,256 181,275" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="197,372 210,370 240,377 255,373 277,379 282,373 311,366 322,355 333,355 330,329 309,329 298,339 280,337 243,317 228,331 193,337" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -260,10 +256,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="14 r" xml:id="Kasten_blau_45_15_0575.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>ihe i Ma din
       <lb facs="#facs_1_r1l2" n="N002"/>v ohiai 
       <lb facs="#facs_1_r1l3" n="N003"/> ma
@@ -275,9 +271,9 @@
       <lb facs="#facs_1_r1l9" n="N009"/>mi
       <lb facs="#facs_1_r1l10" n="N010"/>  jun
       <lb facs="#facs_1_r1l11" n="N011"/>da</ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>Ee</ab>
-    <ab facs="#facs_1_r3" >
+    <ab facs="#facs_1_r3">
       <lb facs="#facs_1_r3l1" n="N001"/>alledurchlechtigste 
       <lb facs="#facs_1_r3l2" n="N002"/>M
       <lb facs="#facs_1_r3l3" n="N003"/>damt be de khi Mm nit aden
@@ -309,8 +305,8 @@
       <lb facs="#facs_1_r3l29" n="N029"/>stardteg daß ib mines herti allarirbsten
       <lb facs="#facs_1_r3l30" n="N030"/>khas dong ir ma in tangur
       <lb facs="#facs_1_r3l31" n="N031"/>he</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="14 v" xml:id="Kasten_blau_45_15_0576.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>E
       <lb facs="#facs_2_r1l2" n="N002"/>sain dero grsfen
       <lb facs="#facs_2_r1l3" n="N003"/>mn dasralaro
@@ -324,7 +320,7 @@
       <lb facs="#facs_2_r1l11" n="N011"/>
       <lb facs="#facs_2_r1l12" n="N012"/> taromllich
       <lb facs="#facs_2_r1l13" n="N013"/>endmah</ab>
-    <ab facs="#facs_2_r2" >
+    <ab facs="#facs_2_r2">
       <lb facs="#facs_2_r2l1" n="N001"/>crialleren vendt hensouagendtes
       <lb facs="#facs_2_r2l2" n="N002"/>dnhhen nit slbsten eit ansehren vndt selches
       <lb facs="#facs_2_r2l3" n="N003"/>gleückher sendt grwse fonde min andrn
@@ -357,8 +353,8 @@
       <lb facs="#facs_2_r2l30" n="N030"/>sndt vocati bemesten man tarn
       <lb facs="#facs_2_r2l31" n="N031"/>sorstin luff den and fahl hingagen
       <lb facs="#facs_2_r2l32" n="N032"/>bitte r Matä trdth trab die gandt</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="15 r" xml:id="Kasten_blau_45_15_0577.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>duishendt
       <lb facs="#facs_3_r1l2" n="N002"/>bederrge
       <lb facs="#facs_3_r1l3" n="N003"/>prm iero magli
@@ -374,7 +370,7 @@
       <lb facs="#facs_3_r1l13" n="N013"/>E
       <lb facs="#facs_3_r1l14" n="N014"/>
       <lb facs="#facs_3_r1l15" n="N015"/>e</ab>
-    <ab facs="#facs_3_r2" >
+    <ab facs="#facs_3_r2">
       <lb facs="#facs_3_r2l1" n="N001"/>das sor selbsten mii list moinar oidliai
       <lb facs="#facs_3_r2l2" n="N002"/>genidten porsahnn allerigen brliaben olle
       <lb facs="#facs_3_r2l3" n="N003"/>dan mi von heen ndt sein annito van möich

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0488.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0488.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1205" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1205px"/>
+    <graphic url="Kasten_blau_44_7_0488.jpg" width="800px" height="1205px"/>
     <zone points="13,0 13,1136 749,1136 749,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="36,88 124,85 132,91 154,79 246,96 246,40 199,31 174,47 155,31 139,38 125,30 93,52 36,40" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="91,380 382,410 445,387 528,405 721,396 754,383 754,358 651,338 584,356 554,331 466,363 268,292 91,362" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -117,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1261" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1261px"/>
+    <graphic url="Kasten_blau_44_7_0489.jpg" width="800px" height="1261px"/>
     <zone points="24,134 24,1252 755,1252 755,134" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="76,184 131,177 160,198 195,180 225,204 340,169 456,196 585,166 721,179 730,112 520,114 404,148 233,107 169,143 137,128 108,154 75,144" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="79,248 153,237 188,267 263,232 463,271 604,228 704,254 756,234 756,190 698,182 510,184 461,208 417,177 301,214 235,212 194,180 164,204 79,186" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -132,33 +128,33 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="270 r" xml:id="Kasten_blau_44_7_0488.jpg" ed="57 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/><unclear>20 julij 1698</unclear>
-      <lb facs="#facs_1_r1l4" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l4" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l5" n="N003"/>Hoff, dero Liebden werden dero reis glükhlich vortsezen,
-      <lb facs="#facs_1_r1l6" n="N004"/>welches mich hochst erfrewen wi<supplied >r</supplied>t zu vernemen,
+      <lb facs="#facs_1_r1l6" n="N004"/>welches mich hochst erfrewen wi<supplied>r</supplied>t zu vernemen,
       <lb facs="#facs_1_r1l7" n="N005"/>in sonderheit, weil ich die hoffnung hab,
       <lb facs="#facs_1_r1l8" n="N006"/>dero Liebden balt wider zue sehen. Vntersteh mich, mein
       <lb facs="#facs_1_r1l9" n="N007"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin einzuladen, die zeit aber, weil man
       <lb facs="#facs_1_r1l10" n="N008"/>von der prager reis reden duet, kan so nit de-
-      <lb facs="#facs_1_r1l11" n="N009"/>termini<supplied >r</supplied>t werden, bis dise reis stabilirt oder
-      <lb facs="#facs_1_r1l12" n="N010"/>eingestelt wirt, welches na<supplied >c</supplied>h oste<supplied >r</supplied>n geschen
+      <lb facs="#facs_1_r1l11" n="N009"/>termini<supplied>r</supplied>t werden, bis dise reis stabilirt oder
+      <lb facs="#facs_1_r1l12" n="N010"/>eingestelt wirt, welches na<supplied>c</supplied>h oste<supplied>r</supplied>n geschen
       <lb facs="#facs_1_r1l13" n="N011"/>solle. Überschikh hirmit die vhrs, gehört ihr
       <lb facs="#facs_1_r1l14" n="N012"/>Durchlaucht, vnser <choice><expan>geliebsten</expan><abbr>g</abbr></choice> mama, habs richten laßen, hoff,
-      <lb facs="#facs_1_r1l15" n="N013"/><supplied >sie</supplied> soll iezt gutt gehn. Der <choice><expan>Pater</expan><abbr>P</abbr></choice> Jacob ist sehr
-      <lb facs="#facs_1_r1l16" n="N014"/>übel zu friden mit der ausfert<supplied >i</supplied>gung vohr
-      <lb facs="#facs_1_r1l17" n="N015"/>die Königin, <unclear>wis</unclear> dero Liebden aus beyl<supplied >i</supplied>genden sehn werden.</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l15" n="N013"/><supplied>sie</supplied> soll iezt gutt gehn. Der <choice><expan>Pater</expan><abbr>P</abbr></choice> Jacob ist sehr
+      <lb facs="#facs_1_r1l16" n="N014"/>übel zu friden mit der ausfert<supplied>i</supplied>gung vohr
+      <lb facs="#facs_1_r1l17" n="N015"/>die Königin, <unclear>wis</unclear> dero Liebden aus beyl<supplied>i</supplied>genden sehn werden.</ab>
+    <pb facs="#facs_2" n="270 v" xml:id="Kasten_blau_44_7_0489.jpg" ed="57 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Will schawen mit dem Schellerer, wie die
-      <lb facs="#facs_2_r1l2" n="N002"/>sa<supplied >c</supplied>h kön eingericht werden, das er zue friden
-      <lb facs="#facs_2_r1l3" n="N003"/>vndt mihr gleichwoll sicher seindt. Due mi<supplied >c</supplied>h
-      <lb facs="#facs_2_r1l4" n="N004"/>dero Liebden b<supplied >e</supplied>f<supplied >e</supplied>hlen vndt werde st<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l2" n="N002"/>sa<supplied>c</supplied>h kön eingericht werden, das er zue friden
+      <lb facs="#facs_2_r1l3" n="N003"/>vndt mihr gleichwoll sicher seindt. Due mi<supplied>c</supplied>h
+      <lb facs="#facs_2_r1l4" n="N004"/>dero Liebden b<supplied>e</supplied>f<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_r1l5" n="N005"/>dero Liebden
-      <lb facs="#facs_2_line_1650376029498_43" n="N006"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_line_1650376029498_43" n="N006"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l8" n="N007"/>Eleonora
       <lb facs="#facs_2_line_1650376029498_44" n="N008"/>Wien den 20ten <unclear>??</unclear> 1698</ab>
   </div>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0106.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0106.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-11-06"></origDate></origin>
+                        <origin><origDate when-iso="1686-11-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -83,22 +79,22 @@
             <correspAction type="sent">
                <persName ref="#">Ferdinand August von Lobkowitz, Fürst von Sagan,</persName>
                <placeName ref="#">Sagan / Żagań</placeName>
-               <date  when-iso="1686-11-06"></date>
+               <date when-iso="1686-11-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1180" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1180px"/>
+    <graphic url="Kasten_blau_45_15_0106.jpg" width="800px" height="1180px"/>
     <zone points="35,11 35,985 779,985 779,11" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="39,36 56,36 59,33 65,36 71,33 100,50 122,36 129,36 129,-1 113,1 39,-3" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="94,154 123,138 247,157 288,132 345,151 406,128 446,142 481,133 481,103 463,92 434,86 400,100 357,73 293,87 195,66 155,95 95,78" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -126,7 +122,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1188" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1188px"/>
+    <graphic url="Kasten_blau_45_15_0107.jpg" width="800px" height="1188px"/>
     <zone points="33,172 33,1127 777,1127 777,172" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="127,201 757,206 757,151 473,185 431,163 245,161 193,140 127,158" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="127,234 257,237 287,260 347,236 537,239 607,263 678,243 717,270 771,244 772,210 267,200 128,219" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -154,10 +150,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="67 r" xml:id="Kasten_blau_45_15_0106.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>EM
       <lb facs="#facs_1_r1l2" n="N002"/> uchüchtestnd hrfürter
       <lb facs="#facs_1_r1l3" n="N003"/>sohnd ist s wituftwer deshrribung delant das meiners
@@ -181,8 +177,8 @@
       <lb facs="#facs_1_r1l22" n="N021"/>dere einer capectant nif gedachter cluuge ausd
       <lb facs="#facs_1_r1l23" n="N022"/>zi büenkisent vndeno nng lnse meiner dapolle verl
       <lb facs="#facs_1_r1l24" n="N023"/>mhner eli z hoffun gotten brfeiner sie mit einernes</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="67 v" xml:id="Kasten_blau_45_15_0107.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>andiren inerestiien an meiger allerwudigster traw
       <lb facs="#facs_2_r1l2" n="N002"/>von so muad escomrepinet würdern bues auch bede nzeith
       <lb facs="#facs_2_r1l3" n="N003"/>sise wewsder anadu vos demas delben gewes mich erstenhorten

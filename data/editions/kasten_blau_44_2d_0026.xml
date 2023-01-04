@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0026.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0026.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1251" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1251px"/>
+    <graphic url="Kasten_blau_44_2d_0026.jpg" width="800px" height="1251px"/>
     <zone points="75,224 75,913 758,913 758,224" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="140,257 218,258 246,285 304,257 362,277 544,252 630,281 689,253 761,265 761,204 608,221 510,200 381,224 297,202 223,224 140,194" rendition="Line" xml:id="facs_1_r2l1"/>
         <zone points="92,301 144,319 188,298 302,301 344,330 378,301 434,327 504,304 548,327 604,305 720,305 720,259 630,281 511,255 384,280 92,246" rendition="Line" xml:id="facs_1_r2l2"/>
@@ -116,10 +112,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0026.jpg"/>
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r2l2" n="N002"/>Weil der <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Dehring mich gebetten, ihn in seiner
       <lb facs="#facs_1_r2l3" n="N003"/>hinuntereis mit ein recomendation zue begleiten, so hab
@@ -128,9 +124,9 @@
       <lb facs="#facs_1_r2l6" n="N006"/>dero Liebden assistens vonöten wurde haben, wolle ihn
       <lb facs="#facs_1_r2l7" n="N007"/>dero Liebden <unclear>ge</unclear> an die handt stehen. Ich hoff, dero Liebden wer
       <lb facs="#facs_1_r2l8" n="N008"/>wohl auf sein, due mich in dero Liebden affection
-      <lb facs="#facs_1_r2l9" n="N009"/>bef<supplied >e</supplied>hlen, sterbe
+      <lb facs="#facs_1_r2l9" n="N009"/>bef<supplied>e</supplied>hlen, sterbe
       <lb facs="#facs_1_r2l10" n="N010"/>dero Liebden
-      <lb facs="#facs_1_r2l11" n="N011"/>getrewste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r2l11" n="N011"/>getrewste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r2l12" n="N012"/>EMT</ab>
   </div>
 </body>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0895.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0895.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-06-28"></origDate></origin>
+                        <origin><origDate when-iso="1690-06-28"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1690-06-28"></date>
+               <date when-iso="1690-06-28"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1235" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1235px"/>
+    <graphic url="Kasten_blau_45_15_0895.jpg" width="800px" height="1235px"/>
     <zone points="25,438 25,1201 756,1201 756,438" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="75,487 185,510 263,481 301,500 437,474 555,494 743,466 741,404 601,431 520,399 323,422 73,387" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="52,549 344,544 400,575 494,542 548,562 617,539 722,546 722,498 630,482 589,506 528,485 474,501 443,484 307,506 264,480 217,507 140,484 52,507" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,10 +115,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="208 r" xml:id="Kasten_blau_45_15_0895.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Mit was vohr vnauschprechligen freüden ich
       <lb facs="#facs_1_r1l3" n="N003"/>mit dißen <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> zeilen den <choice><expan>Graven</expan><abbr>Gr</abbr></choice> von Wallenstein
@@ -131,11 +127,11 @@
       <lb facs="#facs_1_r1l6" n="N006"/>sondern auch schon in disen landen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> bedienen werde
       <lb facs="#facs_1_r1l7" n="N007"/>vnd ich also auch balt mitt ewer Durchlaucht so
       <lb facs="#facs_1_r1l8" n="N008"/>hochst verlangten gegenwart erfreüdt werden.
-      <lb facs="#facs_1_r1l9" n="N009"/>Hoffe, ewer Durchlaucht werden bis dahto dero reis glükhli<supplied >c</supplied>h
-      <lb facs="#facs_1_r1l10" n="N010"/>volbra<supplied >c</supplied>ht haben. Mich anbey in dero vetterlige <choice><expan>gnade</expan><abbr>g</abbr></choice>
+      <lb facs="#facs_1_r1l9" n="N009"/>Hoffe, ewer Durchlaucht werden bis dahto dero reis glükhli<supplied>c</supplied>h
+      <lb facs="#facs_1_r1l10" n="N010"/>volbra<supplied>c</supplied>ht haben. Mich anbey in dero vetterlige <choice><expan>gnade</expan><abbr>g</abbr></choice>
       <lb facs="#facs_1_r1l11" n="N011"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfelendt sterbe
       <lb facs="#facs_1_line_1654603826243_544" n="N012"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1652958035258_260" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied >e</supplied>wg<supplied >e</supplied>horsamste do<supplied >c</supplied>ht<supplied >er</supplied>
+      <lb facs="#facs_1_line_1652958035258_260" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wg<supplied>e</supplied>horsamste do<supplied>c</supplied>ht<supplied>er</supplied>
       <lb facs="#facs_1_r1l13" n="N014"/>Eleonora
       <lb facs="#facs_1_r1l14" n="N015"/>Wien den 28ten junij 1690 </ab>
   </div>

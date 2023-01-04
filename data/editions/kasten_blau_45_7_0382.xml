@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_7_0382.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_7_0382.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1706-05-29"></origDate></origin>
+                        <origin><origDate when-iso="1706-05-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1706-05-29"></date>
+               <date when-iso="1706-05-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1227" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1227px"/>
+    <graphic url="Kasten_blau_45_7_0382.jpg" width="800px" height="1227px"/>
     <zone points="54,338 54,1152 732,1152 732,338" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="85,384 371,398 473,370 551,394 586,367 657,358 657,302 613,289 541,309 372,295 329,313 135,309 85,286" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="66,429 251,455 326,426 499,459 527,439 724,423 714,382 346,410 232,384 211,403 128,398 66,364" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1228" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1228px"/>
+    <graphic url="Kasten_blau_45_7_0383.jpg" width="800px" height="1228px"/>
     <zone points="37,70 37,782 768,782 768,70" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="36,105 505,89 532,114 773,119 773,67 748,61 416,80 156,45 115,69 36,59" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="36,142 125,174 369,128 746,154 746,117 646,104 546,120 508,98 452,115 217,95 36,115" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -138,7 +134,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="1702" lry="2630" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="1702px" height="2630px"/>
+    <graphic url="Kasten_blau_45_7_0385.jpg" width="1702px" height="2630px"/>
     <zone points="75,2448 75,2620 227,2620 227,2448" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="91,2478 107,2479 107,2449 91,2448" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="96,2488 106,2490 106,2460 96,2458" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -154,52 +150,52 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleücht<supplied >i</supplied>ger Curfü<supplied >r</supplied>st, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l2" n="N002"/>Dero bede sch<supplied >rei</supplied>ben, das eine an meinen vnglüksehl<supplied >i</supplied>gsten dag datirt mit
-      <lb facs="#facs_1_r1l3" n="N003"/>einer vnuerdinten danksagen d<supplied >e</supplied>s glükhwu<supplied >n</supplied>tsch, das ander vom 17ten
-      <lb facs="#facs_1_r1l4" n="N004"/>dis, hab woll empfa<supplied >n</supplied>gen. Weil in der acht vnd restitution
-      <lb facs="#facs_1_r1l5" n="N005"/>sach der Wißer alle na<supplied >c</supplied>hr<supplied >i</supplied>cht b<supplied >e</supplied>richt, due mich darauf
-      <lb facs="#facs_1_r1l6" n="N006"/>b<supplied >e</supplied>zihen, werd indeßen hier nit feyren, die sa<supplied >c</supplied>h möglist zu
-      <lb facs="#facs_1_r1l7" n="N007"/>befürde<supplied >r</supplied>n. Das bitt ich vmb gottes willen, mit den <choice><expan>König</expan><abbr>K</abbr></choice> in Pr<supplied >e</supplied>üßen
+    <pb facs="#facs_1" n="51 r" xml:id="Kasten_blau_45_7_0382.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleücht<supplied>i</supplied>ger Curfü<supplied>r</supplied>st, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l2" n="N002"/>Dero bede sch<supplied>rei</supplied>ben, das eine an meinen vnglüksehl<supplied>i</supplied>gsten dag datirt mit
+      <lb facs="#facs_1_r1l3" n="N003"/>einer vnuerdinten danksagen d<supplied>e</supplied>s glükhwu<supplied>n</supplied>tsch, das ander vom 17ten
+      <lb facs="#facs_1_r1l4" n="N004"/>dis, hab woll empfa<supplied>n</supplied>gen. Weil in der acht vnd restitution
+      <lb facs="#facs_1_r1l5" n="N005"/>sach der Wißer alle na<supplied>c</supplied>hr<supplied>i</supplied>cht b<supplied>e</supplied>richt, due mich darauf
+      <lb facs="#facs_1_r1l6" n="N006"/>b<supplied>e</supplied>zihen, werd indeßen hier nit feyren, die sa<supplied>c</supplied>h möglist zu
+      <lb facs="#facs_1_r1l7" n="N007"/>befürde<supplied>r</supplied>n. Das bitt ich vmb gottes willen, mit den <choice><expan>König</expan><abbr>K</abbr></choice> in Pr<supplied>e</supplied>üßen
       <lb facs="#facs_1_r1l8" n="N008"/>sich nit einzulaßen, welches vnsern curhaus der hochste schad
       <lb facs="#facs_1_r1l9" n="N009"/>wehre, so lang die welt stehn wirt. Wegen Münster bitte noch-
-      <lb facs="#facs_1_r1l10" n="N010"/>mahlen, bey dero gegebnen wort zu continuiren <choice><expan>vnd</expan><abbr>v</abbr></choice> den B<supplied >i</supplied>schoff
-      <lb facs="#facs_1_r1l11" n="N011"/>von Osnab<supplied >r</supplied>uk vohrallen zu helfen. Der Deütschmeister ist auch
+      <lb facs="#facs_1_r1l10" n="N010"/>mahlen, bey dero gegebnen wort zu continuiren <choice><expan>vnd</expan><abbr>v</abbr></choice> den B<supplied>i</supplied>schoff
+      <lb facs="#facs_1_r1l11" n="N011"/>von Osnab<supplied>r</supplied>uk vohrallen zu helfen. Der Deütschmeister ist auch
       <lb facs="#facs_1_r1l12" n="N012"/>schon so weit zu friden, das er nit wider in sein vnd ihm
-      <lb facs="#facs_1_r1l13" n="N013"/>g<supplied >e</supplied>rn cedirn wirt, mein <unclear>ratwis</unclear> hab schon mit dem Golnitsch
-      <lb facs="#facs_1_r1l14" n="N014"/>vndt Wißer gesch<supplied >rie</supplied>ben. Sag dero Liebden vnentligen dankh, das sie die
+      <lb facs="#facs_1_r1l13" n="N013"/>g<supplied>e</supplied>rn cedirn wirt, mein <unclear>ratwis</unclear> hab schon mit dem Golnitsch
+      <lb facs="#facs_1_r1l14" n="N014"/>vndt Wißer gesch<supplied>rie</supplied>ben. Sag dero Liebden vnentligen dankh, das sie die
       <lb facs="#facs_1_r1l15" n="N015"/>troupen haben marchiren laßen, gott, meine bede söhn vndt alle
-      <lb facs="#facs_1_r1l16" n="N016"/>wollgemeinte werden dero Liebden e<supplied >w</supplied>igen dankh <unclear>drz</unclear> zeigen. W<supplied >e</supplied>gen des</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l1" n="N001"/>dis wels tractat, hoff ich, werd der Wißer <unclear>bezen</unclear>, das dero Liebden zu fr<supplied >i</supplied>den sein
-      <lb facs="#facs_2_r1l2" n="N002"/>werden. Wegen des B<supplied >i</supplied>schoff von Rahb, weil er au<supplied >c</supplied>h izt Cardinal, werden dero Liebden
-      <lb facs="#facs_2_r1l3" n="N003"/>woll duen, sich mit ihm wider in gutte verstentnus zu s<supplied >e</supplied>zen. Wan
+      <lb facs="#facs_1_r1l16" n="N016"/>wollgemeinte werden dero Liebden e<supplied>w</supplied>igen dankh <unclear>drz</unclear> zeigen. W<supplied>e</supplied>gen des</ab>
+    <pb facs="#facs_2" n="51 v" xml:id="Kasten_blau_45_7_0383.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l1" n="N001"/>dis wels tractat, hoff ich, werd der Wißer <unclear>bezen</unclear>, das dero Liebden zu fr<supplied>i</supplied>den sein
+      <lb facs="#facs_2_r1l2" n="N002"/>werden. Wegen des B<supplied>i</supplied>schoff von Rahb, weil er au<supplied>c</supplied>h izt Cardinal, werden dero Liebden
+      <lb facs="#facs_2_r1l3" n="N003"/>woll duen, sich mit ihm wider in gutte verstentnus zu s<supplied>e</supplied>zen. Wan
       <lb facs="#facs_2_r1l4" n="N004"/>dero Liebden mihr doch wolten ihre vhrsachen schreiben, was sie wider ihn haben,
       <lb facs="#facs_2_r1l5" n="N005"/>damit er sich verantworten könne, er hofft woll, dero Liebden alle
-      <lb facs="#facs_2_r1l6" n="N006"/>satisfaction <supplied >zu</supplied> geben. W<supplied >e</supplied>gen des Douen werd dero Liebden mit nechsten
-      <lb facs="#facs_2_r1l7" n="N007"/>weiters beri<supplied >c</supplied>hten. Man schreibt aus Frankeich, Bar<supplied >c</supplied>elona sey
-      <lb facs="#facs_2_r1l8" n="N008"/>entsezt, gott gebs, das es wahr sey. B<supplied >e</supplied>f<supplied >e</supplied>hl mich dero Liebden vnd
-      <lb facs="#facs_2_r1l9" n="N009"/>st<supplied >e</supplied>rbe
+      <lb facs="#facs_2_r1l6" n="N006"/>satisfaction <supplied>zu</supplied> geben. W<supplied>e</supplied>gen des Douen werd dero Liebden mit nechsten
+      <lb facs="#facs_2_r1l7" n="N007"/>weiters beri<supplied>c</supplied>hten. Man schreibt aus Frankeich, Bar<supplied>c</supplied>elona sey
+      <lb facs="#facs_2_r1l8" n="N008"/>entsezt, gott gebs, das es wahr sey. B<supplied>e</supplied>f<supplied>e</supplied>hl mich dero Liebden vnd
+      <lb facs="#facs_2_r1l9" n="N009"/>st<supplied>e</supplied>rbe
       <lb facs="#facs_2_line_1666797144597_383" n="N010"/>dero Liebden
-      <lb facs="#facs_2_line_1666797158631_390" n="N011"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_line_1666797158631_390" n="N011"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l11" n="N012"/>Eleonora
       <lb facs="#facs_2_line_1666797158631_391" n="N013"/>Wien den 29ten maij 1706
       <lb facs="#facs_2_r1l12" n="N014"/><choice><expan>Wegen</expan><abbr>Wen</abbr></choice> der punti werd mitt
-      <lb facs="#facs_2_r1l14" n="N015"/>mein sohn reden, hab erst dero Liebden sch<supplied >rei</supplied>ben bek<supplied >o</supplied>men.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+      <lb facs="#facs_2_r1l14" n="N015"/>mein sohn reden, hab erst dero Liebden sch<supplied>rei</supplied>ben bek<supplied>o</supplied>men.</ab>
+    <pb facs="#facs_3" n="52 v" xml:id="Kasten_blau_45_7_0385.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>
       <lb facs="#facs_3_r1l2" n="N002"/>
       <lb facs="#facs_3_r1l3" n="N003"/>
       <lb facs="#facs_3_r1l4" n="N004"/>
       <lb facs="#facs_3_r1l5" n="N005"/>
       <lb facs="#facs_3_r1l6" n="N006"/></ab>
-    <ab facs="#facs_3_r2" >
+    <ab facs="#facs_3_r2">
       <lb facs="#facs_3_r2l1" n="N001"/></ab>
   </div>
 </body>

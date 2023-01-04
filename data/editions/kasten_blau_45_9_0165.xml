@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0165.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0165.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1683-08-08"></origDate></origin>
+                        <origin><origDate when-iso="1683-08-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Passau</placeName>
-               <date  when-iso="1683-08-08"></date>
+               <date when-iso="1683-08-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1260" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1260px"/>
+    <graphic url="Kasten_blau_45_9_0165.jpg" width="800px" height="1260px"/>
     <zone points="61,191 61,1229 779,1229 779,191" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="130,233 237,266 340,234 407,247 444,224 480,242 552,215 726,237 765,226 765,181 591,160 501,191 413,172 362,191 274,159 130,211" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="97,291 185,295 237,324 414,277 487,309 671,274 734,302 764,289 762,235 673,225 564,244 375,231 257,265 159,229 96,238" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1262" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1262px"/>
+    <graphic url="Kasten_blau_45_9_0166.jpg" width="800px" height="1262px"/>
     <zone points="38,0 38,1199 787,1199 787,0" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="60,120 111,105 159,131 324,104 481,138 530,109 645,131 766,99 765,53 723,49 375,57 336,83 289,62 222,83 59,70" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="58,160 297,159 391,197 501,155 625,181 784,154 783,109 685,135 532,109 468,140 335,106 58,140" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -142,7 +138,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1277" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1277px"/>
+    <graphic url="Kasten_blau_45_9_0167.jpg" width="800px" height="1277px"/>
     <zone points="18,60 18,1241 775,1241 775,60" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="30,127 204,105 250,126 457,108 507,138 610,110 668,127 754,109 778,64 641,50 551,80 488,47 221,79 104,51 30,74" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="32,193 96,166 334,196 394,168 466,195 715,171 715,128 655,120 574,154 456,128 365,155 248,126 195,124 161,151 69,113 32,128" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -168,16 +164,16 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="94 r" xml:id="Kasten_blau_45_9_0165.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom 30ten passato hab ich mit großen
       <lb facs="#facs_1_r1l3" n="N003"/>freüden vernommen, das sich ewer Durchlaucht in guttem wohlstand
       <lb facs="#facs_1_r1l4" n="N004"/>befinden. Ist mihr leidt, das ewer Durchlaucht vnsertwegen so große
       <lb facs="#facs_1_r1l5" n="N005"/>sorg gehabt, es hatt aber der Fürst alle post geschriben, wie
-      <lb facs="#facs_1_r1l6" n="N006"/>auch Stratman, ich <supplied >habe</supplied> auch nuhr eine versaumbt, bey welcher
+      <lb facs="#facs_1_r1l6" n="N006"/>auch Stratman, ich <supplied>habe</supplied> auch nuhr eine versaumbt, bey welcher
       <lb facs="#facs_1_r1l7" n="N007"/>mich der Fürst entschuldiget hatt. Gottlob ist noch alles
       <lb facs="#facs_1_r1l8" n="N008"/>gutt, die Erzherzogin auch widerumb ganz woll auf.
       <lb facs="#facs_1_r1l9" n="N009"/>Die brief an meine brüder, weil nuhr ein fils
@@ -189,8 +185,8 @@
       <lb facs="#facs_1_r1l15" n="N015"/>bedenken gehabt, ihn aus Wien vnd über die brüken
       <lb facs="#facs_1_r1l16" n="N016"/>zue führen, bis es entlich nit anderst sein können,
       <lb facs="#facs_1_r1l17" n="N017"/>er auch wegen seines übelaufseins nit hatt können</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="94 v" xml:id="Kasten_blau_45_9_0166.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>verlangen, in die scharmüzel sich einzuelaßen, welches
       <lb facs="#facs_2_r1l3" n="N002"/>er mihr auch verschprochen nit zue duen. So zweifle
       <lb facs="#facs_2_r1l4" n="N003"/>ich nit, das er seinen bruedern Carl auch woll daruon
@@ -209,28 +205,28 @@
       <lb facs="#facs_2_r1l17" n="N016"/>geschlagen vnd ihr bagage bekommen. Von Wien
       <lb facs="#facs_2_r1l18" n="N017"/>hört man niks, auser izt sagen sie, das ein gefangne
       <lb facs="#facs_2_r1l19" n="N018"/>ausgesagt, sie seyen zur palisatta kommen, aber
-      <lb facs="#facs_2_r1l20" n="N019"/>noch niks eingenommen <supplied >und</supplied> <choice><expan>vor</expan><abbr>v</abbr></choice> der contrescarpe fill</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
-      <lb facs="#facs_3_r1l1" n="N001"/>gebliben. Wan nuhr der sucurs nit gahr zu lang <supplied >aus</supplied>blei<supplied >b</supplied>t,
+      <lb facs="#facs_2_r1l20" n="N019"/>noch niks eingenommen <supplied>und</supplied> <choice><expan>vor</expan><abbr>v</abbr></choice> der contrescarpe fill</ab>
+    <pb facs="#facs_3" n="95 r" xml:id="Kasten_blau_45_9_0167.jpg"/>
+    <ab facs="#facs_3_r1">
+      <lb facs="#facs_3_r1l1" n="N001"/>gebliben. Wan nuhr der sucurs nit gahr zu lang <supplied>aus</supplied>blei<supplied>b</supplied>t,
       <lb facs="#facs_3_r1l2" n="N002"/>hab gutte hoffnung, weil sie in so vill
       <lb facs="#facs_3_r1l3" n="N003"/>wochen noch niks auanzirt oder wehnig. Von Brandenburg
-      <lb facs="#facs_3_r1l4" n="N004"/>ist der Herzoch v<supplied >o</supplied>n Anhalt hier, von Saxen auch einer,
+      <lb facs="#facs_3_r1l4" n="N004"/>ist der Herzoch v<supplied>o</supplied>n Anhalt hier, von Saxen auch einer,
       <lb facs="#facs_3_r1l5" n="N005"/>man suecht woh man kan, gott geb sein gnad,
       <lb facs="#facs_3_r1l6" n="N006"/>wan vns nuhr Frankreich niks drein machete.
-      <lb facs="#facs_3_r1l7" n="N007"/>Der Wahtendonkh ist vort, der Fuker der<supplied >w</supplied>eil
+      <lb facs="#facs_3_r1l7" n="N007"/>Der Wahtendonkh ist vort, der Fuker der<supplied>w</supplied>eil
       <lb facs="#facs_3_r1l8" n="N008"/>hir. <choice><expan>Bruder</expan><abbr>B</abbr></choice> <choice><expan>Franz</expan><abbr>Fr</abbr></choice> hatt heütt proffesion abgelegt
       <lb facs="#facs_3_r1l9" n="N009"/>vnd vermein, der curir wirt in wenig dag
       <lb facs="#facs_3_r1l10" n="N010"/>abgefertigt werden, so kan mein <choice><expan>bruder</expan><abbr>brud</abbr></choice> alsdan
       <lb facs="#facs_3_r1l11" n="N011"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> bedienen, vnd weil es nuhr auf
       <lb facs="#facs_3_r1l12" n="N012"/>wehnig dag, wirt der Fuker mit ihm gehn. Wegen
       <lb facs="#facs_3_r1l13" n="N013"/>Brunett wollen ihm helfen, so vill man kan, der
-      <lb facs="#facs_3_r1l14" n="N014"/>Sch<supplied >e</supplied>ller wirt ewer Durchlaucht alles ausführlich berichten.
-      <lb facs="#facs_3_r1l15" n="N015"/>Due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> b<supplied >e</supplied>fehl<supplied >e</supplied>n, werde ste<supplied >r</supplied>ben
+      <lb facs="#facs_3_r1l14" n="N014"/>Sch<supplied>e</supplied>ller wirt ewer Durchlaucht alles ausführlich berichten.
+      <lb facs="#facs_3_r1l15" n="N015"/>Due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> b<supplied>e</supplied>fehl<supplied>e</supplied>n, werde ste<supplied>r</supplied>ben
       <lb facs="#facs_3_r1l16" n="N016"/>ewer Durchlaucht
-      <lb facs="#facs_3_line_1638021771424_610" n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>gehorsamste</expan><abbr>gbrh</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_3_line_1638021771424_610" n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>gehorsamste</expan><abbr>gbrh</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_3_r1l19" n="N018"/>EMT
-      <lb facs="#facs_3_line_1638021771424_611" n="N019"/>Paßaw den 8 aug<supplied >u</supplied>st 1683</ab>
+      <lb facs="#facs_3_line_1638021771424_611" n="N019"/>Paßaw den 8 aug<supplied>u</supplied>st 1683</ab>
   </div>
 </body>
 

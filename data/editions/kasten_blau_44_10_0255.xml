@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_10_0255.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0255.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1710-12-31"></origDate></origin>
+                        <origin><origDate when-iso="1710-12-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1710-12-31"></date>
+               <date when-iso="1710-12-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1212" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1212px"/>
+    <graphic url="Kasten_blau_44_10_0255.jpg" width="800px" height="1212px"/>
     <zone points="36,0 36,1157 769,1157 769,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="91,347 127,344 164,376 197,352 244,378 290,353 435,369 486,345 683,383 760,363 761,292 607,271 559,293 422,260 355,284 241,261 159,321 91,324" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="68,434 186,414 233,437 292,407 496,439 603,417 661,451 758,424 739,382 553,366 514,392 293,354 195,389 69,337" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -114,7 +110,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1315" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1315px"/>
+    <graphic url="Kasten_blau_44_10_0256.jpg" width="800px" height="1315px"/>
     <zone points="233,831 438,831 438,447 233,447" rendition="TextRegion" xml:id="facs_2_region_1660818969210_52">
         <zone points="279,785 285,767 279,740 281,685 281,656 281,626 277,600 277,564 275,537 279,505 278,475 284,446 333,457 328,479 329,507 325,538 327,562 327,597 331,623 331,656 331,686 329,737 335,768 328,797" rendition="Line" xml:id="facs_2_line_1660818985822_55"/>
         <zone points="328,785 333,759 329,724 330,682 326,643 329,600 331,551 333,514 333,485 333,459 383,459 383,485 383,515 381,553 379,603 376,642 380,680 379,722 383,761 377,794" rendition="Line" xml:id="facs_2_line_1660818993902_60"/>
@@ -124,13 +120,13 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfü<supplied >r</supplied>st, mein herzallerl<supplied >i</supplied>bster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+    <pb facs="#facs_1" n="2 r" xml:id="Kasten_blau_44_10_0255.jpg" ed="157 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfü<supplied>r</supplied>st, mein herzallerl<supplied>i</supplied>bster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l2" n="N002"/>Vohr dero so liebreichen anwuntsch zu diesen <choice><expan>heiligen</expan><abbr>h</abbr></choice>
-      <lb facs="#facs_1_r1l3" n="N003"/>feird<supplied >a</supplied>gen vndt jahrswexel sage von innersten
+      <lb facs="#facs_1_r1l3" n="N003"/>feird<supplied>a</supplied>gen vndt jahrswexel sage von innersten
       <lb facs="#facs_1_r1l4" n="N004"/>herzen schuldigen dankh. Bitte gott, dero Liebden mitt allen
       <lb facs="#facs_1_r1l5" n="N005"/>glükhsehlichkeiten zu überheüfen, mihr aber ville
       <lb facs="#facs_1_r1l6" n="N006"/>gelegenheit zu geben, dero Liebden mein bestendige <choice><expan>schwesterliche</expan><abbr>schwst</abbr></choice>
@@ -138,11 +134,11 @@
       <lb facs="#facs_1_r1l8" n="N008"/>keit sein wurde, die ich lebenslang bestendig
       <lb facs="#facs_1_r1l9" n="N009"/>verbleibe
       <lb facs="#facs_1_line_1655284945269_2025" n="N010"/>dero Liebden
-      <lb facs="#facs_1_r1l10" n="N011"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_1_r1l10" n="N011"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_r1l12" n="N012"/>Eleonora
       <lb facs="#facs_1_r1l11" n="N013"/>Wien den lezten des 1710 iahrs</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_region_1660818969210_52" >
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_10_0256.jpg" ed="158 r"/>
+    <ab facs="#facs_2_region_1660818969210_52">
       <lb facs="#facs_2_line_1660818985822_55" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
       <lb facs="#facs_2_line_1660818993902_60" n="N002"/>Pfalz, meinem herzallerlibsten
       <lb facs="#facs_2_line_1660819000830_65" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruder</ab>

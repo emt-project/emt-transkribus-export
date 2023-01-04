@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0350.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0350.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1697-09-14"></origDate></origin>
+                        <origin><origDate when-iso="1697-09-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date  when-iso="1697-09-14"></date>
+               <date when-iso="1697-09-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1224" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1224px"/>
+    <graphic url="Kasten_blau_44_7_0350.jpg" width="800px" height="1224px"/>
     <zone points="49,92 49,1216 768,1216 768,92" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="113,448 142,432 207,462 250,443 296,462 457,426 535,460 624,430 760,423 759,372 557,397 521,378 475,400 219,343 167,377 111,363" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="79,521 116,535 171,493 456,502 555,474 713,492 713,428 554,462 451,447 397,470 338,452 283,471 246,447 225,468 142,432 76,447" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -115,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1241" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1241px"/>
+    <graphic url="Kasten_blau_44_7_0351.jpg" width="800px" height="1241px"/>
     <zone points="41,37 41,532 707,532 707,37" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="59,130 247,168 312,133 387,167 480,152 535,174 650,141 712,147 712,73 686,68 525,70 468,108 371,76 235,86 132,59 59,81" rendition="Line" xml:id="facs_2_r1l2"/>
         <zone points="86,227 155,231 226,201 324,235 353,216 371,223 370,158 356,152 319,161 275,152 244,170 217,150 164,161 85,129" rendition="Line" xml:id="facs_2_r1l3"/>
@@ -130,27 +126,27 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="192 r" xml:id="Kasten_blau_44_7_0350.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N002"/>Ich hab nit vnterlasen wollen, in dem heündt die
       <lb facs="#facs_1_r1l5" n="N003"/>gutte zeitung kommen, das der türkh den <add>11ten dis</add> geschlagen, solchs
-      <lb facs="#facs_1_r1l6" n="N004"/>alsobalten dero Liebden zu participiren. Gott hatt das geb<supplied >e</supplied>tt vndt
+      <lb facs="#facs_1_r1l6" n="N004"/>alsobalten dero Liebden zu participiren. Gott hatt das geb<supplied>e</supplied>tt vndt
       <lb facs="#facs_1_r1l7" n="N005"/>große andacht des volks bey dem genaden bildt
-      <lb facs="#facs_1_r1l8" n="N006"/>vnser lieben <choice><expan>fraw</expan><abbr>fr</abbr></choice>, welche <choice><expan>Pater</expan><abbr>P</abbr></choice> Marcuß b<supplied >e</supplied>y der ersten procesion
+      <lb facs="#facs_1_r1l8" n="N006"/>vnser lieben <choice><expan>fraw</expan><abbr>fr</abbr></choice>, welche <choice><expan>Pater</expan><abbr>P</abbr></choice> Marcuß b<supplied>e</supplied>y der ersten procesion
       <lb facs="#facs_1_r1l9" n="N007"/>mit der exortation, segen, general comunion vndt papstligen
       <lb facs="#facs_1_r1l10" n="N008"/>ablaß vndt segen angefangen vndt das voll bis auf
       <lb facs="#facs_1_r1l11" n="N009"/>den heüntigen dag continuirt, das nie niks dergleichen hier
       <lb facs="#facs_1_r1l12" n="N010"/>gesehen worden, angesehn vndt durch die vohrbitt <unclear>der</unclear> <choice><expan>heiligen</expan><abbr>h</abbr></choice> mutter
       <lb facs="#facs_1_r1l13" n="N011"/>vns dise große victori widerumb verlihen. Dero Liebden vergeben
-      <lb facs="#facs_1_r1l14" n="N012"/>mihr, das dero sch<supplied >rei</supplied>ben nit beantwort, wirt mitt nechsten
-      <lb facs="#facs_1_line_1649337898725_306" n="N013"/>geschen mit dem <unclear>P</unclear>. Bitt mich auch b<supplied >e</supplied>y meiner <choice><expan>fraw</expan><abbr>fr</abbr></choice> schweg<supplied >r</supplied>in</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
-      <lb facs="#facs_2_r1l2" n="N001"/>zue entschuldigen, mitt negsten wi<supplied >r</supplied>ts geschen. Ist schon sehr
-      <lb facs="#facs_2_r1l3" n="N002"/>schpaht, ich werde st<supplied >er</supplied>ben
+      <lb facs="#facs_1_r1l14" n="N012"/>mihr, das dero sch<supplied>rei</supplied>ben nit beantwort, wirt mitt nechsten
+      <lb facs="#facs_1_line_1649337898725_306" n="N013"/>geschen mit dem <unclear>P</unclear>. Bitt mich auch b<supplied>e</supplied>y meiner <choice><expan>fraw</expan><abbr>fr</abbr></choice> schweg<supplied>r</supplied>in</ab>
+    <pb facs="#facs_2" n="192 v" xml:id="Kasten_blau_44_7_0351.jpg"/>
+    <ab facs="#facs_2_r1">
+      <lb facs="#facs_2_r1l2" n="N001"/>zue entschuldigen, mitt negsten wi<supplied>r</supplied>ts geschen. Ist schon sehr
+      <lb facs="#facs_2_r1l3" n="N002"/>schpaht, ich werde st<supplied>er</supplied>ben
       <lb facs="#facs_2_line_1649338167804_324" n="N003"/>dero Liebden
       <lb facs="#facs_2_r1l5" n="N004"/>getrewste schwester
       <lb facs="#facs_2_r1l7" n="N005"/>Eleonora

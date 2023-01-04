@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0348.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0348.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -83,22 +79,22 @@
             <correspAction type="sent">
                <persName ref="#">?an ?</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#">?an ?</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1250" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1250px"/>
+    <graphic url="Kasten_blau_45_15_0348.jpg" width="800px" height="1250px"/>
     <zone points="209,126 209,766 339,766 339,126" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="275,244 281,244 285,240 297,244 305,238 318,243 326,236 343,232 346,188 341,188 332,196 327,190 319,187 305,195 289,187 278,186" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="205,545 232,542 241,546 253,535 276,536 282,531 298,533 304,526 310,527 309,490 297,493 270,475 251,478 245,484 241,481 236,485 232,482 223,486 203,484" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -133,14 +129,14 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="189 r" xml:id="Kasten_blau_45_15_0348.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>glamb
       <lb facs="#facs_1_r1l2" n="N002"/>eb allan
       <lb facs="#facs_1_r1l3" n="N003"/> endt mitshin</ab>
-    <ab facs="#facs_1_r2" >
+    <ab facs="#facs_1_r2">
       <lb facs="#facs_1_r2l1" n="N001"/>dendrafen vom dertentirn betrefet hatter mier ve
       <lb facs="#facs_1_r2l2" n="N002"/>herschambst beferirt elas ihr mey der kugser lenehaltegn
       <lb facs="#facs_1_r2l3" n="N003"/>aeller dauedigst vecoliiert vndt vein brueder hnbe ge

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_10_0030.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0030.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1709-02-21"></origDate></origin>
+                        <origin><origDate when-iso="1709-02-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -83,22 +79,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1709-02-21"></date>
+               <date when-iso="1709-02-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1159" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1159px"/>
+    <graphic url="Kasten_blau_44_10_0030.jpg" width="800px" height="1159px"/>
     <zone points="94,33 64,787 730,787 760,33" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="133,154 161,153 189,152 218,151 246,151 274,150 303,149 331,148 359,147 388,146 416,146 444,145 473,145 501,144 529,144 558,143 586,143 614,143 643,143 671,143 700,143 700,112 671,112 643,112 614,112 586,112 558,112 529,113 501,113 473,114 444,114 416,115 388,115 359,116 331,117 303,118 274,119 246,120 218,120 189,121 161,122 133,123" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="142,199 169,197 197,196 225,194 253,193 280,192 308,192 336,191 364,191 391,191 419,190 447,190 475,190 502,190 530,190 558,189 586,189 613,189 641,188 669,187 697,186 697,156 669,157 641,158 613,159 586,159 558,159 530,160 502,160 475,160 447,160 419,160 391,161 364,161 336,161 308,162 280,162 253,163 225,164 197,166 169,167 142,169" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -119,10 +115,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="16 r" xml:id="Kasten_blau_44_10_0030.jpg" ed="18 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Extract aygenhändigen schreibens von
       <lb facs="#facs_1_r1l3" n="N002"/>ihro <choice><expan>Mayestät</expan><abbr>May</abbr></choice> der verwittibten Kayserin
       <lb facs="#facs_1_r1l4" n="N003"/>an ihre <choice><expan>churfürstliche</expan><abbr>churf</abbr></choice> <choice><expan>Durchlaucht</expan><abbr>Dh</abbr></choice> zu Pfalz de dato

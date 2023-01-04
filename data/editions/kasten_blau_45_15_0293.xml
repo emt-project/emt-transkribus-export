@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0293.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0293.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-02-22"></origDate></origin>
+                        <origin><origDate when-iso="1688-02-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1688-02-22"></date>
+               <date when-iso="1688-02-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1185" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1185px"/>
+    <graphic url="Kasten_blau_45_15_0293.jpg" width="800px" height="1185px"/>
     <zone points="26,280 26,1119 773,1119 773,280" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="29,337 108,357 188,324 274,351 300,331 447,339 601,307 724,318 762,310 762,287 612,259 518,278 303,254 231,283 27,266" rendition="Line" xml:id="facs_1_r2l1"/>
         <zone points="34,401 185,421 234,385 318,409 540,366 737,384 735,342 660,329 473,330 439,357 347,334 298,362 145,340 33,363" rendition="Line" xml:id="facs_1_r2l2"/>
@@ -116,21 +112,21 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r2" >
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfü<supplied >r</supplied>st, mein h<supplied >e</supplied>rzallerliebster her vatter
+    <pb facs="#facs_1" n="156 r" xml:id="Kasten_blau_45_15_0293.jpg"/>
+    <ab facs="#facs_1_r2">
+      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfü<supplied>r</supplied>st, mein h<supplied>e</supplied>rzallerliebster her vatter
       <lb facs="#facs_1_r2l2" n="N002"/>Vohr den <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> wuntsch, so mihr ewer Durchlaucht durch mein
       <lb facs="#facs_1_r2l3" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>, den Bischoffen von Preßlau, überschiken wollen
-      <lb facs="#facs_1_r2l4" n="N004"/>zue der kronung meins sohns. Die so schrift<supplied >l</supplied>ige
+      <lb facs="#facs_1_r2l4" n="N004"/>zue der kronung meins sohns. Die so schrift<supplied>l</supplied>ige
       <lb facs="#facs_1_r2l5" n="N005"/>als müntlige expressionen, so ewer Durchlaucht duen wollen,
       <lb facs="#facs_1_r2l6" n="N006"/>seint allzue güttich, mein sohn vnd ich aber
       <lb facs="#facs_1_r2l7" n="N007"/>werden vns befleisen, soliche abzuedienen vnd
       <lb facs="#facs_1_r2l8" n="N008"/>ich in dahin mich befleisen zu erziehen, die ich
-      <lb facs="#facs_1_r2l9" n="N009"/>st<supplied >e</supplied>rben werde
+      <lb facs="#facs_1_r2l9" n="N009"/>st<supplied>e</supplied>rben werde
       <lb facs="#facs_1_r2l10" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1644318896000_25" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_line_1644318896000_25" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r2l12" n="N012"/>EMT
       <lb facs="#facs_1_line_1644318896000_26" n="N013"/>Wien den 22ten <choice><expan>feber</expan><abbr>febr</abbr></choice> 1688</ab>
   </div>

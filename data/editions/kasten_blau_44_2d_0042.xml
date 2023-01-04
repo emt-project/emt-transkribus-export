@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2d_0042.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0042.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1235" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1235px"/>
+    <graphic url="Kasten_blau_44_2d_0042.jpg" width="800px" height="1235px"/>
     <zone points="95,205 95,1186 735,1186 735,205" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="124,261 285,276 313,256 460,242 554,265 585,236 698,232 697,196 523,192 497,210 400,192 310,213 246,191 121,194" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="122,326 220,287 364,306 429,276 489,300 587,273 698,291 699,230 585,236 559,263 470,243 223,277 118,259" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -123,14 +119,14 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0042.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r1l2" n="N002"/>Ich hab woll die höchste freüdt aus dero Liebden schreiben
       <lb facs="#facs_1_r1l3" n="N003"/>vom 8ten dis vernommen, das sich mein liebste Erzherzogin
-      <lb facs="#facs_1_r1l4" n="N004"/>in einer hoffnung b<supplied >e</supplied>findt. Zweifle nit, es werde izt
+      <lb facs="#facs_1_r1l4" n="N004"/>in einer hoffnung b<supplied>e</supplied>findt. Zweifle nit, es werde izt
       <lb facs="#facs_1_r1l5" n="N005"/>bestendig sein vndt ich hab ein vnerhörte freüdt
       <lb facs="#facs_1_r1l6" n="N006"/>darmit. <seg type="blackening">es</seg> Wirt das scheiden auf Hambach
       <lb facs="#facs_1_r1l7" n="N007"/>wohl hart her sein gangen, ich zweifel
@@ -142,7 +138,7 @@
       <lb facs="#facs_1_r1l13" n="N013"/>vettern, weit erger als meine lansleüdt,
       <lb facs="#facs_1_r1l14" n="N014"/>gott geb ein guetts endt. Was ist das
       <lb facs="#facs_1_r1l15" n="N015"/>schantlichs mit Strasburg vndt Casal.
-      <lb facs="#facs_1_r1l16" n="N016"/>Ich mus enden ihn höchst<supplied >e</supplied>r eil, sterbe
+      <lb facs="#facs_1_r1l16" n="N016"/>Ich mus enden ihn höchst<supplied>e</supplied>r eil, sterbe
       <lb facs="#facs_1_r1l17" n="N017"/>dero Liebden
       <lb facs="#facs_1_r1l18" n="N018"/>getrewste schwester
       <lb facs="#facs_1_r1l19" n="N019"/>EMT</ab>

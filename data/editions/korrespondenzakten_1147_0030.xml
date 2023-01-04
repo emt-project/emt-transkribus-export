@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="korrespondenzakten_1147_0030.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="korrespondenzakten_1147_0030.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1690-05-09"></origDate></origin>
+                        <origin><origDate when-iso="1690-05-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1690-05-09"></date>
+               <date when-iso="1690-05-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1234" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1234px"/>
+    <graphic url="Korrespondenzakten_1147_0030.jpg" width="800px" height="1234px"/>
     <zone points="18,33 18,1233 773,1233 773,33" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="23,100 33,103 61,84 94,100 138,83 153,93 165,84 213,89 210,38 199,34 176,32 165,41 148,42 132,35 113,39 105,31 86,39 75,33 21,57" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="79,392 153,388 229,417 295,389 386,419 446,386 480,405 691,399 763,382 763,345 584,362 460,346 362,303 77,313" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1221" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1221px"/>
+    <graphic url="Korrespondenzakten_1147_0031.jpg" width="800px" height="1221px"/>
     <zone points="33,61 33,1214 798,1214 798,61" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="36,104 113,124 191,90 251,122 343,88 438,105 520,86 591,119 724,86 728,46 247,47 35,61" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="41,158 435,155 477,132 552,152 585,130 731,146 730,96 591,119 472,88 378,112 282,98 249,123 195,91 165,119 40,119" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -149,7 +145,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1232" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1232px"/>
+    <graphic url="Korrespondenzakten_1147_0032.jpg" width="800px" height="1232px"/>
     <zone points="18,0 18,959 769,959 769,0" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="86,699 132,704 154,683 210,700 230,680 278,669 320,681 394,677 392,641 360,627 307,626 274,641 179,620 82,627" rendition="Line" xml:id="facs_3_r1l4"/>
         <zone points="58,688 119,715 154,683 228,706 274,673 322,691 350,673 419,698 419,723 395,720 60,755" rendition="Line" xml:id="facs_3_line_1656940000124_458"/>
@@ -163,10 +159,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="21 r" xml:id="Korrespondenzakten_1147_0030.jpg" ed="3 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>9ter maij 1690</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Fürst, herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder 
       <lb facs="#facs_1_r1l3" n="N003"/>Ich hab dero liebs schreiben vom 29ten wohl empfangen.
@@ -174,7 +170,7 @@
       <lb facs="#facs_1_r1l5" n="N005"/>auch alhier glükhlich ohne weiteres vmwerfen, in
       <lb facs="#facs_1_r1l6" n="N006"/>dem wir mit höchster gelegenheit vnser reis im
       <lb facs="#facs_1_r1l7" n="N007"/>schiff volbracht, angelangt. Schike dero Liebden hirbey die
-      <lb facs="#facs_1_r1l8" n="N008"/>beschreibung des einzugs, dero Liebden wollen den schw<supplied >e</supplied>stern auch
+      <lb facs="#facs_1_r1l8" n="N008"/>beschreibung des einzugs, dero Liebden wollen den schw<supplied>e</supplied>stern auch
       <lb facs="#facs_1_r1l9" n="N009"/>leßen laßen. Ob das vmwerfen dise bedeütung haben,
       <lb facs="#facs_1_r1l10" n="N010"/>wirt die zeit lernen. Die Obristhoffmeistrin sacht,
       <lb facs="#facs_1_r1l11" n="N011"/>sie sey froh, das sie den tausch nit angenommen,
@@ -183,36 +179,36 @@
       <lb facs="#facs_1_r1l14" n="N014"/>vermeint, nit an papa geschriben, damit sie nit mer<unclear>ken</unclear>,
       <lb facs="#facs_1_r1l15" n="N015"/>das angestifft ist, aber mit nechstem sols geschen.
       <lb facs="#facs_1_r1l16" n="N016"/>Das dero Liebden den Wachtendockh angenommen, weils ihr Durchlaucht
-      <lb facs="#facs_1_r1l17" n="N017"/><choice><expan>herr</expan><abbr>h</abbr></choice> vatter auch gern gesehn, habens gar recht gedahn. Ich hoff, <supplied >er</supplied></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l17" n="N017"/><choice><expan>herr</expan><abbr>h</abbr></choice> vatter auch gern gesehn, habens gar recht gedahn. Ich hoff, <supplied>er</supplied></ab>
+    <pb facs="#facs_2" n="21 v" xml:id="Korrespondenzakten_1147_0031.jpg" ed="3 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>werd sich befleisen, dero Liebden woll zue dienen, ein gutter
       <lb facs="#facs_2_r1l2" n="N002"/>economus ist er, vnd den haben dero Liebden zum meisten
       <lb facs="#facs_2_r1l3" n="N003"/>von nöten, vnd bitt ich, in dißem passu wollen dero Liebden
       <lb facs="#facs_2_r1l4" n="N004"/>ihm volgen, dan ich glaub, das er dero Liebden woll rahten
-      <lb facs="#facs_2_r1l5" n="N005"/>wirt. Der Schellerer hatt mihr auch etlige puncta gesa<supplied >c</supplied>ht,
+      <lb facs="#facs_2_r1l5" n="N005"/>wirt. Der Schellerer hatt mihr auch etlige puncta gesa<supplied>c</supplied>ht,
       <lb facs="#facs_2_r1l6" n="N006"/>ein deil werden woll hart her gehn, andre seint noch
       <lb facs="#facs_2_r1l7" n="N007"/>in weiten seken, vnd haben mihr die braut noch nit, wie
       <lb facs="#facs_2_r1l8" n="N008"/>dero Liebden aus der Königin brif schon selber sehn werden. Dah
       <lb facs="#facs_2_r1l9" n="N009"/>schik ich dero Liebden auch ein brief an die bas von Suls-
       <lb facs="#facs_2_r1l10" n="N010"/>bach, dero Liebden haben mihr gesacht, sie sey gestorben,
       <lb facs="#facs_2_r1l11" n="N011"/>vnd izt hab ich ein brif von ihr bekommen.
-      <lb facs="#facs_2_r1l12" n="N012"/>Wegen der Heimberg vnd Castilla ist alls re<supplied >c</supplied>ht,
+      <lb facs="#facs_2_r1l12" n="N012"/>Wegen der Heimberg vnd Castilla ist alls re<supplied>c</supplied>ht,
       <lb facs="#facs_2_r1l13" n="N013"/>wan sie nuhr accomodirt sein. Sonst gibt ganz
       <lb facs="#facs_2_r1l14" n="N014"/>niks, es zue berichten, mihr gen fleisig in die welsch
-      <lb facs="#facs_2_r1l15" n="N015"/>predigen. Dah schik ich dero Liebden das oratori, so mihr ve<supplied >r</supplied>gan<supplied >genen</supplied>
-      <lb facs="#facs_2_r1l16" n="N016"/>erchtag gehabt, auch eins vohr die schweste<supplied >r</supplied>n.
-      <lb facs="#facs_2_r1l17" n="N017"/>Mus enden vnd st<supplied >e</supplied>rbe
+      <lb facs="#facs_2_r1l15" n="N015"/>predigen. Dah schik ich dero Liebden das oratori, so mihr ve<supplied>r</supplied>gan<supplied>genen</supplied>
+      <lb facs="#facs_2_r1l16" n="N016"/>erchtag gehabt, auch eins vohr die schweste<supplied>r</supplied>n.
+      <lb facs="#facs_2_r1l17" n="N017"/>Mus enden vnd st<supplied>e</supplied>rbe
       <lb facs="#facs_2_line_1656939915553_435" n="N018"/>dero Liebden
-      <lb facs="#facs_2_r1l19" n="N019"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l19" n="N019"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_line_1656939731154_410" n="N020"/>Eleonora
       <lb facs="#facs_2_r1l18" n="N021"/>Wien den 9ten <unclear>maji</unclear> 1690
       <lb facs="#facs_2_r1l20" n="N022"/>Bitt den brif an die bas von Sulzbach woll zu
       <lb facs="#facs_2_line_1656939731154_411" n="N023"/>bestellen. Ich förcht, ich hab den nahmen gefehlt,
       <lb facs="#facs_2_r1l22" n="N024"/>weis mich nit mehr recht zue erinnern vnd hab ihren brif schon
       <lb facs="#facs_2_r1l23" n="N025"/>verbrendt.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="3" xml:id="Korrespondenzakten_1147_0032.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l4" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm,
       <lb facs="#facs_3_line_1656940000124_458" n="N002"/>Pfalzgrauen bey Reyhn,
       <lb facs="#facs_3_r1l7" n="N003"/>meinem herzallerlibsten

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0358.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0358.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1684-12-08"></origDate></origin>
+                        <origin><origDate when-iso="1684-12-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1684-12-08"></date>
+               <date when-iso="1684-12-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1178" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1178px"/>
+    <graphic url="Kasten_blau_45_9_0358.jpg" width="800px" height="1178px"/>
     <zone points="22,0 22,1149 772,1149 772,0" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="107,174 235,196 350,162 408,192 539,161 697,172 737,165 736,114 380,106 174,124 107,157" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="73,250 93,259 129,222 191,248 284,212 452,237 499,211 536,235 570,215 769,217 767,169 722,161 551,194 435,175 399,200 319,165 237,195 72,184" rendition="Line" xml:id="facs_1_r1l3"/>
@@ -118,7 +114,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1185" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1185px"/>
+    <graphic url="Kasten_blau_45_9_0359.jpg" width="800px" height="1185px"/>
     <zone points="58,106 58,464 729,464 729,106" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="87,165 180,141 362,167 401,144 452,172 553,127 734,157 733,96 704,94 538,91 511,109 411,81 240,121 127,101 87,116" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="88,228 222,191 368,224 407,199 603,205 724,181 724,154 581,140 477,176 384,151 298,175 188,157 87,173" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -133,10 +129,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="212 r" xml:id="Kasten_blau_45_9_0358.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_r1l3" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstant
       <lb facs="#facs_1_r1l4" n="N003"/>befnden vnd mein bruder, der Deütschmeister,
@@ -149,18 +145,18 @@
       <lb facs="#facs_1_r1l11" n="N010"/>gehabt, ist aber schon wider gutt vnd weiters
       <lb facs="#facs_1_r1l12" n="N011"/>niks drauf erfolget, wirt morgen wider ausgehen.
       <lb facs="#facs_1_r1l13" n="N012"/>Heüt sein mihr auf einem iagen gewesen, ist
-      <lb facs="#facs_1_r1l14" n="N013"/>zimlich lustig gewesen, <supplied >haben</supplied> 56 saw gefangen, warunter 3 schwein
+      <lb facs="#facs_1_r1l14" n="N013"/>zimlich lustig gewesen, <supplied>haben</supplied> 56 saw gefangen, warunter 3 schwein
       <lb facs="#facs_1_r1l15" n="N014"/>vnd gegen 20 gewaksene, seint aber noch nit recht böß
       <lb facs="#facs_1_r1l16" n="N015"/>zum anlauffen. Mein bruder, der Bischoff, wirt auf
       <lb facs="#facs_1_r1l17" n="N016"/>konftigen samstag oder montag sein lehen empfangen,
       <lb facs="#facs_1_r1l18" n="N017"/>darnach, vermein ich, werd er sich nimmer</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="212 v" xml:id="Kasten_blau_45_9_0359.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>gahr lang aufhalten. Es ist schon ein wenig schpaht,
       <lb facs="#facs_2_r1l2" n="N002"/>also due mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd
       <lb facs="#facs_2_line_1637072563980_5875" n="N003"/>werde sterben
       <lb facs="#facs_2_r1l5" n="N004"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l6" n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied >e</supplied>wg<supplied >e</supplied>horsa<supplied >m</supplied>ste
+      <lb facs="#facs_2_r1l6" n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wg<supplied>e</supplied>horsa<supplied>m</supplied>ste
       <lb facs="#facs_2_r1l8" n="N006"/>dochter
       <lb facs="#facs_2_line_1637072560149_5870" n="N007"/>EMT
       <lb facs="#facs_2_r1l7" n="N008"/>Wien den 8ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1684</ab>

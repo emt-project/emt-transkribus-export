@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_9_0464.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0464.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1685-08-23"></origDate></origin>
+                        <origin><origDate when-iso="1685-08-23"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1685-08-23"></date>
+               <date when-iso="1685-08-23"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1192" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1192px"/>
+    <graphic url="Kasten_blau_45_9_0464.jpg" width="800px" height="1192px"/>
     <zone points="21,160 21,1184 778,1184 778,160" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="116,209 139,219 176,195 319,223 384,200 648,207 673,192 743,214 743,169 667,144 600,167 270,132 116,147" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="65,282 269,246 507,281 572,253 710,259 749,243 749,210 497,200 431,229 180,193 133,216 95,192 64,205" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -119,7 +115,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1205" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1205px"/>
+    <graphic url="Kasten_blau_45_9_0465.jpg" width="800px" height="1205px"/>
     <zone points="46,49 46,710 771,710 771,49" rendition="TextRegion" xml:id="facs_2_r2">
         <zone points="59,106 137,91 193,116 242,93 296,119 339,89 418,87 541,91 576,117 636,82 776,86 775,53 682,35 625,59 558,40 286,60 228,37 58,57" rendition="Line" xml:id="facs_2_r2l1"/>
         <zone points="50,157 145,140 278,170 346,137 445,169 504,135 719,136 757,122 757,96 573,117 521,93 431,122 393,101 49,117" rendition="Line" xml:id="facs_2_r2l2"/>
@@ -138,10 +134,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="274 r" xml:id="Kasten_blau_45_9_0464.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstandt
       <lb facs="#facs_1_r1l3" n="N003"/>befinden, welches mich über alles erfreüen wirt zue
@@ -159,12 +155,12 @@
       <lb facs="#facs_1_r1l15" n="N015"/>das verlangen gemacht hinunter zue gehen, ewer Durchlaucht
       <lb facs="#facs_1_r1l16" n="N016"/>derfen aber nit sorgen, das es ihm ihr Mayestät erlauben
       <lb facs="#facs_1_r1l17" n="N017"/>werden, bis er völlich restituirt ist. <seg type="blackening">Vohr</seg>gestern ist
-      <lb facs="#facs_1_r1l19" n="N018"/>der iunge Dietrichstein vom Leßle kommen vnd <supplied >hat</supplied> zeitung</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r2" >
+      <lb facs="#facs_1_r1l19" n="N018"/>der iunge Dietrichstein vom Leßle kommen vnd <supplied>hat</supplied> zeitung</ab>
+    <pb facs="#facs_2" n="274 v" xml:id="Kasten_blau_45_9_0465.jpg"/>
+    <ab facs="#facs_2_r2">
       <lb facs="#facs_2_r2l1" n="N001"/>bracht, das sie dorten die brukh auf 1100 schritt abgebrent,
       <lb facs="#facs_2_r2l2" n="N002"/>zue Oßek die statt überumpelt, außgeplündert
-      <lb facs="#facs_2_r2l3" n="N003"/>vnd verbrendt, auch etlige türken nidergema<supplied >c</supplied>ht, das
+      <lb facs="#facs_2_r2l3" n="N003"/>vnd verbrendt, auch etlige türken nidergema<supplied>c</supplied>ht, das
       <lb facs="#facs_2_r2l4" n="N004"/>schloß aber habens nit attaquirt, weil nit leüt genuech
       <lb facs="#facs_2_r2l5" n="N005"/>gehabt haben. Sonst gibt hier ganz niks zu berichten,
       <lb facs="#facs_2_r2l6" n="N006"/>der Fürst wirt ewer Durchlaucht alle relationes gedrukter
@@ -173,7 +169,7 @@
       <lb facs="#facs_2_r2l9" n="N009"/>ewer Durchlaucht
       <lb facs="#facs_2_r2l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehors</abbr></choice> dochter
       <lb facs="#facs_2_r2l12" n="N011"/>EMT
-      <lb facs="#facs_2_r2l10" n="N012"/>Wien den 23ten aug<supplied >u</supplied>st 1685</ab>
+      <lb facs="#facs_2_r2l10" n="N012"/>Wien den 23ten aug<supplied>u</supplied>st 1685</ab>
   </div>
 </body>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0562.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0562.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1689-01-13"></origDate></origin>
+                        <origin><origDate when-iso="1689-01-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1689-01-13"></date>
+               <date when-iso="1689-01-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1217" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1217px"/>
+    <graphic url="Kasten_blau_45_15_0562.jpg" width="800px" height="1217px"/>
     <zone points="30,395 30,1190 768,1190 768,395" rendition="TextRegion" xml:id="facs_1_r3">
         <zone points="89,443 270,450 409,427 479,449 517,424 607,441 696,421 774,454 773,377 730,368 538,387 475,361 403,395 323,359 265,386 202,362 88,386" rendition="Line" xml:id="facs_1_r3l1"/>
         <zone points="64,503 173,483 341,506 603,484 670,500 750,475 750,445 493,450 419,429 216,471 63,430" rendition="Line" xml:id="facs_1_r3l2"/>
@@ -121,10 +117,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r3" >
+    <pb facs="#facs_1" n="6 r" xml:id="Kasten_blau_45_15_0562.jpg"/>
+    <ab facs="#facs_1_r3">
       <lb facs="#facs_1_r3l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerliebster herr vatter
       <lb facs="#facs_1_r3l2" n="N002"/>Diße meine <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> zeilen, verhoffe ich, werden ewer
       <lb facs="#facs_1_r3l3" n="N003"/>Durchlaucht in bestem wohlstandt finden. Komme dismahl
@@ -135,9 +131,9 @@
       <lb facs="#facs_1_r3l8" n="N008"/>mich nuhr mit disen wehnigen zeilen ewer Durchlaucht
       <lb facs="#facs_1_r3l9" n="N009"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die ich sterben werde
       <lb facs="#facs_1_line_1647593585200_90" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_1_r3l10" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r3l10" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_line_1647016707085_1067" n="N012"/>EMT
-      <lb facs="#facs_1_line_1647593585200_89" n="N013"/>Wien den 13ten je<supplied >n</supplied>er 1689
+      <lb facs="#facs_1_line_1647593585200_89" n="N013"/>Wien den 13ten je<supplied>n</supplied>er 1689
       <lb facs="#facs_1_line_1647016707085_1068" n="N014"/>Aus Pollen seindt wegen meines <choice><expan>bruders</expan><abbr>b</abbr></choice> Carl
       <lb facs="#facs_1_r3l13" n="N015"/>beßere zeitung eingeloffen, vnd haben die schwedische brief,
       <lb facs="#facs_1_r3l15" n="N016"/>wie auch ewer Durchlaucht <unclear>deleltion</unclear> <add>schrift</add> gutt effecten gedan, mit

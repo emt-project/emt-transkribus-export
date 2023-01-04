@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_15_0246.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0246.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1687-11-22"></origDate></origin>
+                        <origin><origDate when-iso="1687-11-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Preßburg</placeName>
-               <date  when-iso="1687-11-22"></date>
+               <date when-iso="1687-11-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1240px"/>
+    <graphic url="Kasten_blau_45_15_0246.jpg" width="800px" height="1240px"/>
     <zone points="37,298 37,1211 780,1211 780,298" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="120,370 196,352 246,377 300,347 328,364 473,358 566,332 611,349 640,329 748,339 777,331 777,288 716,295 653,266 466,296 359,275 330,292 213,273 118,289" rendition="Line" xml:id="facs_1_r1l1"/>
         <zone points="89,395 298,396 386,419 432,393 535,415 663,382 771,386 770,345 725,364 642,329 435,370 300,347 234,377 87,318" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -117,23 +113,23 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="126 r" xml:id="Kasten_blau_45_15_0246.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Zue dero glükhsehligsten <unclear>gebur</unclear>zdag due ich aus
       <lb facs="#facs_1_r1l3" n="N003"/>innerstem kindligen gemüht ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> von
       <lb facs="#facs_1_r1l4" n="N004"/>dem almechtigen alles erdenklige wollergehn
       <lb facs="#facs_1_r1l5" n="N005"/>mit deren noch vnzahlbaren villen volgenden anwüntschen
       <lb facs="#facs_1_r1l6" n="N006"/>zue vnser aller dero <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> kinder trost, warumb
-      <lb facs="#facs_1_r1l7" n="N007"/>ich die gottlige gütte i<supplied >n</supplied>stendig bitte. Mein gröste
+      <lb facs="#facs_1_r1l7" n="N007"/>ich die gottlige gütte i<supplied>n</supplied>stendig bitte. Mein gröste
       <lb facs="#facs_1_r1l8" n="N008"/>glüksehlichkeit wirt sein zue wißen, das mich ewer Durchlaucht
-      <lb facs="#facs_1_r1l9" n="N009"/>in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> erhalten als die ich ste<supplied >r</supplied>ben werde
+      <lb facs="#facs_1_r1l9" n="N009"/>in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> erhalten als die ich ste<supplied>r</supplied>ben werde
       <lb facs="#facs_1_r1l10" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied >c</supplied>hter
+      <lb facs="#facs_1_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_1_r1l13" n="N012"/>EMT
-      <lb facs="#facs_1_r1l11" n="N013"/>Presbu<supplied >r</supplied>g den 22ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1687</ab>
+      <lb facs="#facs_1_r1l11" n="N013"/>Presbu<supplied>r</supplied>g den 22ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1687</ab>
   </div>
 </body>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_7_0177.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0177.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1696-10-13"></origDate></origin>
+                        <origin><origDate when-iso="1696-10-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,22 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1696-10-13"></date>
+               <date when-iso="1696-10-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-21">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1223" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1223px"/>
+    <graphic url="Kasten_blau_44_7_0177.jpg" width="800px" height="1223px"/>
     <zone points="54,26 54,1176 769,1176 769,26" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="49,94 64,87 82,94 120,86 139,93 152,84 174,94 208,81 217,83 217,39 192,38 173,50 152,36 126,34 105,46 98,42 78,56 49,44" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="141,489 179,505 214,484 245,500 305,486 339,511 460,490 521,513 609,485 675,500 719,476 774,486 774,431 738,424 606,410 379,426 267,391 141,391" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -114,7 +110,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1213" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1213px"/>
+    <graphic url="Kasten_blau_44_7_0178.jpg" width="800px" height="1213px"/>
     <zone points="47,81 47,1202 773,1202 773,81" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="58,122 227,111 329,146 408,113 561,107 624,134 670,107 700,126 752,106 751,49 596,35 380,88 321,61 241,90 57,66" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="59,179 328,170 425,192 451,168 599,167 685,188 730,172 730,119 673,142 588,120 474,147 432,120 363,122 336,150 216,119 174,145 105,120 59,135" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -144,10 +140,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="97 r" xml:id="Kasten_blau_44_7_0177.jpg" ed="86 r"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l2" n="N001"/><unclear>13 8bris 96</unclear>
       <lb facs="#facs_1_r1l4" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l5" n="N003"/>Ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Keiser, schiken dero Cameren <unclear>?</unclear> Goeß so woll
@@ -161,8 +157,8 @@
       <lb facs="#facs_1_r1l13" n="N011"/>mehr res integra. Also versehen sich ihr Mayestät gegen
       <lb facs="#facs_1_r1l14" n="N012"/>dero Liebden, das sie in disen concuriren werden, alles zue ver-
       <lb facs="#facs_1_r1l15" n="N013"/>hinderen, was dero höcsten autoritet, wan man sich ihr Mayestät</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+    <pb facs="#facs_2" n="97 v" xml:id="Kasten_blau_44_7_0178.jpg" ed="86 v"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>disposition widersezen solle, zuewider laufen möchte,
       <lb facs="#facs_2_r1l2" n="N002"/>ableinen. Ihr Mayestät werden hingegen wegen des directori
       <lb facs="#facs_2_r1l3" n="N003"/>vnd sonsten, welches sich alles mit dieser occasion
@@ -174,16 +170,16 @@
       <lb facs="#facs_2_r1l9" n="N009"/>einen starken feindt auf dem hals haben vnd auch
       <lb facs="#facs_2_r1l10" n="N010"/>den türken. Ihr Mayestät verlangen, das dero Liebden entweder
       <lb facs="#facs_2_r1l11" n="N011"/>einen dero ministri dorten oder, wan keiner dort ware,
-      <lb facs="#facs_2_r1l12" n="N012"/><supplied >welcher</supplied> dero Liebden völlige confidenz <supplied >hätte</supplied>, einen anderen dorthin schiken
+      <lb facs="#facs_2_r1l12" n="N012"/><supplied>welcher</supplied> dero Liebden völlige confidenz <supplied>hätte</supplied>, einen anderen dorthin schiken
       <lb facs="#facs_2_r1l13" n="N013"/>mit befehl, mit dem Goeß confidenter zu
       <lb facs="#facs_2_r1l15" n="N014"/>schprechen, <add>vnd gegen welchen er sich auch vertrewlich heraus laßen könne</add>, so wirt er hoffentlich solche rationes zeigen,
       <lb facs="#facs_2_r1l16" n="N015"/>das dero Liebden darmit zuefriden sein werden. Der liebe
       <lb facs="#facs_2_r1l17" n="N016"/>gott wolle alles zum besten wenden <seg type="blackening">ohr</seg> vndt
       <lb facs="#facs_2_r1l18" n="N017"/>aller gemüet dirigiren, das alles woll aiustirt
-      <lb facs="#facs_2_r1l19" n="N018"/>werden möge zu seiner hoehsten ehr vndt dem gemeinen <supplied >wesen</supplied>
-      <lb facs="#facs_2_r1l20" n="N019"/>vnd der religion besten. Ich aber werdest<supplied >er</supplied>ben
+      <lb facs="#facs_2_r1l19" n="N018"/>werden möge zu seiner hoehsten ehr vndt dem gemeinen <supplied>wesen</supplied>
+      <lb facs="#facs_2_r1l20" n="N019"/>vnd der religion besten. Ich aber werdest<supplied>er</supplied>ben
       <lb facs="#facs_2_line_1648394081753_1086" n="N020"/>dero Liebden
-      <lb facs="#facs_2_r1l21" n="N021"/>g<supplied >e</supplied>trewst schw<supplied >e</supplied>ster
+      <lb facs="#facs_2_r1l21" n="N021"/>g<supplied>e</supplied>trewst schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l22" n="N022"/>Eleonora
       <lb facs="#facs_2_r1l23" n="N023"/>Wien den 13ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1696</ab>
   </div>
