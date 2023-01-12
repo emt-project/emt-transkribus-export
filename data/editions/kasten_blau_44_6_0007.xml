@@ -207,7 +207,7 @@
       <lb facs="#facs_2_r1l20" n="N021"/>Laxenburg den 30ten m<supplied>a</supplied>ij 1688</ab>
     <pb facs="#facs_3" n="4 r" xml:id="Kasten_blau_44_6_0009.jpg"/>
     <ab facs="#facs_3_region_1642601812242_1277">
-      <lb facs="#facs_3_line_1642601812271_1280" n="N001"/>PS</ab>
+       <lb facs="#facs_3_line_1642601812271_1280" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice></ab>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>Auch, he<supplied>r</supplied>zliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice>, hab ich ich selbige erine<supplied>r</supplied>n wollen,
       <lb facs="#facs_3_r1l2" n="N002"/>das disen brief zue dem endt geschriben, <supplied>ihn</supplied> auf
