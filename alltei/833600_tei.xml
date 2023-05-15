@@ -31,8 +31,6 @@
         <zone points="81,806 240,792 294,816 463,818 621,783 732,788 755,781 754,740 366,762 293,747 235,770 80,775" rendition="Line" xml:id="facs_2_r1l12"/>
         <zone points="79,848 264,850 301,876 323,862 408,883 456,858 764,851 763,823 615,799 425,821 400,805 327,835 207,800 78,825" rendition="Line" xml:id="facs_2_r1l13"/>
         <zone points="73,915 522,923 569,901 723,905 757,893 756,865 541,858 515,878 457,858 414,883 329,868 72,888" rendition="Line" xml:id="facs_2_r1l14"/>
-        <zone points="71,909 417,907 739,909 775,914 776,938 680,956 316,957 17,956 16,918" rendition="Line" xml:id="facs_2_line_1638286770993_842"/>
-        <zone points="116,932 250,921 605,939 604,957 580,971 70,997 17,983 14,950" rendition="Line" xml:id="facs_2_line_1638286794817_849"/>
         <zone points="106,958 69,957 66,979 101,977 156,966 224,991 293,971 543,999 789,988 790,962 734,945 567,966 280,935 157,950" rendition="Line" xml:id="facs_2_r1l19"/>
         <zone points="40,1027 107,1010 192,1040 333,1015 514,1017 625,1046 771,1031 771,996 682,984 40,990" rendition="Line" xml:id="facs_2_r1l20"/>
         <zone points="52,1077 303,1058 469,1087 550,1071 588,1092 645,1067 740,1072 740,1033 618,1052 561,1026 328,1016 185,1047 117,1012 52,1022" rendition="Line" xml:id="facs_2_r1l21"/>
@@ -89,13 +87,11 @@
       <lb facs="#facs_2_r1l12" n="N012"/>meinem vohrigen schreiben hab als vermeld,
       <lb facs="#facs_2_r1l13" n="N013"/>so woll, das ich hoff, den Gall zue disponiren,
       <lb facs="#facs_2_r1l14" n="N014"/>das wan es wurd die not erfordern er anhandt
-      <lb facs="#facs_2_line_1638286770993_842" n="N015"/><unclear>welchs doch beßer wehr, wan man es securiren kund, wie ich verhoffe, es</unclear>
-      <lb facs="#facs_2_line_1638286794817_849" n="N016"/><unclear>sein wirt konnen, ohne das ewer Durchlaucht einzige vngelegenheit daran solten haben</unclear>
-      <lb facs="#facs_2_r1l19" n="N017"/>stehen möchte, welchs doch beßer wehr, wan man es securiren kund, wie ich verhoffe, es sein wirt konnen, ohne das ewer Durchlaucht einzige vngelegenheit daran solten haben, als auch wegen der administration in tempo-
-      <lb facs="#facs_2_r1l20" n="N018"/>ralibus wegen des Heimans, das alle meinen, mein <choice><expan>bruder</expan><abbr>br</abbr></choice> soll
-      <lb facs="#facs_2_r1l21" n="N019"/>selbst administriren, den Neander vnd Heiman zue räht
-      <lb facs="#facs_2_r1l22" n="N020"/>machen, wie ewer Durchlaucht der Stratman mit mehrem wirt
-      <lb facs="#facs_2_r1l23" n="N021"/>bericht haben. Es hatt mihr der camerdiener ein brif verlohrn</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
+      <lb facs="#facs_2_r1l19" n="N015"/>stehen möchte, welchs doch beßer wehr, wan man es securiren kund, wie ich verhoffe, es sein wirt konnen, ohne das ewer Durchlaucht einzige vngelegenheit daran solten haben, als auch wegen der administration in tempo-
+      <lb facs="#facs_2_r1l20" n="N016"/>ralibus wegen des Heimans, das alle meinen, mein <choice><expan>bruder</expan><abbr>br</abbr></choice> soll
+      <lb facs="#facs_2_r1l21" n="N017"/>selbst administriren, den Neander vnd Heiman zue räht
+      <lb facs="#facs_2_r1l22" n="N018"/>machen, wie ewer Durchlaucht der Stratman mit mehrem wirt
+      <lb facs="#facs_2_r1l23" n="N019"/>bericht haben. Es hatt mihr der camerdiener ein brif verlohrn</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
       <lb facs="#facs_3_r1l1" n="N001"/>in dem er in auf die post dr<supplied reason="">a</supplied>gen sollen, so hab dises
       <lb facs="#facs_3_r1l2" n="N002"/>widerholen wollen, imfall es etwan der brif gewesen wehre.
       <lb facs="#facs_3_r1l3" n="N003"/>Wüntsche hirmit auch ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> alle erdenklige

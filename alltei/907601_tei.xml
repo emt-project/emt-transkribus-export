@@ -37,24 +37,6 @@
         <zone points="47,1087 289,1116 337,1076 388,1111 534,1069 741,1086 789,1068 787,1015 717,1009 649,1048 515,1034 469,1061 411,1038 321,1062 204,1022 45,1044" rendition="Line" xml:id="facs_2_r1l20"/>
         <zone points="38,1155 360,1166 560,1127 780,1132 779,1089 751,1085 691,1102 593,1079 388,1112 338,1076 285,1116 37,1087" rendition="Line" xml:id="facs_2_r1l21"/>
         <zone points="54,1207 307,1181 455,1203 526,1171 716,1197 784,1185 783,1132 702,1149 575,1130 539,1158 439,1137 414,1163 352,1137 295,1167 154,1133 122,1164 53,1162" rendition="Line" xml:id="facs_2_r1l22"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1207" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="800px" height="1207px"/><zone points="21,19 21,1193 742,1193 742,19" rendition="TextRegion" xml:id="facs_3_r1">
-        <zone points="22,128 715,138 714,58 686,46 480,65 420,49 223,96 199,75 145,95 78,59 21,61" rendition="Line" xml:id="facs_3_r1l3"/>
-        <zone points="21,175 694,178 694,141 657,128 21,128" rendition="Line" xml:id="facs_3_r1l4"/>
-        <zone points="26,222 188,238 216,216 343,216 529,243 563,222 724,223 724,164 638,184 473,163 227,188 26,177" rendition="Line" xml:id="facs_3_r1l5"/>
-        <zone points="33,274 95,272 153,303 278,262 364,294 413,276 469,295 508,263 595,291 713,276 698,221 570,222 533,246 509,225 341,216 218,217 186,239 33,225" rendition="Line" xml:id="facs_3_r1l6"/>
-        <zone points="26,345 733,324 733,287 684,277 595,291 503,271 411,297 386,276 365,294 303,281 267,309 209,281 153,303 26,275" rendition="Line" xml:id="facs_3_r1l7"/>
-        <zone points="30,400 101,372 153,407 226,379 730,372 729,326 645,350 458,325 346,349 304,325 29,345" rendition="Line" xml:id="facs_3_r1l8"/>
-        <zone points="139,417 371,453 426,431 658,452 718,427 718,374 618,389 597,373 440,373 397,391 334,374 139,403" rendition="Line" xml:id="facs_3_r1l9"/>
-        <zone points="39,853 438,875 500,826 518,834 518,898 493,892 355,919 227,885 40,925" rendition="Line" xml:id="facs_3_line_1663319015381_291"/>
-        <zone points="122,997 127,995 127,993 131,994 135,992 140,985 149,985 156,980 130,928 123,931 120,938 111,943 111,945 108,945 107,948 103,946 98,949" rendition="Line" xml:id="facs_3_r1l11"/>
-        <zone points="512,1003 528,998 547,978 589,1001 634,999 641,991 670,1001 719,993 716,929 679,929 657,916 596,937 583,931 567,939 509,938" rendition="Line" xml:id="facs_3_r1l12"/>
-        <zone points="514,1042 541,1027 559,1031 577,1022 629,1049 667,1038 664,992 641,991 634,998 586,1003 546,978 527,999 511,1004" rendition="Line" xml:id="facs_3_r1l13"/>
-        <zone points="518,834 553,850 732,810 728,907 662,895 596,918 518,898" rendition="Line" xml:id="facs_3_line_1663319015381_290"/>
-        <zone points="20,1053 49,1066 121,1045 146,1066 187,1042 275,1062 332,1041 484,1048 484,994 421,1004 394,986 310,988 256,1009 216,984 110,1002 48,982 20,991" rendition="Line" xml:id="facs_3_r1l14"/>
-        <zone points="17,1051 122,1045 578,1022 693,1027 728,1044 729,1064 683,1083 622,1100 151,1115 17,1099" rendition="Line" xml:id="facs_3_line_1663319098952_306"/>
-        <zone points="16,1137 182,1150 363,1123 425,1155 521,1120 643,1138 747,1127 746,1065 621,1101 592,1079 520,1113 445,1084 209,1088 142,1114 15,1100" rendition="Line" xml:id="facs_3_r1l17"/>
-        <zone points="23,1184 735,1160 734,1124 705,1117 590,1150 538,1127 462,1153 424,1126 183,1149 23,1137" rendition="Line" xml:id="facs_3_r1l18"/>
-        <zone points="676,1190 685,1188 691,1191 696,1189 717,1190 720,1187 730,1190 737,1185 742,1185 744,1160 728,1165 725,1162 716,1167 704,1159 695,1162 678,1158" rendition="Line" xml:id="facs_3_r1l19"/>
       </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1243" xml:id="facs_4"><graphic url="%2Ffiles.jpeg" width="800px" height="1243px"/><zone points="57,15 57,661 798,661 798,15" rendition="TextRegion" xml:id="facs_4_r1">
         <zone points="60,119 103,142 135,113 230,131 393,111 420,130 441,110 595,141 789,119 788,76 635,48 59,70" rendition="Line" xml:id="facs_4_r1l2"/>
         <zone points="60,177 802,162 801,117 600,143 500,115 59,129" rendition="Line" xml:id="facs_4_r1l3"/>
@@ -104,24 +86,7 @@
       <lb facs="#facs_2_r1l19" n="N019"/>pen alsogleich herauß zue zihen, so balt keine operation
       <lb facs="#facs_2_r1l20" n="N020"/>mehr vohrgenommen werden könte, welche man doch jezt
       <lb facs="#facs_2_r1l21" n="N021"/>in bälde vohrzuenemmen verhoffet, wie dan die nö-
-      <lb facs="#facs_2_r1l22" n="N022"/>tige orders dazue bereits ergangen seindt. Die verschprochene</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r1" type="">
-      <lb facs="#facs_3_r1l3" n="N001"/>abreitung <add>vndt nachlaß</add> betreffendt, ist sich auch vmb so wehniger zue
-      <lb facs="#facs_3_r1l4" n="N002"/>beklagen, als selbiges in allem zue adempliren keine
-      <lb facs="#facs_3_r1l5" n="N003"/>difficultet gemacht worden noch könftig sein wirt. Bitte
-      <lb facs="#facs_3_r1l6" n="N004"/>also nachmahlen dero Liebden, fürohin sich nicht so leicht auf vn-
-      <lb facs="#facs_3_r1l7" n="N005"/>gleiche raport zu übereilen, insonderheit auch in dennen
-      <lb facs="#facs_3_r1l8" n="N006"/>terminis sich etwas in acht zue nemmen. Wan etwas
-      <lb facs="#facs_3_r1l9" n="N007"/><comment>vohrfallen möchte, lieber das vertrawen zue</comment>
-      <lb facs="#facs_3_line_1663319015381_291" n="N008"/>sterben werde, als verende<supplied reason="">r</supplied>n zue sein 
-      <lb facs="#facs_3_r1l11" n="N009"/>dero Liebden
-      <lb facs="#facs_3_r1l12" n="N010"/>getreweste schwester
-      <lb facs="#facs_3_r1l13" n="N011"/>Eleonora
-      <lb facs="#facs_3_line_1663319015381_290" n="N012"/>Wien den 2ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1712
-      <lb facs="#facs_3_r1l14" n="N013"/>Auch empfange ich gleich dero schreiben
-      <lb facs="#facs_3_line_1663319098952_306" n="N014"/>vom 21ten passato, anbetreffendt das zuemueten von Rohm
-      <lb facs="#facs_3_r1l17" n="N015"/>an vnsren <choice><expan>herrn</expan><abbr>h</abbr></choice> brudern, des Deütschmeister <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>, welches mich überaus
-      <lb facs="#facs_3_r1l18" n="N016"/>vngereimbt vohrkombt vndt mich nit genug verwundern
-      <lb facs="#facs_3_r1l19" n="N017"/><unclear>vertatu</unclear></ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type="">
+      <lb facs="#facs_2_r1l22" n="N022"/>tige orders dazue bereits ergangen seindt. Die verschprochene</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type="">
       <lb facs="#facs_4_r1l2" n="N001"/>kan, das der Fedl sich vnterstanden einzulaßen, eine minuta
       <lb facs="#facs_4_r1l3" n="N002"/>von ihr <choice><expan>Heiligkeit</expan><abbr>H</abbr></choice> zue begeren, wie der Deutschmeister ihme herüber
       <lb facs="#facs_4_r1l4" n="N003"/>schreiben solle, welche, wan mann nit duen wirt (wie es nit
