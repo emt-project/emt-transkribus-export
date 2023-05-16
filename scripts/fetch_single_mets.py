@@ -5,13 +5,12 @@ from transkribus_utils.transkribus_utils import ACDHTranskribusUtils
 
 user = os.environ.get("TR_USER")
 pw = os.environ.get("TR_PW")
-os.makedirs("./mets", exist_ok=True)
+col_id = os.environ.get("colId")
+doc_id = os.environ.get("docId")
 
 transkribus_client = ACDHTranskribusUtils(
     user=user, password=pw, transkribus_base_url="https://transkribus.eu/TrpServer/rest"
 )
+mets_file = transkribus_client.save_mets_to_file(doc_id, col_id)
 
-df = pd.read_csv("./col_ids.csv")
-for i, row in tqdm(df.iterrows(), total=len(df)):
-    col_id = row["coll_id"]
-    mpr_docs = transkribus_client.collection_to_mets(col_id, file_path="./mets")
+print(mets_file)
