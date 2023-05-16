@@ -37,6 +37,8 @@ jobs:
     - name: Transform to TEI
       run: |
         ./transform.sh
+    - name: Upconvert
+      run: python scripts/create_templates.py
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Exported and Transformed EMT-Transkribus Collections
