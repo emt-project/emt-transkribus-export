@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1694.02.10</title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1694.02.11</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,7 +49,7 @@
                         <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1694-02-10"/></origin>
+                        <origin><origDate when-iso="1694-02-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -66,7 +66,7 @@
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="notes">Datum: 1694 korrigiert aus 1693</ab>
+         <ab type="notes">Datum: 1694 korrigiert aus 1693, 11 korrigiert aus 10 (IP 25.1.23)</ab>
         </abstract>
         <abstract n="regest">
             <p/>
@@ -78,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1694-02-10"/>
+               <date when-iso="1694-02-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -177,7 +177,7 @@
       <lb facs="#facs_2_r1l3" n="N002"/>elegirt haben, welche sie darzue zum dauglisten
       <lb facs="#facs_2_r1l4" n="N003"/>gefunden, vndt niemandt beßer die capacitet der leütten
       <lb facs="#facs_2_r1l5" n="N004"/>kennet als ihr Mayestät selbsten. Wegen der bewusten odiosen
-      <lb facs="#facs_2_r1l6" n="N005"/>sach, so schreiben mihr <unclear>sch</unclear>, trau mihr nit re<supplied>c</supplied>ht heraus zue
+      <lb facs="#facs_2_r1l6" n="N005"/>sach, so schreiben mihr, ich trau mihr nit re<supplied>c</supplied>ht heraus zue
       <lb facs="#facs_2_r1l7" n="N006"/>schreiben, weil ich kein zifra mit dero Liebden hab, will aber
       <lb facs="#facs_2_r1l8" n="N007"/>dem Hamilton mein meinung sagen, welcher dero Liebden
       <lb facs="#facs_2_r1l9" n="N008"/>alles überschr<supplied>e</supplied>iben wirt. Wegen Parma hab ich so vill
@@ -203,7 +203,7 @@
       <lb facs="#facs_3_r1l5" n="N005"/>dero Liebden
       <lb facs="#facs_3_r1l7" n="N006"/>getrewste schwester
       <lb facs="#facs_3_line_1644076479348_2906" n="N007"/>Eleonora
-      <lb facs="#facs_3_r1l6" n="N008"/>Wien den 10ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1694
+      <lb facs="#facs_3_r1l6" n="N008"/>Wien den <seg type="comment">11ten</seg> <choice><expan>feber</expan><abbr>feb</abbr></choice> 1694
       <lb facs="#facs_3_line_1644076479348_2907" n="N009"/>Izt hab gleich dero Liebden sch<supplied>rei</supplied>ben vom 30ten passato 
       <lb facs="#facs_3_r1l9" n="N010"/>bekommen, darauf auch dises obige zue antwo<supplied>r</supplied>t die<supplied>n</supplied>t.</ab>
   </div>

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -158,7 +158,7 @@
       <lb facs="#facs_2_r1l1" n="N001"/>ihr Mayestät, mein <choice><expan>geliebsten</expan><abbr>g</abbr></choice> Keiser, sie zue zeigen vnd dero meinung ewer
       <lb facs="#facs_2_r1l2" n="N002"/>Durchlaucht mit nechstem darüber zue berichten. Wegen meines
       <lb facs="#facs_2_r1l3" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brudren könftigen vermehlung, so woll wegen Florenz
-      <lb facs="#facs_2_r1l4" n="N004"/>als andren, hab i<supplied>c</supplied>h bey vohrige<supplied>r</supplied> post <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> ausfurlich
+      <lb facs="#facs_2_r1l4" n="N004"/>als andren, hab i<supplied><unclear>c</unclear></supplied>h bey vohrig<supplied><unclear>er</unclear></supplied> post <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> ausfurlich
       <lb facs="#facs_2_r1l6" n="N005"/>bericht, <unclear>steht</unclear> dahin, was ewer Durchlaucht vnd mein <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice> sich
       <lb facs="#facs_2_r1l7" n="N006"/>noch darüber resoluiren werden, dan man im disem
       <lb facs="#facs_2_r1l8" n="N007"/>auch der inclination etwas geben mues, vnd

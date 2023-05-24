@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_44_3f_0059</title><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Kasten_blau_44_3f</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="1622" lry="2588" xml:id="facs_1"><graphic url="%2Ffiles.jpg" width="1622px" height="2588px"/><zone points="64,2315 64,2360 84,2360 84,2315" rendition="TextRegion" xml:id="facs_1_r1">
-        <zone points="73,2345 83,2347 83,2317 73,2315" rendition="Line" xml:id="facs_1_r1l1"/>
-        <zone points="64,2360 84,2360 84,2330 64,2330" rendition="Line" xml:id="facs_1_r1l2"/>
-      </zone><zone points="76,190 76,1378 1521,1378 1521,190" rendition="TextRegion" xml:id="facs_1_r2">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_44_3f_0059</title><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Kasten_blau_44_3f</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="1622" lry="2588" xml:id="facs_1"><graphic url="%2Ffiles.jpg" width="1622px" height="2588px"/><zone points="76,190 76,1378 1521,1378 1521,190" rendition="TextRegion" xml:id="facs_1_r2">
         <zone points="117,220 182,222 248,223 314,223 380,224 446,224 512,225 577,225 643,224 709,224 775,224 841,223 907,223 973,223 1038,222 1104,222 1170,222 1236,222 1302,222 1368,223 1434,223 1434,193 1368,193 1302,192 1236,192 1170,192 1104,192 1038,192 973,193 907,193 841,193 775,194 709,194 643,194 577,195 512,195 446,194 380,194 314,193 248,193 182,192 117,190" rendition="Line" xml:id="facs_1_r2l1"/>
-        <zone points="76,231 122,235 122,205 76,201" rendition="Line" xml:id="facs_1_r2l2"/>
         <zone points="230,308 294,309 358,309 422,309 486,308 550,307 614,306 678,305 742,304 806,302 871,301 935,300 999,298 1063,297 1127,296 1191,295 1255,295 1319,294 1383,294 1447,295 1512,296 1512,253 1447,252 1383,251 1319,251 1255,252 1191,252 1127,253 1063,254 999,255 935,257 871,258 806,259 742,261 678,262 614,263 550,264 486,265 422,266 358,266 294,266 230,265" rendition="Line" xml:id="facs_1_r2l3"/>
         <zone points="236,375 295,377 354,378 414,379 473,379 532,378 592,377 651,376 710,375 770,373 829,371 888,369 948,367 1007,366 1066,364 1126,363 1185,361 1244,360 1304,359 1363,359 1423,359 1423,316 1363,316 1304,316 1244,317 1185,318 1126,320 1066,321 1007,323 948,324 888,326 829,328 770,330 710,332 651,333 592,334 532,335 473,336 414,336 354,335 295,334 236,332" rendition="Line" xml:id="facs_1_r2l4"/>
         <zone points="242,446 303,447 364,448 426,448 487,448 549,448 610,447 672,446 733,445 795,444 856,442 917,441 979,440 1040,439 1102,437 1163,437 1225,436 1286,436 1348,436 1409,436 1471,437 1471,394 1409,393 1348,393 1286,393 1225,393 1163,394 1102,394 1040,396 979,397 917,398 856,399 795,401 733,402 672,403 610,404 549,405 487,405 426,405 364,405 303,404 242,403" rendition="Line" xml:id="facs_1_r2l5"/>
@@ -19,23 +15,20 @@
         <zone points="187,1231 252,1228 317,1225 382,1222 447,1221 512,1220 577,1219 642,1219 707,1219 772,1219 837,1220 902,1221 967,1222 1032,1223 1097,1224 1162,1226 1227,1227 1292,1228 1357,1229 1422,1229 1487,1230 1487,1187 1422,1186 1357,1186 1292,1185 1227,1184 1162,1183 1097,1181 1032,1180 967,1179 902,1178 837,1177 772,1176 707,1176 642,1176 577,1176 512,1177 447,1178 382,1179 317,1182 252,1185 187,1188" rendition="Line" xml:id="facs_1_r2l15"/>
         <zone points="108,1304 178,1300 249,1296 319,1292 390,1290 460,1287 531,1285 601,1283 672,1282 742,1282 813,1282 883,1282 954,1283 1024,1284 1095,1286 1165,1288 1236,1291 1306,1294 1377,1297 1447,1301 1518,1305 1518,1262 1447,1258 1377,1254 1306,1251 1236,1248 1165,1245 1095,1243 1024,1241 954,1240 883,1239 813,1239 742,1239 672,1239 601,1240 531,1242 460,1244 390,1247 319,1249 249,1253 178,1257 108,1261" rendition="Line" xml:id="facs_1_r2l16"/>
         <zone points="188,1378 234,1374 280,1371 326,1368 373,1365 419,1363 465,1360 511,1358 558,1356 604,1355 650,1354 696,1353 743,1353 789,1353 835,1353 881,1353 928,1355 974,1356 1020,1357 1066,1360 1113,1363 1113,1320 1066,1317 1020,1314 974,1313 928,1312 881,1310 835,1310 789,1310 743,1310 696,1310 650,1311 604,1312 558,1313 511,1315 465,1317 419,1320 373,1322 326,1325 280,1328 234,1331 188,1335" rendition="Line" xml:id="facs_1_r2l17"/>
-      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l1" n="N001"/>
-      <lb facs="#facs_1_r1l2" n="N002"/></ab><ab facs="#facs_1_r2" type="">
-      <lb facs="#facs_1_r2l1" n="N001"/>
-      <lb facs="#facs_1_r2l2" n="N002"/>
-      <lb facs="#facs_1_r2l3" n="N003"/>
-      <lb facs="#facs_1_r2l4" n="N004"/>
-      <lb facs="#facs_1_r2l5" n="N005"/>
-      <lb facs="#facs_1_r2l6" n="N006"/>
-      <lb facs="#facs_1_r2l7" n="N007"/>
-      <lb facs="#facs_1_r2l8" n="N008"/>
-      <lb facs="#facs_1_r2l9" n="N009"/>
-      <lb facs="#facs_1_r2l10" n="N010"/>
-      <lb facs="#facs_1_r2l11" n="N011"/>
-      <lb facs="#facs_1_r2l12" n="N012"/>
-      <lb facs="#facs_1_r2l13" n="N013"/>
-      <lb facs="#facs_1_r2l14" n="N014"/>
-      <lb facs="#facs_1_r2l15" n="N015"/>
-      <lb facs="#facs_1_r2l16" n="N016"/>
-      <lb facs="#facs_1_r2l17" n="N017"/></ab></div></body></text></TEI>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r2" type="">
+      <lb facs="#facs_1_r2l1" n="N001"/><choice><expan/><abbr>p</abbr></choice> Fang an von der haubtsach, waß anlangt, waß
+      <lb facs="#facs_1_r2l3" n="N002"/>der Seyler soll gesagt haben, wegen deß aequivalents
+      <lb facs="#facs_1_r2l4" n="N003"/>der zwey ohrten, ist nichts, vnd haben ihr <choice><expan>Mayestät</expan><abbr>May</abbr></choice>
+      <lb facs="#facs_1_r2l5" n="N004"/>auch aller ohrten desavoviren lasßen. In Schweden
+      <lb facs="#facs_1_r2l6" n="N005"/>hat man biß dato nur per generalia vnd gesambten
+      <lb facs="#facs_1_r2l7" n="N006"/>allijrten gehandelt, vnd auff kheine particularia
+      <lb facs="#facs_1_r2l8" n="N007"/>khommen. Chur Pfaltz muß wohl cautè gehen, dan
+      <lb facs="#facs_1_r2l9" n="N008"/>man siecht auß dießen, waß die franzoßen,
+      <lb facs="#facs_1_r2l10" n="N009"/>alß die nur misßtrawen vnter den allijrten
+      <lb facs="#facs_1_r2l11" n="N010"/>zue machen. <choice><expan>Pater</expan><abbr>P</abbr></choice> Wiser wirdt schon weckh sein, sonst
+      <lb facs="#facs_1_r2l12" n="N011"/>dunkt mich der Doctor ein schlechter potentat sein <choice><expan/><abbr>p</abbr></choice>
+      <lb facs="#facs_1_r2l13" n="N012"/><choice><expan>Notabene</expan><abbr>NB</abbr></choice> Hierauff haben zwahr ihre <choice><expan>churfürstliche</expan><abbr>churfürst</abbr></choice> <choice><expan>Durchlaucht</expan><abbr>Dhrt</abbr></choice>
+      <lb facs="#facs_1_r2l14" n="N013"/>selbsten aigenhändig vnterm 29ten <choice><expan>septembris</expan><abbr>sept</abbr></choice> 95
+      <lb facs="#facs_1_r2l15" n="N014"/>geantwohrtet, so auch von mihr abgeschriben,
+      <lb facs="#facs_1_r2l16" n="N015"/>sothane copia aber alsogleich <choice><expan>höchstgedachter</expan><abbr>höchstged</abbr></choice> ihrer
+      <lb facs="#facs_1_r2l17" n="N016"/><choice><expan>churfürstlichen Durchlaucht</expan><abbr>chd</abbr></choice> zugestellt werden müesßen.</ab></div></body></text></TEI>

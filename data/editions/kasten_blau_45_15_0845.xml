@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -180,7 +180,7 @@
       <lb facs="#facs_1_r1l16" n="N013"/>gahr woll bestehen, wie woll sie vill auf diser reis
       <lb facs="#facs_1_r1l17" n="N014"/>hatt müeßen ausstehn, hatt woll lang gewert,
       <lb facs="#facs_1_r1l18" n="N015"/>gottlob, das ein mahl drin ist. Hetten mihr nuhr
-      <lb facs="#facs_1_r1l19" n="N016"/><unclear>jest</unclear> den Deütschm<supplied>e</supplied>ister wider heraus, aber ist ein absonder-</ab>
+      <lb facs="#facs_1_r1l19" n="N016"/><unclear>izt</unclear> den Deütschm<supplied>e</supplied>ister wider heraus, aber ist ein absonder-</ab>
     <pb facs="#facs_2" n="177 v" xml:id="Kasten_blau_45_15_0846.jpg"/>
     <ab facs="#facs_2_r1"/>
     <ab facs="#facs_2_r2">
@@ -203,7 +203,7 @@
       <lb facs="#facs_2_r2l18" n="N017"/>den man ret hier gahr vnterschidlich. Wegen des Hemil-
       <lb facs="#facs_2_r2l19" n="N018"/>ton sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr die gnad, er
       <lb facs="#facs_2_r2l20" n="N019"/>verlangt gewis, ewer Durchlaucht tr<supplied>e</supplied>w zue dienen, vnd
-      <lb facs="#facs_2_r2l21" n="N020"/>wi<supplied>r</supplied>t sich allezeit in allem <unclear>gern</unclear> submitiren.</ab>
+      <lb facs="#facs_2_r2l21" n="N020"/>wi<supplied>r</supplied>t sich allezeit in allem gern submitiren.</ab>
     <pb facs="#facs_3" n="178 r" xml:id="Kasten_blau_45_15_0847.jpg"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_line_1652365946496_475" n="N001"/>Mit disem due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>

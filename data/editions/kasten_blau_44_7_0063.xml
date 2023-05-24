@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -170,7 +170,7 @@
   <div>
     <pb facs="#facs_1" n="37 r" xml:id="Kasten_blau_44_7_0063.jpg" ed="32 r"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>7 Februarij 96</unclear>
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>7 feb 96</unclear>
       <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l4" n="N003"/>Ich hab geste<supplied>r</supplied>n dero schreiben vom 28ten dis woll empfangen
       <lb facs="#facs_1_r1l5" n="N004"/>mit allen beylagen des <choice><expan>Pater</expan><abbr>P</abbr></choice> Wißers, deßen ich auf alle
@@ -230,7 +230,7 @@
       <lb facs="#facs_3_line_1646042503234_319" n="N017"/>dero Liebden
       <lb facs="#facs_3_r2l18" n="N018"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
       <lb facs="#facs_3_r2l20" n="N019"/>Eleonora
-      <lb facs="#facs_3_r2l19" n="N020"/>Wien den 7ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1696</ab>
+      <lb facs="#facs_3_r2l19" n="N020"/>Wien den 7ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1696</ab>
   </div>
 </body>
 

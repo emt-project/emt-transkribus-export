@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -384,7 +384,7 @@
       <lb facs="#facs_1_r1l2" n="N002"/>Bede ewer Durchlaucht <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben, mit dem curir vnd ordinari,
       <lb facs="#facs_1_r1l3" n="N003"/>hab mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice> respect vnd hochsten freiden empfangen,
       <lb facs="#facs_1_r1l4" n="N004"/>weil daraus ewer Durchlaucht wohlstandt vernommen.
-      <lb facs="#facs_1_r1l5" n="N005"/>Iezt <unclear>werden</unclear> so woll mit der post als curir
+      <lb facs="#facs_1_r1l5" n="N005"/>Iezt werden so woll mit der post als curir
       <lb facs="#facs_1_r1l6" n="N006"/>ewer Durchlaucht schon vernommen haben wegen Schpanien. Ich
       <lb facs="#facs_1_r1l7" n="N007"/>hab glaubt, der curir werd noch vohr der
       <lb facs="#facs_1_r1l8" n="N008"/>vohrigen post abgefertigt werden mit allen

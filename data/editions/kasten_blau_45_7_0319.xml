@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -168,7 +168,7 @@
   <div>
     <pb facs="#facs_1" n="16 r" xml:id="Kasten_blau_45_7_0319.jpg"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l2" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Auch empfange mich ein dero sch<supplied>r</supplied>eiben ohne datum
+      <lb facs="#facs_1_r1l2" n="N001"/><choice><expan>Postskriptum</expan><abbr>PS</abbr></choice> Auch empfange mich ein dero sch<supplied>r</supplied>eiben ohne datum
       <lb facs="#facs_1_r1l3" n="N002"/>von wegen des Fukers. Izt werden die t<supplied>i</supplied>rolischen sa<supplied>c</supplied>hen
       <lb facs="#facs_1_r1l4" n="N003"/>in anweßenheit des <choice><expan>Bruder</expan><abbr>br</abbr></choice> Carls aus gemacht, so
       <lb facs="#facs_1_r1l5" n="N004"/>werde mit nechstem dero Liebden die entlige resolution
@@ -177,7 +177,7 @@
       <lb facs="#facs_1_r1l8" n="N007"/>ihm zu lieb den Fuker zu laßen, hatt die sach
       <lb facs="#facs_1_r1l9" n="N008"/>einwehnig steken ma<supplied>c</supplied>hen, so vohr schier schon resoluirt
       <lb facs="#facs_1_r1l10" n="N009"/>wahr, izt wirts aber balt herauß kommen.
-      <lb facs="#facs_1_r1l11" n="N010"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Iezt hab ich auch empfangen dero Liebden mihr alzeit liebes schreiben vom 20ten
+      <lb facs="#facs_1_r1l11" n="N010"/><choice><expan>Postskriptum</expan><abbr>PS</abbr></choice> Iezt hab ich auch empfangen dero Liebden mihr alzeit liebes schreiben vom 20ten
       <lb facs="#facs_1_r1l12" n="N011"/>passato, in welchen ich zwar einen liebreichen, iedoch vnuerdienten
       <lb facs="#facs_1_r1l13" n="N012"/>fils bekommen, vndt wan eseinen erlaubt wär, herb zu sein,
       <lb facs="#facs_1_r1l14" n="N013"/>wurd ichs woll ein wehnig über den gutten Vrbich sein, welcher

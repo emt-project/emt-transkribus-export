@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -178,7 +178,7 @@
       <lb facs="#facs_1_r1l13" n="N013"/>ist ein artige figur. Er zeigt woll vill
       <lb facs="#facs_1_r1l14" n="N014"/>guetts vnd verschpricht vill, förcht aber, er
       <lb facs="#facs_1_r1l15" n="N015"/>werd wehnig halten, dan es ist ein wunderliger
-      <lb facs="#facs_1_line_1639400495619_3412" n="N016"/>kopf vnd der franzosich Enuoyé <unclear> </unclear> ist wie
+      <lb facs="#facs_1_line_1639400495619_3412" n="N016"/>kopf vnd der fra<supplied>n</supplied>zosisch Enuoyé <unclear> </unclear> ist wie
       <lb facs="#facs_1_r1l19" n="N017"/>sein schuzengel alzeit an der seiten. Er sagt, er</ab>
     <pb facs="#facs_2" n="106 v" xml:id="Kasten_blau_45_15_0218.jpg"/>
     <ab facs="#facs_2_r1">

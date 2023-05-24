@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -339,7 +339,7 @@
       <lb facs="#facs_2_r1l22" n="N020"/>was negotirt hette. Das seindt re<supplied>c</supplied>hte fra<supplied>n</supplied>zösische</ab>
     <pb facs="#facs_3" n="63 r" xml:id="Kasten_blau_44_7_0113.jpg" ed="54 r"/>
     <ab facs="#facs_3_r1">
-      <lb facs="#facs_3_r1l2" n="N001"/>stükel, vndt noch über alles über die insolente <unclear>re</unclear>
+      <lb facs="#facs_3_r1l2" n="N001"/>stükel, vndt noch über alles über die insolente <choice><expan>remissio</expan><abbr>re</abbr></choice>
       <lb facs="#facs_3_r1l3" n="N002"/>vnwarheit, so sich der Harcourt vnterstanden dem Wißer
       <lb facs="#facs_3_r1l4" n="N003"/>selbst zue sagen, das ich solt ein anwurf beim
       <lb facs="#facs_3_r1l5" n="N004"/>König haben duen laßen wegen des heirats meines
@@ -460,7 +460,7 @@
       <lb facs="#facs_8_r1l16" n="N015"/>Leztlich bedankh mich vmb die überschikte music
       <lb facs="#facs_8_line_1648289127884_243" n="N016"/>des festels, welche gahr schön. Bitt vmb gotts
       <lb facs="#facs_8_r1l19" n="N017"/>willen mich zue eintschuldigen bey mein<supplied>e</supplied>r libsten
-      <lb facs="#facs_8_r1l20" n="N018"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwege<supplied>ri</supplied>n, das dismahl nit sch<supplied>r</supplied>eib, ist <unclear>dißmal</unclear>
+      <lb facs="#facs_8_r1l20" n="N018"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwege<supplied>ri</supplied>n, das dismahl nit sch<supplied>r</supplied>eib, ist <unclear>dismal</unclear>
       <lb facs="#facs_8_r1l21" n="N019"/>vnmöglichk<supplied>e</supplied>it, hab mich mit disen sch<supplied>re</supplied>iben zue lang
       <lb facs="#facs_8_r1l22" n="N020"/>auf gehalten. Mihr gehen iezt gleich über nacht</ab>
     <pb facs="#facs_9" n="66 r" xml:id="Kasten_blau_44_7_0119.jpg" ed="57 r"/>
@@ -480,7 +480,7 @@
       <lb facs="#facs_9_r1l14" n="N013"/>das wi<supplied>r</supplied>t ihm woll das herz abdruken, den armen
       <lb facs="#facs_9_r1l15" n="N014"/>alten. Ich hab sonst disen menschen alzeit vohr trew
       <lb facs="#facs_9_r1l16" n="N015"/>hören besch<supplied>r</supplied>eiben, also bitt, dero Liebden wollen die sachen woll exa-
-      <lb facs="#facs_9_r1l17" n="N016"/>miniren, dan <unclear>ists</unclear> ein sach, <supplied>die</supplied> übler scheindt, als
+      <lb facs="#facs_9_r1l17" n="N016"/>miniren, dan <unclear>offt</unclear> ein sach übler scheindt, als
       <lb facs="#facs_9_line_1648289976477_292" n="N017"/>in sich selber ist. Dero Liebden vergeben mihr dis, ich bin niks
       <lb facs="#facs_9_r1l20" n="N018"/>informirt <add>in der sach</add>, sch<supplied>r</supplied>eib dis nuhr, wie es mihr beyfalt.</ab>
   </div>

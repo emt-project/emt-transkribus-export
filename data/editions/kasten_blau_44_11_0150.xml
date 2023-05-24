@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -138,7 +138,7 @@
     <pb facs="#facs_1" n="46 r" xml:id="Kasten_blau_44_11_0150.jpg"/>
     <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtigister Curfürst, mein herzliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l2" n="N002"/>Hab dero liebste schreiben vom <unclear>3ten</unclear> vndt 12ten dis woll empfa<supplied>n</supplied>gen
+      <lb facs="#facs_1_r1l2" n="N002"/>Hab dero liebste schreiben vom <unclear>3</unclear>ten vndt 12ten dis woll empfa<supplied>n</supplied>gen
       <lb facs="#facs_1_r1l3" n="N003"/>mit dem einschluß an mein <choice><expan>geliebsten</expan><abbr>g</abbr></choice> sohn, den Kaiser. Es werden aber
       <lb facs="#facs_1_r1l4" n="N004"/>indesen dero Liebden schon von mihr die nachricht empfangen haben
       <lb facs="#facs_1_r1l5" n="N005"/>vom 4ten dis, das noch gleich selbige post, als ich dero Liebden

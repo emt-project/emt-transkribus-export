@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -331,7 +331,7 @@
       <lb facs="#facs_5_r1l3" n="N001"/>ihr Mayestät schon ein mitel finden, in abzueruefen vndt einen
       <lb facs="#facs_5_r1l4" n="N002"/>dorthin zu schiken, welcher ihr <choice><expan>Heiligkeit</expan><abbr>H</abbr></choice> angenehm sein möchte.
       <lb facs="#facs_5_r1l5" n="N003"/>Dero Liebden müesen aber gahr niks melden, als wan man hir das geringste dauon wüste,
-      <lb facs="#facs_5_line_1645095963835_731" n="N004"/><add>sondern nuhr alles ganz aus sich vndt aus ihnen g<unclear>e</unclear>tt <unclear>???vnd</unclear>, so das sie</add>
+      <lb facs="#facs_5_line_1645095963835_731" n="N004"/><add>sondern nuhr alles ganz aus sich vndt aus ihnen gett <unclear>vnd</unclear> so, das sie</add>
       <lb facs="#facs_5_line_1645101095245_772" n="N005"/><seg type="comment">gahr nit merken, das man hir was daruon weiß, was dero Liebden duet, auch damit der Cardinal <add>Medici</add> und He<supplied>r</supplied>zoch von </seg>
       <lb facs="#facs_5_line_1645101123951_777" n="N006"/><seg type="comment">Modena nit meine, man wolt von hir hinter im her negotiren, weil sie sich schon darumb angenommen.</seg>
       <lb facs="#facs_5_r1l12" n="N007"/>Der Neßelraht wolt ge<supplied>r</supplied>n helfen, wan nuhr könte, es ist 

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,7 +123,7 @@
   <div>
     <pb facs="#facs_1" n="84 r" xml:id="Korrespondenzakten_1147_0135.jpg" ed="57 r"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>5. Januarij 95</unclear>
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>5. jan 95</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster
       <lb facs="#facs_1_r1l3" n="N003"/><choice><expan>herr</expan><abbr>h</abbr></choice> bruder. Weil ich gestren nit können mehr den
       <lb facs="#facs_1_r1l4" n="N004"/>brif an mein <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl überschiken aus kürze

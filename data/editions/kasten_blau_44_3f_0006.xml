@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -149,7 +149,7 @@
   <div>
     <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0006.jpg"/>
     <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l2" n="N001"/><unclear>12. <choice><expan>Januarij</expan><abbr>jan</abbr></choice> 95</unclear>
+      <lb facs="#facs_1_r2l2" n="N001"/><unclear>12. <choice><expan>januar</expan><abbr>jan</abbr></choice> 95</unclear>
       <lb facs="#facs_1_r2l3" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r2l4" n="N003"/>Entlich hab ich ein mahl dißse beygeschloßene relation
       <lb facs="#facs_1_r2l6" n="N004"/>vom Hamilton <add>gestren</add> empfangen, in welcher er sich zwar beziehet
@@ -160,7 +160,7 @@
       <lb facs="#facs_1_r2l11" n="N009"/>ihm haben, zueschiken, damit hinfüro in selbiger möge
       <lb facs="#facs_1_r2l12" n="N010"/>geschriben werden. Ich hab mihr nit getraut mit handen in
       <lb facs="#facs_1_r2l13" n="N011"/>diser materi auszuelaßen, darumb entlich die sach
-      <lb facs="#facs_1_r2l14" n="N012"/><unclear>dem</unclear> Schellerer vertraut vndt durch ihm dise beygeschloßne
+      <lb facs="#facs_1_r2l14" n="N012"/>dem Schellerer vertraut vndt durch ihm dise beygeschloßne
       <lb facs="#facs_1_r2l15" n="N013"/>antwort schreiben laßen, von niemant vnterschriben, vndt
       <lb facs="#facs_1_r2l16" n="N014"/>also werde hinfüro dise corespondens continuiren. Dero Liebden werden
       <lb facs="#facs_1_r2l17" n="N015"/>daraus ersehn, was ich ihm vohr precautiones aufgebe

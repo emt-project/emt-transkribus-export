@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -136,11 +136,11 @@
     <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleuchtiger Cuhrfürst, mein herzallerlibster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ich bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung, das ich ewer
-      <lb facs="#facs_1_r1l3" n="N003"/><unclear>Durchlaucht</unclear> bey vohriger post das schreiben von der Königin
+      <lb facs="#facs_1_r1l3" n="N003"/><unclear>Liebden</unclear> bey vohriger post das schreiben von der Königin
       <lb facs="#facs_1_r1l4" n="N004"/>in Schpanien vergeßen einzueschließen, es kombt hier
       <lb facs="#facs_1_r1l5" n="N005"/>bey. Ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, vnd ich werden nit vnterl<supplied>a</supplied>ßen
       <lb facs="#facs_1_r1l6" n="N006"/>das werkh weiter zue dreiben, das aufs wehnigste
-      <lb facs="#facs_1_r1l8" n="N007"/>balt die 100 <unclear>m</unclear> gulden möchten in Portugal übermacht
+      <lb facs="#facs_1_r1l8" n="N007"/>balt die 100 m gulden möchten in Portugal übermacht
       <lb facs="#facs_1_r1l9" n="N008"/>werden. Bitt auch <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> vmb vergebung, das
       <lb facs="#facs_1_r1l10" n="N009"/>ich bey heüntiger post kurz schreibe, die geistlige
       <lb facs="#facs_1_r1l11" n="N010"/>hochzeit ist schuldig daran, seint etwas schpaht aus

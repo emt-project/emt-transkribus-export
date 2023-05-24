@@ -88,17 +88,13 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1213" xml:id="facs_1">
     <graphic url="Kasten_blau_44_6_0043.jpg" width="800px" height="1213px"/>
     <zone points="12,60 12,1206 765,1206 765,60" rendition="TextRegion" xml:id="facs_1_r1">
-        <zone points="111,260 393,290 457,267 563,284 755,273 754,227 579,241 458,208 412,236 332,223 297,244 263,228 111,244" rendition="Line" xml:id="facs_1_r1l5"/>
-        <zone points="73,237 207,242 290,217 367,238 458,207 502,233 553,210 755,239 762,179 598,194 522,167 479,195 265,204 204,178 72,203" rendition="Line" xml:id="facs_1_r1l4"/>
-        <zone points="58,171 395,173 461,200 522,167 595,168 720,197 768,168 768,137 346,141 237,105 150,148 58,140" rendition="Line" xml:id="facs_1_r1l3"/>
-        <zone points="510,146 551,147 592,123 609,122 655,141 695,114 740,127 740,77 669,76 618,102 570,100 545,89 510,100" rendition="Line" xml:id="facs_1_r1l2"/>
         <zone points="86,354 190,340 292,374 351,356 399,372 467,335 680,341 748,325 746,272 518,279 429,309 165,272 83,285" rendition="Line" xml:id="facs_1_r1l6"/>
         <zone points="44,449 297,404 408,435 488,395 536,418 734,379 732,341 694,335 455,339 351,379 39,351" rendition="Line" xml:id="facs_1_r1l7"/>
         <zone points="45,492 111,458 172,480 229,458 280,484 441,458 517,484 733,444 732,407 441,415 343,441 186,416 43,448" rendition="Line" xml:id="facs_1_r1l8"/>
@@ -120,6 +116,10 @@
         <zone points="431,1199 455,1192 465,1199 513,1194 539,1204 555,1194 578,1206 615,1198 648,1208 647,1170 631,1167 589,1172 546,1156 540,1162 430,1171" rendition="Line" xml:id="facs_1_r1l23"/>
         <zone points="244,1147 258,1155 318,1129 351,1144 430,1120 465,1143 465,1176 409,1156 375,1180 333,1162 303,1179 269,1166 244,1172" rendition="Line" xml:id="facs_1_line_1643372755549_2060"/>
         <zone points="307,1204 312,1205 316,1210 328,1209 335,1205 346,1213 353,1210 356,1215 366,1214 372,1169 352,1169 348,1164 341,1167 332,1162 321,1168 313,1166" rendition="Line" xml:id="facs_1_r1l25"/>
+        <zone points="111,260 393,290 457,267 563,284 755,273 754,227 579,241 458,208 412,236 332,223 297,244 263,228 111,244" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="73,237 207,242 290,217 367,238 458,207 502,233 553,210 755,239 762,179 598,194 522,167 479,195 265,204 204,178 72,203" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="58,171 395,173 461,200 522,167 595,168 720,197 768,168 768,137 346,141 237,105 150,148 58,140" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="510,146 551,147 592,123 609,122 655,141 695,114 740,127 740,77 669,76 618,102 570,100 545,89 510,100" rendition="Line" xml:id="facs_1_r1l2"/>
       </zone>
   </surface>
 </facsimile>
@@ -129,31 +129,31 @@
   <div>
     <pb facs="#facs_1" n="30 r" xml:id="Kasten_blau_44_6_0043.jpg"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l5" n="N001"/>Heüt kombt die He<supplied>r</supplied>zogin von Wirtenberg wider zue mier.
-      <lb facs="#facs_1_r1l4" n="N002"/><unclear>die Princes An ist natürlich Margraf Herman</unclear> 
-      <lb facs="#facs_1_r1l3" n="N003"/>solten ein minuet miteinander dansen, er Venus
-      <lb facs="#facs_1_r1l2" n="N004"/>vnd sie Cupido. 
-      <lb facs="#facs_1_r1l6" n="N005"/>Durchleüchtiger Fürst, h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> bruder
-      <lb facs="#facs_1_r1l7" n="N006"/>Ich hoff, dero Liebden werden diser brif gelükhlich
-      <lb facs="#facs_1_r1l8" n="N007"/>zue Düßeldorf angelangt finden, welchs
-      <lb facs="#facs_1_r1l9" n="N008"/>mich über alles erfrewen wirt zue vernemmen.
-      <lb facs="#facs_1_r1l10" n="N009"/>Es hatt mich der <choice><expan>Pater</expan><abbr>P</abbr></choice> Isidorus vnd Hamilton
-      <lb facs="#facs_1_r1l11" n="N010"/>gebetten, den Obrist <unclear>Weilx</unclear> bey dero Liebden zue
-      <lb facs="#facs_1_r1l12" n="N011"/>recommendiren, weil der Frankenberg gestorben
-      <lb facs="#facs_1_r1l13" n="N012"/>vnd sein regiment vacirent ist. In Vngeren
-      <lb facs="#facs_1_r1l14" n="N013"/>hatt er sich gar woll gehalten vnd haben
-      <lb facs="#facs_1_r1l15" n="N014"/>ihn alle vohr ein guetten officir estimirt.
-      <lb facs="#facs_1_r1l16" n="N015"/>Hier ist izt schandtlich schandtlich wetter,
-      <lb facs="#facs_1_r1l17" n="N016"/>hoff nit, das dero Liebden in dero reis verhinderlich sein
-      <lb facs="#facs_1_r1l18" n="N017"/>wirt, wehniger an der gesuntheit schaden. Mit
-      <lb facs="#facs_1_r1l19" n="N018"/>meiner Ther<supplied>e</supplied>sel seint gottlob keine blatte<supplied>r</supplied>n,
-      <lb facs="#facs_1_r1l20" n="N019"/>ist nuhr von der <unclear>gall</unclear> ein fieber gewest. Ich
-      <lb facs="#facs_1_r1l21" n="N020"/>sterbe
-      <lb facs="#facs_1_line_1643372719072_2055" n="N021"/>dero Liebden
-      <lb facs="#facs_1_line_1643372755549_2059" n="N022"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
-      <lb facs="#facs_1_r1l23" n="N023"/>Eleonora
-      <lb facs="#facs_1_line_1643372755549_2060" n="N024"/>Augschpurg den 7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice>
-      <lb facs="#facs_1_r1l25" n="N025"/>1689</ab>
+      <lb facs="#facs_1_r1l6" n="N001"/>Durchleüchtiger Fürst, h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> bruder
+      <lb facs="#facs_1_r1l7" n="N002"/>Ich hoff, dero Liebden werden diser brif gelükhlich
+      <lb facs="#facs_1_r1l8" n="N003"/>zue Düßeldorf angelangt finden, welchs
+      <lb facs="#facs_1_r1l9" n="N004"/>mich über alles erfrewen wirt zue vernemmen.
+      <lb facs="#facs_1_r1l10" n="N005"/>Es hatt mich der <choice><expan>Pater</expan><abbr>P</abbr></choice> Isidorus vnd Hamilton
+      <lb facs="#facs_1_r1l11" n="N006"/>gebetten, den Obrist Weilx bey dero Liebden zue
+      <lb facs="#facs_1_r1l12" n="N007"/>recommendiren, weil der Frankenberg gestorben
+      <lb facs="#facs_1_r1l13" n="N008"/>vnd sein regiment vacirent ist. In Vngeren
+      <lb facs="#facs_1_r1l14" n="N009"/>hatt er sich gar woll gehalten vnd haben
+      <lb facs="#facs_1_r1l15" n="N010"/>ihn alle vohr ein guetten officir estimirt.
+      <lb facs="#facs_1_r1l16" n="N011"/>Hier ist izt schandtlich schandtlich wetter,
+      <lb facs="#facs_1_r1l17" n="N012"/>hoff nit, das dero Liebden in dero reis verhinderlich sein
+      <lb facs="#facs_1_r1l18" n="N013"/>wirt, wehniger an der gesuntheit schaden. Mit
+      <lb facs="#facs_1_r1l19" n="N014"/>meiner Ther<supplied>e</supplied>sel seint gottlob keine blatte<supplied>r</supplied>n,
+      <lb facs="#facs_1_r1l20" n="N015"/>ist nuhr von der <unclear>gall</unclear> ein fieber gewest. Ich
+      <lb facs="#facs_1_r1l21" n="N016"/>sterbe
+      <lb facs="#facs_1_line_1643372719072_2055" n="N017"/>dero Liebden
+      <lb facs="#facs_1_line_1643372755549_2059" n="N018"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
+      <lb facs="#facs_1_r1l23" n="N019"/>Eleonora
+      <lb facs="#facs_1_line_1643372755549_2060" n="N020"/>Augschpurg den 7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice>
+      <lb facs="#facs_1_r1l25" n="N021"/>1689
+      <lb facs="#facs_1_r1l5" n="N022"/>Heüt kombt die He<supplied>r</supplied>zogin von Wirtenberg wider zue mier.
+      <lb facs="#facs_1_r1l4" n="N023"/><unclear>die Princes An ist natürlich Margraf Herman</unclear> 
+      <lb facs="#facs_1_r1l3" n="N024"/>solten ein minuet miteinander dansen, er Venus
+      <lb facs="#facs_1_r1l2" n="N025"/>vnd sie Cupido. </ab>
   </div>
 </body>
 

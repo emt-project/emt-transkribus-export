@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,11 +135,11 @@
       <lb facs="#facs_1_line_1645114412725_1401" n="N011"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
       <lb facs="#facs_1_line_1645114418371_1407" n="N012"/>Eleonora
       <lb facs="#facs_1_line_1645114412725_1402" n="N013"/>Fauorita den 23ten junij 1699
-      <lb facs="#facs_1_line_1645114418371_1408" n="N014"/>Ich bin woll vhrsa<supplied>c</supplied>h, das er sich <unclear>???</unclear>
-      <lb facs="#facs_1_r1l20" n="N015"/>dag le<supplied>n</supplied>ger aufgehalten, den hab vermei<supplied>n</supplied>t, die <unclear>promotion</unclear> werd
+      <lb facs="#facs_1_line_1645114418371_1408" n="N014"/>Ich bin woll vhrsa<supplied>c</supplied>h, das er sich <unclear>10</unclear>
+      <lb facs="#facs_1_r1l20" n="N015"/>dag le<supplied>n</supplied>ger aufgehalten, den hab vermei<supplied>n</supplied>t, die promotion werd
       <lb facs="#facs_1_r1l22" n="N016"/>heraus kommen, hab auch nit z<supplied>e</supplied>it g<supplied>e</supplied>hebt ehe<supplied>n</supplied>der zu sch<supplied>rei</supplied>ben.
-      <lb facs="#facs_1_line_1645115461849_1452" n="N017"/>Wüntsch dero Liebden milion glükh vndt alles, was sie selber
-      <lb facs="#facs_1_line_1645115476018_1457" n="N018"/>verla<supplied>n</supplied>gen zue dem morgigen dag des <choice><expan>heiligen</expan><abbr>h</abbr></choice> Joanes, <unclear>mit</unclear> villen uolgenden <unclear>???</unclear></ab>
+      <lb facs="#facs_1_line_1645115461849_1452" n="N017"/><seg type="comment">Wüntsch dero Liebden milion glükh vndt alles, was sie selber</seg>
+      <lb facs="#facs_1_line_1645115476018_1457" n="N018"/>verla<supplied>n</supplied>gen zue dem morgigen dag des <choice><expan>heiligen</expan><abbr>h</abbr></choice> Joanes, <unclear>mit</unclear> villen uolgenden <unclear>iaren</unclear>.</ab>
   </div>
 </body>
 

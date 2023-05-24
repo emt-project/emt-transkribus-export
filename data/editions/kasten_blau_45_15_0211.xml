@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -176,7 +176,7 @@
       <lb facs="#facs_1_r1l12" n="N012"/>welches sie auch dem König in Portugal nit
       <lb facs="#facs_1_r1l13" n="N013"/>difficultiren werden zue geben vnd er auch nit
       <lb facs="#facs_1_r1l14" n="N014"/>mehrer wirt pretendiren können. Sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice>
-      <lb facs="#facs_1_r1l15" n="N015"/>dankh, das sie mihr zue meine cuhr so vill <unclear>get</unclear>
+      <lb facs="#facs_1_r1l15" n="N015"/>dankh, das sie mihr zue meine cuhr so vill <unclear>ges</unclear>
       <lb facs="#facs_1_r1l16" n="N016"/>wüntsch, befindt mich darauf gottlob gahr woll. Bin
       <lb facs="#facs_1_r1l17" n="N017"/>woll auch von herzen froh, das die liebe Erzherzogin
       <lb facs="#facs_1_r1l18" n="N018"/>wider beßer ist, gott erhalt sie vnd geb ihr, was</ab>

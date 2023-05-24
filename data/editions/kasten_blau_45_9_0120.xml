@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -198,7 +198,7 @@
       <lb facs="#facs_1_r1l11" n="N010"/>dero <choice><expan>gnädigste</expan><abbr>g</abbr></choice> meinung noch mit dem Bonuisi
       <lb facs="#facs_1_r1l12" n="N011"/>vberlegen laßen vndt es mit nechstem
       <lb facs="#facs_1_r1l13" n="N012"/>ewer Durchlaucht können bericht werden. In Schpani<supplied>en</supplied>,
-      <lb facs="#facs_1_r1l14" n="N013"/>Napoli <unclear>halbend</unclear> vnd dem Grana haben
+      <lb facs="#facs_1_r1l14" n="N013"/>Napoli, Holland vnd dem Grana haben
       <lb facs="#facs_1_line_1637055157799_1641" n="N014"/>ihr Mayestät schon geschrieben, erwarten die antwort
       <lb facs="#facs_1_r1l17" n="N015"/>vnd werden allezeit verners gerne bestens
       <lb facs="#facs_1_line_1637055164182_1646" n="N016"/>cooperiren. Ich vermein auch woll, die
@@ -234,7 +234,7 @@
       <lb facs="#facs_3_r1l6" n="N006"/>wan auch der Königsekh solte wekh kommen,
       <lb facs="#facs_3_r1l7" n="N007"/>seint mihr nit sicher bey diesem Kuhrfürsten,
       <lb facs="#facs_3_r1l8" n="N008"/>ihn zue erhalten. Mein <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> meinung aber
-      <lb facs="#facs_3_r1l9" n="N009"/>wegen des <unclear>anteungs</unclear> schreiben werden ewer Durchlaucht
+      <lb facs="#facs_3_r1l9" n="N009"/>wegen des <unclear>ante<supplied>ut</supplied>ungs</unclear> schreiben werden ewer Durchlaucht
       <lb facs="#facs_3_r1l10" n="N010"/>vom Stratman <choice><expan>gnädigst</expan><abbr>g</abbr></choice> vernommen haben.
       <lb facs="#facs_3_r1l11" n="N011"/>Dah werde ich, was ewer Durchlaucht verners <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befehlen
       <lb facs="#facs_3_r1l13" n="N012"/>werden, meiner schuldichkeit gemeß blind gehor-

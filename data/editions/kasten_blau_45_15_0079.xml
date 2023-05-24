@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -147,7 +147,7 @@
       <lb facs="#facs_1_r2l11" n="N011"/>sein gnad. Was von Offen schike hierbey, gott gebe
       <lb facs="#facs_1_r2l12" n="N012"/>balt den erwünschten effect. Wan mihrs nit
       <lb facs="#facs_1_r2l13" n="N013"/>balt balt krigen, so wirt mihr angst darbey,
-      <lb facs="#facs_1_r2l14" n="N014"/><unclear>bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice></unclear> wie wohl die schprengung des magazins mihr
+      <lb facs="#facs_1_r2l14" n="N014"/>bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> wie wohl die schprengung des magazins mihr
       <lb facs="#facs_1_r2l15" n="N015"/>hoffnung macht vnd mues ein großer gewalt
       <lb facs="#facs_1_r2l16" n="N016"/>gewesen sein, dan die hüetter hier in den wein
       <lb facs="#facs_1_line_1638789650534_1581" n="N017"/>bergen gesacht, es sey ein solcher rumor geweßen,</ab>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">Kasten_blau_44_7_0397_duplicated</title><principal>anna.spitzbart@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Kasten_blau_44_7</title></seriesStmt><sourceDesc><p>TRP document creator: anna.spitzbart@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/><zone points="49,507 49,1112 746,1112 746,507" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="52,572 153,582 181,555 205,573 320,555 362,578 458,545 509,566 548,542 751,541 750,488 725,475 657,506 545,474 459,498 50,470" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="59,637 152,611 270,634 330,602 746,619 745,566 676,573 630,550 500,571 448,554 379,579 321,555 261,575 182,555 152,582 112,564 58,579" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="65,676 206,681 246,662 380,687 475,645 558,643 698,672 732,668 731,622 353,605 262,638 186,645 141,615 64,644" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="61,731 208,732 263,707 447,751 508,713 600,732 641,701 719,699 718,672 658,654 598,671 516,655 472,685 428,662 288,694 114,669 60,699" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="69,783 719,765 718,725 658,719 510,719 437,748 266,715 178,756 115,725 68,731" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="67,842 188,823 219,847 298,846 392,816 504,851 714,823 712,781 512,762 326,790 265,763 218,789 106,777 66,795" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="68,909 159,911 243,882 406,908 442,887 506,909 656,881 724,900 734,821 470,853 411,831 267,860 176,838 66,848" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="71,957 295,943 327,961 357,937 417,959 668,960 701,944 701,919 552,896 408,921 367,894 309,903 259,883 211,915 70,911" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="68,1025 225,996 299,1022 331,1004 386,1007 382,938 357,938 327,961 291,946 249,959 228,947 190,959 154,952 139,966 64,960" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="186,1067 194,1070 202,1066 206,1068 226,1054 249,1051 252,1001 222,997 213,1003 208,999 194,1006 189,1005" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="468,1073 479,1069 491,1076 511,1066 565,1062 605,1085 647,1066 676,1063 675,1024 613,1032 565,1023 545,1030 518,1017 467,1033" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="477,1072 681,1072 680,1116 647,1124 569,1106 477,1125" rendition="Line" xml:id="facs_1_line_1649422389239_835"/>
+        <zone points="44,1066 135,1081 306,1035 355,1047 355,1127 43,1117" rendition="Line" xml:id="facs_1_line_1649422380932_831"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="800" lry="1203" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="800px" height="1203px"/><zone points="346,501 573,501 573,838 346,838" rendition="TextRegion" xml:id="facs_2_region_1647876593351_1390">
+        <zone points="475,528 466,544 499,627 484,656 499,692 481,724 495,740 484,762 505,798 505,826 557,824 555,782 570,760 544,676 513,638 518,605 563,548 564,525" rendition="Line" xml:id="facs_2_line_1647876598081_1393"/>
+        <zone points="447,512 457,549 445,577 455,740 426,795 431,812 502,812 472,722 496,630 486,576 467,545 481,512" rendition="Line" xml:id="facs_2_line_1647876600671_1398"/>
+        <zone points="395,518 397,545 375,615 394,661 380,734 391,774 436,774 455,740 448,660 456,649 440,593 450,561 430,533 434,518" rendition="Line" xml:id="facs_2_line_1647876602761_1403"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l2" n="N002"/>Ich bedankh mich zum schönsten wegen des guetten wuntsch
+      <lb facs="#facs_1_r1l3" n="N003"/>vndt newen iahr, dero Liebden zeigen halt immer, das sie ihr
+      <lb facs="#facs_1_r1l4" n="N004"/>alte schwester noch in ihrer affecten erhalten. Mihr
+      <lb facs="#facs_1_r1l5" n="N005"/>ist nuhr leidt, das nit vill gelegenheit hatte,
+      <lb facs="#facs_1_r1l6" n="N006"/>dero Liebden mein herzlige lieb zu erweißen. Wüntsche
+      <lb facs="#facs_1_r1l7" n="N007"/>dero Liebden von dem almechtigen alle glükhsehlikeiten
+      <lb facs="#facs_1_r1l8" n="N008"/>leibs vndt der sehlen, so sie selbsten verlangen,
+      <lb facs="#facs_1_r1l9" n="N009"/>ich aber werde st<supplied reason="">er</supplied>ben
+      <lb facs="#facs_1_r1l10" n="N010"/>dero Liebden
+      <lb facs="#facs_1_r1l11" n="N011"/>getrewst schw<supplied reason="">e</supplied>ster
+      <lb facs="#facs_1_line_1649422389239_835" n="N012"/>Eleonora
+      <lb facs="#facs_1_line_1649422380932_831" n="N013"/>Wien den 15ten <choice><expan>iener</expan><abbr>ier</abbr></choice> 1698</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_region_1647876593351_1390" type="">
+      <lb facs="#facs_2_line_1647876598081_1393" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Cuhrfürsten
+      <lb facs="#facs_2_line_1647876600671_1398" n="N002"/>zue Pfalz, meinen herz
+      <lb facs="#facs_2_line_1647876602761_1403" n="N003"/>allerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> brudern</ab></div></body></text></TEI>

@@ -55,7 +55,7 @@
         <zone points="106,742 158,756 244,737 278,753 420,734 420,822 407,828 372,801 320,796 108,828" rendition="Line" xml:id="facs_3_line_1656922091082_87"/>
         <zone points="86,832 313,796 415,827 448,810 448,861 397,870 86,863" rendition="Line" xml:id="facs_3_line_1656922098106_92"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>23. 9bris 95</unclear>
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>23. <choice><expan>novembris</expan><abbr>9bris</abbr></choice> 95</unclear>
       <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> br<supplied reason="">u</supplied>der
       <lb facs="#facs_1_r1l4" n="N003"/>Ich hab dero schreiben durch den curir wol empfangen, 
       <lb facs="#facs_1_r1l5" n="N004"/>auch das bey geschloßene ihr Mayestät fleisich überliuert.
@@ -97,7 +97,7 @@
       <lb facs="#facs_3_r1l3" n="N002"/>memorial vom Scheffer wegen des Irrmans
       <lb facs="#facs_3_r1l4" n="N003"/>kinder. Bit, dero Liebden wollens ihnen laßen befohlen sein, die
       <lb facs="#facs_3_r1l5" n="N004"/>armen weißl kommen sonst vmb das ihrige,
-      <lb facs="#facs_3_r1l6" n="N005"/>der <unclear>abgeschamchte</unclear> Haxthausen duet, was er will.
+      <lb facs="#facs_3_r1l6" n="N005"/>der <unclear>abgeschamchte</unclear> Holthausen duet, was er will.
       <lb facs="#facs_3_r1l7" n="N006"/>Ist mihr einmahl vnmöglich, heündt auf
       <lb facs="#facs_3_r1l8" n="N007"/>die andren puncten, so mihr dero Liebden im vohrigen brif
       <lb facs="#facs_3_r1l9" n="N008"/>geschriben, zu antworten, weil die z<supplied reason="">e</supplied>it zukurz. Due
@@ -106,5 +106,5 @@
       <lb facs="#facs_3_line_1656922091082_86" n="N011"/>getre<supplied reason="">w</supplied>ste schw<supplied reason="">e</supplied>ster
       <lb facs="#facs_3_line_1656922098106_91" n="N012"/>Eleonora
       <lb facs="#facs_3_r1l11" n="N013"/>Wien den 23ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1695
-      <lb facs="#facs_3_line_1656922091082_87" n="N014"/>Ihr Mayestät haben die sachen aufgehebt
-      <lb facs="#facs_3_line_1656922098106_92" n="N015"/>sie werdens b<supplied reason="">e</supplied>y sich behalten.</ab></div></body></text></TEI>
+      <lb facs="#facs_3_line_1656922091082_87" n="N014"/>Ihr Mayestät haben die sachen aufgehebt,
+      <lb facs="#facs_3_line_1656922098106_92" n="N015"/>sie werdens bey sich behalten.</ab></div></body></text></TEI>

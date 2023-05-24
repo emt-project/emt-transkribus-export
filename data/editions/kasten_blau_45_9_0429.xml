@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -161,8 +161,8 @@
         <zone points="49,1075 118,1044 198,1057 289,1025 394,1048 717,980 755,993 784,977 780,934 716,963 581,952 287,1007 42,1000" rendition="Line" xml:id="facs_3_r1l27"/>
         <zone points="15,1101 500,1102 781,1045 765,988 539,1039 351,1037 302,1065 130,1042 70,1074 13,1062" rendition="Line" xml:id="facs_3_r1l28"/>
         <zone points="54,1166 347,1144 427,1163 480,1129 594,1122 744,1150 792,1122 789,1073 709,1059 501,1100 122,1092 51,1115" rendition="Line" xml:id="facs_3_r1l29"/>
-        <zone points="24,9 18,1027 12,1180 43,1176 37,9" rendition="Line" xml:id="facs_3_line_1637078415076_7382"/>
         <zone points="35,6 33,1158 72,1128 48,438 96,176 82,7" rendition="Line" xml:id="facs_3_line_1637078391507_7377"/>
+        <zone points="24,9 18,1027 12,1180 43,1176 37,9" rendition="Line" xml:id="facs_3_line_1637078415076_7382"/>
         <zone points="0,962 -1,1034 3,1039 3,1046 20,1046 20,962" rendition="Line" xml:id="facs_3_line_1637078420613_7387"/>
       </zone>
   </surface>
@@ -264,8 +264,8 @@
       <lb facs="#facs_3_r1l27" n="N018"/>wehre (dan die reis nuhr blos auf die cur vnd
       <lb facs="#facs_3_r1l28" n="N019"/>nit langer angesehn, wurden im herbst schon wider
       <lb facs="#facs_3_r1l29" n="N020"/>zue haus sein) einige gefahr der landen bestehn soll.
-      <lb facs="#facs_3_line_1637078415076_7382" n="N021"/>ewer Durchlaucht wollen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl <choice><expan>gnädig</expan><abbr>g</abbr></choice> sein vnd verhelfen, das sein esquipage balt zuesammen komme, er wi<supplied>r</supplied>ts <unclear>gesen ???</unclear>
-      <lb facs="#facs_3_line_1637078391507_7377" n="N022"/>Der Herzoch von Lottrin wirt bis samstag kommen, darnach wirt balt die campagne angehen,
+      <lb facs="#facs_3_line_1637078391507_7377" n="N021"/>Der Herzoch von Lottrin wirt bis samstag kommen, darnach wirt balt die campagne angehen,
+      <lb facs="#facs_3_line_1637078415076_7382" n="N022"/>ewer Durchlaucht wollen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl <choice><expan>gnädig</expan><abbr>g</abbr></choice> sein vnd verhelfen, das sein esquipage balt zuesammen komme, er wi<supplied>r</supplied>ts gewis <unclear>???</unclear>
       <lb facs="#facs_3_line_1637078420613_7387" n="N023"/>im felt.</ab>
     <pb facs="#facs_4" n="256 v" xml:id="Kasten_blau_45_9_0432.jpg"/>
     <ab facs="#facs_4_r1">

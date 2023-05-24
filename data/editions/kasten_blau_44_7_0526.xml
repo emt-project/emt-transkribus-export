@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +145,7 @@
       <lb facs="#facs_1_r1l8" n="N005"/>zu vernemmen. Wüntsch dero Liebden zu diesen <choice><expan>heiligen</expan><abbr>h</abbr></choice>
       <lb facs="#facs_1_r1l10" n="N006"/>veird<supplied>a</supplied>gen <add>vndt newen jahr</add> als, was sie selber verlangen
       <lb facs="#facs_1_r1l11" n="N007"/>können vndt bitt, mich in dero affection zu
-      <lb facs="#facs_1_r1l12" n="N008"/>erhalt. Ich hab neülich vergeßen, dero Liebden <unclear>die</unclear> nunnen
+      <lb facs="#facs_1_r1l12" n="N008"/>erhalt. Ich hab neülich vergeßen, dero Liebden die nunnen
       <lb facs="#facs_1_r1l13" n="N009"/>von Münstereifel zu reccomendiren, die
       <lb facs="#facs_1_r1l14" n="N010"/>carmelitterin, woh mein camerdienerin, die Margo,
       <lb facs="#facs_1_r1l15" n="N011"/>drinen ist. Sie seint gahr arm, alle gnaden, so

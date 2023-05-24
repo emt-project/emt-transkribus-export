@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -167,11 +167,11 @@
       <lb facs="#facs_2_r1l4" n="N004"/>hier müeßen sein, dan wirt die campagne anfangen.
       <lb facs="#facs_2_r1l5" n="N005"/>Prinz Louis ist ein wakrern herr, aber allein bey Cuhrfürsten,
       <lb facs="#facs_2_r1l6" n="N006"/>seindt bede etwas jung. Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung,
-      <lb facs="#facs_2_r1l7" n="N007"/>das so wehnig schreib, weil heündt nit <unclear>fr</unclear> eingenommen,
+      <lb facs="#facs_2_r1l7" n="N007"/>das so wehnig schreib, weil heündt mit <choice><expan>erlaubnis</expan><abbr>er</abbr></choice> eingenommen,
       <lb facs="#facs_2_r1l8" n="N008"/>so derf nit vill sch<supplied>r</supplied>eiben. Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde
       <lb facs="#facs_2_r1l9" n="N009"/>sterben
       <lb facs="#facs_2_r1l10" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <unclear>trghrs</unclear> d<supplied>o</supplied>chter
+      <lb facs="#facs_2_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamst</expan><abbr>trghrs</abbr></choice> d<supplied>o</supplied>chter
       <lb facs="#facs_2_r1l13" n="N012"/>EMT
       <lb facs="#facs_2_r1l11" n="N013"/>Wien den 18ten aprill 1686</ab>
   </div>

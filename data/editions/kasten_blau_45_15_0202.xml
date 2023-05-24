@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -201,14 +201,14 @@
       <lb facs="#facs_2_r1l16" n="N016"/>zue haus zue bleiben, insonderheit wan sein
       <lb facs="#facs_2_r1l17" n="N017"/>gesuntheit ein andres erfordret, von deme mihr
       <lb facs="#facs_2_r1l18" n="N018"/>dahrzuemahlen nichts gewust als von ein kleinen
-      <lb facs="#facs_2_r1l19" n="N019"/>f<unclear>ei</unclear>ber, das gleich vergangen, so werden ihr Mayestät
+      <lb facs="#facs_2_r1l19" n="N019"/>feiber, das gleich vergangen, so werden ihr Mayestät
       <lb facs="#facs_2_r1l20" n="N020"/>in alles gern consentiren. Das dem portugeßer
       <lb facs="#facs_2_r1l21" n="N021"/>die iagen gefallen werden, ist kein zweifel, weil er</ab>
     <pb facs="#facs_3" n="98 r" xml:id="Kasten_blau_45_15_0204.jpg"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>dergleichen in Portugal nit wirt gesehen haben. Hier
       <lb facs="#facs_3_r1l2" n="N002"/>werden mihr dise w<supplied>o</supplied>chen das erste iagen haben, vnd
-      <lb facs="#facs_3_r1l3" n="N003"/>ihr Mayestät haben vergangen <unclear>pfinstag</unclear> den ersten hirschen auf
+      <lb facs="#facs_3_r1l3" n="N003"/>ihr Mayestät haben vergangen pfinstag den ersten hirschen auf
       <lb facs="#facs_3_r1l4" n="N004"/>einer bürst geschoßen. Die preßent vohr den Minat<supplied>i</supplied>
       <lb facs="#facs_3_r1l5" n="N005"/>vnd Dragi werden gahr statlich vnd apropo sein.
       <lb facs="#facs_3_r1l6" n="N006"/>Due mich hirmit <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen

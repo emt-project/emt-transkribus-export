@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -162,7 +162,7 @@
       <lb facs="#facs_2_r1l8" n="N006"/>vohr alle gutte wuntsch auf das herzligste abzulegen, dero Liebden
       <lb facs="#facs_2_r1l9" n="N007"/>könen versich<supplied>e</supplied>rt sein, das alles, was der guttigste gott mihr
       <lb facs="#facs_2_r1l10" n="N008"/>aus seiner barmherzichkeit verleyen wirt, verlange an
-      <lb facs="#facs_2_r1l11" n="N009"/>zue wenden zu dero Liebden dienst, wünschendt von seiner <choice><expan>göttlichen</expan><abbr>gott</abbr></choice> <unclear>mt</unclear>,
+      <lb facs="#facs_2_r1l11" n="N009"/>zue wenden zu dero Liebden dienst, wünschendt von seiner <choice><expan>göttlichen</expan><abbr>gott</abbr></choice> <choice><expan>Mayestät</expan><abbr>Mt</abbr></choice>,
       <lb facs="#facs_2_r1l12" n="N010"/>durch vnzahlbare iahr dero Liebden mit bestendigen wollstandt vnd
       <lb facs="#facs_2_r1l13" n="N011"/>allen vergnügen zurukh legen zue laßen, die ich ehnder
       <lb facs="#facs_2_r1l14" n="N012"/>das leben <seg type="blackening">als</seg> enden werde als zu sein

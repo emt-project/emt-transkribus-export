@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -163,7 +163,7 @@
       <lb facs="#facs_2_r1l9" n="N008"/>das Tiberius so gahr in <unclear>Holland vber sie</unclear>
       <lb facs="#facs_2_r1l10" n="N009"/><unclear>geschmehlt vnd defidenz</unclear> gezeigt. Das <unclear>dero Liebden</unclear>
       <lb facs="#facs_2_r1l11" n="N010"/><unclear>gegen mech vnd mein Keiser</unclear> confidenter
-      <lb facs="#facs_2_r1l12" n="N011"/>sich eröffnen, ist gahr gutt, aber sonst mus man <seg type="blackening">???</seg>
+      <lb facs="#facs_2_r1l12" n="N011"/>sich eröffnen, ist gahr gutt, aber sonst mus man <seg type="blackening">caue</seg>
       <lb facs="#facs_2_r1l13" n="N012"/>caute gehn. Dero Liebden verzeien mihr mein freiheit, hab
       <lb facs="#facs_2_r1l14" n="N013"/>vermeindt mein schuldichkeit zue sein, dero Liebden zue
       <lb facs="#facs_2_r1l15" n="N014"/>warnen. Due mich in dero affection bef<supplied>e</supplied>hlen,

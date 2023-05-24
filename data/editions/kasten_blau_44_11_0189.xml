@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -195,7 +195,7 @@
       <lb facs="#facs_2_r1l21" n="N022"/>vertatur</ab>
     <pb facs="#facs_3" n="13 r" xml:id="Kasten_blau_44_11_0191.jpg"/>
     <ab facs="#facs_3_r1">
-      <lb facs="#facs_3_r1l1" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Aus disen beygelegten atestatum werden dero Liebden ersehen,
+      <lb facs="#facs_3_r1l1" n="N001"/><choice><expan>Postskriptum</expan><abbr>PS</abbr></choice> Aus disen beygelegten atestatum werden dero Liebden ersehen,
       <lb facs="#facs_3_r1l2" n="N002"/>das der von <unclear>Srin</unclear> sich izt gahr woll aufürt vndt
       <lb facs="#facs_3_r1l3" n="N003"/>eifrig erzeigt, also hab nit vnterlaßen wollen, selbigen
       <lb facs="#facs_3_r1l4" n="N004"/>dero Liebden beste<supplied>n</supplied>s zu reccomendirn, wan etwan einiges bene-

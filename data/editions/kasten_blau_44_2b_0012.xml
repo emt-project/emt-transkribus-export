@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -221,7 +221,7 @@
       <lb facs="#facs_1_r2l14" n="N014"/>herunter kommen, warfon man die gewisheit däglich
       <lb facs="#facs_1_r2l15" n="N015"/>erwartet. Steht auch dahin, ob man nit auch Beyrn
       <lb facs="#facs_1_r2l16" n="N016"/>soll andiehandt geben, die obgedachte bulla gleichfals zue
-      <lb facs="#facs_1_r2l17" n="N017"/>Rohm vohr seinen bruedren auszuewürken, die <unclear>???</unclear>
+      <lb facs="#facs_1_r2l17" n="N017"/>Rohm vohr seinen bruedren auszuewürken, die <unclear>???ische</unclear>
       <lb facs="#facs_1_r2l18" n="N018"/>aber vermeinen, er habs schon. Den Starenberg betreffendt</ab>
     <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2b_0013.jpg"/>
     <ab facs="#facs_2_r1">
@@ -284,8 +284,8 @@
       <lb facs="#facs_4_r1l7" n="N007"/>Fridrich zeigt auch ein starkes verlangen ins felt
       <lb facs="#facs_4_r1l8" n="N008"/>zue gehen, also hab nit vnterlaßen wollen, ewer Durchlaucht selbiger
       <lb facs="#facs_4_r1l9" n="N009"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue überschreiben. Ihr Mayestät stellens ewer Durchlaucht anheim.
-      <lb facs="#facs_4_r1l10" n="N010"/>Ich glaub zwar, es wurd ihm nit vnnuzlich sein eine
-      <lb facs="#facs_4_r1l11" n="N011"/><unclear>zue</unclear> sehn. Hir geht die beis zimlich gut, auser g<supplied>e</supplied>stern,
+      <lb facs="#facs_4_r1l10" n="N010"/>Ich glaub zwar, es wurd ihm nit vnnuzlich sein, eine <unclear>campagne</unclear>
+      <lb facs="#facs_4_r1l11" n="N011"/>zue sehn. Hir geht die beis zimlich gut, auser g<supplied>e</supplied>stern,
       <lb facs="#facs_4_r1l12" n="N012"/>ist einer von den besten föglen, der ein reiger schön
       <lb facs="#facs_4_r1l13" n="N013"/>gefangen, mit ihm in ein großen deicht gefallen,
       <lb facs="#facs_4_r1l14" n="N014"/>haben niks mehr derfon gesehn, glauben, der reiger vnd

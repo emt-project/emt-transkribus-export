@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -188,7 +188,7 @@
       <lb facs="#facs_2_r1l4" n="N006"/>Wien den 23ten junij 1714</ab>
     <pb facs="#facs_3" n="36 r" xml:id="Kasten_blau_44_11_0236.jpg"/>
     <ab facs="#facs_3_r1">
-      <lb facs="#facs_3_r1l1" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Ich hab dero Liebden schon einmahl geschriben von
+      <lb facs="#facs_3_r1l1" n="N001"/><choice><expan>Postskriptum</expan><abbr>PS</abbr></choice> Ich hab dero Liebden schon einmahl geschriben von
       <lb facs="#facs_3_r1l2" n="N002"/>der proposition, so ich vnser <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied>e</supplied>ster von
       <lb facs="#facs_3_r1l3" n="N003"/>Parma gedahn wegen einer heirat mitt
       <lb facs="#facs_3_r1l4" n="N004"/>ihrer dochter vndt den eltren Pri<supplied>n</supplied>z von Modena,

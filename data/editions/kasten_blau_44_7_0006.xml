@@ -84,7 +84,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -231,7 +231,7 @@
       <lb facs="#facs_1_r1l4" n="N003"/>liebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> brudern</ab>
     <pb facs="#facs_2" n="4 r" xml:id="Kasten_blau_44_7_0006.jpg" ed="6 r"/>
     <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/><unclear>4. Januarij 96</unclear>
+      <lb facs="#facs_2_r1l1" n="N001"/><unclear>4. jan 96</unclear>
       <lb facs="#facs_2_r1l3" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerl<supplied>ie</supplied>bster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brd</abbr></choice>
       <lb facs="#facs_2_r1l4" n="N003"/>Due mich gegen dero Liebden schönste<supplied>n</supplied>s bedanken vohr den gutten
       <lb facs="#facs_2_r1l5" n="N004"/>newiahr vndt frieden wuntsch vom 17ten passato, wüntsche

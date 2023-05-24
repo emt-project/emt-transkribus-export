@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -192,7 +192,7 @@
       <lb facs="#facs_2_r1l7" n="N007"/>als solte die regirende Königin in Schpanien
       <lb facs="#facs_2_r1l8" n="N008"/>gestorben sein. Vnsere schpanische brief seindt die lesten vom
       <lb facs="#facs_2_r1l9" n="N009"/>27ten jener, vnd etlige haben über Walschland vom 3ten
-      <lb facs="#facs_2_r1l10" n="N010"/>feberwari, dise aber seint vom 23ten <choice><expan>feberwari</expan><abbr><unclear>feber</unclear></abbr></choice>, vnd
+      <lb facs="#facs_2_r1l10" n="N010"/>feberwari, dise aber seint vom 23ten <choice><expan>feberwari</expan><abbr>feber</abbr></choice>, vnd
       <lb facs="#facs_2_r1l11" n="N011"/>solle sie nuhr 3 dag sein krankh gewesen, die gewis-
       <lb facs="#facs_2_r1l12" n="N012"/>heit wirt sich balt zeigen. Es hatt woll der Mans-
       <lb facs="#facs_2_r1l13" n="N013"/>felt öffters geschriben, man soll sich mit meinen schw<supplied>e</supplied>ste<supplied>r</supplied>n

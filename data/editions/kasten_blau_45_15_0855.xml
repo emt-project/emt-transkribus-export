@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -157,7 +157,7 @@
       <lb facs="#facs_2_r1l1" n="N001"/>Deütschmeister, Mansfelt vnd Russel gedahn, ist alles voller
       <lb facs="#facs_2_r1l2" n="N002"/>freüden. Ich hoff, die andren bede curir vom König
       <lb facs="#facs_2_r1l3" n="N003"/>vnd Mansfelt werden auch balt kommen,
-      <lb facs="#facs_2_line_1652452916465_796" n="N004"/>dan diser hatt sich durch Marsillien <unclear>???</unclear> <add>practicirt</add>
+      <lb facs="#facs_2_line_1652452916465_796" n="N004"/>dan diser hatt sich durch Marsillien <seg type="blackening">practicirt</seg> <add>practicirt</add>
       <lb facs="#facs_2_r1l6" n="N005"/><supplied>und</supplied> vohr ein venediger ausgeben, mit den andern werds
       <lb facs="#facs_2_r1l7" n="N006"/>noch mehr particulariteten haben. Ihr conterfet in
       <lb facs="#facs_2_r1l8" n="N007"/>der schpanischen dracht hat der Kenig zeigen laßen, sey ein

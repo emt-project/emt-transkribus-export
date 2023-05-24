@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -425,12 +425,8 @@
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1261" xml:id="facs_11">
     <graphic url="Kasten_blau_44_7_0327.jpg" width="800px" height="1261px"/>
-    <zone points="43,1137 43,1260 73,1260 73,1137" rendition="TextRegion" xml:id="facs_11_r1">
-        <zone points="43,1260 73,1260 73,1137 43,1140" rendition="Line" xml:id="facs_11_r1l1"/>
-      </zone>
     <zone points="30,20 30,1253 767,1253 767,20" rendition="TextRegion" xml:id="facs_11_r2">
         <zone points="30,59 55,58 81,56 107,55 133,52 159,50 159,20 133,22 107,25 81,26 55,28 30,29" rendition="Line" xml:id="facs_11_r2l1"/>
-        <zone points="740,63 758,67 758,37 740,33" rendition="Line" xml:id="facs_11_r2l2"/>
         <zone points="69,80 98,77 128,71 157,66 187,63 187,33 157,36 128,41 98,47 69,50" rendition="Line" xml:id="facs_11_r2l3"/>
         <zone points="54,150 89,148 124,145 159,144 195,142 230,140 265,139 300,138 336,137 371,137 406,136 441,136 477,136 512,135 547,135 582,135 618,135 653,135 688,136 723,136 759,135 759,105 723,106 688,106 653,105 618,105 582,105 547,105 512,105 477,106 441,106 406,106 371,107 336,107 300,108 265,109 230,110 195,112 159,114 124,115 89,118 54,120" rendition="Line" xml:id="facs_11_r2l4"/>
         <zone points="90,188 122,186 155,184 188,182 221,181 253,179 286,178 319,178 352,177 384,176 417,175 450,175 483,175 515,175 548,174 581,174 614,174 646,175 679,175 712,175 745,175 745,145 712,145 679,145 646,145 614,144 581,144 548,144 515,145 483,145 450,145 417,145 384,146 352,147 319,148 286,148 253,149 221,151 188,152 155,154 122,156 90,158" rendition="Line" xml:id="facs_11_r2l5"/>
@@ -853,40 +849,37 @@
       <lb facs="#facs_10_r1l19" n="N019"/>
       <lb facs="#facs_10_r1l20" n="N020"/></ab>
     <pb facs="#facs_11" n="179 r" xml:id="Kasten_blau_44_7_0327.jpg" ed="55 r"/>
-    <ab facs="#facs_11_r1">
-      <lb facs="#facs_11_r1l1" n="N001"/></ab>
     <ab facs="#facs_11_r2">
-      <lb facs="#facs_11_r2l1" n="N001"/>
-      <lb facs="#facs_11_r2l2" n="N002"/>
-      <lb facs="#facs_11_r2l3" n="N003"/>
-      <lb facs="#facs_11_r2l4" n="N004"/>
-      <lb facs="#facs_11_r2l5" n="N005"/>
-      <lb facs="#facs_11_r2l6" n="N006"/>
-      <lb facs="#facs_11_r2l7" n="N007"/>
-      <lb facs="#facs_11_r2l8" n="N008"/>
-      <lb facs="#facs_11_r2l9" n="N009"/>
-      <lb facs="#facs_11_r2l10" n="N010"/>
-      <lb facs="#facs_11_r2l11" n="N011"/>
-      <lb facs="#facs_11_r2l12" n="N012"/>
-      <lb facs="#facs_11_r2l13" n="N013"/>
-      <lb facs="#facs_11_r2l14" n="N014"/>
-      <lb facs="#facs_11_r2l15" n="N015"/>
-      <lb facs="#facs_11_r2l16" n="N016"/>
-      <lb facs="#facs_11_r2l17" n="N017"/>
-      <lb facs="#facs_11_r2l18" n="N018"/>
-      <lb facs="#facs_11_r2l19" n="N019"/>
-      <lb facs="#facs_11_r2l20" n="N020"/>
-      <lb facs="#facs_11_r2l21" n="N021"/>
-      <lb facs="#facs_11_r2l22" n="N022"/>
-      <lb facs="#facs_11_r2l23" n="N023"/>
-      <lb facs="#facs_11_r2l24" n="N024"/>
-      <lb facs="#facs_11_r2l25" n="N025"/>
-      <lb facs="#facs_11_r2l26" n="N026"/>
-      <lb facs="#facs_11_r2l27" n="N027"/>
-      <lb facs="#facs_11_r2l28" n="N028"/>
-      <lb facs="#facs_11_r2l29" n="N029"/>
-      <lb facs="#facs_11_r2l30" n="N030"/>
-      <lb facs="#facs_11_r2l31" n="N031"/></ab>
+      <lb facs="#facs_11_r2l1" n="N001"/>22 Junij 97
+      <lb facs="#facs_11_r2l3" n="N002"/>Copia.
+      <lb facs="#facs_11_r2l4" n="N003"/>22. Juni 1697. Durchleuchtigter Churfürst, mein herzaller-
+      <lb facs="#facs_11_r2l5" n="N004"/>liebster h. bruder. Es freuet mich von herzen, aus
+      <lb facs="#facs_11_r2l6" n="N005"/>dero liebsten schreiben vom 20ten und eins aus der
+      <lb facs="#facs_11_r2l7" n="N006"/>canzley vom ersten dieß zu sehen, daß sich ew
+      <lb facs="#facs_11_r2l8" n="N007"/>
+      <lb facs="#facs_11_r2l9" n="N008"/>
+      <lb facs="#facs_11_r2l10" n="N009"/>
+      <lb facs="#facs_11_r2l11" n="N010"/>
+      <lb facs="#facs_11_r2l12" n="N011"/>
+      <lb facs="#facs_11_r2l13" n="N012"/>
+      <lb facs="#facs_11_r2l14" n="N013"/>
+      <lb facs="#facs_11_r2l15" n="N014"/>
+      <lb facs="#facs_11_r2l16" n="N015"/>
+      <lb facs="#facs_11_r2l17" n="N016"/>
+      <lb facs="#facs_11_r2l18" n="N017"/>
+      <lb facs="#facs_11_r2l19" n="N018"/>
+      <lb facs="#facs_11_r2l20" n="N019"/>
+      <lb facs="#facs_11_r2l21" n="N020"/>
+      <lb facs="#facs_11_r2l22" n="N021"/>
+      <lb facs="#facs_11_r2l23" n="N022"/>
+      <lb facs="#facs_11_r2l24" n="N023"/>
+      <lb facs="#facs_11_r2l25" n="N024"/>
+      <lb facs="#facs_11_r2l26" n="N025"/>
+      <lb facs="#facs_11_r2l27" n="N026"/>
+      <lb facs="#facs_11_r2l28" n="N027"/>
+      <lb facs="#facs_11_r2l29" n="N028"/>
+      <lb facs="#facs_11_r2l30" n="N029"/>
+      <lb facs="#facs_11_r2l31" n="N030"/></ab>
     <pb facs="#facs_12" n="179 v" xml:id="Kasten_blau_44_7_0328.jpg" ed="55 v"/>
     <ab facs="#facs_12_r1">
       <lb facs="#facs_12_r1l1" n="N001"/>

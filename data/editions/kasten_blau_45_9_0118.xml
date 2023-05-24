@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +153,7 @@
       <lb facs="#facs_1_line_1637080598670_8648" n="N012"/>ist die zeit kurz gefallen, vnd izt ist
       <lb facs="#facs_1_line_1637080609526_8653" n="N013"/>schon schpaht. Wegen Heidelberg werden ewer Durchlaucht
       <lb facs="#facs_1_line_1637080623138_8658" n="N014"/>von ihr Mayestät schon vernommen haben dero
-      <lb facs="#facs_1_line_1637080566159_8630" n="N015"/>meinung, vnd ist solliges in der <unclear>eng, so</unclear> 
+      <lb facs="#facs_1_line_1637080566159_8630" n="N015"/>meinung, vnd ist solliges in der eng, so 
       <lb facs="#facs_1_r1l20" n="N016"/>ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verlangt, geblieben. Wegen Preslaw</ab>
     <pb facs="#facs_2" n="69 v" xml:id="Kasten_blau_45_9_0119.jpg"/>
     <ab facs="#facs_2_r2">
@@ -170,7 +170,7 @@
       <lb facs="#facs_2_line_1637080723263_8709" n="N011"/>ewer Durchlaucht
       <lb facs="#facs_2_line_1637080736551_8723" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>gehorsamste</expan><abbr>ghste</abbr></choice> dochter
       <lb facs="#facs_2_line_1637851692493_557" n="N013"/>EMT
-      <lb facs="#facs_2_r2l14" n="N014"/>Wien den <unclear>4ten</unclear> <choice><expan>April</expan><abbr>appr</abbr></choice> 1683</ab>
+      <lb facs="#facs_2_r2l14" n="N014"/>Wien den 8ten <choice><expan>April</expan><abbr>appr</abbr></choice> 1683</ab>
   </div>
 </body>
 

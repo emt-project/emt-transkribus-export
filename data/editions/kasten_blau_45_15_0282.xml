@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -222,7 +222,7 @@
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>dag darnoch zu vns auf Presburg, vnd der
       <lb facs="#facs_2_r1l2" n="N002"/>Hertot die cur ausgefürt hatt. <unclear>Die</unclear> meinung
-      <lb facs="#facs_2_r1l3" n="N003"/><seg type="blackening">dahr</seg> Bekers war aber ganz nit, das er bestendig
+      <lb facs="#facs_2_r1l3" n="N003"/><unclear>Doct<supplied>o</supplied>r</unclear> Bekers war aber ganz nit, das er bestendig
       <lb facs="#facs_2_r1l4" n="N004"/>den wein völlig meiden soll, sondern, das <supplied>er</supplied> woll
       <lb facs="#facs_2_r1l5" n="N005"/>einen bestendigen wein, neker oder moßler,
       <lb facs="#facs_2_r1l6" n="N006"/>vnd ein waßer darneben <supplied>trinken soll</supplied>, wie er ihm dan

@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -219,9 +219,9 @@
       <lb facs="#facs_1_r1l3" n="N002"/>Ich förcht gahr, die tinten werd sich <unclear>werben</unclear> vohr dero Liebden
       <lb facs="#facs_1_r1l4" n="N003"/>zu erscheinen, in dem ich so lang dero liebste sch<supplied>rei</supplied>ben nit
       <lb facs="#facs_1_r1l5" n="N004"/>beantwort, dero Liebden haben woll vhrsach, ein rechten verschmach
-      <lb facs="#facs_1_r1l6" n="N005"/>auf mich zue haben. Bitt aber auf aller <unclear>hierligste</unclear> vmb
+      <lb facs="#facs_1_r1l6" n="N005"/>auf mich zue haben. Bitt aber auf aller her<supplied>z</supplied>ligste vmb
       <lb facs="#facs_1_r1l7" n="N006"/>perdon, werd mich ins könftig befleisen fleißiger zu
-      <lb facs="#facs_1_r1l8" n="N007"/>sein. Erstlich zwar seint die hochzeit vndt fest vndt der <unclear>h</unclear>
+      <lb facs="#facs_1_r1l8" n="N007"/>sein. Erstlich zwar seint die hochzeit vndt fest vndt der <choice><expan>heilige</expan><abbr>h</abbr></choice>
       <lb facs="#facs_1_r1l9" n="N008"/>fasching daran schuldich gewest, darauf hab ich ein
       <lb facs="#facs_1_r1l10" n="N009"/>fluß auf die augen bekommen, das ich nit hab
       <lb facs="#facs_1_r1l11" n="N010"/>sch<supplied>rei</supplied>ben derfen. Wie das vergangen, hab ich ein starkhen
@@ -284,7 +284,7 @@
       <lb facs="#facs_4_r1l12" n="N010"/>Neüstatt, oder ob es nit villeicht dero Liebden lieber vndt
       <lb facs="#facs_4_r1l13" n="N011"/>anstendiger wehr könftiges iahr, dah ihr Mayestät gedenken
       <lb facs="#facs_4_r1l14" n="N012"/>gleich nach der beys auf Prag zu gehn, das
-      <lb facs="#facs_4_r1l15" n="N013"/>dero Liebden dorthin kehmen. Dah kunte mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin auch das
+      <lb facs="#facs_4_r1l15" n="N013"/>dero Liebden dorthin kehmen. Dah kunte mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegern auch das
       <lb facs="#facs_4_r1l16" n="N014"/>teplizer bad gebrauchen, welches man noch vohr tem-
       <lb facs="#facs_4_r1l17" n="N015"/>perirter halt als das zue Baden, vndt wurde auch
       <lb facs="#facs_4_r1l18" n="N016"/>wegen aller andern sachen villeicht dorten alles beßer

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -183,7 +183,7 @@
       <lb facs="#facs_1_r1l11" n="N010"/>beßer werden. Ich wolt, das mihr hier balt
       <lb facs="#facs_1_r1l12" n="N011"/>wider fort kähmen, dan die lufft ihr Mayestät nit
       <lb facs="#facs_1_r1l13" n="N012"/>woll bekommbt. Die vngren habens so lang
-      <lb facs="#facs_1_r1l14" n="N013"/>gemacht mit ihren grauaminibus, <unclear>izt</unclear> <unclear>hab</unclear>ens ein
+      <lb facs="#facs_1_r1l14" n="N013"/>gemacht mit ihren grauaminibus, izt habens ein
       <lb facs="#facs_1_r1l15" n="N014"/>mahl ein geben, morgen werdens ihr Mayestät deliberiren,
       <lb facs="#facs_1_r1l16" n="N015"/>so, hoff ich, werts darnach balt werden. In der
       <lb facs="#facs_1_r1l17" n="N016"/>cölnischen sach werden ewer Durchlaucht mit heüntichem
@@ -214,7 +214,7 @@
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>Ich glaub aber, man wi<supplied>r</supplied>t izt ein wehnig sehen
       <lb facs="#facs_3_r1l2" n="N002"/>müeßen, wie das colnische wesen auschlagt, eh weiters
-      <lb facs="#facs_3_r1l3" n="N003"/>was zue duen wirt sein. Was des <unclear>Clondi</unclear> brif
+      <lb facs="#facs_3_r1l3" n="N003"/>was zue duen wirt sein. Was des Cloudi brif
       <lb facs="#facs_3_r1l4" n="N004"/>anlangt, so wirt auf alleweis vohrsehung ge-
       <lb facs="#facs_3_r1l5" n="N005"/>schen, das die person vohr der campagne
       <lb facs="#facs_3_r1l6" n="N006"/>wekh komme, des können ewer Durchlaucht <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> ver-

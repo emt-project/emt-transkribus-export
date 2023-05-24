@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -157,11 +157,11 @@
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Wegen der nunnen von Neüburg hab ich dem <choice><expan>Pater</expan><abbr>P</abbr></choice> Rector auch
       <lb facs="#facs_2_r1l2" n="N002"/>zuesch<supplied>r</supplied>eiben laßen, das er mihr woll rahten <supplied>solle</supplied>, wie die sach a<supplied>n</supplied>zu-
-      <lb facs="#facs_2_r1l3" n="N003"/>greifen, hab noch kein antwort. Indesen seh ich, das die <unclear>A</unclear> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> wider
+      <lb facs="#facs_2_r1l3" n="N003"/>greifen, hab noch kein antwort. Indesen seh ich, das die <choice><expan>Anna</expan><abbr>A</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> wider
       <lb facs="#facs_2_r1l4" n="N004"/>in zimlihger freyheit, dan sie überall hinn schreibt, hatt
       <lb facs="#facs_2_r1l5" n="N005"/>hier an die nunnen, auch auf Achen geschriben, die <choice><expan>würdige</expan><abbr>w</abbr></choice> <choice><expan>Mutter</expan><abbr>Mut</abbr></choice>
       <lb facs="#facs_2_r1l6" n="N006"/>ab<supplied>e</supplied>r hier hatt kein brif geben, sondern alle verbrent. Es wirt gutt sein,
-      <lb facs="#facs_2_r1l7" n="N007"/>wan die <unclear>??</unclear> <choice><expan>Anna Magdalena</expan><abbr>AMad</abbr></choice> wider ein wehnig in schranken gehalten wirt.</ab>
+      <lb facs="#facs_2_r1l7" n="N007"/>wan die <choice><expan>Mutter</expan><abbr>M</abbr></choice> <choice><expan>Anna Magdalena</expan><abbr>AMad</abbr></choice> wider ein wehnig in schranken gehalten wirt.</ab>
   </div>
 </body>
 

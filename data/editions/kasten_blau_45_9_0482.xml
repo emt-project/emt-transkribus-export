@@ -84,7 +84,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -106,6 +106,31 @@
         <zone points="65,941 147,965 198,939 360,926 431,951 474,926 609,955 696,914 759,914 757,866 409,914 287,872 115,918 64,901" rendition="Line" xml:id="facs_1_r1l13"/>
         <zone points="71,1017 273,1001 328,1023 408,1001 507,1026 595,989 768,979 767,946 69,954" rendition="Line" xml:id="facs_1_r1l14"/>
         <zone points="71,1109 272,1057 296,1075 463,1067 505,1092 754,1074 752,1003 706,996 586,992 496,1033 412,1001 312,1032 69,1030" rendition="Line" xml:id="facs_1_r1l15"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="1740" lry="2465" xml:id="facs_2">
+    <graphic url="Kasten_blau_45_9_0482.jpg" width="1740px" height="2465px"/>
+    <zone points="145,242 1654,242 1645,2075 136,2075" rendition="TextRegion" xml:id="facs_2_region_1671448312580_489">
+        <zone points="266,397 843,380 1603,361 1604,411 844,430 267,447" rendition="Line" xml:id="facs_2_line_1671448343271_502"/>
+        <zone points="256,485 890,471 1538,471 1538,521 890,521 257,535" rendition="Line" xml:id="facs_2_line_1671448347842_507"/>
+        <zone points="253,598 863,573 1578,551 1579,601 865,623 255,648" rendition="Line" xml:id="facs_2_line_1671448352598_512"/>
+        <zone points="252,720 877,678 1540,642 1542,692 880,728 255,770" rendition="Line" xml:id="facs_2_line_1671448360179_517"/>
+        <zone points="250,822 1587,754 1589,804 252,872" rendition="Line" xml:id="facs_2_line_1671448363947_522"/>
+        <zone points="256,935 1070,884 1494,849 1498,899 1073,934 259,985" rendition="Line" xml:id="facs_2_line_1671448368214_527"/>
+        <zone points="249,1045 853,1001 1543,947 1547,997 856,1051 252,1095" rendition="Line" xml:id="facs_2_line_1671448372086_532"/>
+        <zone points="240,1135 895,1111 1610,1059 1613,1109 897,1161 242,1185" rendition="Line" xml:id="facs_2_line_1671448376570_537"/>
+        <zone points="244,1231 538,1243 1003,1226 1638,1196 1640,1246 1005,1276 538,1293 242,1281" rendition="Line" xml:id="facs_2_line_1671448381601_542"/>
+        <zone points="222,1365 613,1350 1106,1331 1629,1302 1631,1352 1108,1381 615,1400 224,1415" rendition="Line" xml:id="facs_2_line_1671448391361_547"/>
+        <zone points="227,1495 723,1468 1262,1441 1600,1411 1604,1461 1265,1491 725,1518 229,1545" rendition="Line" xml:id="facs_2_line_1671448396540_552"/>
+        <zone points="220,1617 694,1580 698,1630 224,1667" rendition="Line" xml:id="facs_2_line_1671448399558_557"/>
+        <zone points="490,1763 745,1751 747,1801 492,1813" rendition="Line" xml:id="facs_2_line_1671448402247_562"/>
+        <zone points="1023,1900 1551,1881 1553,1931 1025,1950" rendition="Line" xml:id="facs_2_line_1671448408447_572"/>
+        <zone points="1144,1998 1323,1988 1326,2038 1147,2048" rendition="Line" xml:id="facs_2_line_1671448411226_577"/>
+        <zone points="191,1888 787,1871 788,1921 192,1938" rendition="Line" xml:id="facs_2_line_1671448405459_567"/>
+      </zone>
+    <zone points="228,863 228,1014 238,1014 238,863" rendition="TextRegion" xml:id="facs_2_r4">
+      </zone>
+    <zone points="1552,681 1552,835 1574,835 1574,681" rendition="TextRegion" xml:id="facs_2_r7">
       </zone>
   </surface>
 </facsimile>
@@ -130,6 +155,26 @@
       <lb facs="#facs_1_r1l13" n="N013"/>vndt ehistens wider wekh wirt auf Inschprukh.
       <lb facs="#facs_1_r1l14" n="N014"/>Ich hoffe balt herfür zue gehen, weil mich so woll
       <lb facs="#facs_1_r1l15" n="N015"/>befindt vnd das wetter so schön ist iezt.</ab>
+    <pb facs="#facs_2" n="284 r" xml:id="Kasten_blau_45_9_0482.jpg"/>
+    <ab facs="#facs_2_region_1671448312580_489">
+      <lb facs="#facs_2_line_1671448343271_502" n="N001"/>Darbey komt es mihr gahr hart an einzue sizen, forcht,
+      <lb facs="#facs_2_line_1671448347842_507" n="N002"/>wan nacher heraus geh, wirt es wider schantliger
+      <lb facs="#facs_2_line_1671448352598_512" n="N003"/>werden. Iezt werden ihr Mayestät auch noch vohr meinem
+      <lb facs="#facs_2_line_1671448360179_517" n="N004"/>herführgang den Josephl zue den mannen duen,
+      <lb facs="#facs_2_line_1671448363947_522" n="N005"/>gott geb, das er erzogen werde zue gottes ehr
+      <lb facs="#facs_2_line_1671448368214_527" n="N006"/>vnd des gemeinen besten. Ich mues heünt
+      <lb facs="#facs_2_line_1671448372086_532" n="N007"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung bitten, das kurz schreib,
+      <lb facs="#facs_2_line_1671448376570_537" n="N008"/>es kommen zum erstenmahl die frawen, so hab
+      <lb facs="#facs_2_line_1671448381601_542" n="N009"/>vill gescheft, als mit ewer Durchlaucht gnad mich aufzuepuzen,
+      <lb facs="#facs_2_line_1671448391361_547" n="N010"/>dan sider des Josephl kintbett hab dis bett nit
+      <lb facs="#facs_2_line_1671448396540_552" n="N011"/>gebraucht. Due mich hirmit ewer Durchlaucht <choice><expan>vnderdehnigst</expan><abbr>vnt</abbr></choice> bef<supplied>e</supplied>hlen
+      <lb facs="#facs_2_line_1671448399558_557" n="N012"/>vnd werde sterben
+      <lb facs="#facs_2_line_1671448402247_562" n="N013"/>ewer Durchlaucht
+      <lb facs="#facs_2_line_1671448408447_572" n="N014"/><choice><expan>vnderdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehors</abbr></choice> d<supplied>o</supplied>chter
+      <lb facs="#facs_2_line_1671448411226_577" n="N015"/>EMT
+      <lb facs="#facs_2_line_1671448405459_567" n="N016"/>Wien den 25 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1685 </ab>
+    <ab facs="#facs_2_r4"/>
+    <ab facs="#facs_2_r7"/>
   </div>
 </body>
 

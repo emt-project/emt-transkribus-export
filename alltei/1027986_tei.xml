@@ -35,7 +35,7 @@
         <zone points="292,599 318,603 345,605 372,608 399,609 426,610 453,610 479,610 506,610 533,610 560,610 587,610 614,610 641,612 641,579 614,577 587,577 560,577 533,577 506,577 479,577 453,577 426,577 399,576 372,575 345,572 318,570 292,566" rendition="Line" xml:id="facs_3_r1l2"/>
         <zone points="288,657 315,659 342,660 370,661 397,662 425,662 452,662 479,661 507,661 534,659 562,657 562,624 534,626 507,628 479,628 452,629 425,629 397,629 370,628 342,627 315,626 288,624" rendition="Line" xml:id="facs_3_r1l3"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l3" n="N001"/><unclear>28 8bris 1711</unclear>
+      <lb facs="#facs_1_r1l3" n="N001"/><unclear>28 <choice><expan>octobris</expan><abbr>8bris</abbr></choice> 1711</unclear>
       <lb facs="#facs_1_r1l4" n="N002"/>Durchleüchtiger Curfürst, mein herzalle<supplied reason="">r</supplied>libster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l5" n="N003"/>Gleich wie dero Liebden in allen gelegenheiten dero bestendige
       <lb facs="#facs_1_r1l6" n="N004"/>affection gegen dißes haus vndt absonderlich gegen

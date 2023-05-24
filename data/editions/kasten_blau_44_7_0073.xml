@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -147,10 +147,10 @@
       <lb facs="#facs_1_r1l10" n="N007"/><unclear>wegens aufklauben</unclear> laßen, welches wider
       <lb facs="#facs_1_r1l11" n="N008"/>den leüten das maul wirt aufmachen vnd doch
       <lb facs="#facs_1_r1l12" n="N009"/>vnmoglich, das so heimb<supplied>l</supplied>ich wirt können sein, das
-      <lb facs="#facs_1_r1l13" n="N010"/>mans nit innen wirt. Dero Lieben werden dardurch <unclear>domama</unclear>
+      <lb facs="#facs_1_r1l13" n="N010"/>mans nit innen wirt. Dero Lieben werden dardurch <unclear><choice><expan/><abbr>d</abbr></choice> mama</unclear>
       <lb facs="#facs_1_r1l14" n="N011"/>sehr bedrüben ohne noht. Auf mein vohrgeschlage<supplied>ne</supplied>
       <lb facs="#facs_1_r1l15" n="N012"/>weis, welche der Wißer wi<supplied>r</supplied>t überschriben haben, köndt
-      <lb facs="#facs_1_r1l16" n="N013"/>es ohne alles dis geschen, <unclear>ihen</unclear> will niks daruon aufs
+      <lb facs="#facs_1_r1l16" n="N013"/>es ohne alles dis geschen, <unclear>ich</unclear> will niks daruon aufs
       <lb facs="#facs_1_r1l17" n="N014"/>wehnigste wißen, vndt bitt dero Liebden, wan sies iah duen,</ab>
     <pb facs="#facs_2" n="42 v" xml:id="Kasten_blau_44_7_0074.jpg" ed="37 v"/>
     <ab facs="#facs_2_r1">

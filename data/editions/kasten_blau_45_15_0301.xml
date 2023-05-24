@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -147,7 +147,7 @@
       <lb facs="#facs_1_r1l11" n="N011"/>galantes festel gehabt, mues woll schön gewesen
       <lb facs="#facs_1_r1l12" n="N012"/>sein. Gottlob, das der Deutschmeister wider so beßer
       <lb facs="#facs_1_r1l13" n="N013"/>wirt, freüdt mich von herzen. Von des <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl seiner
-      <lb facs="#facs_1_r1l14" n="N014"/>heirat hör ich niks, <unclear>so</unclear> wirt er gewis die campagna
+      <lb facs="#facs_1_r1l14" n="N014"/>heirat hör ich niks, sowirt er gewis die campagna
       <lb facs="#facs_1_r1l15" n="N015"/>duen, die dame wirt biß dorthin schon wekh sein.</ab>
     <pb facs="#facs_2" n="161 v" xml:id="Kasten_blau_45_15_0302.jpg"/>
     <ab facs="#facs_2_r1">

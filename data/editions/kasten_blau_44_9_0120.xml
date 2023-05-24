@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -166,10 +166,10 @@
       <lb facs="#facs_1_r1l16" n="N016"/>allein dero Liebden noch zu so vill guttaten dises zu adiungiren,</ab>
     <pb facs="#facs_2" n="64 v" xml:id="Kasten_blau_44_9_0121.jpg" ed="70 v"/>
     <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>das, we<supplied>i</supplied>llen diße troupen zimlich abgenommen vndt anstatt 7000
+      <lb facs="#facs_2_r1l1" n="N001"/>das, we<supplied>i</supplied>llen diße troupen zimlich abgenommen vndt anstatt 7 <unclear>m</unclear>
       <lb facs="#facs_2_r1l2" n="N002"/>etwan nit 4 oder 5 sein werden, dero Liebden auch dise ordre beyruken wolten,
       <lb facs="#facs_2_r1l3" n="N003"/>das von dero übrige troupen in so weit wehnigstens der abgang
-      <lb facs="#facs_2_r1l4" n="N004"/>ersezet werde, damit aufs wehnigste 5000 effectiue vndt complet
+      <lb facs="#facs_2_r1l4" n="N004"/>ersezet werde, damit aufs wehnigste 5 <unclear>m</unclear> effectiue vndt complet
       <lb facs="#facs_2_r1l5" n="N005"/>in Schpanien kommen möchten. Der fueß dero übrigen troupen bleibt
       <lb facs="#facs_2_r1l6" n="N006"/>dannoch, welches sie hernechst leichtlich widerumb recroutiren
       <lb facs="#facs_2_r1l7" n="N007"/>werden können. Weilen ich förcht, das der Fratislaw etwan etwas

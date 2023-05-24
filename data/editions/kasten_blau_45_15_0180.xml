@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -362,7 +362,7 @@
       <lb facs="#facs_5_r1l13" n="N012"/>aber etwas von silber, den wert wust ich woll selber
       <lb facs="#facs_5_r1l14" n="N013"/>nit, doch vermeinet ich, vngefehr gegen ein fünf hund<supplied>e</supplied>rt
       <lb facs="#facs_5_r1l15" n="N014"/>gulden. Dem andren etwas wehnigers, weil das silber
-      <lb facs="#facs_5_r1l16" n="N015"/>ohne das mehrer ansehen hatt als <unclear>was</unclear> von geschmukh.
+      <lb facs="#facs_5_r1l16" n="N015"/>ohne das mehrer ansehen hatt als was von geschmukh.
       <lb facs="#facs_5_r1l17" n="N016"/>Ich hab heündt die kinder laßen heraus kommen, die
       <lb facs="#facs_5_r1l18" n="N017"/><choice><expan>Maria</expan><abbr>M</abbr></choice> Lißel wider hier zue bleiben vnd die andren habens
       <lb facs="#facs_5_r1l19" n="N018"/>begleidt, ist ein große freüdt geweßen, der Carl ist

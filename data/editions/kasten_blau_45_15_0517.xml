@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -170,7 +170,7 @@
       <lb facs="#facs_1_r1l8" n="N008"/>auf das newe möge schaden, welches der almechtige
       <lb facs="#facs_1_r1l9" n="N009"/><choice><expan>gnädig</expan><abbr>g</abbr></choice> verhüetten wolle. Bitte demnach aller vnterdehnigst
       <lb facs="#facs_1_r1l10" n="N010"/>vnd fueßfallendt, ewer Durchlaucht wollen sich doch verschonen
-      <lb facs="#facs_1_r1l11" n="N011"/>vnd nit mit schreiben bemüehen, an dero <unclear>con<supplied>s</supplied>ervation</unclear>
+      <lb facs="#facs_1_r1l11" n="N011"/>vnd nit mit schreiben bemüehen, an dero <unclear>con<supplied>s</supplied>eruation</unclear>
       <lb facs="#facs_1_r1l12" n="N012"/>mein höchste glükhsehlichkeit vnd aller dero <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> kindren
       <lb facs="#facs_1_r1l13" n="N013"/>hanget. Es ist mihr ia schon genuech, wan ich durch
       <lb facs="#facs_1_r1l14" n="N014"/>iemant andren dero wollergehn vernemme, vnd das</ab>

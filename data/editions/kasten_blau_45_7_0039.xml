@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -136,8 +136,8 @@
       <lb facs="#facs_1_r1l9" n="N007"/>mitt nechsten dero resolution übersch<supplied>rei</supplied>ben. Im üb<supplied>r</supplied>igen kan
       <lb facs="#facs_1_r1l10" n="N008"/>ich dero Liebden nit verhalten, das ich vernommen durch den Metsch,
       <lb facs="#facs_1_r1l11" n="N009"/>das man die bewust wider ganz irr macht vndt die
-      <lb facs="#facs_1_r1l12" n="N010"/>r<supplied>e</supplied>is alleweil prolungirt, ich hab durch <unclear>die <seg type="comment">Fürht</seg></unclear>
-      <lb facs="#facs_1_r1l13" n="N011"/><unclear><seg type="comment">sn</seg> von Lischtenstein</unclear>
+      <lb facs="#facs_1_r1l12" n="N010"/>r<supplied>e</supplied>is alleweil prolungirt, ich hab durch <unclear>die <seg type="comment">Fürst</seg></unclear>
+      <lb facs="#facs_1_r1l13" n="N011"/>i<unclear><seg type="comment">n</seg> von Lischtenstein</unclear>
       <lb facs="#facs_1_r1l14" n="N012"/>so woll an sie als <unclear>den Bourpan</unclear> sch<supplied>rei</supplied>ben
       <lb facs="#facs_1_r1l15" n="N013"/>lasen, finde doch vohr nötig, dero Liebden wolten ein caualier,
       <lb facs="#facs_1_r1l16" n="N014"/>mus einer aber sein von sesta e condotta, der

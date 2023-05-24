@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -180,6 +180,12 @@
   </surface>
   <surface ulx="0" uly="0" lrx="1686" lry="2502" xml:id="facs_4">
     <graphic url="Kasten_blau_45_7_0375.jpg" width="1686px" height="2502px"/>
+    <zone points="145,175" rendition="TextRegion" xml:id="facs_4_region_1679478768646_9" subtype="paragraph">
+      </zone>
+    <zone points="167,407 1582,407 1582,190 167,190" rendition="TextRegion" xml:id="facs_4_region_1679478773912_12" subtype="paragraph">
+        <zone points="174,221 483,209 811,216 1122,219 1397,225 1555,221 1556,271 1397,275 1121,269 810,266 483,259 176,271" rendition="Line" xml:id="facs_4_line_1679478803018_21"/>
+        <zone points="172,324 465,322 755,324 923,313 926,363 756,374 465,372 172,374" rendition="Line" xml:id="facs_4_line_1679478807260_26"/>
+      </zone>
   </surface>
 </facsimile>
 
@@ -264,6 +270,10 @@
       <lb facs="#facs_3_line_1666795219753_283" n="N029"/><unclear>gleich</unclear>, das nit hab schreiben können.
       <lb facs="#facs_3_r1l28" n="N030"/><seg type="comment">vertatur</seg></ab>
     <pb facs="#facs_4" n="48 v" xml:id="Kasten_blau_45_7_0375.jpg"/>
+    <p facs="#facs_4_region_1679478768646_9"/>
+    <p facs="#facs_4_region_1679478773912_12">
+      <lb facs="#facs_4_line_1679478803018_21" n="N001"/>Dißer <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Berg, dero Liebden wolbekanter gew<supplied>e</supplied>ster fratter, hatt mich g<supplied>e</supplied>betten, dero Liebden
+      <lb facs="#facs_4_line_1679478807260_26" n="N002"/>dis memorial zu reccommendiren.</p>
   </div>
 </body>
 

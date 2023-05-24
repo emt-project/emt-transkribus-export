@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -139,7 +139,7 @@
       <lb facs="#facs_1_r1l13" n="N011"/>wider ein geistlige braut haben, so hab vill <unclear>zue</unclear>
       <lb facs="#facs_1_r1l14" n="N012"/>duen mit ih<supplied>r</supplied>en aufbuz. Man schreibt, der Herzoch
       <lb facs="#facs_1_r1l15" n="N013"/>von Mantoua werd erster dagen hier sein, ist
-      <lb facs="#facs_1_r1l16" n="N014"/>woll ein wunderliger herr, er will in <unclear>Niderl</unclear>
+      <lb facs="#facs_1_r1l16" n="N014"/>woll ein wunderliger herr, er will in <choice><expan>Niederlande</expan><abbr>Niderl</abbr></choice>
       <lb facs="#facs_1_r1l17" n="N015"/>reisen, wie man sagt. Sonst gibts hier ganz
       <lb facs="#facs_1_r1l18" n="N016"/>niks, das ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> berichten könt, due
       <lb facs="#facs_1_r1l19" n="N017"/>mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hlen vnd werde ste<supplied>r</supplied>ben

@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -290,7 +290,7 @@
       <lb facs="#facs_2_r1l7" n="N006"/>auf was vohr weis ich es duen soll oder kan. Weillen
       <lb facs="#facs_2_r1l8" n="N007"/>dero Liebden nit wollen, das ich iemandt melden derf, von wem
       <lb facs="#facs_2_r1l9" n="N008"/>ich es weiß, so wirt er alles platt laugnen vndt
-      <lb facs="#facs_2_r1l10" n="N009"/>kan ihm es hernach nit probiren. Es ist <unclear>artig</unclear> gewest,
+      <lb facs="#facs_2_r1l10" n="N009"/>kan ihm es hernach nit probiren. Es ist artig gewest,
       <lb facs="#facs_2_r1l11" n="N010"/>das, eh i<supplied>c</supplied>h dis gewist, ich ihm durch sein dochter sch<supplied>rei</supplied>ben
       <lb facs="#facs_2_r1l12" n="N011"/>laßen, er solle diese reis verhindern, izt kan er nit
       <lb facs="#facs_2_r1l13" n="N012"/>wehniger duen. Sie ist izt in der kintbett, erst weh<supplied>n</supplied>ig
@@ -334,7 +334,7 @@
       <lb facs="#facs_4_r2l7" n="N006"/>ein deütsche sein kunte, wer es mihr woll vill lieber,
       <lb facs="#facs_4_r2l8" n="N007"/>einmahl mues man gedenken ihn zu <supplied>ver</supplied>heiraten, dan ich si<supplied>c</supplied>her
       <lb facs="#facs_4_r2l9" n="N008"/>nochricht hab, das er ga<supplied>n</supplied>z melancolisch vndt gefahr der
-      <lb facs="#facs_4_r2l10" n="N009"/><unclear>hectica</unclear> habe, das wan er nit balt he<supplied>i</supplied>rat, die sucession
+      <lb facs="#facs_4_r2l10" n="N009"/>hectica habe, das wan er nit balt he<supplied>i</supplied>rat, die sucession
       <lb facs="#facs_4_r2l11" n="N010"/>auch nit erfolgen möchte. Bitt auch mihr wider zu sch<supplied>re</supplied>iben,
       <lb facs="#facs_4_r2l12" n="N011"/>was sie mihr geben wegen vergrößerung des appanage,
       <lb facs="#facs_4_r2l13" n="N012"/>dan ichs verlegt, verlohrn wirts nit sein, aber kans nit
@@ -349,7 +349,7 @@
     <pb facs="#facs_5" n="278 r" xml:id="Kasten_blau_44_6_0441.jpg" ed="54 r"/>
     <ab facs="#facs_5_r1">
       <lb facs="#facs_5_r1l3" n="N001"/>apanage des haus herkomens gemehs haben sollen, einm<supplied>a</supplied>hl
-      <lb facs="#facs_5_r1l4" n="N002"/><unclear>ligt</unclear> dero Liebden vndt der religion alles dran, b<supplied>e</supplied>zie mich auf
+      <lb facs="#facs_5_r1l4" n="N002"/>ligt dero Liebden vndt der religion alles dran, b<supplied>e</supplied>zie mich auf
       <lb facs="#facs_5_r1l5" n="N003"/>den Sinzendorf bezihe. Den Fürst von Salm betreffendt, so hab
       <lb facs="#facs_5_r1l6" n="N004"/>ich woll verhoffet, wegen der furstendum b<supplied>e</supplied>y ihr Mayestät zu erhalten,
       <lb facs="#facs_5_r1l7" n="N005"/>aber ihr Mayestät haben solche vhrsachen, das es vnmöglich haben
@@ -377,8 +377,8 @@
       <lb facs="#facs_6_r1l8" n="N007"/>wollen, das dero Liebden sein <unclear>nuhln</unclear> wißen, glaub ich darum, den
       <lb facs="#facs_6_r1l9" n="N008"/>er mihr selber hatt gesacht, wan sein eigener vatter
       <lb facs="#facs_6_r1l10" n="N009"/>lebet, wolt ihms nit vertrawen, sonde<supplied>r</supplied>n allein dem
-      <lb facs="#facs_6_r1l11" n="N010"/><unclear>P</unclear>, auch woll durch ihn als beri<supplied>c</supplied>hten, also mus mans
-      <lb facs="#facs_6_r1l12" n="N011"/>erwarten. Der <unclear>P</unclear> hatt sonst ga<supplied>n</supplied>z von niks sich gemelt,
+      <lb facs="#facs_6_r1l11" n="N010"/><choice><expan>Pater</expan><abbr>P</abbr></choice>, auch woll durch ihn als beri<supplied>c</supplied>hten, also mus mans
+      <lb facs="#facs_6_r1l12" n="N011"/>erwarten. Der <choice><expan>Pater</expan><abbr>P</abbr></choice> hatt sonst ga<supplied>n</supplied>z von niks sich gemelt,
       <lb facs="#facs_6_r1l13" n="N012"/>sonde<supplied>r</supplied>n vns allen nuhr dero Liebden affection versichert. Auch hatt
       <lb facs="#facs_6_r1l14" n="N013"/>mich mein Obrist Hoffmeister Fürst von Schwarzenbe<supplied>r</supplied>g
       <lb facs="#facs_6_r1l15" n="N014"/>ersucht, weilen er zuuerleßig vernommen, das

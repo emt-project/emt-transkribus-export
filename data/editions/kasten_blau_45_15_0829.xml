@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -161,7 +161,7 @@
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht sage <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom
       <lb facs="#facs_1_r1l3" n="N003"/>7ten dis, bitt aber <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>, mit dero <choice><expan>gehorsamstem</expan><abbr>gehos</abbr></choice> kindt kein
-      <lb facs="#facs_1_r1l4" n="N004"/>entschuldigung wegen vnt<unclear>e</unclear>rlaßung des schreibens zue
+      <lb facs="#facs_1_r1l4" n="N004"/>entschuldigung wegen vnt<supplied><unclear>e</unclear></supplied>rlaßung des schreibens zue
       <lb facs="#facs_1_r1l5" n="N005"/>machen, dan mihr die gröste gnad, wan ewer Durchlaucht sich
       <lb facs="#facs_1_r1l7" n="N006"/>wegen meiner nit die geringste vngelegenhe<supplied>i</supplied>t anduen.
       <lb facs="#facs_1_r1l8" n="N007"/>Das die vermehlung meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schwester so woll
@@ -181,7 +181,7 @@
       <lb facs="#facs_2_r1l3" n="N003"/>leben, auch mihr die gröste gnad, wan mich ewer Durchlaucht
       <lb facs="#facs_2_r1l4" n="N004"/>deren würdigen. Von der Königin, meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schwester, hab
       <lb facs="#facs_2_r1l5" n="N005"/>ich heünt ein, wie auch vom Deütschmeister 2 brif bekomen,
-      <lb facs="#facs_2_r1l6" n="N006"/>die einen aber vom 13ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> vnd der andre vom 13ten merz.
+      <lb facs="#facs_2_r1l6" n="N006"/>die einen aber vom 13ten <choice><expan>feber</expan><abbr>feb</abbr></choice> vnd der andre vom 13ten merz.
       <lb facs="#facs_2_r1l7" n="N007"/>Dahr schreibt er mihr auch des Mansfelt vnpeß-
       <lb facs="#facs_2_r1l8" n="N008"/>lichkeit vnd ist gut, das euentualiter ordre er-
       <lb facs="#facs_2_r1l9" n="N009"/>gangen, das ein andrer in Portugal solle. Ich hab

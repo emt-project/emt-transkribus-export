@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -476,7 +476,7 @@
       <lb facs="#facs_3_r1l6" n="N006"/>die man considerirn könte. Solte aber iah in ganz Deütsch-
       <lb facs="#facs_3_r1l7" n="N007"/>landt sich gahr keine als dise finden, so wurde er
       <lb facs="#facs_3_r1l8" n="N008"/>dise allen vohrzihen, <unclear>dan er absolute ke</unclear>
-      <lb facs="#facs_3_r1l9" n="N009"/><unclear>in walsche noch granzös</unclear>
+      <lb facs="#facs_3_r1l9" n="N009"/><unclear>in walsche noch französ</unclear>
       <lb facs="#facs_3_r1l10" n="N010"/><unclear>in wolle</unclear>. Also bleibt der Keiser mit <seg type="blackening">mit</seg>
       <lb facs="#facs_3_r1l11" n="N011"/>mihr annoch diser meinung, vom meinen sohn in disen
       <lb facs="#facs_3_r1l12" n="N012"/>zu contentiren, das man auch zu andren schiken solle,
@@ -635,7 +635,7 @@
       <lb facs="#facs_9_line_1666441999677_780" n="N019"/>dero Liebden
       <lb facs="#facs_9_r1l21" n="N020"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
       <lb facs="#facs_9_r1l23" n="N021"/>Eleonora
-      <lb facs="#facs_9_r1l22" n="N022"/>Wien den 3ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1706
+      <lb facs="#facs_9_r1l22" n="N022"/>Wien den 3ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1706
       <lb facs="#facs_9_line_1666441984926_776" n="N023"/>Das wohzu angehen-
       <lb facs="#facs_9_line_1666441947023_768" n="N024"/>gend
       <lb facs="#facs_9_r1l25" n="N025"/>Ich bitt vmb vergebung, das ich mein schuldigste dankhsagung w<supplied>e</supplied>gen des

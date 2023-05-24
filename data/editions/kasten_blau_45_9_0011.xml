@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -228,7 +228,7 @@
       <lb facs="#facs_3_r1l10" n="N008"/>ganzergebenste trewg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
       <lb facs="#facs_3_r1l11" n="N009"/>dochter
       <lb facs="#facs_3_line_1637145125806_445" n="N010"/>EMT
-      <lb facs="#facs_3_r1l9" n="N011"/>Wien den 12 <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1682 
+      <lb facs="#facs_3_r1l9" n="N011"/>Wien den 12 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1682 
       <lb facs="#facs_3_line_1637145125822_446" n="N012"/>Hierbey überschike ewer Durchlaucht nach dero befehl des <choice><expan>Pater</expan><abbr>P</abbr></choice> 
       <lb facs="#facs_3_r1l13" n="N013"/>Marci seinen brief. Ihr Mayestät werden auf alle weis suechen, die
       <lb facs="#facs_3_r1l14" n="N014"/>obedenz vohr ihn auszuewirken, damit er nah ostren möge

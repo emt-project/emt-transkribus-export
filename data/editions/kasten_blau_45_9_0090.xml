@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -322,7 +322,7 @@
       <lb facs="#facs_5_r1l12" n="N010"/>ganz ergebenste trewgehorsamste
       <lb facs="#facs_5_r1l14" n="N011"/>do<supplied>c</supplied>hter
       <lb facs="#facs_5_r1l16" n="N012"/>EMT
-      <lb facs="#facs_5_r1l10" n="N013"/>Wien den 4ten <choice><expan>Februarij</expan><abbr><unclear>feb</unclear></abbr></choice> 1683
+      <lb facs="#facs_5_r1l10" n="N013"/>Wien den 4ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1683
       <lb facs="#facs_5_r1l11" n="N014"/>Wegen das, so ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> 
       <lb facs="#facs_5_r1l13" n="N015"/>melden wegen einiger
       <lb facs="#facs_5_r1l15" n="N016"/>ministro, wirt iest

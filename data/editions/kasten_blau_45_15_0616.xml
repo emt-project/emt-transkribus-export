@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -225,7 +225,7 @@
     <pb facs="#facs_3" n="39 r" xml:id="Kasten_blau_45_15_0618.jpg"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>von Sulsbach auch gesacht, ob solte mein brueder einigen
-      <lb facs="#facs_3_r1l2" n="N002"/>argwohn auf <unclear>Schper</unclear> gehabt haben, hetten aber kein fundament
+      <lb facs="#facs_3_r1l2" n="N002"/>argwohn auf schper gehabt haben, hetten aber kein fundament
       <lb facs="#facs_3_r1l3" n="N003"/>finden können, keine particularia hatt er mihr aber gesa<supplied>c</supplied>h<supplied>t</supplied>.
       <lb facs="#facs_3_r1l4" n="N004"/>Auf die englische sa<supplied>c</supplied>h ist sich freilich nit zue
       <lb facs="#facs_3_r1l5" n="N005"/>verlaßen, vnd wans wahr ist, das sie den <choice><expan>Prinz</expan><abbr>P</abbr></choice> Oragnen vohr
@@ -265,7 +265,7 @@
       <lb facs="#facs_4_r1l18" n="N018"/>ewer Durchlaucht
       <lb facs="#facs_4_r1l19" n="N019"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_4_r1l21" n="N020"/>EMT
-      <lb facs="#facs_4_r1l20" n="N021"/>Wien den 27ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1689</ab>
+      <lb facs="#facs_4_r1l20" n="N021"/>Wien den 27ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1689</ab>
   </div>
 </body>
 

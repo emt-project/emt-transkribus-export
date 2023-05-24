@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -255,7 +255,7 @@
       <lb facs="#facs_1_r1l1" n="N001"/><unclear>27 febr 97</unclear>
       <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Fürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brud</abbr></choice>
       <lb facs="#facs_1_r1l4" n="N003"/>Ich hab dero schr<supplied>ei</supplied>ben woll empfangs, eins mit hand vom 31ten
-      <lb facs="#facs_1_r1l5" n="N004"/>passat sambt den <choice><expan>Postscriptum</expan><abbr>PS</abbr></choice>, 2 aus der canzl<supplied>e</supplied>y vom 31ten
+      <lb facs="#facs_1_r1l5" n="N004"/>passat sambt den <choice><expan>Postskriptum</expan><abbr>PS</abbr></choice>, 2 aus der canzl<supplied>e</supplied>y vom 31ten
       <lb facs="#facs_1_r1l6" n="N005"/>passato vnd 8ten dis. Freüdt mich, das dero Liebden satisfact<supplied>ion</supplied>
       <lb facs="#facs_1_r1l7" n="N006"/>haben wegen der reinsch kreis sach, werd mich auch
       <lb facs="#facs_1_r1l8" n="N007"/>auf alleweis befleis, dero Liebden wegen der subsidien zu dienen.
@@ -325,7 +325,7 @@
       <lb facs="#facs_4_r1l16" n="N014"/>rüern können, izt fangts an, beßer <supplied>zu</supplied> werden, so hoff,
       <lb facs="#facs_4_r1l17" n="N015"/>er werd baldt wekh können. Der Hamilton ist
       <lb facs="#facs_4_r1l18" n="N016"/>auch hier ankommen. Er hatt bey mihr audienz
-      <lb facs="#facs_4_r1l19" n="N017"/>gehabt vndt gesacht, wan er gleich mit mehr
+      <lb facs="#facs_4_r1l19" n="N017"/>gehabt vndt gesacht, wan er gleich nit mehr
       <lb facs="#facs_4_r1l20" n="N018"/>so glükhsehlich, in dero Liebden dienst zu sein, werd er</ab>
     <pb facs="#facs_5" n="151 r" xml:id="Kasten_blau_44_7_0278.jpg" ed="25 r"/>
     <ab facs="#facs_5_r1">
@@ -376,7 +376,7 @@
       <lb facs="#facs_7_line_1649073332167_601" n="N005"/>dero Liebden
       <lb facs="#facs_7_r2l6" n="N006"/>getrewste schwester
       <lb facs="#facs_7_line_1649073354107_609" n="N007"/>Eleonora
-      <lb facs="#facs_7_line_1649073354107_610" n="N008"/>Wien den 27ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1697
+      <lb facs="#facs_7_line_1649073354107_610" n="N008"/>Wien den 27ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1697
       <lb facs="#facs_7_r2l8" n="N009"/>Die Königin schikt den Baron Defin in Polen,
       <lb facs="#facs_7_r2l9" n="N010"/>also wollen dero Liebden dem Gise ordre geben, das er
       <lb facs="#facs_7_r2l10" n="N011"/>fein confident mit ihm handle, vndt abso<supplied>n</supplied>d<supplied>e</supplied>rlich

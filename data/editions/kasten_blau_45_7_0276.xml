@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -329,7 +329,7 @@
     <pb facs="#facs_5" n="142,5 r" xml:id="Kasten_blau_45_7_0280.jpg"/>
     <ab facs="#facs_5_r1">
       <lb facs="#facs_5_r1l2" n="N001"/>benemmen, dan ich find, das es vohr dero Liebden vnd vnser haus dienst
-      <lb facs="#facs_5_r1l3" n="N002"/>ist. Hab auch den Deütschmeister gebetten, miht ihm woll zu <unclear>sein</unclear>,
+      <lb facs="#facs_5_r1l3" n="N002"/>ist. Hab auch den Deütschmeister gebetten, miht ihm woll zu sein,
       <lb facs="#facs_5_r1l4" n="N003"/>der ist heündt frue ankommen, aber sicht sehr übel
       <lb facs="#facs_5_r1l5" n="N004"/>aus, klagt auch noch die seiten, das mihr recht angst
       <lb facs="#facs_5_r1l6" n="N005"/>dabey ist, werd die doctor laßen holen, zu sehen, was zu

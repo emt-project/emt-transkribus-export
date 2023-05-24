@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -158,7 +158,7 @@
       <lb facs="#facs_1_r1l17" n="N017"/>huesten darbey, welches ihr Mayestät incomodirt seind. Sonst aber <supplied>sind wir</supplied>
       <lb facs="#facs_1_r1l18" n="N018"/>gottlob beyde woll auf. Mit nechster post will alles
       <lb facs="#facs_1_r1l19" n="N019"/>widerumb herrein bringen. Ich sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh
-      <lb facs="#facs_1_r1l20" n="N020"/>vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> andenken in dero <unclear>h</unclear> gebett bey vnser lieben fraw,
+      <lb facs="#facs_1_r1l20" n="N020"/>vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> andenken in dero <choice><expan>heiliges</expan><abbr>h</abbr></choice> gebett bey vnser lieben fraw,
       <lb facs="#facs_1_r1l21" n="N021"/>bin so viller gnaden woll gahr nit wert vnd weis es</ab>
     <pb facs="#facs_2" n="9 v" xml:id="Kasten_blau_45_9_0018.jpg"/>
     <ab facs="#facs_2_r1">
@@ -170,7 +170,7 @@
       <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht
       <lb facs="#facs_2_r1l8" n="N007"/>ganz ergebenste trew gehorsa<supplied>m</supplied>ste
       <lb facs="#facs_2_r1l9" n="N008"/>dochter EMT
-      <lb facs="#facs_2_r1l7" n="N009"/>Wien den 19 <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1682</ab>
+      <lb facs="#facs_2_r1l7" n="N009"/>Wien den 19 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1682</ab>
   </div>
 </body>
 

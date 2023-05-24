@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -291,7 +291,7 @@
       <lb facs="#facs_2_r1l10" n="N010"/>vermehlung meines <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruders</expan><abbr>br</abbr></choice> <choice><expan>gnädigst</expan><abbr>g</abbr></choice> vermelden. So glaub ich woll,
       <lb facs="#facs_2_r1l11" n="N011"/>das ihm die große bedrüebnus nit wirt zue-
       <lb facs="#facs_2_r1l12" n="N012"/>laßen, so balt auf dißes widrumb zue gedenken,
-      <lb facs="#facs_2_r1l13" n="N013"/><unclear>vnd bin ich woll</unclear> destwegen in großen sorgen, gott
+      <lb facs="#facs_2_r1l13" n="N013"/>vnd <unclear>bin</unclear> ich woll destwegen in großen sorgen, gott
       <lb facs="#facs_2_r1l14" n="N014"/>wolle ihm sterkh geben, dises große kreüz von seiner
       <lb facs="#facs_2_r1l15" n="N015"/>handt mit resignation geduldich anzuenemmen. Ihr
       <lb facs="#facs_2_r1l16" n="N016"/>Mayestät werden es aber überlegen vnd so dan ewer Durchlaucht
@@ -302,7 +302,7 @@
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>zue hoffen <supplied>ist</supplied>. Ist mihr leidt, das zue Costniz die
       <lb facs="#facs_3_r1l2" n="N002"/>wahl so übel abgeloffen, gott verzei es dem
-      <lb facs="#facs_3_r1l3" n="N003"/><unclear>Zweirn</unclear>. Es wirt woll zue consideriren sein, was
+      <lb facs="#facs_3_r1l3" n="N003"/>Zweirn. Es wirt woll zue consideriren sein, was
       <lb facs="#facs_3_r1l4" n="N004"/>zue duen <supplied>ist</supplied>, dan dis ein französische creatur ist.
       <lb facs="#facs_3_r1l5" n="N005"/>In der portugesischen sach habens vnser teologhi über-
       <lb facs="#facs_3_r1l6" n="N006"/>legt, weis nit, ob <choice><expan>Pater</expan><abbr>P</abbr></choice> Waßenhoffen ist fertig worden mit

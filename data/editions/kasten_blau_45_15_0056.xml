@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -174,7 +174,7 @@
       <lb facs="#facs_1_r1l14" n="N014"/>Herzoch balt wekh wirt. Der Cuhrfürst wirt auch
       <lb facs="#facs_1_r1l15" n="N015"/>heünt 8 dag hier sein vnd gleich die campagne
       <lb facs="#facs_1_r1l16" n="N016"/>anfangen. Ewer Durchlaucht derfen gahr nit zweiflen, das,
-      <lb facs="#facs_1_r1l17" n="N017"/>so balt sich etwas mit portugal <unclear>vohrg<supplied>e</supplied>nder</unclear>
+      <lb facs="#facs_1_r1l17" n="N017"/>so balt sich etwas mit portugal <unclear>vohrgender</unclear>
       <lb facs="#facs_1_r1l18" n="N018"/>zeigen wurde, ihr Mayestät alsobalt mein <choice><expan>bruder</expan><abbr>brud</abbr></choice> Carl zue-</ab>
     <pb facs="#facs_2" n="35 v" xml:id="Kasten_blau_45_15_0057.jpg"/>
     <ab facs="#facs_2_r2">

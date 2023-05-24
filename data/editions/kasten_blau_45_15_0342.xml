@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -172,7 +172,7 @@
       <lb facs="#facs_1_r1l8" n="N006"/>in allen den vnserigen parte nemen, <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
       <lb facs="#facs_1_r1l10" n="N007"/>ewer Durchlaucht zue berichten, wie das bloß aus
       <lb facs="#facs_1_r1l11" n="N008"/>gottes güette vnd barmherzichkeit gestern
-      <lb facs="#facs_1_r1l12" n="N009"/>abent von Stuelweißenburg der <unclear>Sipi</unclear> mit
+      <lb facs="#facs_1_r1l12" n="N009"/>abent von Stuelweißenburg der Sixi mit
       <lb facs="#facs_1_r1l13" n="N010"/>etligen türken von dort ankommen, welche
       <lb facs="#facs_1_r1l14" n="N011"/>den traktat der übergab selbig<supplied>er</supplied> statt schon
       <lb facs="#facs_1_r1l15" n="N012"/>geschloßen vnd bederseits vnterschriben, sie

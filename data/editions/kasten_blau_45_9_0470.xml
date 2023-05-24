@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -249,7 +249,7 @@
       <lb facs="#facs_3_line_1640706330117_1276" n="N017"/>Wien den 27ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1685
       <lb facs="#facs_3_line_1640706439254_1284" n="N018"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Marcus bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung,
       <lb facs="#facs_3_r1l17" n="N019"/>das er nit auf dero befehl <supplied>kommt</supplied>. Er hatt kein obedienz, vnd ohne selbige
-      <lb facs="#facs_3_r1l18" n="N020"/>duet er kein passo, anderstens kan er in winter hiraus nit <unclear>bestehen</unclear>.
+      <lb facs="#facs_3_r1l18" n="N020"/>duet er kein passo, anderstens kan er in winter hiraus nit bestehen.
       <lb facs="#facs_3_r1l19" n="N021"/>Er verschpricht aber, wan er könftige campagne wider heraus
       <lb facs="#facs_3_r1l20" n="N022"/>kombt, so vill fruehr zue kommen, das er noch eh zue ewer Durchlaucht komm.</ab>
     <pb facs="#facs_4" n="279 r" xml:id="Kasten_blau_45_9_0473.jpg"/>

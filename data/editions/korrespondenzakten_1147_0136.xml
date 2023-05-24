@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -164,8 +164,8 @@
       <lb facs="#facs_3_r1l1" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Cuhrfürsten zu
       <lb facs="#facs_3_r1l2" n="N002"/>Pfalz, meinem h<supplied>er</supplied>zallerlibsten
       <lb facs="#facs_3_r1l3" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brudern
-      <lb facs="#facs_3_r1l4" n="N004"/><unclear>außführen der wehren</unclear>
-      <lb facs="#facs_3_r1l5" n="N005"/><unclear>300 mann nach Benrath zuem</unclear> </ab>
+      <lb facs="#facs_3_r1l4" n="N004"/><seg type="comment">außführen der wehren</seg>
+      <lb facs="#facs_3_r1l5" n="N005"/><seg type="comment">300 mann nach Benrath zuem</seg> </ab>
   </div>
 </body>
 

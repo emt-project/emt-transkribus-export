@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -158,7 +158,7 @@
       <lb facs="#facs_1_r1l13" n="N013"/>er werde schon glükhlich bey ewer Durchlaucht ange-
       <lb facs="#facs_1_r1l14" n="N014"/>langt sein. Wegen Meins vnd wegen der
       <lb facs="#facs_1_r1l15" n="N015"/>cerimonialen der portugeßer werden ewer Durchlaucht
-      <lb facs="#facs_1_r1l16" n="N016"/>schon antwort von ihr Mayestät mein <choice><expan>gnädigsten</expan><abbr><unclear>g</unclear></abbr></choice> Kaiser</ab>
+      <lb facs="#facs_1_r1l16" n="N016"/>schon antwort von ihr Mayestät mein <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaiser</ab>
     <pb facs="#facs_2" n="66 v2" xml:id="Kasten_blau_45_15_0153.jpg"/>
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>empfangen haben. Der Speroni wirt den ersten

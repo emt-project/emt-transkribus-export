@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -169,7 +169,7 @@
       <lb facs="#facs_1_r1l3" n="N003"/>empfangen vnd mit freüden dero guetten wohlstand
       <lb facs="#facs_1_r1l4" n="N004"/>daraus ersehn. Hoff, sie werden auch ein guetten
       <lb facs="#facs_1_r1l5" n="N005"/>schpaß mit der beys haben zue Grimlichausen.
-      <lb facs="#facs_1_r1l6" n="N006"/>Mein, lebt der alte Pastor noch mit seiner <unclear>morgret</unclear>.
+      <lb facs="#facs_1_r1l6" n="N006"/>Mein, lebt der alte Pastor noch mit seiner <unclear>Morgret</unclear>.
       <lb facs="#facs_1_r1l7" n="N007"/>Wan er noch lebt, bitt ich, dero Liebden recomendiren mich in
       <lb facs="#facs_1_r1l8" n="N008"/>sein gebett, dan er ist gahr ein frommer man mit sambt
       <lb facs="#facs_1_r1l9" n="N009"/>seinen schönen coleraturen. Hier gieng die beis gut,
@@ -186,7 +186,7 @@
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> liebster Kaiser, wegen vnterschidlichen vhrsachen,
       <lb facs="#facs_2_r1l2" n="N002"/>so ich ihr Durchlaucht, vnsern <choice><expan>gnädigen</expan><abbr>g</abbr></choice> heren vattern, wie auch der
-      <lb facs="#facs_2_r1l3" n="N003"/>Erzherzogin selbsten überschriben, nit darein <unclear>condescen</unclear>-
+      <lb facs="#facs_2_r1l3" n="N003"/>Erzherzogin selbsten überschriben, nit darein condescen-
       <lb facs="#facs_2_r1l4" n="N004"/>diren können, <seg type="blackening">hoffen</seg> <seg type="blackening">also</seg> dan sie finten, das dero die<supplied>n</supplied>st
       <lb facs="#facs_2_r1l5" n="N005"/>gahr zue vill darbey leiden wurde, welches dero Liebden nit
       <lb facs="#facs_2_r1l6" n="N006"/>begeren werden. Hoffen also, dero Liebden werden sich mit dem
@@ -207,7 +207,7 @@
       <lb facs="#facs_2_r1l20" n="N021"/>Laxenburg den 30ten m<supplied>a</supplied>ij 1688</ab>
     <pb facs="#facs_3" n="4 r" xml:id="Kasten_blau_44_6_0009.jpg"/>
     <ab facs="#facs_3_region_1642601812242_1277">
-       <lb facs="#facs_3_line_1642601812271_1280" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice></ab>
+      <lb facs="#facs_3_line_1642601812271_1280" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice></ab>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>Auch, he<supplied>r</supplied>zliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice>, hab ich ich selbige erine<supplied>r</supplied>n wollen,
       <lb facs="#facs_3_r1l2" n="N002"/>das disen brief zue dem endt geschriben, <supplied>ihn</supplied> auf

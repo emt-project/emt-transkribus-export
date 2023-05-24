@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -148,7 +148,7 @@
       <lb facs="#facs_2_line_1656425450597_2953" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
       <lb facs="#facs_2_line_1656425454229_2958" n="N002"/>Pfalz, meinen herzalle<supplied>r</supplied>libsten
       <lb facs="#facs_2_line_1656425456481_2963" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_2_line_1656425459068_2968" n="N004"/><unclear>NB</unclear></ab>
+      <lb facs="#facs_2_line_1656425459068_2968" n="N004"/><unclear>NB#</unclear></ab>
   </div>
 </body>
 

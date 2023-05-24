@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -222,7 +222,7 @@
       <lb facs="#facs_3_r1l14" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> trewgehorsamste
       <lb facs="#facs_3_line_1647610001236_752" n="N015"/>dochter
       <lb facs="#facs_3_line_1647610033973_763" n="N016"/>EMT
-      <lb facs="#facs_3_r1l15" n="N017"/>Wien den 13ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1689
+      <lb facs="#facs_3_r1l15" n="N017"/>Wien den 13ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1689
       <lb facs="#facs_3_line_1647609992433_748" n="N018"/>Ich bekom ein brif von der Königin in
       <lb facs="#facs_3_r1l17" n="N019"/>Polen, das sie mihr ihren sohn Carl recomendirt
       <lb facs="#facs_3_line_1647610033973_762" n="N020"/>auf Trient. Ich glaub zwar, das eben aus

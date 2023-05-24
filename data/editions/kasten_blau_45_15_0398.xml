@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -269,7 +269,7 @@
       <lb facs="#facs_4_r1l9" n="N009"/>von Frankhreich geben vnd gezeigt, das er ein
       <lb facs="#facs_4_r1l10" n="N010"/>capabler mensch ist, hatt vill penetrirt, darnach
       <lb facs="#facs_4_r1l11" n="N011"/>man sich richten kan. Ihr Mayestät werden ihn auch nit
-      <lb facs="#facs_4_r1l12" n="N012"/>verligen laßen, von <unclear>den</unclear> mehrer gebrauchen. Sonst gibt
+      <lb facs="#facs_4_r1l12" n="N012"/>verligen laßen, von <unclear>d<supplied>en</supplied></unclear> mehrer gebrauchen. Sonst gibt
       <lb facs="#facs_4_r1l13" n="N013"/>hier ganz niks ewer Durchlaucht zue berichten, also will ich
       <lb facs="#facs_4_r1l14" n="N014"/>auch deroselben mit meinen schreiben nit lenger vnge-
       <lb facs="#facs_4_r1l15" n="N015"/>legenheit machen. Due mich in dero beharligen <choice><expan>gnade</expan><abbr>g</abbr></choice>

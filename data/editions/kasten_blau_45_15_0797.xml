@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,7 +135,7 @@
       <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht sage ich <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben
       <lb facs="#facs_1_r1l3" n="N003"/>vndt überschikten hirsch, sie seindt noch gahr
       <lb facs="#facs_1_r1l4" n="N004"/>guet. Freit mich zue vernemmen, das die hirsch
-      <lb facs="#facs_1_r1l5" n="N005"/>so guett <unclear>schreien</unclear> vnd widerumb auf dem plaz
+      <lb facs="#facs_1_r1l5" n="N005"/>so guett schreien vnd widerumb auf dem plaz
       <lb facs="#facs_1_r1l6" n="N006"/>seint. Es ist ihr Mayestät vnd mihr von herzen leidt
       <lb facs="#facs_1_r1l7" n="N007"/>gewesen, das nit lenger haben können bleiben,
       <lb facs="#facs_1_r1l8" n="N008"/>haben aber so genuechsam vngelegenheit gemacht.

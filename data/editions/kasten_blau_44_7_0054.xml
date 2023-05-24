@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -131,7 +131,7 @@
   <div>
     <pb facs="#facs_1" n="32 r" xml:id="Kasten_blau_44_7_0054.jpg" ed="28 r"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>16 Februarij 96</unclear>
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>16 feb 96</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N003"/>Mit diser gütten gelegenheit, das ihr Mayestät den Deütschmeister
       <lb facs="#facs_1_r1l4" n="N004"/>hi<supplied>n</supplied>unter schiken, damit er in sein nahmen <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl
@@ -155,7 +155,7 @@
       <lb facs="#facs_2_r1l5" n="N005"/>dero Liebden
       <lb facs="#facs_2_r1l7" n="N006"/>getrewste schwester
       <lb facs="#facs_2_r1l8" n="N007"/>Eleonora
-      <lb facs="#facs_2_r1l6" n="N008"/>Wien den 16ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1696</ab>
+      <lb facs="#facs_2_r1l6" n="N008"/>Wien den 16ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1696</ab>
   </div>
 </body>
 

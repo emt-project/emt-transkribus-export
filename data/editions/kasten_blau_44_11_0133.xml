@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,7 +127,7 @@
       <lb facs="#facs_1_r1l7" n="N006"/>erstandene heiland dero Liebden durch vill jahr dero
       <lb facs="#facs_1_r1l8" n="N007"/>geburzdag mitt fröhligen alleluja, gesuntheit vnd
       <lb facs="#facs_1_r1l9" n="N008"/>allen contento wolle zurukhlegen laßen, vmb
-      <lb facs="#facs_1_r1l10" n="N009"/>welches ich instendig bitte seine <choice><expan>göttliche</expan><abbr>gott</abbr></choice> <unclear>my</unclear>, dero Liebden
+      <lb facs="#facs_1_r1l10" n="N009"/>welches ich instendig bitte seine <choice><expan>göttliche</expan><abbr>gott</abbr></choice> <choice><expan>Mayestät</expan><abbr>My</abbr></choice>, dero Liebden
       <lb facs="#facs_1_r1l11" n="N010"/>aber, mich vernershin in dero <choice><expan>brüderlichen</expan><abbr>brud</abbr></choice> lieb zu
       <lb facs="#facs_1_r1l12" n="N011"/>erhalten, als die ich ehnder werde aufhören
       <lb facs="#facs_1_r1l13" n="N012"/>zu leben als von herzen zu sein

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -280,7 +280,7 @@
       <lb facs="#facs_1_r1l5" n="N005"/>dragen. Wan ich nuhr gelegenheit hette, darb<supplied>e</supplied>y dero Liebden meine
       <lb facs="#facs_1_r1l6" n="N006"/>bestendige affection vnd dankhbarkeit zu erweisen, wehre
       <lb facs="#facs_1_r1l7" n="N007"/>es mein gröste consolation. Freüdt mich auch über alles,
-      <lb facs="#facs_1_r1l8" n="N008"/>das <unclear>dero Liebden</unclear> sich widerumb ganz restituirt in vohriger gesuntheit
+      <lb facs="#facs_1_r1l8" n="N008"/>das dero Liebden sich widerumb ganz restituirt in vohriger gesuntheit
       <lb facs="#facs_1_r1l9" n="N009"/>befinden, dab<supplied>e</supplied>y der almechtige dieselbe bestendigst erhalten
       <lb facs="#facs_1_r1l10" n="N010"/>wolle. Die bewuste materi des <unclear>d</unclear> betreffent, so hett ich nit
       <lb facs="#facs_1_r1l11" n="N011"/>gehofft, das alles so platt auf mich wurd geworfen werden,
@@ -311,7 +311,7 @@
       <lb facs="#facs_2_r1l19" n="N018"/>nimbt (welcher mihr eben solche prophetische brif als wie
       <lb facs="#facs_2_r1l20" n="N019"/>dero Liebden geschriben<supplied>)</supplied>, so hab ich meine <choice><expan>geliebste</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> proponirt,
       <lb facs="#facs_2_r1l21" n="N020"/>das sie ihn solle laßen herunter kommen, so
-      <lb facs="#facs_2_r1l22" n="N021"/>wolle ich mit ihm überlegen, wie <unclear>??</unclear> die sachen</ab>
+      <lb facs="#facs_2_r1l22" n="N021"/>wolle ich mit ihm überlegen, wie <seg type="blackening">??</seg> die sachen</ab>
     <pb facs="#facs_3" n="62 r" xml:id="Korrespondenzakten_1147_0098.jpg" ed="36 r"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l3" n="N001"/>könte zumb besten eingericht werden. Auch auf das, so
@@ -351,7 +351,7 @@
       <lb facs="#facs_4_r1l12" n="N012"/>ein man, der vill schwezt vnd izt wegen der gefangen-
       <lb facs="#facs_4_r1l13" n="N013"/>schafft exacerbirt, erst etwas schäd ligers vohrnemen
       <lb facs="#facs_4_r1l14" n="N014"/>möchte, mit disem werden die leütt glauben, sey
-      <lb facs="#facs_4_r1l15" n="N015"/>andre vhrsachen, als was sie bis dahto aus <unclear>geschhgt</unclear>.
+      <lb facs="#facs_4_r1l15" n="N015"/>andre vhrsachen, als was sie bis dahto aus gesch<supplied>we</supplied>zt.
       <lb facs="#facs_4_r1l16" n="N016"/>Bitte, wan über dises einige frag an dero Lieben kombt,
       <lb facs="#facs_4_r1l17" n="N017"/>wollens doch confirmiren, dan ist alles wahr, das
       <lb facs="#facs_4_r1l18" n="N018"/>man vhrsach, in bis dorthin vnd lenger nit los zu l<supplied>a</supplied>ßen,

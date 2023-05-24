@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -208,7 +208,7 @@
       <lb facs="#facs_2_r1l5" n="N005"/>alles wirt gericht werden, das sie gegen den halben
       <lb facs="#facs_2_r1l6" n="N006"/><choice><expan>october</expan><abbr>8ber</abbr></choice> von hier widerumb wirt abreisen können,
       <lb facs="#facs_2_r1l7" n="N007"/>dan sie erkent gahr woll, das mein brueder über
-      <lb facs="#facs_2_r1l8" n="N008"/>winter nit kan von <unclear>seinen</unclear> landen sein, vnd
+      <lb facs="#facs_2_r1l8" n="N008"/>winter nit kan von seinen landen sein, vnd
       <lb facs="#facs_2_r1l9" n="N009"/>sie will auch von ihm so lang nit separirt
       <lb facs="#facs_2_r1l10" n="N010"/>sein. Also wan der lantag aus wirt sein, wan er
       <lb facs="#facs_2_r1l11" n="N011"/>sich alsdan wirt auf die reis begeben, wirt er
@@ -243,7 +243,7 @@
       <lb facs="#facs_3_r1l19" n="N019"/>des feindts, ich förcht, sie halten nit mehr vnd foppen</ab>
     <pb facs="#facs_4" n="276 v" xml:id="Kasten_blau_45_9_0469.jpg"/>
     <ab facs="#facs_4_r1">
-      <lb facs="#facs_4_r1l1" n="N001"/>vns hin vnd her. <unclear>Königrat</unclear> haben sie verlaßen.
+      <lb facs="#facs_4_r1l1" n="N001"/>vns hin vnd her. Königrat haben sie verlaßen.
       <lb facs="#facs_4_r1l2" n="N002"/>Mit disem due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
       <lb facs="#facs_4_r1l3" n="N003"/>b<supplied>e</supplied>fehl<supplied>en</supplied> vnd werde ste<supplied>r</supplied>ben
       <lb facs="#facs_4_r1l4" n="N004"/>ewer Durchlaucht

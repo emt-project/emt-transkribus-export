@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -124,7 +124,7 @@
       <lb facs="#facs_1_r1l4" n="N004"/>Ist woll gutt, das der Fuker noch vohr der
       <lb facs="#facs_1_r1l5" n="N005"/>post kommen, sonst wehr woll in großen
       <lb facs="#facs_1_r1l6" n="N006"/>sorgen geweßen wegen ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> vebelaufsein.
-      <lb facs="#facs_1_r1l7" n="N007"/>Dem Leopoltl geht es etwas beßer, vom <choice><expan>Grav</expan><abbr>G</abbr></choice>
+      <lb facs="#facs_1_r1l7" n="N007"/>Dem Leopoltl geht es etwas beßer, vom <choice><expan>Graf</expan><abbr>G</abbr></choice>
       <lb facs="#facs_1_r1l8" n="N008"/>Fuker werden ewer Durchlaucht mitt mehrem <choice><expan>gnädigst</expan><abbr>ge</abbr></choice>
       <lb facs="#facs_1_r1l9" n="N009"/>vernemen. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice>
       <lb facs="#facs_1_r1l10" n="N010"/>b<supplied>e</supplied>fehlen

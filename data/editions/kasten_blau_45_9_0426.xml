@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -206,7 +206,7 @@
       <lb facs="#facs_2_r1l18" n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vnte</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_r1l20" n="N019"/>EMT
       <lb facs="#facs_2_r1l19" n="N020"/>Neustatt den 18ten maij 1685
-       <lb facs="#facs_2_r1l21" n="N021"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Die expedition vohr den Reichenbach ist nit vertig worden,
+      <lb facs="#facs_2_r1l21" n="N021"/>PS Die expedition vohr den Reichenbach ist nit vertig worden,
       <lb facs="#facs_2_r1l23" n="N022"/>werd sie mit nechster post <add>vnfehlbar</add> ewer Durchlaucht überschiken. Iezt gleich</ab>
     <pb facs="#facs_3" n="254 r" xml:id="Kasten_blau_45_9_0428.jpg"/>
     <ab facs="#facs_3_r1">

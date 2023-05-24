@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -183,7 +183,7 @@
       <lb facs="#facs_2_r1l9" n="N009"/>hab. Mit disem due ich mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>
       <lb facs="#facs_2_r1l10" n="N010"/>bef<supplied>e</supplied>hlen vnd werde ste<supplied>r</supplied>ben
       <lb facs="#facs_2_r1l11" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l12" n="N012"/><unclear>ewer Durchlaucht</unclear>
+      <lb facs="#facs_2_r1l12" n="N012"/>ewer <unclear>Liebden</unclear>
       <lb facs="#facs_2_line_1645738220749_146" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>treügehorsamste</expan><abbr>trewgehors</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_2_line_1645891973945_1425" n="N014"/>EMT
       <lb facs="#facs_2_line_1645738220749_147" n="N015"/>Wien den 25ten junij 1688

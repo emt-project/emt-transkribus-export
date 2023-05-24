@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -489,7 +489,7 @@
       <lb facs="#facs_2_r1l6" n="N006"/>aufgefangen haben, mit dem möchten sie woll was
       <lb facs="#facs_2_r1l7" n="N007"/>mehrers geschriben haben. Heündt mit der post schreibt
       <lb facs="#facs_2_r1l8" n="N008"/>der König eigenhendig an ihr Mayestät vnd vnter der
-      <lb facs="#facs_2_r1l9" n="N009"/>verwittibten <unclear>f</unclear> copert vnd begert confidenter ihr Mayestät
+      <lb facs="#facs_2_r1l9" n="N009"/>verwittibten <choice><expan>fraw</expan><abbr>f</abbr></choice> copert vnd begert confidenter ihr Mayestät
       <lb facs="#facs_2_r1l10" n="N010"/>ihren raht, woh hin er wegen der heirat gedenken soll.
       <lb facs="#facs_2_r1l11" n="N011"/>In der Königin ihren brif möcht woll etwas mehres
       <lb facs="#facs_2_r1l12" n="N012"/>stehn, die schreibt aber so übel, das ihr Mayestät es
@@ -502,7 +502,7 @@
       <lb facs="#facs_2_r1l19" n="N019"/>richtich. Wegen des conterfet werden ihr Mayestät mit</ab>
     <pb facs="#facs_3" n="57 r" xml:id="Kasten_blau_45_15_0646.jpg"/>
     <ab facs="#facs_3_r1">
-      <lb facs="#facs_3_r1l1" n="N001"/>nechstem auch ihr meinung schiken. Ewer Durchlaucht <unclear><choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben</unclear>
+      <lb facs="#facs_3_r1l1" n="N001"/>nechstem auch ihr meinung schiken. Ewer Durchlaucht <choice><expan>gnädige</expan><abbr><unclear>g</unclear></abbr></choice> schreiben
       <lb facs="#facs_3_r1l2" n="N002"/><unclear>vom 8 vnd</unclear> 9ten dis empfange izt gleich. Dero güette
       <lb facs="#facs_3_r1l3" n="N003"/>ist gahr zue groß, das sie solche <choice><expan>gnädige</expan><abbr>g</abbr></choice> sorg vohr mi<supplied>c</supplied>h
       <lb facs="#facs_3_r1l4" n="N004"/>dragen, ist mein großer trost zue sch<supplied>r</supplied>eib<supplied>en</supplied>, so lang ich

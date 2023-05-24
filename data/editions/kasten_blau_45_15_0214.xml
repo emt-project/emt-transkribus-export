@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -150,7 +150,7 @@
       <lb facs="#facs_1_r1l5" n="N005"/>mahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>, ewer Durchlaucht wollen sich kein vngelegenheit nie
       <lb facs="#facs_1_r1l6" n="N006"/>wegen meiner machen, sonst forcht ich in vngenaden zu
       <lb facs="#facs_1_r1l7" n="N007"/>sein. Gratulire ewer Durchlaucht nochmahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue meiner
-      <lb facs="#facs_1_r1l8" n="N008"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwester, der Königin, d<unclear>a</unclear>sponsation, der almechtige verley
+      <lb facs="#facs_1_r1l8" n="N008"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwester, der Königin, dasponsation, der almechtige verley
       <lb facs="#facs_1_r1l9" n="N009"/>darzue allen segen. Freüt mich auch woll von herzen,
       <lb facs="#facs_1_r1l10" n="N010"/>das alles so wohl ist abgangen, die portugeßer werden
       <lb facs="#facs_1_r1l11" n="N011"/>einweil daruon zue erzehlen haben. Wegen meines <choice><expan>bruders</expan><abbr>b</abbr></choice>

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -243,7 +243,7 @@
       <lb facs="#facs_3_line_1639658589185_90" n="N019"/>ewer Durchlaucht
       <lb facs="#facs_3_r1l20" n="N020"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_3_line_1639658659625_98" n="N021"/>EMT
-      <lb facs="#facs_3_r1l19" n="N022"/>Wien den 1ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1685
+      <lb facs="#facs_3_r1l19" n="N022"/>Wien den 1ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1685
       <lb facs="#facs_3_r1l21" n="N023"/>Hab vergeßen ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue berichten,
       <lb facs="#facs_3_line_1639658659625_99" n="N024"/>das morgen der Carl von Wallenstein zue
       <lb facs="#facs_3_r1l24" n="N025"/>mein Obr<supplied>i</supplied>sthoffmeister wi<supplied>r</supplied>t declarirt werden, der Schwarzenberg wirt Hoffmarschall.</ab>

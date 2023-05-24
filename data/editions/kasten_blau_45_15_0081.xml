@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -191,10 +191,10 @@
       <lb facs="#facs_2_r1l8" n="N008"/>können, weil sies an ihm begert vnd er in der
       <lb facs="#facs_2_r1l9" n="N009"/>sach nit informirt wahr. Wie ich ihms aber gesacht,
       <lb facs="#facs_2_r1l10" n="N010"/>gab er mihr zue antwort, Se hanno fatto
-      <lb facs="#facs_2_r1l11" n="N011"/>qualche cosa contro il comando d' senza
-      <lb facs="#facs_2_r1l12" n="N012"/>saputa di <unclear>???</unclear>, li cacci pur di la <unclear>sua</unclear>
+      <lb facs="#facs_2_r1l11" n="N011"/>qualche cosa contro il comando ò senza
+      <lb facs="#facs_2_r1l12" n="N012"/>saputa di <choice><expan>sua</expan><abbr>s</abbr></choice> <choice><expan>Maestà</expan><abbr>Mta</abbr></choice>, li cacci pur di la <unclear>sua</unclear>
       <lb facs="#facs_2_r1l13" n="N013"/>per altro nel auenire raccomando in
-      <lb facs="#facs_2_r1l14" n="N014"/>genere la religione sappiendo che <unclear>???</unclear>
+      <lb facs="#facs_2_r1l14" n="N014"/>genere la religione sappiendo che <choice><expan>sua</expan><abbr>s</abbr></choice> <choice><expan>Maestà</expan><abbr>Mt</abbr></choice>
       <lb facs="#facs_2_r1l15" n="N015"/>cossi ci è molto benigno, also, das er sich
       <lb facs="#facs_2_r1l16" n="N016"/>ihrer gewiß weiters nit anemmen wirt. Sage ewer Durchlaucht
       <lb facs="#facs_2_r1l17" n="N017"/><choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr die <choice><expan>gnädigen</expan><abbr>g</abbr></choice> wüntsch zue des Josepll

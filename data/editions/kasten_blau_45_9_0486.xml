@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -171,7 +171,7 @@
       <lb facs="#facs_1_r1l2" n="N002"/>Zue dero erfreuligsten geburzdag due ich schuldist
       <lb facs="#facs_1_r1l3" n="N003"/>von herzen deroselben alles glükh anwüntschen vnd allen
       <lb facs="#facs_1_r1l4" n="N004"/>segen von gott mit bitt, dero <choice><expan>vnterdehnigste</expan><abbr>vn</abbr></choice> dochter in ihrer <choice><expan>vetterligen</expan><abbr>vetterlg</abbr></choice> gnaden <add>zue verbleiben</add>.
-      <lb facs="#facs_1_r1l5" n="N005"/><unclear>???</unclear> mein <choice><expan>allergnädigster</expan><abbr>allergnster</abbr></choice> herr vatter
+      <lb facs="#facs_1_r1l5" n="N005"/><unclear>Durchleüchtigter Cuhrfürst</unclear> mein <choice><expan>allergnädigster</expan><abbr>allergnster</abbr></choice> herr vatter
       <lb facs="#facs_1_r1l7" n="N006"/>Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das ich so lang
       <lb facs="#facs_1_r1l8" n="N007"/>mein schuldichkeit nit abgelegt, der Leopolt ist schuldich
       <lb facs="#facs_1_r1l9" n="N008"/>daran. Heünt ist der Kaiserin geburz dag, so mus
@@ -194,11 +194,11 @@
       <lb facs="#facs_2_r1l1" n="N001"/>die sach deliberiren laßen vnd ewer Durchlaucht schiken, was sie
       <lb facs="#facs_2_r1l2" n="N002"/>vermeinen, das zueduen sey. Mein bruder vndt die
       <lb facs="#facs_2_r1l3" n="N003"/>Erzherzogin werden vereisen, so balt die 9te woch wirt
-      <lb facs="#facs_2_r1l5" n="N004"/>v<supplied>o</supplied>hrbey sein. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl kombt ehistens <unclear>fohrbacht sobalt angeh</unclear> wirt noch hirbleiben,
+      <lb facs="#facs_2_r1l5" n="N004"/>v<supplied>o</supplied>hrbey sein. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl kombt ehistens <unclear>fohrbaht</unclear> <unclear>sobalt</unclear> <seg type="blackening">angeh</seg> <add>wirt noch hirbleiben</add>,
       <lb facs="#facs_2_r1l8" n="N005"/>weil heünt noch ein balet danst bey der Kaiserin, gott
       <lb facs="#facs_2_r1l9" n="N006"/>geb ein gutten ausgang. Auf ein Hoffmeistrin will woll
       <lb facs="#facs_2_r1l10" n="N007"/>gedenken, aber schwehrlich <supplied>eine</supplied> finden wie sie sein solte. Wegen
-      <lb facs="#facs_2_r1l11" n="N008"/>der gelder, so ihr Mayestät der Cuhrfürstin <unclear>sch</unclear> weren ewer Durchlaucht
+      <lb facs="#facs_2_r1l11" n="N008"/>der gelder, so ihr Mayestät der Cuhrfürstin <seg type="blackening">sch</seg> <supplied>schuldig</supplied>, weren ewer Durchlaucht
       <lb facs="#facs_2_r1l12" n="N009"/>schon vom Hoffkanzler vernemmen. Solte die portugesische
       <lb facs="#facs_2_r1l13" n="N010"/>sach nit noch disen früeling vohrsich gehn, so wirt mein
       <lb facs="#facs_2_r1l14" n="N011"/>brueder nit wehniger können als die campagne

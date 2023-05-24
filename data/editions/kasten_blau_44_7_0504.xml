@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -214,7 +214,7 @@
       <lb facs="#facs_2_r1l4" n="N003"/>vndt <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl die iüngste schwester geben. Ich hab <seg type="blackening">sie</seg>
       <lb facs="#facs_2_r1l5" n="N004"/>aber mit disem courir ihr alles ausfürlich bericht,
       <lb facs="#facs_2_r1l6" n="N005"/>wie das die elste erst 15 vndt conseguenter die iungste
-      <lb facs="#facs_2_r1l7" n="N006"/>gahr noch ein kindt sein müeß, das die <unclear>bekerug</unclear>, wan
+      <lb facs="#facs_2_r1l7" n="N006"/>gahr noch ein kindt sein müeß, das die <unclear>bekerung</unclear>, wan
       <lb facs="#facs_2_r1l8" n="N007"/>es auch wehr, nuhr aus menschligen respect vndt
       <lb facs="#facs_2_r1l9" n="N008"/>nit mit waren fondament, das die reichtumb gahr
       <lb facs="#facs_2_r1l10" n="N009"/>nit so groß vndt sie nit mehr als andere im

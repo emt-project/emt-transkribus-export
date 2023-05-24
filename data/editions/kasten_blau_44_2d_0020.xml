@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -151,8 +151,8 @@
       <lb facs="#facs_1_r1l8" n="N008"/>werden mihr wider auf Prag. Hier ist es
       <lb facs="#facs_1_r1l9" n="N009"/>vnsinich lustich, man fangt die saw wie die
       <lb facs="#facs_1_r1l10" n="N010"/>haßen, so machen sie rei darauf vndt
-      <lb facs="#facs_1_r1l11" n="N011"/>hezen sie. Hie ist auch ein schöner garten
-      <lb facs="#facs_1_r1l12" n="N012"/><unclear>zue</unclear>  ist es auch gahr schön vndt guetter
+      <lb facs="#facs_1_r1l11" n="N011"/>hezen sie. Hie ist auch ein schöner garten,
+      <lb facs="#facs_1_r1l12" n="N012"/>zue <unclear>?</unclear> ist es auch gahr schön vndt guetter
       <lb facs="#facs_1_r1l13" n="N013"/>frischer luft, ein haubt schöner garten
       <lb facs="#facs_1_r1l14" n="N014"/>am schloß vndt gleich darbey ein diergarten,
       <lb facs="#facs_1_r1l15" n="N015"/>der heischt der Pubensch. Ich mein, ich
@@ -173,7 +173,7 @@
       <lb facs="#facs_2_line_1641392834264_1063" n="N011"/>getrewste schwester
       <lb facs="#facs_2_line_1641392842463_1068" n="N012"/>EMT
       <lb facs="#facs_2_r1l12" n="N013"/>Brandeis den 31 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1679
-       <lb facs="#facs_2_line_1641392834264_1064" n="N014"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Ich erfrew mich mitt
+      <lb facs="#facs_2_line_1641392834264_1064" n="N014"/>PS Ich erfrew mich mitt
       <lb facs="#facs_2_line_1641392842463_1069" n="N015"/>dero Liebden, das sie so wohl die
       <lb facs="#facs_2_r1l15" n="N016"/>hirsch gehn Hols schießen können. Adieu. </ab>
   </div>

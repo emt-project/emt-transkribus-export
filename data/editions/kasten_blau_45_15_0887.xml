@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -198,9 +198,9 @@
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>sich vnterdeßen vnter der handt erkündigen, was überall
       <lb facs="#facs_3_r1l2" n="N002"/>zue hoffen, vnd dan das beste ausklauben, gott
-      <lb facs="#facs_3_line_1652892896588_811" n="N003"/>geb sein gnad. Hab die vohrige post <unclear>???</unclear> <add>die schpanischen</add> brif
+      <lb facs="#facs_3_line_1652892896588_811" n="N003"/>geb sein gnad. Hab die vohrige post <seg type="blackening">die schpah</seg> <add>die schpanischen</add> brif
       <lb facs="#facs_3_r1l5" n="N004"/><unclear>nit</unclear> geschikt, ihr Mayestät Hoffkanzler zu schiken, er hatts
-      <lb facs="#facs_3_r1l6" n="N005"/><unclear>geschikt</unclear>. Mues enden, weil schon schpaht, werde sterben
+      <lb facs="#facs_3_r1l6" n="N005"/>geschikt. Mues enden, weil schon schpaht, werde sterben
       <lb facs="#facs_3_r1l7" n="N006"/>ewer Durchlaucht
       <lb facs="#facs_3_r1l9" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
       <lb facs="#facs_3_r1l10" n="N008"/>Eleonora

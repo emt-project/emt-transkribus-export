@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -160,7 +160,7 @@
   <div>
     <pb facs="#facs_1" n="5 r" xml:id="Kasten_blau_44_11_0296.jpg"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l2" n="N001"/><unclear>30 Januarij 1715</unclear>
+      <lb facs="#facs_1_r1l2" n="N001"/><unclear>30 jan 1715</unclear>
       <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtigster Curfürst, mein herzliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l4" n="N003"/>Weilen ich nit in geringen sorgen stehe, das dero Liebden werde
       <lb facs="#facs_1_r1l5" n="N004"/>sehr empfintlich sein, was wegen der Oberen Pfals abermahl

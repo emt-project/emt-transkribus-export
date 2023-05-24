@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,7 +119,7 @@
       <lb facs="#facs_1_line_1669631140471_105" n="N002"/>Schikh herbey die verschprochene tagzettel,
       <lb facs="#facs_1_line_1669631149473_110" n="N003"/>hab aber nit zeit zue schreiben. Befill
       <lb facs="#facs_1_line_1669631157534_115" n="N004"/>mich meiner Erzherzogin, mus gehen, ist
-      <lb facs="#facs_1_line_1669631165746_120" n="N005"/>gala vnd hab <unclear>fowen</unclear> seint schon die schp<supplied>e</supplied>is
+      <lb facs="#facs_1_line_1669631165746_120" n="N005"/>gala vnd hab <unclear>fr<supplied>a</supplied>wen</unclear>, seint schon die schp<supplied>e</supplied>is
       <lb facs="#facs_1_line_1669631169551_125" n="N006"/>begert, i<supplied>c</supplied>h sterb
       <lb facs="#facs_1_line_1669631172212_130" n="N007"/>dero Liebden
       <lb facs="#facs_1_line_1669631180145_140" n="N008"/>g<supplied>e</supplied>trewste schwe<supplied>s</supplied>ter

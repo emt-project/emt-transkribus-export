@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -185,7 +185,7 @@
     <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2d_0018.jpg"/>
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>consilio, damit alles wohl vndt zue seiner
-      <lb facs="#facs_2_r1l2" n="N002"/>er möge sein, dero Liebden seine <unclear>vnzell</unclear> schon von ihme
+      <lb facs="#facs_2_r1l2" n="N002"/>er möge sein, dero Liebden seine vnzelle schon von ihme
       <lb facs="#facs_2_r1l3" n="N003"/>verliene talenta erhalten vndt sterken, das
       <lb facs="#facs_2_r1l4" n="N004"/>er die ville arbeyt möge mit freüden verichten
       <lb facs="#facs_2_r1l5" n="N005"/>vndt keine müe schpahren, dan dardurch müßen

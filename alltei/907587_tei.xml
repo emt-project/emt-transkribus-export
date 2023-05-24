@@ -113,8 +113,8 @@
         <zone points="79,1191 93,1190 101,1194 118,1189 137,1193 148,1189 162,1194 169,1191 182,1193 183,1158 163,1159 145,1173 79,1170" rendition="Line" xml:id="facs_7_r1l23"/>
         <zone points="173,1239 178,1239 184,1233 190,1233 193,1236 197,1231 201,1232 204,1230 215,1229 212,1190 204,1192 193,1204 183,1201 177,1206 171,1206" rendition="Line" xml:id="facs_7_r1l24"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l1" n="N001"/>? Erstere bogen des aigenhändigen Kays. 
-      <lb facs="#facs_1_r1l2" n="N002"/>Schreibens hat bey dessen zurückgebung 
+      <lb facs="#facs_1_r1l1" n="N001"/><choice><expan>Postskriptum</expan><abbr>PS</abbr></choice> Der erstere bogen des aigenhändigen <choice><expan>kayserlichen</expan><abbr>kay</abbr></choice> 
+      <lb facs="#facs_1_r1l2" n="N002"/>schreibens hat bey desßen zuruckgebung 
       <lb facs="#facs_1_r1l3" n="N003"/>ermangelt.</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r1" type="">
       <lb facs="#facs_2_r1l3" n="N001"/><comment>begligen hab ich mein dochter, die Konigen in</comment>
       <lb facs="#facs_2_r1l4" n="N002"/>Portugall zue entschuldigen. Hatt mihr dises sch<supplied reason="">r</supplied>eiben
@@ -156,7 +156,7 @@
       <lb facs="#facs_3_r1l20" n="N021"/>getrewste schwester
       <lb facs="#facs_3_line_1663402013740_678" n="N022"/>Eleonora
       <lb facs="#facs_3_r1l21" n="N023"/>Wien den 22ten merz 1713
-      <lb facs="#facs_3_line_1663402013740_679" n="N024"/>Den <unclear>Ralshausen</unclear> due auch in dero Liebden gnad befehlen.</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type=""/><ab facs="#facs_4_r3" type="">
+      <lb facs="#facs_3_line_1663402013740_679" n="N024"/>Den Ralshausen due auch in dero Liebden gnad befehlen.</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r1" type=""/><ab facs="#facs_4_r3" type="">
       <lb facs="#facs_4_r3l4" n="N001"/>aler durchleüchtigster smechtigste
       <lb facs="#facs_4_r3l5" n="N002"/>dste brsei lterwerdigste sa
       <lb facs="#facs_4_r3l6" n="N003"/>pdamhte kanst ags ach

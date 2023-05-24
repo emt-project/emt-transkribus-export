@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -221,7 +221,7 @@
       <lb facs="#facs_3_r1l9" n="N008"/>ganze<supplied>r</supplied>gebe<supplied>n</supplied>ste tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste dochter
       <lb facs="#facs_3_line_1638189775841_166" n="N009"/>EMT
       <lb facs="#facs_3_r1l8" n="N010"/>Lins den 2ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1683
-       <lb facs="#facs_3_line_1638189775842_167" n="N011"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Schike hierbey ein brief von <choice><expan>Pater</expan><abbr>P</abbr></choice> Marco, welchen
+      <lb facs="#facs_3_line_1638189775842_167" n="N011"/>PS Schike hierbey ein brief von <choice><expan>Pater</expan><abbr>P</abbr></choice> Marco, welchen
       <lb facs="#facs_3_r1l11" n="N012"/>er mihr bey seiner abreis geben.</ab>
   </div>
 </body>

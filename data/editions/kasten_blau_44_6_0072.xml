@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -181,7 +181,7 @@
       <lb facs="#facs_2_r1l18" n="N018"/>dero Liebden
       <lb facs="#facs_2_r1l20" n="N019"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_2_r1l21" n="N020"/>Eleonora
-      <lb facs="#facs_2_r1l19" n="N021"/>Wien den 20ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1691
+      <lb facs="#facs_2_r1l19" n="N021"/>Wien den 20ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1691
       <lb facs="#facs_2_line_1643575327347_1763" n="N022"/>Wegen des Humpüsch werd die sach ihr Mayestät bestens recomendiren. Es geht halt hie etwas
       <lb facs="#facs_2_line_1643575334957_1768" n="N023"/>geschwint die sa<supplied>c</supplied>hen nemlich, wie dero Liebden woll wißen.</ab>
   </div>

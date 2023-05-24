@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -243,7 +243,7 @@
       <lb facs="#facs_1_r1l10" n="N010"/>marschirt er gegen die bergstätt, wan er diese erobert, währ es
       <lb facs="#facs_1_r1l11" n="N011"/>ein großes, dan dardurch der feindt sein mittel verlirt
       <lb facs="#facs_1_r1l12" n="N012"/>vndt <supplied>diese</supplied> vns zuwaxen dehten. Dan izt gahr ein reicher segen
-      <lb facs="#facs_1_r1l13" n="N013"/>darinnen, wah man sonst von 1 <unclear>zenten</unclear> erst das 8tel <unclear>?alt</unclear> bekomen,
+      <lb facs="#facs_1_r1l13" n="N013"/>darinnen, wah man sonst von 1 <unclear>zentner</unclear> erst das 8tel <unclear>golt</unclear> bekomen,
       <lb facs="#facs_1_r1l14" n="N014"/>izt die helfte giebt, gott geb sein segen darzu.
       <lb facs="#facs_1_r1l15" n="N015"/>Erwarten aus Niderlandt mit verlangen den glückhligen ausgang
       <lb facs="#facs_1_r1l16" n="N016"/>der belegrung vndt aus Italien, was die flota in Sardegnen</ab>
@@ -257,7 +257,7 @@
       <lb facs="#facs_2_r1l6" n="N006"/>cooperiren. Die puncta, so mihr dero Liebden geschikt, wan niks als das war,
       <lb facs="#facs_2_r1l7" n="N007"/>glaub ich, wurd <supplied>es</supplied> sich balt aiustiren, aber der hisige Internunti
       <lb facs="#facs_2_r1l8" n="N008"/>sehr fest halt vndt sagt, der Papst werd niks eingehen oder anhören,
-      <lb facs="#facs_2_r1l9" n="N009"/>bis zuuohr Comachio wider ihme zue<unclear>stelle</unclear>. Das heist, den
+      <lb facs="#facs_2_r1l9" n="N009"/>bis zuuohr Comachio wider ihme zuestelle. Das heist, den
       <lb facs="#facs_2_r1l10" n="N010"/>wagen vohr die pfert schpannen. Ich hör, ihr <choice><expan>Heiligkeit</expan><abbr>H</abbr></choice> haben dero Liebden einen
       <lb facs="#facs_2_r1l11" n="N011"/>eigenhandigen langen brif geschriben, welcher der der Großherzoch dero Liebden mit
       <lb facs="#facs_2_r1l12" n="N012"/>eignen courir überschikt hatt. Aus disen wirt man mehr liecht
@@ -304,7 +304,7 @@
       <lb facs="#facs_4_r1l3" n="N003"/>müeßen, gott wolle ihr beystehn. Dem Dimantstein hab ich
       <lb facs="#facs_4_r1l4" n="N004"/>ein brif an die schwagrin mitt geben, warin ich so woll die
       <lb facs="#facs_4_r1l5" n="N005"/>italienische reis als die heirat nochmahlen touchir.
-      <lb facs="#facs_4_r1l6" n="N006"/>Ist schad, das sie nit den <choice><expan>portugiesischen</expan><abbr>port</abbr></choice> Botschafter <unclear>heraten</unclear> konen,
+      <lb facs="#facs_4_r1l6" n="N006"/>Ist schad, das sie nit den <choice><expan>portugiesischen</expan><abbr>port</abbr></choice> Botschafter he<supplied>i</supplied>raten konen,
       <lb facs="#facs_4_r1l7" n="N007"/>dan sie just so ein stättigen kopf hatt. Werd halt mein
       <lb facs="#facs_4_r1l8" n="N008"/>heil noch einmahl probiren. Die von Sulsbach weis ich nit,
       <lb facs="#facs_4_r1l9" n="N009"/>obs ihnen so anstendig sein wirt, weil sie gahr niks hatt,
@@ -320,7 +320,7 @@
       <lb facs="#facs_4_r1l19" n="N019"/>lang er hier ist, sich allezeit woll komportirt hatt, nit
       <lb facs="#facs_4_r1l20" n="N020"/>allein in disen, sonde<supplied>r</supplied>n in allen dero Liebden negotien, vndt wirt dero Liebden noch
       <lb facs="#facs_4_r1l21" n="N021"/>konftig durch seine gutte capacitet vill erschprißlige die<supplied>n</supplied>st
-      <lb facs="#facs_4_r1l22" n="N022"/>leisten können. Dise, so dero Liebden mihr übersch<supplied>rie</supplied>ben, <unclear>???</unclear> <unclear>Panciatia</unclear> vnd</ab>
+      <lb facs="#facs_4_r1l22" n="N022"/>leisten können. Dise, so dero Liebden mihr übersch<supplied>rie</supplied>ben, <unclear>???</unclear> Panciatia vnd</ab>
     <pb facs="#facs_5" n="51 r" xml:id="Kasten_blau_44_9_0254.jpg" ed="150 r"/>
     <ab facs="#facs_5_r1">
       <lb facs="#facs_5_r1l2" n="N001"/>sein geschpan, werd ich gern an die hand gehn, wie ich kan. Den Rogati
@@ -331,7 +331,7 @@
       <lb facs="#facs_5_r1l7" n="N006"/>canonicat bekommen oder zu Münstereifl oder anderstwoh
       <lb facs="#facs_5_r1l8" n="N007"/>in dero Liebden landen. Duen ihn vnerhört loben wegen seiner dugent vnd
       <lb facs="#facs_5_r1l9" n="N008"/>auferbauligen leben. Due dero Liebden gahr zu lang mit meiner schlimen
-      <lb facs="#facs_5_r1l10" n="N009"/>schrifft vngelegenheit machen, due mich ihnen befehlen, <unclear>mich in</unclear>
+      <lb facs="#facs_5_r1l10" n="N009"/>schrifft vngelegenheit machen, due mich ihnen befehlen, <unclear>mich</unclear> <unclear>in</unclear>
       <lb facs="#facs_5_r1l11" n="N010"/>vbrigen auf das, was der <choice><expan>Grav</expan><abbr>G</abbr></choice> Dimanstein dero Liebden müntlich wirt beybringen, bezie,
       <lb facs="#facs_5_r1l12" n="N011"/>leben vnd sterben
       <lb facs="#facs_5_line_1655202230133_811" n="N012"/>dero Liebden

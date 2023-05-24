@@ -84,7 +84,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -250,7 +250,7 @@
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1221" xml:id="facs_8">
     <graphic url="Korrespondenzakten_1147_0196.jpg" width="800px" height="1221px"/>
-    <zone points="12,71 12,1220 777,1220 777,71" rendition="TextRegion" xml:id="facs_8_r1">
+    <zone points="-3,-107 -3,1042 762,1042 762,-107" rendition="TextRegion" xml:id="facs_8_r1">
         <zone points="68,124 95,140 203,104 395,118 507,93 576,110 629,95 629,68 550,50 337,64 66,48" rendition="Line" xml:id="facs_8_r1l2"/>
         <zone points="59,182 179,204 434,151 541,183 608,161 648,180 762,164 760,123 554,98 500,134 423,120 338,141 252,116 114,159 56,131" rendition="Line" xml:id="facs_8_r1l3"/>
         <zone points="77,231 276,214 315,235 417,198 526,223 573,196 624,221 762,204 738,166 539,182 453,155 409,177 353,162 314,198 232,180 179,204 104,175 75,191" rendition="Line" xml:id="facs_8_r1l4"/>
@@ -261,15 +261,12 @@
         <zone points="73,451 236,454 292,428 369,455 404,424 687,425 707,442 741,424 740,393 708,386 594,383 562,411 378,385 282,413 190,385 105,415 72,398" rendition="Line" xml:id="facs_8_r1l9"/>
         <zone points="71,513 196,494 239,509 351,473 496,494 522,473 576,488 697,470 695,425 618,450 509,424 432,426 392,462 291,428 251,454 146,441 70,471" rendition="Line" xml:id="facs_8_r1l10"/>
         <zone points="73,563 130,528 188,542 211,521 308,515 383,542 464,521 508,549 574,516 610,543 645,515 780,508 779,481 738,469 626,468 415,496 349,473 240,509 72,512" rendition="Line" xml:id="facs_8_r1l11"/>
-        <zone points="202,553 207,551 209,553 213,551 217,552 219,550 223,549 215,520 210,522 207,521 203,524 202,527 195,529" rendition="Line" xml:id="facs_8_r1l12"/>
         <zone points="74,573 690,574 782,560 782,519 505,550 409,531 386,548 307,515 217,551 134,527 74,558" rendition="Line" xml:id="facs_8_r1l13"/>
         <zone points="79,623 246,611 288,635 371,605 409,633 489,601 781,603 771,561 491,585 460,562 78,574" rendition="Line" xml:id="facs_8_r1l14"/>
         <zone points="68,674 235,650 358,647 388,668 498,641 647,661 767,646 766,606 721,602 659,628 578,599 463,604 409,633 352,612 285,638 246,611 170,638 67,624" rendition="Line" xml:id="facs_8_r1l15"/>
-        <zone points="153,683 169,676 196,684 209,672 237,680 259,669 287,678 291,673 296,678 310,667 309,654 286,656 275,650 250,655 235,650 225,658 198,653 192,658 170,656 152,662" rendition="Line" xml:id="facs_8_r1l16"/>
         <zone points="64,721 168,697 778,698 777,657 732,671 619,646 503,673 350,650 273,674 63,671" rendition="Line" xml:id="facs_8_r1l17"/>
         <zone points="69,753 247,743 301,763 344,733 491,749 553,728 641,731 684,759 768,738 768,690 68,717" rendition="Line" xml:id="facs_8_r1l18"/>
         <zone points="76,808 161,780 366,773 404,795 545,772 627,796 697,773 726,795 773,773 773,737 683,759 643,734 484,749 445,728 332,737 301,761 248,743 180,766 132,740 75,755" rendition="Line" xml:id="facs_8_r1l19"/>
-        <zone points="681,800 687,800 690,799 697,793 702,793 702,774 695,774 692,776 686,770 681,770" rendition="Line" xml:id="facs_8_r1l20"/>
         <zone points="72,832 128,820 160,847 190,818 327,839 372,814 459,837 491,814 627,809 679,829 733,794 448,773 382,801 343,779 166,779 71,807" rendition="Line" xml:id="facs_8_r1l21"/>
         <zone points="69,888 253,862 373,885 418,859 464,886 552,851 641,879 754,852 753,813 457,837 411,817 326,839 250,822 156,850 67,827" rendition="Line" xml:id="facs_8_r1l22"/>
         <zone points="65,929 161,910 201,935 319,900 414,915 473,898 681,925 754,894 752,856 621,879 531,853 466,884 423,858 372,885 216,863 63,892" rendition="Line" xml:id="facs_8_r1l23"/>
@@ -279,7 +276,6 @@
         <zone points="79,1103 122,1086 153,1105 206,1080 249,1106 305,1102 372,1072 489,1084 542,1061 726,1068 707,1019 675,1036 589,1023 488,1057 413,1033 361,1060 78,1064" rendition="Line" xml:id="facs_8_r1l27"/>
         <zone points="77,1144 127,1116 245,1144 275,1118 359,1140 532,1106 659,1129 700,1098 728,1105 727,1072 574,1063 542,1083 509,1065 489,1084 444,1067 313,1100 259,1077 76,1104" rendition="Line" xml:id="facs_8_r1l28"/>
         <zone points="80,1185 189,1160 289,1179 322,1155 508,1180 631,1142 711,1151 717,1119 596,1132 483,1109 368,1144 303,1141 277,1118 250,1143 151,1115 78,1133" rendition="Line" xml:id="facs_8_r1l29"/>
-        <zone points="625,1183 633,1183 636,1180 643,1179 657,1179 655,1144 645,1144 634,1153 623,1155" rendition="Line" xml:id="facs_8_r1l30"/>
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1225" xml:id="facs_9">
@@ -313,8 +309,6 @@
         <zone points="80,980 768,989 749,955 721,976 478,944 80,948" rendition="Line" xml:id="facs_9_r1l26"/>
         <zone points="78,1018 395,1002 446,1034 495,1013 640,1033 778,1026 779,1000 558,974 527,1000 309,973 79,992" rendition="Line" xml:id="facs_9_r1l27"/>
         <zone points="74,1056 182,1038 302,1061 418,1043 448,1067 542,1045 614,1067 777,1057 777,1023 727,1017 640,1033 468,1031 389,1002 284,1029 204,1004 129,1029 74,1017" rendition="Line" xml:id="facs_9_r1l28"/>
-        <zone points="688,1111 692,1111 695,1107 699,1106 709,1112 715,1107 720,1106 711,1054 704,1054 701,1051 697,1051 685,1064 680,1065" rendition="Line" xml:id="facs_9_r1l29"/>
-        <zone points="690,1172 695,1173 696,1175 699,1173 702,1177 717,1170 720,1173 724,1173 726,1171 733,1173 740,1141 734,1140 732,1142 726,1142 724,1139 722,1141 719,1137 708,1143 697,1143" rendition="Line" xml:id="facs_9_r1l30"/>
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1218" xml:id="facs_10">
@@ -346,10 +340,6 @@
         <zone points="79,979 214,978 239,998 370,970 407,998 468,976 515,995 596,983 771,1018 782,971 665,982 416,933 386,953 253,935 211,961 81,928" rendition="Line" xml:id="facs_10_r1l24"/>
         <zone points="73,1012 299,1037 374,1011 440,1035 525,1016 560,1044 627,1020 760,1048 761,1016 614,985 553,1006 498,984 405,1001 370,971 309,993 250,973 209,992 74,981" rendition="Line" xml:id="facs_10_r1l25"/>
         <zone points="64,1065 189,1069 241,1048 428,1074 460,1051 528,1076 627,1054 656,1076 751,1079 752,1041 633,1020 562,1040 525,1017 446,1036 401,1011 304,1037 239,1015 184,1032 150,1008 65,1015" rendition="Line" xml:id="facs_10_r1l26"/>
-        <zone points="311,1161 429,1162 444,1157 514,1169 515,1145 458,1137 453,1142 401,1136 311,1139" rendition="Line" xml:id="facs_10_r1l27"/>
-        <zone points="371,1177 378,1178 389,1173 401,1177 406,1173 412,1178 428,1181 441,1173 445,1177 453,1178 454,1158 434,1158 427,1153 413,1156 399,1151 391,1157 387,1155 372,1157" rendition="Line" xml:id="facs_10_r1l28"/>
-        <zone points="637,1186 645,1187 649,1185 654,1185 654,1183 657,1183 660,1181 665,1181 660,1153 654,1154 645,1165 643,1164 633,1165" rendition="Line" xml:id="facs_10_r1l29"/>
-        <zone points="300,1195 305,1196 307,1194 310,1194 319,1196 322,1193 330,1194 332,1161 324,1160 320,1162 316,1160 302,1159" rendition="Line" xml:id="facs_10_r1l30"/>
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1235" xml:id="facs_11">
@@ -387,9 +377,6 @@
         <zone points="36,1116 634,1123 803,1152 804,1106 664,1084 600,1115 470,1085 438,1105 356,1080 38,1085" rendition="Line" xml:id="facs_11_r1l31"/>
         <zone points="47,1157 166,1135 195,1160 409,1145 503,1171 609,1175 659,1152 736,1175 781,1144 48,1118" rendition="Line" xml:id="facs_11_r1l32"/>
         <zone points="55,1183 70,1184 102,1168 124,1178 144,1170 183,1189 220,1167 264,1176 264,1155 255,1151 236,1147 216,1156 199,1150 189,1155 165,1136 150,1148 138,1139 99,1137 79,1155 56,1154" rendition="Line" xml:id="facs_11_r1l33"/>
-        <zone points="657,1185 664,1184 676,1195 681,1194 685,1190 699,1190 699,1155 692,1156 687,1154 678,1162 671,1157 667,1160 663,1156 657,1156" rendition="Line" xml:id="facs_11_r1l34"/>
-        <zone points="188,1233 195,1231 198,1233 202,1231 207,1232 215,1225 220,1228 229,1220 234,1224 241,1224 241,1202 229,1201 226,1198 223,1199 218,1194 188,1194" rendition="Line" xml:id="facs_11_r1l35"/>
-        <zone points="422,1232 431,1235 434,1232 449,1231 452,1233 456,1230 463,1235 467,1232 474,1234 476,1175 463,1175 451,1182 441,1183 439,1181 431,1185 424,1185" rendition="Line" xml:id="facs_11_r1l36"/>
       </zone>
   </surface>
 </facsimile>
@@ -399,7 +386,7 @@
   <div>
     <pb facs="#facs_1" n="1" xml:id="Korrespondenzakten_1147_0189.jpg" ed="87 r"/>
     <ab facs="#facs_1_region_1670929694546_247">
-      <lb facs="#facs_1_line_1670929698821_250" n="N001"/>8 Octobris 95</ab>
+      <lb facs="#facs_1_line_1670929698821_250" n="N001"/>8 <choice><expan>octobris</expan><abbr>octob</abbr></choice> 95</ab>
     <pb facs="#facs_2" n="114 r" xml:id="Korrespondenzakten_1147_0192.jpg" ed="88 r"/>
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l2" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>
@@ -407,23 +394,23 @@
       <lb facs="#facs_2_r1l4" n="N003"/>passato wohl empfangen vndt allen inhalt woll
       <lb facs="#facs_2_r1l5" n="N004"/>vernommen. Freüdt mich, das <unclear>das fr<supplied>i</supplied>denswerk</unclear>  
       <lb facs="#facs_2_r1l6" n="N005"/>in <unclear>guetem stant</unclear>. Was aber <unclear>des Kinski cores</unclear>
-      <lb facs="#facs_2_r1l7" n="N006"/><unclear>pondens <seg type="comment">n</seg>etrift</unclear>, so will ich mich in der sach woll
+      <lb facs="#facs_2_r1l7" n="N006"/><unclear>pondens betrift</unclear>, so will ich mich in der sach woll
       <lb facs="#facs_2_r1l8" n="N007"/>informiren, damit ich hernach dero Liebden alles zueferläßich berichten
       <lb facs="#facs_2_r1l9" n="N008"/><unclear>kan, dis aber weis ich gewis, das er ni  </unclear>
       <lb facs="#facs_2_r1l10" n="N009"/><unclear>chts in Schweden geschriben, was nicht</unclear>
       <lb facs="#facs_2_r1l11" n="N010"/><unclear>mitt vorwissen der alliirten gesan</unclear>
       <lb facs="#facs_2_r1l12" n="N011"/><unclear>ten alhier geschehen, wegen eini  </unclear>
       <lb facs="#facs_2_r1l13" n="N012"/><unclear>ges equivalents sol sein meldung gesch </unclear>
-      <lb facs="#facs_2_r1l14" n="N013"/><unclear>en, <seg type="comment">glan</seg> ich nit</unclear>. Das übrige, was <unclear>er sol geschr</unclear>
+      <lb facs="#facs_2_r1l14" n="N013"/><unclear>en <supplied>sein</supplied>, <supplied>das</supplied> <seg type="comment">gla</seg>ub ich nit</unclear>. Das übrige, was <unclear>er sol geschr</unclear>
       <lb facs="#facs_2_r1l15" n="N014"/><unclear>iben haben, mag war sein</unclear>, welches ich <unclear>doch nit</unclear> 
-      <lb facs="#facs_2_r1l16" n="N015"/><unclear>weis</unclear>, imdem <unclear>er von <seg type="comment">JJ</seg> negotiation nichts</unclear>  
-      <lb facs="#facs_2_r1l17" n="N016"/><unclear>weis, das er glaubt, es könne</unclear> zum <unclear>nesten <seg type="comment">dor</seg></unclear>  
+      <lb facs="#facs_2_r1l16" n="N015"/><unclear>weis</unclear>, imdem <unclear>er von dero Liebden negotiation nichts</unclear>  
+      <lb facs="#facs_2_r1l17" n="N016"/><unclear>weis, das er glaubt, es könne</unclear> zum <unclear>nesten <seg type="comment">dur</seg></unclear>  
       <lb facs="#facs_2_r1l18" n="N017"/><unclear>ch dise correspondens<unclear/></unclear> gericht we</ab>
     <pb facs="#facs_3" n="114 v" xml:id="Korrespondenzakten_1147_0193.jpg" ed="88 v"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l3" n="N001"/><unclear>rden</unclear>. Das macht aber nichts zur sach vndt <unclear>zeigt</unclear>
       <lb facs="#facs_3_r1l4" n="N002"/><unclear>nur mer</unclear> das Tiberius <unclear>negotium</unclear> woll <unclear>secre </unclear>
-      <lb facs="#facs_3_r1l5" n="N003"/><unclear>tirt ist worden</unclear>. Was <unclear>der Hammilton <seg type="comment">??</seg></unclear> 
+      <lb facs="#facs_3_r1l5" n="N003"/><unclear>tirt ist worden</unclear>. Was <unclear>der Hammilton <unclear/></unclear>dero Liebden
       <lb facs="#facs_3_r1l6" n="N004"/><unclear>bericht hatt, das der Schellerer sol   </unclear>
       <lb facs="#facs_3_r1l7" n="N005"/><unclear>wissen</unclear>, hatt er mihr auch gesacht, es ist aber dis
       <lb facs="#facs_3_r1l8" n="N006"/>die ganze sach, gleich nach <unclear>des <choice><expan>Kanzler</expan><abbr>Kaz</abbr></choice> Wiser abre</unclear>
@@ -440,7 +427,7 @@
       <lb facs="#facs_3_line_1657203039370_452" n="N017"/><add>Dero Liebden machens nuhr auch so, dan bisweilen stelt man sich, als wan man villeicht</add>
       <lb facs="#facs_3_line_1657203056682_457" n="N018"/><add>wüst, damit man etwas innen werde, ich habs bisweilen practizirt.</add>
       <lb facs="#facs_3_line_1657202893194_436" n="N019"/>Gott geb, was <unclear>des <choice><expan>Pater</expan><abbr>P</abbr></choice> Wiser negotium wol m<supplied>a</supplied>g</unclear>
-      <lb facs="#facs_3_r1l24" n="N020"/><unclear>abgen</unclear> vndt das <unclear>der Duktor</unclear> gescheider s<supplied>e</supplied>y, als mihr
+      <lb facs="#facs_3_r1l24" n="N020"/><unclear>abgen</unclear> vndt das <unclear>der Doktor</unclear> gescheider s<supplied>e</supplied>y, als mihr
       <lb facs="#facs_3_r1l25" n="N021"/>ist vohrkommen. Hab zwar nuhr einmahl mit ihm gerett,
       <lb facs="#facs_3_r1l26" n="N022"/>ich hoff <unclear>balt brif von Coppenhagen</unclear> zue bekommen.
       <lb facs="#facs_3_r1l27" n="N023"/>Die bewuste person betreffendt hab ich dem Deütschtmeister
@@ -538,136 +525,123 @@
       <lb facs="#facs_7_r1l16" n="N017"/>bad, das mög balt ein gutten effect bringen.</ab>
     <pb facs="#facs_8" n="116 r" xml:id="Korrespondenzakten_1147_0196.jpg" ed="90 r"/>
     <ab facs="#facs_8_r1">
-      <lb facs="#facs_8_r1l2" n="N001"/>pagina prima linea quarta ?uatinem
-      <lb facs="#facs_8_r1l3" n="N002"/>dmb dis frindenst wäretl in auberg stand waß aber
-      <lb facs="#facs_8_r1l4" n="N003"/>das ein in wnswardem bekrütte, so will ich mich in
-      <lb facs="#facs_8_r1l5" n="N004"/>dem sachen wohl ikrmmn damit ich sernach zu lib
-      <lb facs="#facs_8_r1l6" n="N005"/>zu leünten siey berichtenm kn dies aber meis ich
-      <lb facs="#facs_8_r1l7" n="N006"/>genlichten das er nichtso in cufrlerden geschreibwe delaoß
-      <lb facs="#facs_8_r1l8" n="N007"/>nicht nit hrenlis vn der flictem getee geindten alfrg
-      <lb facs="#facs_8_r1l9" n="N008"/>geshhan dehegen einigst asiinscentis solbe meldurch
-      <lb facs="#facs_8_r1l10" n="N009"/>gegechehen henin gluübe ich man dise hibrigen vohr er fulle
-      <lb facs="#facs_8_r1l11" n="N010"/>geschriben hahm mar vah henen vebheß ds doh nit krisen
-      <lb facs="#facs_8_r1l12" n="N011"/>E
-      <lb facs="#facs_8_r1l13" n="N012"/>ideruf er ein es urcd resolition nihslisten ddis er glaubt
-      <lb facs="#facs_8_r1l14" n="N013"/>gas könne zum iegsten durch dise comeppendenien prt berd
-      <lb facs="#facs_8_r1l15" n="N014"/>daß macht aber nichts zuemposten vndt zeigt ne mehr daß
-      <lb facs="#facs_8_r1l16" n="N015"/>napetotio
-      <lb facs="#facs_8_r1l17" n="N016"/>iri iopotem vofl seerierten wtorden blaß dan mil
-      <lb facs="#facs_8_r1l18" n="N017"/>er euer Durchlauct berichtet haben das den disliern balbe is sen
-      <lb facs="#facs_8_r1l19" n="N018"/>kat ermer auch gesahten es ist as dises die prihe sah glich
-      <lb facs="#facs_8_r1l20" n="N019"/>M
-      <lb facs="#facs_8_r1l21" n="N020"/>nach das san eß viser abrais ist erdambch in
-      <lb facs="#facs_8_r1l22" n="N021"/>mrm bess in den visheig könen bitt vlshe ewer Durchlaucht
-      <lb facs="#facs_8_r1l23" n="N022"/>befehlen ensll vom 14tn vollei min ihe zu lesen geben sir hab
-      <lb facs="#facs_8_r1l24" n="N023"/>n shr aufhfemrichte dara ist baß in perese kinwi han
-      <lb facs="#facs_8_r1l25" n="N024"/>ingestonden hhie sis ewer Durchlauct mich voll zu brilern diser
-      <lb facs="#facs_8_r1l26" n="N025"/>darauf hat mein sich pestelt gehs vberteil dag
-      <lb facs="#facs_8_r1l27" n="N026"/>gentehen vn wust schreindt ge erzen ich habe eis abeien
-      <lb facs="#facs_8_r1l28" n="N027"/>gemeten vin dihat gemichten e dhat brisisen sollen 
-      <lb facs="#facs_8_r1l29" n="N028"/>ho ar auff henem wsfolen vndich auff wenemen
-      <lb facs="#facs_8_r1l30" n="N029"/></ab>
+      <lb facs="#facs_8_r1l2" n="N001"/>pagina prima linea quarta ciuatinem
+      <lb facs="#facs_8_r1l3" n="N002"/>daß daß frindeß werck in guten stand. Waß aber
+      <lb facs="#facs_8_r1l4" n="N003"/>deß Kinßki correnspondenz betrifft, so will ich mich in
+      <lb facs="#facs_8_r1l5" n="N004"/>der sachen woll informiren, damit ich hernach <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>
+      <lb facs="#facs_8_r1l6" n="N005"/>zu uerlessig berichten kan. Dieß aber weiß ich
+      <lb facs="#facs_8_r1l7" n="N006"/>gewiß, daß er nichtß in Schweden geschriben, waß
+      <lb facs="#facs_8_r1l8" n="N007"/>nicht mit vorwissen der allierten <seg type="blackening">gesch</seg> gesandten allhier
+      <lb facs="#facs_8_r1l9" n="N008"/>geschehen. <add>Daß</add> wegen einigeß aequiualents solte meldung
+      <lb facs="#facs_8_r1l10" n="N009"/>geschehen sein, glaube ich nit, daß vbrige, waß er solle
+      <lb facs="#facs_8_r1l11" n="N010"/>geschriben haben, mag wahr sein, welcheß ich doch nit waiß,
+      <lb facs="#facs_8_r1l13" n="N011"/>indeme er <seg type="blackening">ein</seg> <add>von</add> <choice><expan>ewer</expan><abbr>e</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> negotiation nichtß waiß, <choice><expan>das</expan><abbr>d</abbr></choice> er glaubt,
+      <lb facs="#facs_8_r1l14" n="N012"/>es könne zum negsten durch dise correspondenz gerichtet werden,
+      <lb facs="#facs_8_r1l15" n="N013"/>daß macht aber nichtß zuer sachen, vnd zeigt nur mehr daß
+      <lb facs="#facs_8_r1l17" n="N014"/>Tiberij <seg type="blackening">negotium</seg> <add>negotiation</add> wohl secretiert worden. Waß der Hamil-
+      <lb facs="#facs_8_r1l18" n="N015"/>ton <choice><expan>ewer</expan><abbr>e</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> berichtet hat, daß der Schellerer solle wissen,
+      <lb facs="#facs_8_r1l19" n="N016"/>hat er nur auch gesagt, es ist aber dises die ganze sach, gleich
+      <lb facs="#facs_8_r1l21" n="N017"/>nach deß Canzlerß Wiser abraiß ist <seg type="blackening">er von e Ld</seg> von <choice><expan>ewer</expan><abbr>e</abbr></choice>
+      <lb facs="#facs_8_r1l22" n="N018"/><choice><expan>Liebden</expan><abbr>Ld</abbr></choice> ein briefl an den Wiser komen, bey welchem <choice><expan>ewer</expan><abbr>e</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>
+      <lb facs="#facs_8_r1l23" n="N019"/>befohlen, er solle wan ich wolte, mir ihne zu lesen geben, so hat
+      <lb facs="#facs_8_r1l24" n="N020"/>er ihne auffgemacht, darin ist waß in genere hieuon ge-
+      <lb facs="#facs_8_r1l25" n="N021"/>gestanden, wie <choice><expan>ewer</expan><abbr>e</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> noch wohl zu erinneren wisen.
+      <lb facs="#facs_8_r1l26" n="N022"/>Darauff hat man sich gestelt, alß wan viel darin
+      <lb facs="#facs_8_r1l27" n="N023"/>gewesen, weil ich <seg type="blackening">ihre</seg> <add><unclear>es</unclear></add> nit gelesen, ich habe es aber
+      <lb facs="#facs_8_r1l28" n="N024"/>gemacht, wie <choice><expan>der</expan><abbr>d</abbr></choice> hat gemacht, <seg type="blackening">wie</seg> <choice><expan>der</expan><abbr>d</abbr></choice> hat beichten sollen, <choice><expan>der</expan><abbr>d</abbr></choice>
+      <lb facs="#facs_8_r1l29" n="N025"/>pfaff war auff seinem ausholen, vnd ich auff meinem</ab>
     <pb facs="#facs_9" n="116 v" xml:id="Korrespondenzakten_1147_0197.jpg" ed="90 v"/>
     <ab facs="#facs_9_r1">
-      <lb facs="#facs_9_r1l1" n="N001"/>meinign lauig schulsten ist es vnd verit be zendig
-      <lb facs="#facs_9_r1l2" n="N002"/>verblebeg p lmerligen ds mihr au als biso hei
-      <lb facs="#facs_9_r1l3" n="N003"/>stelt mein eis also veisen mein hiel sclahisten shenit
-      <lb facs="#facs_9_r1l4" n="N004"/>mein eblas muen shtnde ich habe reis beyis
-      <lb facs="#facs_9_r1l5" n="N005"/>pactiuirs gott geben das des  iss negolum
-      <lb facs="#facs_9_r1l6" n="N006"/>wort möge absinen vnd da den doctor gessinder seye
-      <lb facs="#facs_9_r1l7" n="N007"/>ahs mi ist vonbsormmen hab dwah min einmahl mntihme
-      <lb facs="#facs_9_r1l8" n="N008"/>brerdt sich zose valdt beischen von cpprsagene zuebeb sommen
-      <lb facs="#facs_9_r1l9" n="N009"/>e bewüfste erses bterent hab duch dem deütschmeister
-      <lb facs="#facs_9_r1l10" n="N010"/>wider enigist det wegen hrgen seinben aber nah kkein bnt
-      <lb facs="#facs_9_r1l11" n="N011"/>wohrt bkomem demon daston übedenk
-      <lb facs="#facs_9_r1l12" n="N012"/>wünsche fuldaß er len esnesch alle meiner brüesen habe
-      <lb facs="#facs_9_r1l13" n="N013"/> Magend so werden sie daraus sesn das hesimaßlen andernst
-      <lb facs="#facs_9_r1l14" n="N014"/>eeshenben alst danst die sach mit dem launt graßen gweig
-      <lb facs="#facs_9_r1l15" n="N015"/>ngase sizt ad inde seyeheine negatio geßnen das
-      <lb facs="#facs_9_r1l16" n="N016"/>sie aber hin beppil vnd we siy den don suton wirdt
-      <lb facs="#facs_9_r1l17" n="N017"/>nesme woltengeim es nit verdindeen wollene vnd be ebwh
-      <lb facs="#facs_9_r1l18" n="N018"/>doten di sesten ist wahn dast auf anfanz gen farten  das
-      <lb facs="#facs_9_r1l19" n="N019"/>eer uchlaucht in solses duatun auso der sais aemacht hahem
-      <lb facs="#facs_9_r1l20" n="N020"/>aber beyt nkbngst er con allechlit befandig geschinbegn sobnd
-      <lb facs="#facs_9_r1l21" n="N021"/>aus dem er Mas klas gesagt das kis von t sehnen irg ze
-      <lb facs="#facs_9_r1l22" n="N022"/>kenren können weilen mit  gewng waihnit außn vndt wan
-      <lb facs="#facs_9_r1l23" n="N023"/>s zul a inlantion dort kein geabt bben mi auch suebag
-      <lb facs="#facs_9_r1l24" n="N024"/>atten sehnm müßen dem  gn mit guetge willen dahin due
-      <lb facs="#facs_9_r1l25" n="N025"/>beingend da vrsers impegno wehrem segewesgen auf nit
-      <lb facs="#facs_9_r1l26" n="N026"/>seinetwegens bey henenkihtt so stankh angebracht wede
-      <lb facs="#facs_9_r1l27" n="N027"/>danhber maysich nit woellen in dat stebenen von ihr ein
-      <lb facs="#facs_9_r1l28" n="N028"/>leuh zue bespone is satt man ma baten der dandt condint
-      <lb facs="#facs_9_r1l29" n="N029"/>
-      <lb facs="#facs_9_r1l30" n="N030"/>b</ab>
+      <lb facs="#facs_9_r1l1" n="N001"/>meinem laugnen, dabey ist es vnd wirt bestendig
+      <lb facs="#facs_9_r1l2" n="N002"/>verbleiben. <choice><expan>ewer</expan><abbr>E</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> machen es nur auch also, bißweiln
+      <lb facs="#facs_9_r1l3" n="N003"/>stelt man sich alß <seg type="blackening">wuste</seg> man viel wuste, damit
+      <lb facs="#facs_9_r1l4" n="N004"/>man etwaß innen werde, ich habe es bißweiln
+      <lb facs="#facs_9_r1l5" n="N005"/>practiciert. Gott gebe, daß deß <choice><expan>Pater</expan><abbr>P</abbr></choice> Wißers negotium
+      <lb facs="#facs_9_r1l6" n="N006"/>wohl möge abgehen, vnd daß der Doctor gescheider seye,
+      <lb facs="#facs_9_r1l7" n="N007"/>alß <seg type="blackening">mir</seg> mir ist vorkommen, habe zwahr nur einmahl mit ihme
+      <lb facs="#facs_9_r1l8" n="N008"/>geredt, ich hoffe baldt brieff von Coppenhagen zuebekhommen.
+      <lb facs="#facs_9_r1l9" n="N009"/>Die bewusste persohn betreffent, hab ich dem Teütschmaister
+      <lb facs="#facs_9_r1l10" n="N010"/>wider eüfferigist desstwegen zuegeschriben, aber noch khein ant-
+      <lb facs="#facs_9_r1l11" n="N011"/>wohrt bekhommen. Den Don Gastone betreffent,
+      <lb facs="#facs_9_r1l12" n="N012"/>wünsche ich daß <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> <seg type="blackening">nach</seg> noch alle meine brieff haben
+      <lb facs="#facs_9_r1l13" n="N013"/>mögen, so werden sye darauß sehen, daß ich niemahlen anderst
+      <lb facs="#facs_9_r1l14" n="N014"/>geschriben, alß daß die sach mit dem Lanndtgraffen Geörg
+      <lb facs="#facs_9_r1l15" n="N015"/>noch gahr nit auß, indem sye kheine negativ geben, daß
+      <lb facs="#facs_9_r1l16" n="N016"/>sye aber khein puppil, vnd wan sye den Don Gastone wirdt
+      <lb facs="#facs_9_r1l17" n="N017"/>nehmmen wollen, mir eß nit verhinderen wollen, vnd er es also
+      <lb facs="#facs_9_r1l18" n="N018"/>dorten zue suechen, ist wahr, daß mich anfangs geschmertzt, daß
+      <lb facs="#facs_9_r1l19" n="N019"/><choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> ein solches secretum auß der sach gemacht haben
+      <lb facs="#facs_9_r1l20" n="N020"/>aber beynebenst <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> allezeit beständig geschriben, vnd
+      <lb facs="#facs_9_r1l21" n="N021"/>auch dem <choice><expan>Pater</expan><abbr>P</abbr></choice> Wiser klahr gesagt, daß vnß vor kheinen impeg-
+      <lb facs="#facs_9_r1l22" n="N022"/>nieren können, weilen mit <choice><expan>Prinz</expan><abbr>P</abbr></choice> Geörg noch nit auß, vnd wan
+      <lb facs="#facs_9_r1l23" n="N023"/><choice><expan>Prinz</expan><abbr>P</abbr></choice> Carl ein inclination dorthin gehabt hett, wir auch zuevor
+      <lb facs="#facs_9_r1l24" n="N024"/>hetten sehen müesßen, den <choice><expan>Prinz</expan><abbr>P</abbr></choice> Geörg mit gueten willen dazu zue
+      <lb facs="#facs_9_r1l25" n="N025"/>bringen, daß wir vnsers impegno wehren loßgeweßen, auch ist
+      <lb facs="#facs_9_r1l26" n="N026"/>seinetwegen bey ihr noch nichts so starkh angebracht worden,
+      <lb facs="#facs_9_r1l27" n="N027"/>dan ihre <choice><expan>Mayestät</expan><abbr>May</abbr></choice> sich nit wollen in hazard setzen, von ihr ein
+      <lb facs="#facs_9_r1l28" n="N028"/>refus zue bekhomen. So hatt man nur vnter der hanndt sondirt,</ab>
     <pb facs="#facs_10" n="117 r" xml:id="Korrespondenzakten_1147_0198.jpg" ed="91 r"/>
     <ab facs="#facs_10_r1">
-      <lb facs="#facs_10_r1l1" n="N001"/>vnd siergase sseim wehie ver ihn gehrigbestenderis
-      <lb facs="#facs_10_r1l2" n="N002"/>wanan von disem aso verwinder gnendt alteit gewit
-      <lb facs="#facs_10_r1l3" n="N003"/>weßet se bndemnbti vndt zuebeetsein drü sen
-      <lb facs="#facs_10_r1l4" n="N004"/>gemahl mit so baus vergen sten bey desem ist ageb lieben
-      <lb facs="#facs_10_r1l5" n="N005"/>das gu lh aber den ve ks ss beshudigend acht hetb
-      <lb facs="#facs_10_r1l6" n="N006"/>e dise mit ig  frahl den seseserdnst dan des ist
-      <lb facs="#facs_10_r1l7" n="N007"/>ein sach diensein we aafmbt vnd eh schwehrlich mine
-      <lb facs="#facs_10_r1l8" n="N008"/>begrein was wirdt in dise matei sich her s gelasen habe
-      <lb facs="#facs_10_r1l9" n="N009"/>erten seindtselber so caidomabeli dans sie wohl ankfnagen
-      <lb facs="#facs_10_r1l10" n="N010"/>werden dast s möy ah vns lnst in diser sact nit inpagnsen könig
-      <lb facs="#facs_10_r1l11" n="N011"/>haben mis dach mit vamte as nit wollen freen velich nit
-      <lb facs="#facs_10_r1l12" n="N012"/>modena imparintwah and beser vwester allein die sach aus
-      <lb facs="#facs_10_r1l13" n="N013"/>fisteinm vante bist entus der feitig kan medenasols nit
-      <lb facs="#facs_10_r1l14" n="N014"/>vlleaftgestende sonder auch die dispendengent hat
-      <lb facs="#facs_10_r1l15" n="N015"/>aus vod modenet wan e begises satten been kanßer bfrage
-      <lb facs="#facs_10_r1l16" n="N016"/>vnd niht geksan hettenach soo soßen en iter wegde au
-      <lb facs="#facs_10_r1l17" n="N017"/>mit vor ibel iefier sast sooensehig alles ischreb mihr
-      <lb facs="#facs_10_r1l18" n="N018"/>dem lantger dsanman ebt richt bfbeigt er wide
-      <lb facs="#facs_10_r1l19" n="N019"/>aus vomme bsombt wan fese guetes glüks maht
-      <lb facs="#facs_10_r1l20" n="N020"/>edoste sie wohl esnder inccenen u deben bfzildens
-      <lb facs="#facs_10_r1l21" n="N021"/> kinant wegensines appanagge vöhnen ihm ms drukst michts
-      <lb facs="#facs_10_r1l22" n="N022"/>sme solten sie es ihme aber wangeen oder dus palle
-      <lb facs="#facs_10_r1l23" n="N023"/>mensoh sie biys sie ma danhein memoria ein fone
-      <lb facs="#facs_10_r1l24" n="N024"/>e dan kenen hr ma hnprotigienen ewie es mit dem
-      <lb facs="#facs_10_r1l25" n="N025"/>vl selgehese dem iiren so byeerna
-      <lb facs="#facs_10_r1l26" n="N026"/>asegabsein wber hich isam fu n mit von ale
-      <lb facs="#facs_10_r1l27" n="N027"/>peien masareno anorsio
-      <lb facs="#facs_10_r1l28" n="N028"/>in anm 
-      <lb facs="#facs_10_r1l29" n="N029"/>EMT
-      <lb facs="#facs_10_r1l30" n="N030"/></ab>
+      <lb facs="#facs_10_r1l1" n="N001"/>vnd sye gahr khein aversion vor ihn gezeigt, sondern so
+      <lb facs="#facs_10_r1l2" n="N002"/>wan man von disen alß vor <choice><expan>andern</expan><abbr>andn</abbr></choice> geredt, alzeit geant-
+      <lb facs="#facs_10_r1l3" n="N003"/>wohrtet, sye gedenk noch nit zue heürathen, könne ihren
+      <lb facs="#facs_10_r1l4" n="N004"/>gemahl nit so baldt vergesßen. Bey disem ists geblieben.
+      <lb facs="#facs_10_r1l5" n="N005"/>Daß <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> aber den <choice><expan>Grafen</expan><abbr>Gr</abbr></choice> Kinßky beschuldigen, alß hett
+      <lb facs="#facs_10_r1l6" n="N006"/>er disen nit <unclear>?</unclear>, mein ich wohl, geschehe ihm vnrecht, dan daß ist 
+      <lb facs="#facs_10_r1l7" n="N007"/>ein sach, die ihm weder gibt noch nimbt, vnd <seg type="blackening">eh</seg> er schwehrlich meiner
+      <lb facs="#facs_10_r1l8" n="N008"/>schwägerin waß wirdt in dieser materi sich herauß gelasßen haben.
+      <lb facs="#facs_10_r1l9" n="N009"/><choice><expan>Ewer</expan><abbr>Ew</abbr></choice> <choice><expan>LIebden</expan><abbr>Ldten</abbr></choice> seindt selber so raisonabel, daß sie wohl erkhennen
+      <lb facs="#facs_10_r1l10" n="N010"/>werden, daß <choice><expan>ihr</expan><abbr>i</abbr></choice> <choice><expan>Mayestät</expan><abbr>Mayt</abbr></choice> noch ich vnß in diser sach nit impegniren können,
+      <lb facs="#facs_10_r1l11" n="N011"/>haben mirs doch mit Parma auch nit wollen thuen, weil ich mit
+      <lb facs="#facs_10_r1l12" n="N012"/>Modena impegniert wahre vnd vnser schwester allein die sach auß-
+      <lb facs="#facs_10_r1l13" n="N013"/>führen lasßen, biß endtlich der Herzog von Modena solche nit
+      <lb facs="#facs_10_r1l14" n="N014"/>allein abgestanden, sondern auch die dispens urgiert hat,
+      <lb facs="#facs_10_r1l15" n="N015"/>auch der vor Modena, wan ers begehrt hette, bey vnßer schwäge-
+      <lb facs="#facs_10_r1l16" n="N016"/>rin nichts gethan hetten, alßo hoffe, <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> werden mirs
+      <lb facs="#facs_10_r1l17" n="N017"/>nit vor übel nehmen, daß sooffenherzig alles schreib. Mit
+      <lb facs="#facs_10_r1l18" n="N018"/>dem <choice><expan>Landgrafen</expan><abbr>Lantgr</abbr></choice> khan man jetzt nichts thun, biß er wider
+      <lb facs="#facs_10_r1l19" n="N019"/>auß Spanien khombt, wan er dohrt ein guetes glükh macht,
+      <lb facs="#facs_10_r1l20" n="N020"/>dörffte sye wohl ehender incliniren. Vetter Philipps
+      <lb facs="#facs_10_r1l21" n="N021"/>betreffent, wegen seines appanagge, köhnnen ihre <choice><expan>Mayestät</expan><abbr>May</abbr></choice> jetzt nichts
+      <lb facs="#facs_10_r1l22" n="N022"/>thun, solten sye es ihme aber waigeren, oder auffhallten,
+      <lb facs="#facs_10_r1l23" n="N023"/>muß er bey ihrer <choice><expan>Mayestät</expan><abbr>May</abbr></choice> durch ein memorial ein khommen,
+      <lb facs="#facs_10_r1l24" n="N024"/>alßdan können ihr <choice><expan>Mayestät</expan><abbr>May</abbr></choice> ihn protegieren, wie es mit dem
+      <lb facs="#facs_10_r1l25" n="N025"/>Cardinal <choice><expan>seeligen</expan><abbr>seel</abbr></choice> geschehen. Den revers, so er geben, mag
+      <lb facs="#facs_10_r1l26" n="N026"/>gahr guet sein, aber ich khan <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> nit verhallten,</ab>
     <pb facs="#facs_11" n="117 v" xml:id="Korrespondenzakten_1147_0199.jpg" ed="91 v"/>
     <ab facs="#facs_11_r1">
-      <lb facs="#facs_11_r1l2" n="N001"/>de mir gas nit gesallten da ees will denetit haben
-      <lb facs="#facs_11_r1l3" n="N002"/>dames veisht der mich bet seintso dem mnschor
-      <lb facs="#facs_11_r1l4" n="N003"/>den prunde fetseinge vor men kageben i M
-      <lb facs="#facs_11_r1l5" n="N004"/>wahatig alle mein fleisen vedret ganß die seite seligen
-      <lb facs="#facs_11_r1l6" n="N005"/>vnd wllein gedrnksen sein verl dufaladi dieheiklichte
-      <lb facs="#facs_11_r1l7" n="N006"/>cppert sendt mihse wan feranswa leiden solte sollte
-      <lb facs="#facs_11_r1l8" n="N007"/>er e alle st henen ware sch reichten bbsertist so langihn den
-      <lb facs="#facs_11_r1l9" n="N008"/>heintliche dssem fosten sollt dufit kis da bnd
-      <lb facs="#facs_11_r1l10" n="N009"/>fat seine bebkerng vem nichtes fandamenst so langtan
-      <lb facs="#facs_11_r1l11" n="N010"/>das zeiklise dezu föige vnd die mensin holt gleich v
-      <lb facs="#facs_11_r1l12" n="N011"/>ppentiont fr hat ein großen fllen begangen osntlich zum
-      <lb facs="#facs_11_r1l13" n="N012"/>machtmaht  gehen odieses i etwat z esehnen solte
-      <lb facs="#facs_11_r1l14" n="N013"/>i sich nit schran de prmutte selber du schreiben do ihr dem
-      <lb facs="#facs_11_r1l15" n="N014"/>al ein werlig neahenden glanben anhduehe he be
-      <lb facs="#facs_11_r1l16" n="N015"/>wendeh aben zsich anwehnig vnd in hhe protatio
-      <lb facs="#facs_11_r1l17" n="N016"/>voro fatsid ept ih zurfangen ie len wollen ihm
-      <lb facs="#facs_11_r1l18" n="N017"/>wrt nach doso huflegn sgten ihm auch die ltennasti
-      <lb facs="#facs_11_r1l19" n="N018"/>ihon angeschaft vndt brnden istm mus nechstenen eind debiet schiben
-      <lb facs="#facs_11_r1l20" n="N019"/>dag p solaug i bs dagles legment commandiren sall
-      <lb facs="#facs_11_r1l21" n="N020"/>vit p mue biblombt mit diesem bekfombt e aurch dem
-      <lb facs="#facs_11_r1l22" n="N021"/>mnen das aber ihr Mt pohstio hn dent feste
-      <lb facs="#facs_11_r1l23" n="N022"/>dwent selle versehe vomb dser schwehen deil
-      <lb facs="#facs_11_r1l24" n="N023"/>nahmenitite dah ge vnd nn nit weis wst vor
-      <lb facs="#facs_11_r1l25" n="N024"/>ein ahn bken om hindesten bsan br ais wohl meine
-      <lb facs="#facs_11_r1l26" n="N025"/>sis contentien mit diesem b000f vnd die apcontir
-      <lb facs="#facs_11_r1l27" n="N026"/>h ma werden das se bldt möglich auß  sie bedrchte
-      <lb facs="#facs_11_r1l28" n="N027"/>seind mit diesen ihn mise h dten befelßlen vnd wderde
-      <lb facs="#facs_11_r1l29" n="N028"/>dteben
-      <lb facs="#facs_11_r1l30" n="N029"/>ebeda den 2 atorg ge
-      <lb facs="#facs_11_r1l31" n="N030"/>mich diesem lengen brüe fallt min vemöns meiner fl hwagen
-      <lb facs="#facs_11_r1l32" n="N031"/>zushrichen wunsch wohl glükh zum badten daarg baldt zin gesem
-      <lb facs="#facs_11_r1l33" n="N032"/>effet benge
-      <lb facs="#facs_11_r1l34" n="N033"/>
-      <lb facs="#facs_11_r1l35" n="N034"/>
-      <lb facs="#facs_11_r1l36" n="N035"/></ab>
+      <lb facs="#facs_11_r1l2" n="N001"/>daß mir gahr nit gefallt, daß ers will secretiert haben,
+      <lb facs="#facs_11_r1l3" n="N002"/>dan eß heisst, der mich bekhent vor den menschen
+      <lb facs="#facs_11_r1l4" n="N003"/>den werde ich erkhennen vor meinen engel. Er muß
+      <lb facs="#facs_11_r1l5" n="N004"/>wahrhafftig alle menschliche respect auff die seite setzen
+      <lb facs="#facs_11_r1l6" n="N005"/>vnd allein gedenkhen, sein seel zu saluiren, die zeitliche
+      <lb facs="#facs_11_r1l7" n="N006"/>respect seindt nichts, wan er auch waß leiden sollte, sollte
+      <lb facs="#facs_11_r1l8" n="N007"/>er alles nit achten, wan er recht bekhert ist, so lang er daß
+      <lb facs="#facs_11_r1l9" n="N008"/>zeitliche absehen hat, hallt ich nit vil drauff, vnd
+      <lb facs="#facs_11_r1l10" n="N009"/>hat seine bekherung khein rechtes fundament, so lang man
+      <lb facs="#facs_11_r1l11" n="N010"/>daß zeitliche dem ewigen, vnd die menschen gott gleich re-
+      <lb facs="#facs_11_r1l12" n="N011"/>spectiert. Er hat ein grosßen fehler begangen, offentlich zum
+      <lb facs="#facs_11_r1l13" n="N012"/>nachtmahl zu gehen, also dieses in etwas zu ersezen, solte
+      <lb facs="#facs_11_r1l14" n="N013"/>er sich nit schewen, der <choice><expan>fraw</expan><abbr>fr</abbr></choice> mutter selber zu schreiben, daß er den
+      <lb facs="#facs_11_r1l15" n="N014"/>allein seeligmachenden glauben anzunehmmen. Ihr <choice><expan>Mayestät</expan><abbr>Mt</abbr></choice>
+      <lb facs="#facs_11_r1l16" n="N015"/>werden aber seiner sich annehmmen, vnd in ihrer protection,
+      <lb facs="#facs_11_r1l17" n="N016"/>3000 <choice><expan>Gulden</expan><abbr>fl</abbr></choice> hat sein agent schon empfangen, <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> wollen ihm
+      <lb facs="#facs_11_r1l18" n="N017"/>auch noch 3000 zuelegen, haben ihm auch die winterquartir
+      <lb facs="#facs_11_r1l19" n="N018"/>schon angeschafft, vnd werden ihm mit nechsten ein decret schikhen,
+      <lb facs="#facs_11_r1l20" n="N019"/>daß er solang <seg type="blackening">P</seg> <choice><expan>bruder</expan><abbr>b</abbr></choice> Carls regiment commandiren soll,
+      <lb facs="#facs_11_r1l21" n="N020"/>biß er eines bekhombt, mit diesem bekhombt er auch den
+      <lb facs="#facs_11_r1l22" n="N021"/>rang. Daß aber ihre <choice><expan>Mayestät</expan><abbr>May</abbr></choice> positivè ihm daß erste
+      <lb facs="#facs_11_r1l23" n="N022"/>regiment solle versprechen, khomb ihro <supplied>Mayestät</supplied> schwehr, weil
+      <lb facs="#facs_11_r1l24" n="N023"/>noch meritirte dah sein vnd man nicht weiß, waß vor
+      <lb facs="#facs_11_r1l25" n="N024"/>ein casus khommen khan. Indessen khan er sich wohl, meine
+      <lb facs="#facs_11_r1l26" n="N025"/>ich, contentiren mit diesen 6000 <choice><expan>Gulden</expan><abbr>fl</abbr></choice> vnd die quartier,
+      <lb facs="#facs_11_r1l27" n="N026"/>ihr <choice><expan>Mayestät</expan><abbr>May</abbr></choice> werden doch so baldt möglich auff ihn bedacht
+      <lb facs="#facs_11_r1l28" n="N027"/>sein. Mit diesem thue mich <choice><expan>ewer</expan><abbr>e</abbr></choice> <choice><expan>Liebden</expan><abbr>Ldten</abbr></choice> befehlen, vnd werde
+      <lb facs="#facs_11_r1l29" n="N028"/>sterben
+      <lb facs="#facs_11_r1l30" n="N029"/>Eberßdorff den 8ten <choice><expan>octobris</expan><abbr>octob</abbr></choice> 95
+      <lb facs="#facs_11_r1l31" n="N030"/>Mit diesem langen brieff fallt mir vnmöglich meiner <choice><expan>fraw</expan><abbr>fr</abbr></choice> schwägerin
+      <lb facs="#facs_11_r1l32" n="N031"/>zuschreiben wünsch wohl glükh zum badt, daß mög baldt ein gueten
+      <lb facs="#facs_11_r1l33" n="N032"/>effect bringen.</ab>
   </div>
 </body>
 

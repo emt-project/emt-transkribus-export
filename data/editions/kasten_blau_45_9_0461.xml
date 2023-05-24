@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -207,7 +207,7 @@
       <lb facs="#facs_2_r1l16" n="N016"/>wollen gehalten haben, welcher als nehrder bey der cuhr
       <lb facs="#facs_2_r1l17" n="N017"/>die handt pretendiret, so hatt mans scinirt vnd
       <lb facs="#facs_2_r1l18" n="N018"/>vohrgestern mein brueder vnter dem pretext, wie
-      <lb facs="#facs_2_r1l19" n="N019"/>es dan auch realiteer wahr, das er müet <unclear>v<supplied>nd</supplied> schläffrig</unclear>,</ab>
+      <lb facs="#facs_2_r1l19" n="N019"/>es dan auch realiteer wahr, das er müet v<supplied>nd</supplied> schläffrig,</ab>
     <pb facs="#facs_3" n="273 r" xml:id="Kasten_blau_45_9_0463.jpg"/>
     <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>vohran herrein vnd sich ins bett gelegt auf den abendt.

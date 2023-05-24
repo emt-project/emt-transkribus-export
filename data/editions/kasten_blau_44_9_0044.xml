@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -165,13 +165,13 @@
     <pb facs="#facs_1" n="20 r" xml:id="Kasten_blau_44_9_0044.jpg" ed="25 r"/>
     <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l2" n="N002"/>Was dero Liebden an mich wegen vnser <unclear>glihte</unclear> schw<supplied>e</supplied>ster <choice><expan>Herzogin</expan><abbr>Hz</abbr></choice> zu Parma
+      <lb facs="#facs_1_r1l2" n="N002"/>Was dero Liebden an mich wegen vnser <choice><expan>geliebste</expan><abbr>gliste</abbr></choice> schw<supplied>e</supplied>ster <choice><expan>Herzogin</expan><abbr>Hz</abbr></choice> zu Parma
       <lb facs="#facs_1_r1l3" n="N003"/>wollen erinnern, hab nit vnterlasen, als möglige meins
       <lb facs="#facs_1_r1l4" n="N004"/>ordts einzuwenden vnd auch der Keiser besehn, als,
       <lb facs="#facs_1_r1l5" n="N005"/>so vill die coniuncturn zulaßen. Zu den habs
       <lb facs="#facs_1_r1l6" n="N006"/>auch dem Schlikh vndt Daun müntlich comittirt
       <lb facs="#facs_1_r1l7" n="N007"/>an <choice><expan>Prinz</expan><abbr>P</abbr></choice> Eugen, welcher, wie ich hör, selbst erkendt,
-      <lb facs="#facs_1_r1l8" n="N008"/>das sie zu schwehr belegt vnd zu <unclear>remederin</unclear> sucht.
+      <lb facs="#facs_1_r1l8" n="N008"/>das sie zu schwehr belegt vnd zu <unclear>remederi<supplied>r</supplied>n</unclear> sucht.
       <lb facs="#facs_1_r1l9" n="N009"/>Wegen Sulsbach hab ich noch kein antwort, hoff
       <lb facs="#facs_1_r1l10" n="N010"/>es aber däglich. Izt erworten ein gutte antwort
       <lb facs="#facs_1_r1l11" n="N011"/>von Wolfebitt<supplied>l</supplied>n, mein gott, wan nuhr einmahl
@@ -215,7 +215,7 @@
       <lb facs="#facs_3_line_1654013076587_245" n="N010"/>dero Liebden
       <lb facs="#facs_3_line_1655225716375_58" n="N011"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb facs="#facs_3_line_1655225776462_65" n="N012"/>Eleonora
-      <lb facs="#facs_3_line_1655225716376_59" n="N013"/>Wien den 9 <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1707
+      <lb facs="#facs_3_line_1655225716376_59" n="N013"/>Wien den 9 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1707
       <lb facs="#facs_3_line_1655225776461_64" n="N014"/>Dero libsten gem<supplied>a</supplied>hl<supplied>i</supplied>n vill schöns <unclear>bitte</unclear>
       <lb facs="#facs_3_r1l14" n="N015"/>von mihr zue sagen.</ab>
   </div>

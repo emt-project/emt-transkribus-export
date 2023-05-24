@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -146,7 +146,7 @@
       <lb facs="#facs_1_r1l16" n="N016"/>Wien den 4ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1707</ab>
     <pb facs="#facs_2" n="59 v" xml:id="Kasten_blau_44_9_0119.jpg" ed="68 v"/>
     <ab facs="#facs_2_region_1656426018852_3133">
-      <lb facs="#facs_2_line_1656426024327_3136" n="N001"/><unclear>NM</unclear>
+      <lb facs="#facs_2_line_1656426024327_3136" n="N001"/><unclear>NM#</unclear>
       <lb facs="#facs_2_line_1656426028143_3141" n="N002"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
       <lb facs="#facs_2_line_1656426032999_3146" n="N003"/>Pfalz, meinen herzallerl<supplied>i</supplied>bsten
       <lb facs="#facs_2_line_1656426035772_3151" n="N004"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brude<supplied>r</supplied>n</ab>

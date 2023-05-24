@@ -72,7 +72,11 @@
         <zone points="159,1118 458,1088 491,1101 491,1134 452,1143 204,1158 160,1157" rendition="Line" xml:id="facs_3_line_1666795233524_288"/>
         <zone points="204,1149 206,1151 255,1153 374,1128 429,1146 503,1122 548,1131 585,1118 597,1152 473,1165 204,1158" rendition="Line" xml:id="facs_3_line_1666795219753_283"/>
         <zone points="669,1154 685,1162 691,1156 700,1164 708,1160 715,1166 723,1161 733,1165 741,1164 743,1127 725,1124 711,1114 693,1118 682,1124 671,1121" rendition="Line" xml:id="facs_3_r1l28"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="1686" lry="2502" xml:id="facs_4"><graphic url="%2Ffiles.jpg" width="1686px" height="2502px"/></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
+      </zone></surface><surface ulx="0" uly="0" lrx="1686" lry="2502" xml:id="facs_4"><graphic url="%2Ffiles.jpg" width="1686px" height="2502px"/><zone points="145,175" rendition="TextRegion" xml:id="facs_4_region_1679478768646_9" subtype="paragraph">
+      </zone><zone points="167,407 1582,407 1582,190 167,190" rendition="TextRegion" xml:id="facs_4_region_1679478773912_12" subtype="paragraph">
+        <zone points="174,221 483,209 811,216 1122,219 1397,225 1555,221 1556,271 1397,275 1121,269 810,266 483,259 176,271" rendition="Line" xml:id="facs_4_line_1679478803018_21"/>
+        <zone points="172,324 465,322 755,324 923,313 926,363 756,374 465,372 172,374" rendition="Line" xml:id="facs_4_line_1679478807260_26"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l2" n="N002"/>Nachdem die nachricht eingeloffen des absterben des Bischoffen
       <lb facs="#facs_1_r1l3" n="N003"/>von Münster vndt mich der Herzoch Car<supplied reason="">l</supplied> von Lottring, <choice><expan>Bischof</expan><abbr>Bisch</abbr></choice> von Osnabrukh
@@ -143,4 +147,6 @@
       <lb facs="#facs_3_line_1666795086193_267" n="N027"/>Bitte mei<supplied reason="">n</supplied>er libste <choice><expan>fraw</expan><abbr>f</abbr></choice>
       <lb facs="#facs_3_line_1666795233524_288" n="N028"/>schw<supplied reason="">e</supplied>g<supplied reason="">r</supplied>in vill schons, der courir geht
       <lb facs="#facs_3_line_1666795219753_283" n="N029"/><unclear>gleich</unclear>, das nit hab schreiben können.
-      <lb facs="#facs_3_r1l28" n="N030"/><comment>vertatur</comment></ab><pb facs="#facs_4" n="4" xml:id="img_0004"/></div></body></text></TEI>
+      <lb facs="#facs_3_r1l28" n="N030"/><comment>vertatur</comment></ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><p facs="#facs_4_region_1679478768646_9"/><p facs="#facs_4_region_1679478773912_12">
+      <lb facs="#facs_4_line_1679478803018_21" n="N001"/>Dißer <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Berg, dero Liebden wolbekanter gew<supplied reason="">e</supplied>ster fratter, hatt mich g<supplied reason="">e</supplied>betten, dero Liebden
+      <lb facs="#facs_4_line_1679478807260_26" n="N002"/>dis memorial zu reccommendiren.</p></div></body></text></TEI>

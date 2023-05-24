@@ -45,7 +45,7 @@
         <zone points="93,1157 126,1158 159,1159 193,1159 226,1160 260,1160 293,1159 326,1159 360,1158 393,1158 427,1157 460,1157 493,1156 527,1155 560,1155 594,1154 627,1154 660,1154 694,1155 727,1155 761,1156 761,1126 727,1125 694,1125 660,1124 627,1124 594,1124 560,1125 527,1125 493,1126 460,1127 427,1127 393,1128 360,1128 326,1129 293,1129 260,1130 226,1130 193,1129 159,1129 126,1128 93,1127" rendition="Line" xml:id="facs_3_r1l5"/>
         <zone points="88,1188 123,1190 159,1192 194,1193 230,1194 265,1194 301,1193 336,1193 372,1192 407,1191 443,1190 478,1189 514,1188 549,1187 585,1186 620,1186 656,1187 691,1187 727,1189 762,1192 798,1194 798,1164 762,1162 727,1159 691,1157 656,1157 620,1156 585,1156 549,1157 514,1158 478,1159 443,1160 407,1161 372,1162 336,1163 301,1163 265,1164 230,1164 194,1163 159,1162 123,1160 88,1158" rendition="Line" xml:id="facs_3_r1l6"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>28 8bris 1711</unclear>
+      <lb facs="#facs_1_r1l1" n="N001"/><unclear>28 <choice><expan>octobris</expan><abbr>8bris</abbr></choice> 1711</unclear>
       <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_r1l3" n="N003"/>Ich bin dero Liebden höchst obligirt, das sie sich in dero sch<supplied reason="">rei</supplied>ben
       <lb facs="#facs_1_r1l4" n="N004"/>gegen mich so offenherzich vndt vertrewlich erzeigen.

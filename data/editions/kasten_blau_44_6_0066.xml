@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -165,7 +165,7 @@
       <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r1l3" n="N002"/>Ich hab dero liebstes sch<supplied>r</supplied>eiben vom 20ten passato woll
       <lb facs="#facs_1_r1l4" n="N003"/>empfangen. Bedanke mich vohr den überschikten
-      <lb facs="#facs_1_r1l5" n="N004"/><unclear>bolch</unclear> vnd früchten, die leztern seint etwas gefroren
+      <lb facs="#facs_1_r1l5" n="N004"/>bolch vnd früchten, die leztern seint etwas gefroren
       <lb facs="#facs_1_r1l6" n="N005"/>ankommen, aber ich hoff, <supplied>sie</supplied> werden sich remettiren.
       <lb facs="#facs_1_r1l7" n="N006"/>Der ander ist haubt gutt, werdens auf dero Liebden
       <lb facs="#facs_1_r1l8" n="N007"/>gesundtheit verzehren. Mit Florenz, hoff ich,
@@ -203,7 +203,7 @@
       <lb facs="#facs_3_r1l2" n="N002"/>dero Liebden
       <lb facs="#facs_3_r1l4" n="N003"/>getrewst schwester
       <lb facs="#facs_3_r1l5" n="N004"/>Eleonora
-      <lb facs="#facs_3_r1l3" n="N005"/>Wien den 1ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1691</ab>
+      <lb facs="#facs_3_r1l3" n="N005"/>Wien den 1ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1691</ab>
     <ab facs="#facs_3_r2"/>
     <pb facs="#facs_4" n="49 v" xml:id="Kasten_blau_44_6_0069.jpg"/>
     <ab facs="#facs_4_r1">

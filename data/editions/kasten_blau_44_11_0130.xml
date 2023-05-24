@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -159,7 +159,7 @@
   <div>
     <pb facs="#facs_1" n="24 r" xml:id="Kasten_blau_44_11_0130.jpg"/>
     <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_line_1663502654668_236" n="N001"/><unclear>25 Februarij 1713</unclear>
+      <lb facs="#facs_1_line_1663502654668_236" n="N001"/><unclear>25 feb 1713</unclear>
       <lb facs="#facs_1_r1l5" n="N002"/>Durchleüchtigister Curfürst, mein herzlibster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brd</abbr></choice>
       <lb facs="#facs_1_r1l6" n="N003"/>Ich hab mitt großen meinen trost dero bede
       <lb facs="#facs_1_r1l7" n="N004"/>liebste schreiben vom 2ten vnd 13ten dis empfangen,
@@ -179,7 +179,7 @@
       <lb facs="#facs_2_r1l4" n="N003"/>schon genug, wan ich auch durch eine andere
       <lb facs="#facs_2_r1l5" n="N004"/>handt dero gutten wohlstand vernemme
       <lb facs="#facs_2_r1l6" n="N005"/>vndt das sie mich in dero vnschezbah<supplied>r</supplied>en
-      <lb facs="#facs_2_r1l7" n="N006"/>affection erhalten. Was so woll die <unclear>nuren</unclear>bergische
+      <lb facs="#facs_2_r1l7" n="N006"/>affection erhalten. Was so woll die nurenbergische
       <lb facs="#facs_2_r1l8" n="N007"/>als neapolitanische sa<supplied>c</supplied>hen betrifft, erwarte ich
       <lb facs="#facs_2_r1l9" n="N008"/>mit nechsten dero Liebden alle ausfürlige infor-
       <lb facs="#facs_2_r1l10" n="N009"/>mation vndt des Kaißers sentimenten zue
@@ -198,7 +198,7 @@
       <lb facs="#facs_3_r1l8" n="N005"/>dero Liebden
       <lb facs="#facs_3_r1l9" n="N006"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
       <lb facs="#facs_3_r1l10" n="N007"/>Eleonora
-      <lb facs="#facs_3_r1l7" n="N008"/>Wien den 25ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1713
+      <lb facs="#facs_3_r1l7" n="N008"/>Wien den 25ten <choice><expan>feber</expan><abbr>feb</abbr></choice> 1713
       <lb facs="#facs_3_r1l11" n="N009"/>Es freüdt mich, das der <choice><expan>Doctor</expan><abbr>Doct</abbr></choice> hatt künen erlauben
       <lb facs="#facs_3_r1l12" n="N010"/>in die opera zu gehn vnd schpaziren zu fahren,
       <lb facs="#facs_3_r1l13" n="N011"/>gott gebs, das es woll bekomme. Bitte aber noch-

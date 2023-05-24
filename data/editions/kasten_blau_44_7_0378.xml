@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -234,7 +234,7 @@
       <lb facs="#facs_2_r1l2" n="N001"/>hoch verlangte sucession verleyen, ich werd
       <lb facs="#facs_2_r1l3" n="N002"/>deswegen bey disen gnaden bildt ein eigne anda<supplied>c</supplied>ht
       <lb facs="#facs_2_r1l4" n="N003"/>halten laßen. Ich kan aber dero Liebden nit bergen, das die
-      <lb facs="#facs_2_r1l6" n="N004"/>gewiße bewuste person <unclear>Altham</unclear>, so erst kurz geheirat,
+      <lb facs="#facs_2_r1l6" n="N004"/>gewiße bewuste person <add><unclear>Altham</unclear></add>, so erst kurz geheirat,
       <lb facs="#facs_2_r1l7" n="N005"/>ein kerl, der kein mensch weis, wer oder woher
       <lb facs="#facs_2_r1l8" n="N006"/>etwan vom galgen gefallen vndt hier sich vill
       <lb facs="#facs_2_r1l9" n="N007"/>vantirt, zue <unclear>dero Liebden</unclear> preiudiz auch verlauten last,

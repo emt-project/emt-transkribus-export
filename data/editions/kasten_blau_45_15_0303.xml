@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -173,7 +173,7 @@
     <pb facs="#facs_1" n="162 r" xml:id="Kasten_blau_45_15_0303.jpg"/>
     <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Sage <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr bede der<unclear>g</unclear> <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben
+      <lb facs="#facs_1_r1l2" n="N002"/>Sage <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr bede <unclear>ders</unclear> <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben
       <lb facs="#facs_1_r1l3" n="N003"/>vom 27ten passato vnd 2ten dis, aus welchen ich mit
       <lb facs="#facs_1_r1l4" n="N004"/>großen freüden vernommen, das sich ewer Durchlaucht
       <lb facs="#facs_1_r1l5" n="N005"/>in so guttem wohlstandt <unclear>vernommen</unclear> vnd das

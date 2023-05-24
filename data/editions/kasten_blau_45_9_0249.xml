@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -233,7 +233,7 @@
       <lb facs="#facs_3_r1l15" n="N016"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> tr<supplied>ew</supplied>gehorsamste
       <lb facs="#facs_3_line_1638628129493_988" n="N017"/>dochter EMT
       <lb facs="#facs_3_r1l16" n="N018"/>Linz den 18ten merz <supplied>1684</supplied>
-      <lb facs="#facs_3_r1l19" n="N019"/>Den <unclear>Linzung</unclear> will dem Hoffkanzler sagen.</ab>
+      <lb facs="#facs_3_r1l19" n="N019"/>Den Linzing will dem Hoffkanzler sagen.</ab>
   </div>
 </body>
 

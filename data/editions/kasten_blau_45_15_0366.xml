@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -187,7 +187,7 @@
       <lb facs="#facs_1_r1l15" n="N015"/>das ehr kein cordial, es sey waßer oder puluer,</ab>
     <pb facs="#facs_2" n="201 v" xml:id="Kasten_blau_45_15_0367.jpg"/>
     <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>weder <unclear>giftlwäßerl</unclear>, das man ihm alles geben,
+      <lb facs="#facs_2_r1l1" n="N001"/>weder giftlwäßerl, das man ihm alles geben,
       <lb facs="#facs_2_r1l2" n="N002"/>behalten können, sondern gleich alles gebrochen.
       <lb facs="#facs_2_r1l3" n="N003"/>Heündt aber hatt das fieber schier ganz na<supplied>c</supplied>h-
       <lb facs="#facs_2_r1l4" n="N004"/>gelaßen vnd befindt sich nit so gahr schwach,
@@ -206,7 +206,7 @@
       <lb facs="#facs_2_r1l17" n="N017"/>heirat geschloßen ist. Vmb dis lezter bin ich
       <lb facs="#facs_2_r1l18" n="N018"/>heimlich froh, dan ich mich geforchten, sie werd vons
       <lb facs="#facs_2_r1l19" n="N019"/>bruedern humor haben, zwar hab ich niks dergleicben
-      <lb facs="#facs_2_r1l20" n="N020"/>gehört, <unclear>was man</unclear>. Wegen Collen vermein ich, ihr Mayestät
+      <lb facs="#facs_2_r1l20" n="N020"/>gehört, was man <supplied><unclear>darüber denkt</unclear></supplied>. Wegen Collen vermein ich, ihr Mayestät
       <lb facs="#facs_2_r1l21" n="N021"/>werden den Cauniz über München auf Collen
       <lb facs="#facs_2_r1l22" n="N022"/>schiken. Der Gödens oder Freitag, der zue Hambug <supplied>ist</supplied>, hett</ab>
     <pb facs="#facs_3" n="202 r" xml:id="Kasten_blau_45_15_0368.jpg"/>

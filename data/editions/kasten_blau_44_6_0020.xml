@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -155,7 +155,7 @@
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>er die kr<supplied>e</supplied>ften balt völlich erholen möge. Wie
       <lb facs="#facs_2_line_1643296046757_416" n="N002"/>die comedi hie abgangen, hab ich meiner Erzherzogin
-      <lb facs="#facs_2_r1l4" n="N003"/>geschriben. Das <unclear>in</unclear> <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl mit seiner gemahlin
+      <lb facs="#facs_2_r1l4" n="N003"/>geschriben. Das <unclear>mein</unclear> <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl mit seiner gemahlin
       <lb facs="#facs_2_r1l5" n="N004"/>wek, ist mihr re<supplied>c</supplied>ht angst, weil niks
       <lb facs="#facs_2_r1l6" n="N005"/>von ihnen hör, gott wirt sie verwah<supplied>r</supplied>en vohr
       <lb facs="#facs_2_r1l7" n="N006"/>allem übel, amen. Hab nit mehr zeit zue

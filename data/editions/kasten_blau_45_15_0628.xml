@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -168,7 +168,7 @@
       <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herz allerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> vatter
       <lb facs="#facs_1_r1l2" n="N002"/>Nach dem mihr heünt von den carmeliterin, von welchen
       <lb facs="#facs_1_r1l3" n="N003"/>ich mich zue niderkonft licencirt <supplied>habe</supplied>, vnd nachmitag von domi-
-      <lb facs="#facs_1_r1l4" n="N004"/>nicanern, woh die complet bey vnser <choice><expan>lieben</expan><abbr><unclear>lih</unclear></abbr></choice> <choice><expan>fraw</expan><abbr>fr</abbr></choice> gewest,
+      <lb facs="#facs_1_r1l4" n="N004"/>nicanern, woh die complet bey vnser <choice><expan>lieben</expan><abbr>lih</abbr></choice> <choice><expan>fraw</expan><abbr>fr</abbr></choice> gewest,
       <lb facs="#facs_1_r1l5" n="N005"/>zimlich schpaht heim kommen, empfange ich
       <lb facs="#facs_1_r1l6" n="N006"/>ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 8ten dis mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice>
       <lb facs="#facs_1_r1l7" n="N007"/>respect. Ist aber heünt die pure vnmoglichkeit,

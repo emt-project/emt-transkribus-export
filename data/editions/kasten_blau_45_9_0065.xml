@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -231,8 +231,8 @@
       <lb facs="#facs_2_r1l11" n="N009"/>im friden mit einem freündt zue verliren
       <lb facs="#facs_2_r1l12" n="N010"/>vnd in einen vnotigen krig mit Frankhreich gefürt zue werden.
       <lb facs="#facs_2_r1l13" n="N011"/>Aber mit disem werden mihr Beyern verliren vnd ihn
-      <lb facs="#facs_2_r1l14" n="N012"/>zue Frankreich iagen vnd also <unclear>nezessitirt wurden</unclear>
-      <lb facs="#facs_2_r1l15" n="N013"/><unclear>ihr Mayestät</unclear>, mit ihme einen so höchst schäd<supplied>l</supplied>igen friden
+      <lb facs="#facs_2_r1l14" n="N012"/>zue Frankreich iagen vnd also <unclear>wurden</unclear>
+      <lb facs="#facs_2_r1l15" n="N013"/><unclear>ihr Mayestät nezessitiert</unclear>, mit ihme einen so höchst schäd<supplied>l</supplied>igen friden
       <lb facs="#facs_2_r1l16" n="N014"/>ein zugehn, welchen er doch über wehnig monat
       <lb facs="#facs_2_r1l17" n="N015"/>nit halten wurdt. Vnd also ein kleines guett
       <lb facs="#facs_2_r1l18" n="N016"/>nit zue versezen, stehn mihr in gefahr, alles zu
@@ -250,7 +250,7 @@
       <lb facs="#facs_3_r1l5" n="N005"/>widrigen meinu<supplied>n</supplied>g wehre, darbey meldung duen,
       <lb facs="#facs_3_r1l6" n="N006"/>dan er möchte sonst meinen, ich sezte einige diffi-
       <lb facs="#facs_3_r1l7" n="N007"/>de<supplied>n</supplied>z in ihn, welchs woll nit <supplied>so</supplied> ist vnd er mit dem
-      <lb facs="#facs_3_r1l8" n="N008"/>Bischoff sei, die <unclear>ewer</unclear> Mayestät noch trewe die<supplied>n</supplied>st können <unclear>u</unclear>
+      <lb facs="#facs_3_r1l8" n="N008"/>Bischoff sei, die <unclear>ewer</unclear> Mayestät noch trewe die<supplied>n</supplied>st können <unclear>und</unclear>
       <lb facs="#facs_3_r1l9" n="N009"/>hoffentlich werden duen. Also vermeinet ich ohne
       <lb facs="#facs_3_r1l10" n="N010"/><choice><expan>vnterthenigste</expan><abbr>vt</abbr></choice> masgebung, das ewer Durchlaucht ihm nuhr die sach
       <lb facs="#facs_3_r1l11" n="N011"/>recomendireten, die vhrsachen überschreiben, wahrumb

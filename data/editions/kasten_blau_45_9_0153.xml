@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -163,7 +163,7 @@
       <lb facs="#facs_1_r1l15" n="N015"/>hinab ist. Das <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Ludwig</expan><abbr>Lud</abbr></choice> ankommen, aber
       <lb facs="#facs_1_r1l16" n="N016"/>sich wegen des starken mar<supplied>sc</supplied>h etwas übel
       <lb facs="#facs_1_line_1637063738761_2287" n="N017"/>befind, meint aber der doctor, wan ein
-      <lb facs="#facs_1_line_1637063751585_2308" n="N018"/>dag etlig werd gerut haben, werd <unclear>sehen</unclear> beße<supplied>r</supplied> werden.</ab>
+      <lb facs="#facs_1_line_1637063751585_2308" n="N018"/>dag etlig werd gerut haben, werd <unclear>schon</unclear> beße<supplied>r</supplied> werden.</ab>
     <pb facs="#facs_2" n="88 v" xml:id="Kasten_blau_45_9_0154.jpg"/>
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>Wegen Beyrn werden ihr Mayestät e<supplied>h</supplied>istens resoluiren.

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -158,7 +158,7 @@
       <lb facs="#facs_1_r1l8" n="N008"/>ich fleisich betten laße vnd auch mein schlechtes
       <lb facs="#facs_1_r1l9" n="N009"/>gebett verichte. Wegen meines brude<supplied>r</supplied>n Carl werden
       <lb facs="#facs_1_r1l10" n="N010"/>ihr Mayestät gern alles duen. Der Scirososki ist
-      <lb facs="#facs_1_r1l11" n="N011"/>izt nit in Polen,<unclear> sondern sein</unclear> sohn
+      <lb facs="#facs_1_r1l11" n="N011"/>izt nit in Polen, sondern <unclear>sein</unclear> sohn
       <lb facs="#facs_1_r1l12" n="N012"/>oder eidem, der Scimonski, aber ich glaub woll,
       <lb facs="#facs_1_r1l13" n="N013"/>das zum reichsdag ihr Mayestät werden noch iemand
       <lb facs="#facs_1_r1l14" n="N014"/>hin schiken, ist aber noch niks resoluirt ob vnd wan,</ab>

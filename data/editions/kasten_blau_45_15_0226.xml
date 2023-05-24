@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,7 +128,7 @@
       <lb facs="#facs_1_r1l4" n="N004"/>vnd ordinari bekommen, meine <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> antwort
       <lb facs="#facs_1_r1l5" n="N005"/>nit ablege. Seint alle dise dag mit <choice><expan>Sankt</expan><abbr>S</abbr></choice> Jacob
       <lb facs="#facs_1_r1l6" n="N006"/>vnd Anna in dem clostern gewesen vnd heünt
-      <lb facs="#facs_1_r1l7" n="N007"/>auch bey Himelporten wegen <choice><expan>Sankt</expan><abbr>S</abbr></choice> Valentin, der <unclear>helden</unclear>
+      <lb facs="#facs_1_r1l7" n="N007"/>auch bey Himelporten wegen <choice><expan>Sankt</expan><abbr>S</abbr></choice> Valentin, der helden
       <lb facs="#facs_1_r1l8" n="N008"/>patron. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr den
       <lb facs="#facs_1_r1l9" n="N009"/><choice><expan>gnädigen</expan><abbr>g</abbr></choice> wuntsch, so sie mihr zue dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben
       <lb facs="#facs_1_r1l10" n="N010"/>vom 18ten dis zue meinem nahmendag duen wollen.

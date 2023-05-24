@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -196,14 +196,14 @@
       <lb facs="#facs_2_r1l6" n="N006"/>geschloßen, iezt hoff <supplied>ich</supplied> werden die rebellen auch
       <lb facs="#facs_2_r1l7" n="N007"/>balt heruber kommen. Ich befindt mich woll
       <lb facs="#facs_2_r1l8" n="N008"/>gottlob, mues aber im übrigen erwarten, was
-      <lb facs="#facs_2_r1l9" n="N009"/>gott mit mihr machen will. Das <supplied>das</supplied> wundertetige <supplied><unclear>bild</unclear></supplied>
-      <lb facs="#facs_2_r1l10" n="N010"/>die augen so <unclear>g</unclear>. verwendt, ist mihr ein große
-      <lb facs="#facs_2_r1l11" n="N011"/>trost, sie ist halt die muetter der barmherzig<unclear>keit</unclear>
+      <lb facs="#facs_2_r1l9" n="N009"/>gott mit mihr machen will. Das <supplied>das</supplied> wundertetige <supplied>bild</supplied>
+      <lb facs="#facs_2_r1l10" n="N010"/>die augen so <choice><expan>gnädig</expan><abbr><unclear>g</unclear></abbr></choice>. verwendt, ist mihr ein große
+      <lb facs="#facs_2_r1l11" n="N011"/>trost, sie ist halt die muetter der barmherzig<supplied>keit</supplied>
       <lb facs="#facs_2_r1l12" n="N012"/>vndt verlest niemant, der zue ihr komt.
       <lb facs="#facs_2_line_1637080812332_8767" n="N013"/>Wegen der Castel will anmahnen, ihr Mayestät <unclear>sagen</unclear>,
       <lb facs="#facs_2_r1l15" n="N014"/>das sie ihn auf alle weis wollen coltiuiren.
-      <lb facs="#facs_2_r1l16" n="N015"/>Auf die <unclear>pfasten</unclear> bin woll auch herb, will gern
-      <lb facs="#facs_2_r1l17" n="N016"/><unclear>hezen</unclear>, ihr Mayestät werden ohne zweifel ihm zueschprechen,
+      <lb facs="#facs_2_r1l16" n="N015"/>Auf die <unclear>Pfasten</unclear> bin woll auch herb, will gern
+      <lb facs="#facs_2_r1l17" n="N016"/>hezen, ihr Mayestät werden ohne zweifel ihm zueschprechen.
       <lb facs="#facs_2_r1l18" n="N017"/>Vohr vnser Bischoffel ist mihr woll leidt. Wegen
       <lb facs="#facs_2_r1l19" n="N018"/>Strattman will ihr Mayestät fleisig recomendiren. Der
       <lb facs="#facs_2_r1l20" n="N019"/>Doctor Hiele hatt schon ein mahl gesacht, er wolt

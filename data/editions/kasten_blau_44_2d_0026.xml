@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,7 +122,7 @@
       <lb facs="#facs_1_r2l4" n="N004"/>es nit vnterlaßen wollen inahnsehen der Aya, welche
       <lb facs="#facs_1_r2l5" n="N005"/>meinen kindern wohl dienet. Wan er in sein sachen
       <lb facs="#facs_1_r2l6" n="N006"/>dero Liebden assistens vonöten wurde haben, wolle ihn
-      <lb facs="#facs_1_r2l7" n="N007"/>dero Liebden <unclear>ge</unclear> an die handt stehen. Ich hoff, dero Liebden wer
+      <lb facs="#facs_1_r2l7" n="N007"/>dero Liebden <choice><expan>gnädig</expan><abbr>ge</abbr></choice> an die handt stehen. Ich hoff, dero Liebden wer
       <lb facs="#facs_1_r2l8" n="N008"/>wohl auf sein, due mich in dero Liebden affection
       <lb facs="#facs_1_r2l9" n="N009"/>bef<supplied>e</supplied>hlen, sterbe
       <lb facs="#facs_1_r2l10" n="N010"/>dero Liebden

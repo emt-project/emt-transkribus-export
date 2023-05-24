@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -261,7 +261,7 @@
       <lb facs="#facs_3_r1l10" n="N010"/>Der Cardinal ist vnerhört eifrig in diser sach vnd zeigt
       <lb facs="#facs_3_r1l11" n="N011"/>ein große lieb zue meinen brüdern beyden, hatt mihr gesacht vomb
       <lb facs="#facs_3_r1l12" n="N012"/><choice><expan>Cardinal</expan><abbr>Car</abbr></choice> Bisogna, che si faccia veder in Portugalla che
-      <lb facs="#facs_3_r1l13" n="N013"/>subito <unclear>guadagnarà</unclear> i loro cuori como ha fatto con me
+      <lb facs="#facs_3_r1l13" n="N013"/>subito guadagnarà i loro cuori como ha fatto con me
       <lb facs="#facs_3_r1l14" n="N014"/>che ne sono tutto inamorato. Sag ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh
       <lb facs="#facs_3_r1l15" n="N015"/>vohr dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> raht wegen mein Obrist Hoffmeister, ich vermein,
       <lb facs="#facs_3_r1l16" n="N016"/>dise dag werden es ihr Mayestät resoluiren, dan dem Fürsten

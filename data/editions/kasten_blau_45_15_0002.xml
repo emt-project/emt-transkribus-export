@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -308,7 +308,7 @@
       <lb facs="#facs_3_r2l17" n="N016"/>windt geschlagen, aber dem <choice><expan>Pater</expan><abbr>P</abbr></choice> Isidoro heimlich
       <lb facs="#facs_3_r2l18" n="N017"/>aufgeben, die sach aus sich dahin zue befürdern,
       <lb facs="#facs_3_r2l19" n="N018"/>das ohne mein vohrwißen solliches ihr Mayestät
-      <lb facs="#facs_3_line_1638455271677_279" n="N019"/><unclear>vohr </unclear><seg type="blackening">den</seg> dem augen vndt ihme durch
+      <lb facs="#facs_3_line_1638455271677_279" n="N019"/><unclear>vohr</unclear> <seg type="blackening">den</seg> dem augen vndt ihme durch
       <lb facs="#facs_3_line_1638455276916_283" n="N020"/>den Hoher, welche<supplied>m</supplied> ich aber mein intention
       <lb facs="#facs_3_line_1638455281002_287" n="N021"/>durch <choice><expan>Pater</expan><abbr>P</abbr></choice> Isidorus <supplied>er</supplied>öfnet, ihr Mayestät vohrgedrag<supplied>en</supplied></ab>
     <pb facs="#facs_4" n="2 v" xml:id="Kasten_blau_45_15_0005.jpg"/>

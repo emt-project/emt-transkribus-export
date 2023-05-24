@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -259,7 +259,7 @@
       <lb facs="#facs_1_r2l4" n="N004"/>von herzen, dero gutten wohlstandt zue vernemen,
       <lb facs="#facs_1_r2l5" n="N005"/>der almechtige gebe weiters seine <choice><expan>gnade</expan><abbr>g</abbr></choice>. Was ewer
       <lb facs="#facs_1_r2l6" n="N006"/>Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> melden wegen einstellung der reis meines
-      <lb facs="#facs_1_r2l7" n="N007"/>brudern Carl <unclear>h</unclear>, so werden ewer Durchlaucht alschon aus meinem
+      <lb facs="#facs_1_r2l7" n="N007"/>brudern Carl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>, so werden ewer Durchlaucht alschon aus meinem
       <lb facs="#facs_1_r2l8" n="N008"/>vohrigen schreiben wie auch zu voderist von ihr
       <lb facs="#facs_1_r2l9" n="N009"/>Mayestät, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaiser, vernommen haben, das
       <lb facs="#facs_1_r2l10" n="N010"/>sie hie ebenfals der meinung, welches izt
@@ -274,7 +274,7 @@
     <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>in dise pretension seyen möge vnd ob etwas vohr
       <lb facs="#facs_2_r1l2" n="N002"/>sie zue hoffen. So hab er geantwort, si che
-      <lb facs="#facs_2_r1l3" n="N003"/>é posson pretendere e' con gusto di <unclear>sa</unclear> <choice><expan>Altezza</expan><abbr>Altez</abbr></choice>.
+      <lb facs="#facs_2_r1l3" n="N003"/>é posson pretendere e' con gusto di <choice><expan>sua</expan><abbr>sa</abbr></choice> <choice><expan>Altezza</expan><abbr>Altez</abbr></choice>.
       <lb facs="#facs_2_r1l4" n="N004"/>Weiters hab er gefragt, ob etwan er solte
       <lb facs="#facs_2_r1l5" n="N005"/>ein reis hinein duen, wahre die antwort von
       <lb facs="#facs_2_r1l6" n="N006"/>nein, dan es mehr verderben als guettmachen
@@ -377,7 +377,7 @@
       <lb facs="#facs_6_r1l18" n="N019"/>Wien den 11ten merz 1683</ab>
     <pb facs="#facs_7" n="64 r" xml:id="Kasten_blau_45_9_0110.jpg"/>
     <ab facs="#facs_7_r1">
-      <lb facs="#facs_7_r1l2" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Schike ewer Durchlaucht hierbey ein schreiben vom
+      <lb facs="#facs_7_r1l2" n="N001"/>PS Schike ewer Durchlaucht hierbey ein schreiben vom
       <lb facs="#facs_7_r1l3" n="N002"/>Cardinal Pio, welches mihr ihr Mayestät befohlen
       <lb facs="#facs_7_r1l4" n="N003"/>ewer Durchlaucht einzueschließen. Der hiesige Cardinal
       <lb facs="#facs_7_r1l5" n="N004"/>hatt mihr gestern auch vast eben dise for-

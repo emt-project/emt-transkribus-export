@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -278,7 +278,7 @@
       <lb facs="#facs_2_r1l13" n="N013"/>gebracht worden, auch der Cauniz widerkommen,
       <lb facs="#facs_2_r1l14" n="N014"/>welcher mit den negotien gema<supplied>c</supplied>ht, das man
       <lb facs="#facs_2_r1l15" n="N015"/>nit vill auf was anderst hatt denken können.
-      <lb facs="#facs_2_r1l16" n="N016"/>Ewer Durchlaucht aber wollen <choice><expan>gnädigst</expan><abbr>g</abbr></choice> versichert <unclear>sein</unclear>, das weder ihr
+      <lb facs="#facs_2_r1l16" n="N016"/>Ewer Durchlaucht aber wollen <choice><expan>gnädigst</expan><abbr>g</abbr></choice> versichert sein, das weder ihr
       <lb facs="#facs_2_r1l17" n="N017"/>Mayestät, villwehniger mein <choice><expan>herr</expan><abbr>h</abbr></choice> bruder einigen andren gedanken
       <lb facs="#facs_2_r1l18" n="N018"/>haben, als das ewer Durchlaucht allezeit in allem wie bisdahto
       <lb facs="#facs_2_r1l19" n="N019"/><unclear>Cuhrfürst</unclear>, lanzfürst vnd herr sollen verbleiben, auch
@@ -355,13 +355,13 @@
       <lb facs="#facs_5_r1l17" n="N017"/>ewer Durchlaucht
       <lb facs="#facs_5_r1l18" n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
       <lb facs="#facs_5_line_1644940715144_275" n="N019"/>EMT
-      <lb facs="#facs_5_r1l19" n="N020"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Wegen des Steinkallernfels
+      <lb facs="#facs_5_r1l19" n="N020"/>PS Wegen des Steinkallernfels
       <lb facs="#facs_5_line_1644940715146_276" n="N021"/>freüt mich von herzen, gott geb ihm
       <lb facs="#facs_5_r1l21" n="N022"/>bestendichkeit. Freüt mich auch, das ewer Durchlaucht ein guetten schpaß
       <lb facs="#facs_5_r1l22" n="N023"/>mit der beys haben. Hier haben mihr noch 1 melan gefangen,
       <lb facs="#facs_5_line_1642418460756_1066" n="N024"/>vnd den nitt gahr schön. Könftigen montag g<supplied>e</supplied>hen <supplied>wir</supplied> auf Neüstet vnd
       <lb facs="#facs_5_r1l26" n="N025"/>Laxenburg. Bit auch <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung, das der Joseph heüt nit antwort, beken, hab
-      <lb facs="#facs_5_r1l27" n="N026"/>verg<unclear>eße</unclear>n, ihm den b<supplied>r</supplied>if zu schiken, bit <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb <unclear>verg<supplied>e</supplied>b<supplied>un</supplied>g</unclear>.</ab>
+      <lb facs="#facs_5_r1l27" n="N026"/><unclear>vergeßen</unclear>, ihm den b<supplied>r</supplied>if zu schiken, bit <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb <unclear>verg<supplied>e</supplied>b<supplied>un</supplied>g</unclear>.</ab>
     <pb facs="#facs_6" n="176 v" xml:id="Kasten_blau_45_15_0327.jpg"/>
     <ab facs="#facs_6_r2">
       <lb facs="#facs_6_r2l1" n="N001"/>Auch hab ich mit schmerzen vernommen, das ewer Durchlaucht ein cattar

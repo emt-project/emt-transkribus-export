@@ -66,7 +66,7 @@
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
          </ab>
-         <ab type="notes">"ist à Serenissimo bey der am 21. Februarij 1684 abgangener Post beantwortet worden" 1684 dürfte irrtümlich, da die Datierung eindeutig 1685 ist</ab>
+         <ab type="notes">"ist à Serenissimo bey der am 21. Feb. 1684 abgangener Post beantwortet worden" 1684 dürfte irrtümlich, da die Datierung eindeutig 1685 ist</ab>
         </abstract>
         <abstract n="regest">
             <p/>
@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -152,7 +152,7 @@
   <div>
     <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0031.jpg"/>
     <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/><unclear>ist à <choice><expan>Serenissimo</expan><abbr>Ser.mo</abbr></choice> bey der am 21 <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1684</unclear>
+      <lb facs="#facs_1_r2l1" n="N001"/><unclear>ist à <choice><expan>Serenissimo</expan><abbr>Ser.mo</abbr></choice> bey der am 21 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1684</unclear>
       <lb facs="#facs_1_r2l2" n="N002"/><unclear>abgangener post beantwortet worden</unclear>
       <lb facs="#facs_1_r2l3" n="N003"/>Durchleüchtiger Fürst, herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_r2l4" n="N004"/>Das sie mihr so vill schöner wüntsch zue diesen <choice><expan>heiligen</expan><abbr>hel</abbr></choice>

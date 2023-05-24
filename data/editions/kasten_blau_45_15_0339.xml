@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-05-24">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -188,8 +188,8 @@
       <lb facs="#facs_1_r1l9" n="N009"/>hab ich ewer Durchlaucht schon vohr etligen posten ihr Mayestät
       <lb facs="#facs_1_r1l10" n="N010"/>resolution <choice><expan>gehorsamst</expan><abbr>ghor</abbr></choice> veberschriben. Iezt, hör ich aber, wirt
       <lb facs="#facs_1_r1l11" n="N011"/>der Starenberg große conditiones machen, welche
-      <lb facs="#facs_1_r1l12" n="N012"/>das werkh leicht wider verderben kunten. <unclear>Dan</unclear> wi<supplied>r</supplied>t
-      <lb facs="#facs_1_r1l13" n="N013"/>man <unclear>?avhiez?</unclear> hardt hierin können einiges mitel
+      <lb facs="#facs_1_r1l12" n="N012"/>das werkh leicht wider verderben kunten. Dan wi<supplied>r</supplied>t
+      <lb facs="#facs_1_r1l13" n="N013"/>man <unclear>avhiez</unclear> hardt hierin können einiges mitel
       <lb facs="#facs_1_r1l16" n="N014"/>finden, dan sich izt diese sachen deils schwehrlich, vnd die</ab>
     <pb facs="#facs_2" n="183 v" xml:id="Kasten_blau_45_15_0340.jpg"/>
     <ab facs="#facs_2_r1">
