@@ -136,6 +136,7 @@ env
 saxon
 .~lock*#
 *.csv
+!gesamtliste_enriched.csv
 *.ipynb
 !col_ids.csv
 /all_mets
